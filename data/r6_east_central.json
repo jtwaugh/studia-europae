@@ -1,0 +1,5742 @@
+{
+ "region": "East-Central and Eastern Europe",
+ "institutions": [
+  {
+   "id": "u-prague",
+   "name": "University of Prague (Charles University)",
+   "alt": [
+    "Studium generale Pragense",
+    "Carolinum",
+    "Charles-Ferdinand University",
+    "Universitas Carolo-Ferdinandea"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1348,
+     "city": "Prague",
+     "lat": 50.0862,
+     "lon": 14.423
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1348,
+   "start_approx": false,
+   "end": 1882,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The first university in Central Europe, founded by Charles IV as King of Bohemia on the Paris model with four nations. It became the intellectual centre of the Hussite reform, was reduced to an Utraquist arts faculty for two centuries, and after 1654 was the Jesuit-dominated Charles-Ferdinand University until its division into Czech and German universities in 1882.",
+   "notes": "Pope Clement VI issued the founding bull on 26 Jan 1347; Charles IV's foundation charter is dated 7 Apr 1348. The separate law university (1372-c.1419) is treated as part of this record. Ended 1882 by split into u-prague-czech and u-prague-german, both of which claim continuity."
+  },
+  {
+   "id": "j-prague-clementinum",
+   "name": "Jesuit Academy of the Clementinum",
+   "alt": [
+    "Collegium Clementinum",
+    "Universitas Ferdinandea"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1556,
+     "city": "Prague",
+     "lat": 50.0865,
+     "lon": 14.416
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1556,
+   "start_approx": false,
+   "end": 1654,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit college founded at the former Dominican monastery of St Clement at Ferdinand I's invitation; it gained the right to grant degrees in philosophy and theology and served as the Catholic rival to the Utraquist Carolinum. Merged with the university in 1654.",
+   "notes": "Degree-granting rights 1562 (imperial) sometimes treated as elevation to an academy/university ('Ferdinandea')."
+  },
+  {
+   "id": "u-prague-czech",
+   "name": "Czech Charles-Ferdinand University",
+   "alt": [
+    "Česká univerzita Karlo-Ferdinandova"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1882,
+     "city": "Prague",
+     "lat": 50.0862,
+     "lon": 14.423
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1882,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The Czech-language half of the Prague university created by the 1882 division; it became the principal centre of Czech scholarship and national life. It is the direct ancestor of today's Charles University.",
+   "notes": ""
+  },
+  {
+   "id": "u-prague-german",
+   "name": "German Charles-Ferdinand University",
+   "alt": [
+    "Deutsche Karl-Ferdinands-Universität"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1882,
+     "city": "Prague",
+     "lat": 50.0862,
+     "lon": 14.423
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1882,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The German-language half of the divided Prague university, a leading German-speaking university in which Ernst Mach and later Einstein taught. It existed until 1945.",
+   "notes": ""
+  },
+  {
+   "id": "t-prague",
+   "name": "Prague Polytechnic",
+   "alt": [
+    "Estates Engineering School",
+    "Prager Polytechnisches Institut",
+    "Polytechnic Institute of the Kingdom of Bohemia"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1707,
+     "city": "Prague",
+     "lat": 50.0757,
+     "lon": 14.4185
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1707,
+   "start_approx": false,
+   "end": 1869,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Originating in the Bohemian Estates' engineering school authorised by Joseph I, it was reorganised by Franz Josef Gerstner in 1806 as the Prague Polytechnic, one of the oldest polytechnics in Central Europe. Divided into Czech and German institutions in 1869.",
+   "notes": "Rescript of 18 Jan 1707 at the Estates' request; actual teaching began only in 1718 under Christian Josef Willenberg."
+  },
+  {
+   "id": "t-prague-czech",
+   "name": "Czech Technical University in Prague",
+   "alt": [
+    "Česká vysoká škola technická",
+    "Czech Polytechnic Institute"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1869,
+     "city": "Prague",
+     "lat": 50.0757,
+     "lon": 14.4185
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1869,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Czech-language successor of the Prague Polytechnic after the 1869 language division; it became the principal Czech engineering school.",
+   "notes": ""
+  },
+  {
+   "id": "t-prague-german",
+   "name": "German Technical University in Prague",
+   "alt": [
+    "Deutsche Technische Hochschule Prag"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1869,
+     "city": "Prague",
+     "lat": 50.0757,
+     "lon": 14.4185
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1869,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "German-language successor of the Prague Polytechnic after the 1869 division; it existed until 1945.",
+   "notes": ""
+  },
+  {
+   "id": "t-brno",
+   "name": "Brno German Technical College",
+   "alt": [
+    "Technische Hochschule Brünn",
+    "Brünn Polytechnic"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1849,
+     "city": "Brno",
+     "lat": 49.1951,
+     "lon": 16.6068
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1849,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "German-language technical institute founded in Brno in 1849 from the technical classes of the Moravian Estates Academy; it became a Technische Hochschule in 1873.",
+   "notes": "Predecessor technical teaching at the Brno Estates Academy from 1811."
+  },
+  {
+   "id": "t-brno-czech",
+   "name": "Czech Technical University in Brno",
+   "alt": [
+    "Česká vysoká škola technická v Brně"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1899,
+     "city": "Brno",
+     "lat": 49.1951,
+     "lon": 16.6068
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1899,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Czech-language technical college founded in Brno by Franz Joseph in 1899 after long Czech campaigns for higher education in Moravia; it is the ancestor of today's Brno University of Technology.",
+   "notes": ""
+  },
+  {
+   "id": "t-pribram",
+   "name": "Příbram Mining Academy",
+   "alt": [
+    "Bergakademie Přibram",
+    "Montanlehranstalt Příbram"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1849,
+     "city": "Příbram",
+     "lat": 49.6899,
+     "lon": 14.0104
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1849,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Mining school founded in the Příbram silver district in 1849 as part of the post-1848 Austrian reorganisation of mining education; it became a Bergakademie in 1865.",
+   "notes": "Moved to Prague in 1945 (outside scope)."
+  },
+  {
+   "id": "u-olomouc",
+   "name": "University of Olomouc",
+   "alt": [
+    "Jesuit University of Olomouc",
+    "Franzens-Universität",
+    "Lyceum of Olomouc"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1573,
+     "city": "Olomouc",
+     "lat": 49.5938,
+     "lon": 17.2509
+    },
+    {
+     "from": 1778,
+     "city": "Brno",
+     "lat": 49.1951,
+     "lon": 16.6068
+    },
+    {
+     "from": 1782,
+     "city": "Olomouc",
+     "lat": 49.5938,
+     "lon": 17.2509
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1573,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit university of Moravia, grown from the college founded by Bishop Vilém Prusinovský in 1566 and granted university status in 1573. Moved briefly to Brno, it returned as a lyceum, was restored as the Franzens-Universität (1827) and after 1855-60 survived only as a theological faculty until revived as Palacký University in 1946.",
+   "notes": "Jesuit college 1566; Maximilian II's privilege and papal bull of Gregory XIII 1573. From 1860 reduced to a theological faculty; end left null because the theological faculty continued without interruption."
+  },
+  {
+   "id": "u-krakow",
+   "name": "University of Kraków (Jagiellonian University)",
+   "alt": [
+    "Studium Generale Cracoviense",
+    "Akademia Krakowska",
+    "Szkoła Główna Koronna",
+    "Uniwersytet Jagielloński"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1364,
+     "city": "Kraków",
+     "lat": 50.0614,
+     "lon": 19.9336
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1364,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Casimir III the Great in 1364 and refounded by Władysław Jagiełło with Queen Jadwiga's bequest in 1400, Kraków was the leading university of east-central Europe in the 15th century, famous for astronomy and mathematics. Reformed by the Commission of National Education, it passed through the Duchy of Warsaw, the Free City of Kraków and Austrian rule, regaining Polish as language of instruction in 1870.",
+   "notes": "The 1364 foundation (bull of Urban V) lacked theology and faded after Casimir's death in 1370; continuity with the 1400 refoundation is conventional."
+  },
+  {
+   "id": "j-vilnius",
+   "name": "Jesuit College of Vilnius",
+   "alt": [
+    "Collegium Vilnense"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1570,
+     "city": "Vilnius",
+     "lat": 54.6827,
+     "lon": 25.2876
+    }
+   ],
+   "modern_country": "Lithuania",
+   "start": 1570,
+   "start_approx": false,
+   "end": 1579,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit college founded by Bishop Walerian Protasewicz to combat Protestantism in the Grand Duchy of Lithuania; it was raised to university status in 1579.",
+   "notes": ""
+  },
+  {
+   "id": "u-vilnius",
+   "name": "University of Vilnius",
+   "alt": [
+    "Academia et Universitas Vilnensis Societatis Iesu",
+    "Main School of the Grand Duchy of Lithuania",
+    "Imperial University of Vilna"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1579,
+     "city": "Vilnius",
+     "lat": 54.6827,
+     "lon": 25.2876
+    }
+   ],
+   "modern_country": "Lithuania",
+   "start": 1579,
+   "start_approx": false,
+   "end": 1832,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Jesuit university founded by Stephen Báthory, the first university in the Grand Duchy of Lithuania and a bastion of the Counter-Reformation. Reformed by the Commission of National Education and in 1803 refounded as an Imperial university, it became the largest in the Russian Empire and a centre of Polish Romanticism before Nicholas I closed it after the November Uprising.",
+   "notes": "Royal charter of 1 April 1578/1579 and bull of Gregory XIII of 29 Oct 1579. After 1832 the Medical-Surgical and Theological Academies survived until 1842; today's Vilnius University (1919) claims continuity."
+  },
+  {
+   "id": "j-polotsk",
+   "name": "Jesuit College and Academy of Polotsk",
+   "alt": [
+    "Collegium Polocense",
+    "Polotsk Jesuit Academy"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1580,
+     "city": "Polotsk",
+     "lat": 55.4856,
+     "lon": 28.768
+    }
+   ],
+   "modern_country": "Belarus",
+   "start": 1580,
+   "start_approx": false,
+   "end": 1820,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Jesuit college founded by Stephen Báthory after reconquering Polotsk; under Catherine II it became the headquarters of the Jesuits who survived the papal suppression in Russia. Raised to an academy with university rights in 1812, it was closed when the Jesuits were expelled from Russia in 1820.",
+   "notes": ""
+  },
+  {
+   "id": "u-zamosc",
+   "name": "Zamość Academy",
+   "alt": [
+    "Akademia Zamojska",
+    "Academia Zamoscensis"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1594,
+     "city": "Zamość",
+     "lat": 50.717,
+     "lon": 23.2527
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1594,
+   "start_approx": false,
+   "end": 1784,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Private academy founded by Chancellor Jan Zamoyski in his new Renaissance town, with papal approval to teach philosophy, law and medicine; often called the third university of the Commonwealth. Declining after the 17th century, it was reduced to a lyceum by the Austrian government in 1784.",
+   "notes": "Clement VIII's bull (1594) granted degree rights; its university standing was contested by Kraków."
+  },
+  {
+   "id": "a-rakow",
+   "name": "Raków Academy",
+   "alt": [
+    "Racovian Academy",
+    "Akademia Rakowska"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1602,
+     "city": "Raków",
+     "lat": 50.685,
+     "lon": 21.044
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1602,
+   "start_approx": false,
+   "end": 1638,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "School of the Polish Brethren (Socinians/Arians) in Raków, attracting students from across Europe and associated with the Racovian Catechism. It was closed by decree of the Sejm in 1638.",
+   "notes": "Founded under the patronage of Jakub Sienieński; founding year often given as 1602."
+  },
+  {
+   "id": "a-gdansk",
+   "name": "Academic Gymnasium of Gdańsk",
+   "alt": [
+    "Gymnasium Academicum Gedanense",
+    "Danziger Akademisches Gymnasium"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1558,
+     "city": "Gdańsk",
+     "lat": 54.3497,
+     "lon": 18.6522
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1558,
+   "start_approx": false,
+   "end": 1817,
+   "end_approx": true,
+   "founding_mode": "municipal",
+   "summary": "Lutheran gymnasium illustre of the city of Danzig in Royal Prussia, teaching university-level philosophy, theology and sciences. One of the main Protestant academic schools of the Polish-Lithuanian Commonwealth.",
+   "notes": "Ownership: Gdańsk belonged to the Polish Crown (Royal Prussia) until 1793, hence placed in Region 6. Lost its academic character c.1817 when merged into the municipal gymnasium; end approximate."
+  },
+  {
+   "id": "u-lviv",
+   "name": "University of Lwów",
+   "alt": [
+    "Jesuit Academy of Lwów",
+    "Josephine University",
+    "Franzens-Universität Lemberg",
+    "Uniwersytet Lwowski"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1661,
+     "city": "Lviv",
+     "lat": 49.841,
+     "lon": 24.0316
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1661,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Grew from the Jesuit college (1608) which John II Casimir granted academy status in 1661; refounded by Joseph II in 1784 as a German-language university. After a period as a lyceum it was restored in 1817 and Polonised under Galician autonomy, becoming a major centre of Polish and Ukrainian scholarship.",
+   "notes": "The 1661 diploma was never confirmed by the pope or Sejm (Kraków opposed it), so university status before 1784 is disputed. 1805-1817 reduced to a lyceum."
+  },
+  {
+   "id": "t-lviv",
+   "name": "Lwów Polytechnic",
+   "alt": [
+    "Technische Akademie Lemberg",
+    "Szkoła Politechniczna we Lwowie"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1844,
+     "city": "Lviv",
+     "lat": 49.8355,
+     "lon": 24.0144
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1844,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded as the Technical Academy in 1844 from a Real School of 1816, it became a Polytechnic (Technische Hochschule) in 1877 and a leading Polish engineering school.",
+   "notes": ""
+  },
+  {
+   "id": "b-ostroh",
+   "name": "Ostroh Academy",
+   "alt": [
+    "Ostroh Slavonic-Greek-Latin School",
+    "Ostrozka Akademiia"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1576,
+     "city": "Ostroh",
+     "lat": 50.3297,
+     "lon": 26.515
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1576,
+   "start_approx": true,
+   "end": 1636,
+   "end_approx": true,
+   "founding_mode": "princely",
+   "summary": "The first Orthodox higher school in Eastern Europe, founded by Prince Konstanty Wasyl Ostrogski; its circle produced the Ostroh Bible (1581), the first complete printed Church Slavonic Bible. It declined after the founder's death and was replaced by a Jesuit college.",
+   "notes": "Founding date variously 1576 or 1578; end date c.1636 when the Jesuit college took over its endowment."
+  },
+  {
+   "id": "m-kremenets",
+   "name": "Kremenets Lyceum",
+   "alt": [
+    "Volhynian Gymnasium",
+    "Liceum Krzemienieckie"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1805,
+     "city": "Kremenets",
+     "lat": 50.1,
+     "lon": 25.727
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1805,
+   "start_approx": false,
+   "end": 1833,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Polish higher school founded by Tadeusz Czacki with Hugo Kołłątaj's advice, called the 'Athens of Volhynia'. Its collections and staff were transferred to the new Kyiv University after its closure following the November Uprising.",
+   "notes": "A gymnasium raised to a lyceum (1819) of near-university level; typed 'professional' for lack of a better category."
+  },
+  {
+   "id": "u-warsaw",
+   "name": "University of Warsaw",
+   "alt": [
+    "Royal University of Warsaw",
+    "Szkoła Główna Warszawska",
+    "Imperial University of Warsaw"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1816,
+     "city": "Warsaw",
+     "lat": 52.2397,
+     "lon": 21.0186
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1816,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Alexander I as King of Poland in 1816 and closed after the November Uprising; revived as the Polish-language Main School (1862) and Russified as the Imperial University in 1869. Continuity across these phases is claimed by today's University of Warsaw.",
+   "notes": "Treated as one institution with suppression (1831) and refoundation (1862); the Imperial University (1869) is sometimes treated as a distinct foundation."
+  },
+  {
+   "id": "t-marymont",
+   "name": "Agronomic Institute of Marymont",
+   "alt": [
+    "Instytut Agronomiczny w Marymoncie",
+    "Institute of Rural Economy and Forestry",
+    "Puławy Institute"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1816,
+     "city": "Warsaw (Marymont)",
+     "lat": 52.271,
+     "lon": 20.973
+    },
+    {
+     "from": 1862,
+     "city": "Puławy",
+     "lat": 51.4167,
+     "lon": 21.969
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1816,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Agricultural higher school of the Kingdom of Poland at Marymont near Warsaw, closed after the November Uprising, reopened in 1840 and moved to Puławy in 1862, where it was Russified in 1869. Ancestor of the Warsaw University of Life Sciences.",
+   "notes": "Decree 1816, teaching began 1820. Later history (New Alexandria Institute) partly outside scope."
+  },
+  {
+   "id": "t-warsaw",
+   "name": "Warsaw Polytechnic Institute",
+   "alt": [
+    "Emperor Nicholas II Warsaw Polytechnic Institute"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1898,
+     "city": "Warsaw",
+     "lat": 52.2206,
+     "lon": 21.0105
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1898,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Russian-language polytechnic founded in Warsaw in 1898 with funds partly raised by local Polish society; ancestor of the Warsaw University of Technology.",
+   "notes": ""
+  },
+  {
+   "id": "u-dorpat",
+   "name": "University of Dorpat (Tartu)",
+   "alt": [
+    "Academia Gustaviana",
+    "Academia Gustavo-Carolina",
+    "Kaiserliche Universität zu Dorpat",
+    "Imperial Yuryev University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1632,
+     "city": "Tartu",
+     "lat": 58.3806,
+     "lon": 26.7206
+    },
+    {
+     "from": 1656,
+     "city": "Tallinn",
+     "lat": 59.437,
+     "lon": 24.7453
+    },
+    {
+     "from": 1690,
+     "city": "Tartu",
+     "lat": 58.3806,
+     "lon": 26.7206
+    },
+    {
+     "from": 1699,
+     "city": "Pärnu",
+     "lat": 58.3859,
+     "lon": 24.4971
+    },
+    {
+     "from": 1802,
+     "city": "Tartu",
+     "lat": 58.3806,
+     "lon": 26.7206
+    }
+   ],
+   "modern_country": "Estonia",
+   "start": 1632,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Swedish royal university founded by Gustavus II Adolphus in 1632, interrupted by the Russo-Swedish wars, moved to Pärnu and closed during the Great Northern War. Refounded in 1802 as a German-language Imperial university, it was a leading centre of science in the Russian Empire until Russification in the 1890s.",
+   "notes": "1656-1665 the academy functioned in exile in Reval (Tallinn) before lapsing; continuity across 1710-1802 is institutional-tradition rather than actual."
+  },
+  {
+   "id": "t-riga",
+   "name": "Riga Polytechnic",
+   "alt": [
+    "Polytechnikum Riga",
+    "Riga Polytechnic Institute"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1862,
+     "city": "Riga",
+     "lat": 56.9496,
+     "lon": 24.1052
+    }
+   ],
+   "modern_country": "Latvia",
+   "start": 1862,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "The first polytechnic in the Russian Empire, founded by the Riga merchant community and city as a German-language school on the Zurich model. It became the Russian state Riga Polytechnic Institute in 1896.",
+   "notes": ""
+  },
+  {
+   "id": "b-moscow-academy",
+   "name": "Slavic-Greek-Latin Academy",
+   "alt": [
+    "Slavonic-Greek-Latin Academy",
+    "Moscow Theological Academy",
+    "Zaikonospassky school"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1687,
+     "city": "Moscow",
+     "lat": 55.7565,
+     "lon": 37.6239
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1687,
+   "start_approx": false,
+   "end": 1814,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The first higher school in Muscovy, opened at the Zaikonospassky Monastery under the Greek brothers Ioannikios and Sophronios Likhoudes. Reorganised by Peter I on the Kyiv-Latin model, it trained clergy and officials (including Lomonosov) and was transformed into the Moscow Theological Academy in 1814.",
+   "notes": "Patronage of Tsar Fyodor III's 1682 privilege and Patriarch Joachim. 1814 transformation into Moscow Theological Academy at the Trinity-Sergius Lavra treated as end."
+  },
+  {
+   "id": "t-moscow-navigation",
+   "name": "School of Mathematics and Navigation",
+   "alt": [
+    "Navigatskaya shkola",
+    "Sukharev Tower school"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1701,
+     "city": "Moscow",
+     "lat": 55.772,
+     "lon": 37.633
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1701,
+   "start_approx": false,
+   "end": 1752,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Peter I's school of mathematical and navigational sciences in the Sukharev Tower, the first secular technical school in Russia; its senior classes became the Naval Academy in St Petersburg in 1715.",
+   "notes": ""
+  },
+  {
+   "id": "u-st-petersburg-academic",
+   "name": "Academic University of St Petersburg",
+   "alt": [
+    "Academic University of the Academy of Sciences"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1724,
+     "city": "St Petersburg",
+     "lat": 59.9416,
+     "lon": 30.304
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1724,
+   "start_approx": false,
+   "end": 1766,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "University attached to the Imperial Academy of Sciences founded by Peter I's decree of 1724, taught largely by German academicians. It never flourished, though Lomonosov as rector tried to revive it, and ceased in the 1760s.",
+   "notes": "St Petersburg State University claims continuity from 1724; this is disputed and the 1819 university is a separate record here. End date approximate."
+  },
+  {
+   "id": "u-st-petersburg",
+   "name": "St Petersburg Imperial University",
+   "alt": [
+    "Imperial St Petersburg University",
+    "Main Pedagogical Institute"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1819,
+     "city": "St Petersburg",
+     "lat": 59.9415,
+     "lon": 30.299
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1819,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Created in 1819 from the Main Pedagogical Institute, it became the leading university of the Russian Empire in mathematics and natural sciences (Chebyshev, Mendeleev, Butlerov) and a focus of student radicalism.",
+   "notes": "Successor of the Pedagogical Institute (1804/1816); the university's own tradition dates it to 1724 (see u-st-petersburg-academic)."
+  },
+  {
+   "id": "t-st-petersburg-mining",
+   "name": "St Petersburg Mining Institute",
+   "alt": [
+    "Mining School",
+    "Mining Cadet Corps",
+    "Institute of the Corps of Mining Engineers"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1773,
+     "city": "St Petersburg",
+     "lat": 59.9297,
+     "lon": 30.2683
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1773,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "The first technical higher school in Russia, founded by Catherine II at the request of Bashkir mine owner Ismail Tasimov; it trained the empire's mining engineers.",
+   "notes": ""
+  },
+  {
+   "id": "t-st-petersburg-railways",
+   "name": "Institute of the Corps of Railway Engineers",
+   "alt": [
+    "Institute of Engineers of Ways of Communication"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1809,
+     "city": "St Petersburg",
+     "lat": 59.9254,
+     "lon": 30.3017
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1809,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Engineering school founded under Agustín de Betancourt on the model of the French Ponts et Chaussées and Polytechnique, the first transport engineering school in Russia.",
+   "notes": ""
+  },
+  {
+   "id": "t-st-petersburg-technological",
+   "name": "St Petersburg Technological Institute",
+   "alt": [
+    "Practical Technological Institute"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1828,
+     "city": "St Petersburg",
+     "lat": 59.9165,
+     "lon": 30.3185
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1828,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded in 1828 to train industrial managers and chemists, it became one of Russia's chief polytechnical schools; Mendeleev taught technical chemistry there.",
+   "notes": ""
+  },
+  {
+   "id": "t-st-petersburg-polytechnic",
+   "name": "St Petersburg Polytechnic Institute",
+   "alt": [
+    "Emperor Peter the Great Polytechnic Institute"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1899,
+     "city": "St Petersburg",
+     "lat": 60.007,
+     "lon": 30.3727
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1899,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Large polytechnic created on Sergei Witte's initiative to train engineers and economists; established in 1899, its first classes met in 1902.",
+   "notes": ""
+  },
+  {
+   "id": "m-st-petersburg-medical",
+   "name": "Medical-Surgical Academy of St Petersburg",
+   "alt": [
+    "Imperial Military Medical Academy"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1798,
+     "city": "St Petersburg",
+     "lat": 59.953,
+     "lon": 30.349
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1798,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded by Paul I to train military doctors, it became Russia's foremost medical school (Military Medical Academy from 1881), where Botkin, Borodin and Pavlov taught.",
+   "notes": ""
+  },
+  {
+   "id": "m-tsarskoye-selo",
+   "name": "Imperial Lyceum of Tsarskoye Selo",
+   "alt": [
+    "Alexander Lyceum"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1811,
+     "city": "Tsarskoye Selo",
+     "lat": 59.718,
+     "lon": 30.395
+    },
+    {
+     "from": 1843,
+     "city": "St Petersburg",
+     "lat": 59.959,
+     "lon": 30.308
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1811,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Elite boarding school founded by Alexander I to educate future state officials, with rights equal to a university; famous for Pushkin's class of 1817. Moved to St Petersburg in 1843 as the Alexander Lyceum.",
+   "notes": "Lyceum with university-equivalent rights; typed 'professional' for lack of a better category."
+  },
+  {
+   "id": "m-yaroslavl",
+   "name": "Demidov Lyceum",
+   "alt": [
+    "Demidov School of Higher Sciences",
+    "Yaroslavl Demidov Juridical Lyceum"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1803,
+     "city": "Yaroslavl",
+     "lat": 57.6261,
+     "lon": 39.8845
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1803,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Higher school founded at Yaroslavl with the endowment of Pavel Demidov; from 1868 a juridical lyceum.",
+   "notes": "Typed 'professional' (lyceum); school of higher sciences 1803, lyceum 1833, law lyceum 1868."
+  },
+  {
+   "id": "u-moscow",
+   "name": "Imperial Moscow University",
+   "alt": [
+    "Moscow University",
+    "Lomonosov Moscow University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1755,
+     "city": "Moscow",
+     "lat": 55.7553,
+     "lon": 37.613
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1755,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "The first university of Russia proper, founded by Empress Elizabeth on the plan of Ivan Shuvalov and Mikhail Lomonosov. It became the centre of Russian literary and intellectual life in the 19th century.",
+   "notes": "Decree of 12 (23) January 1755; lectures began in April 1755."
+  },
+  {
+   "id": "t-moscow-technical",
+   "name": "Imperial Moscow Technical School",
+   "alt": [
+    "Moscow Craft School",
+    "Bauman Moscow Technical School"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1830,
+     "city": "Moscow",
+     "lat": 55.7658,
+     "lon": 37.6853
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1830,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded as a craft school of the Moscow Orphanage, it became the Imperial Moscow Technical School in 1868, known for the 'Russian method' of practical engineering instruction.",
+   "notes": ""
+  },
+  {
+   "id": "t-moscow-petrovskaya",
+   "name": "Petrovskaya Agricultural Academy",
+   "alt": [
+    "Petrovsko-Razumovskaya Academy"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1865,
+     "city": "Moscow",
+     "lat": 55.837,
+     "lon": 37.552
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1865,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Agricultural and forestry academy at the Petrovsko-Razumovskoye estate near Moscow, a centre of agronomic science and of student radicalism.",
+   "notes": "Closed 1894 and reopened as the Moscow Agricultural Institute."
+  },
+  {
+   "id": "u-kazan",
+   "name": "Imperial Kazan University",
+   "alt": [
+    "Kazan University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1804,
+     "city": "Kazan",
+     "lat": 55.7905,
+     "lon": 49.1217
+    }
+   ],
+   "modern_country": "Russia",
+   "start": 1804,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded under the 1804 statute as the university of the eastern educational district; under Lobachevsky's rectorship it became a major scientific centre and the school of Russian chemistry (Zinin, Butlerov) and oriental studies.",
+   "notes": "Founding decree November 1804; opened 1805 (initially within the Kazan Gymnasium)."
+  },
+  {
+   "id": "u-kharkiv",
+   "name": "Imperial Kharkiv University",
+   "alt": [
+    "Kharkov University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1804,
+     "city": "Kharkiv",
+     "lat": 49.9935,
+     "lon": 36.2304
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1804,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded through the initiative of Vasyl Karazin and local nobility under the 1804 statute; the first university in the Ukrainian lands of the Russian Empire and a centre of Ukrainian Romanticism and mathematics.",
+   "notes": "Charter 1804, formal opening January 1805."
+  },
+  {
+   "id": "b-kharkiv-collegium",
+   "name": "Kharkiv Collegium",
+   "alt": [
+    "Kharkov Collegium"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1726,
+     "city": "Kharkiv",
+     "lat": 49.993,
+     "lon": 36.235
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1726,
+   "start_approx": false,
+   "end": 1817,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Orthodox collegium modelled on Kyiv-Mohyla, transferred to Kharkiv from Belgorod by Bishop Epifaniy Tykhorsky; Hryhorii Skovoroda taught there.",
+   "notes": "In 1817 its theological classes became the Kharkiv Seminary; end date conventional."
+  },
+  {
+   "id": "b-kyiv-mohyla",
+   "name": "Kyiv-Mohyla Academy",
+   "alt": [
+    "Kyiv Brotherhood School",
+    "Kyiv-Mohyla Collegium",
+    "Kievo-Mohylianska Akademiia"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1615,
+     "city": "Kyiv",
+     "lat": 50.4645,
+     "lon": 30.5195
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1615,
+   "start_approx": false,
+   "end": 1817,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The principal Orthodox higher school of the Ukrainian and Russian lands, grown from the Kyiv Brotherhood school and reorganised by Metropolitan Peter Mohyla on the Jesuit model with Latin instruction. It supplied scholars and hierarchs to the whole Russian Empire before being closed in 1817.",
+   "notes": "Brotherhood school 1615 (Halshka Hulevychivna's donation); merger with Lavra school as Mohyla Collegium 1632; Kyiv Theological Academy followed in 1819."
+  },
+  {
+   "id": "u-kyiv",
+   "name": "Imperial University of St Vladimir",
+   "alt": [
+    "Kyiv University",
+    "Kiev University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1834,
+     "city": "Kyiv",
+     "lat": 50.4419,
+     "lon": 30.5111
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1834,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded by Nicholas I in 1834 to Russify the south-western provinces after the November Uprising, absorbing the Kremenets Lyceum's resources. It became a centre of Ukrainian historical scholarship (Maksymovych, Kostomarov, Antonovych).",
+   "notes": ""
+  },
+  {
+   "id": "t-kyiv",
+   "name": "Kyiv Polytechnic Institute",
+   "alt": [
+    "Emperor Alexander II Kyiv Polytechnic Institute"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1898,
+     "city": "Kyiv",
+     "lat": 50.4485,
+     "lon": 30.457
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1898,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Polytechnic founded in 1898 with mechanical, chemical, engineering and agricultural departments, one of the major engineering schools of the late Russian Empire.",
+   "notes": ""
+  },
+  {
+   "id": "m-nizhyn",
+   "name": "Nizhyn Gymnasium of Higher Sciences",
+   "alt": [
+    "Bezborodko Lyceum",
+    "Nizhyn Historical-Philological Institute"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1820,
+     "city": "Nizhyn",
+     "lat": 51.048,
+     "lon": 31.886
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1820,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Higher school endowed by the Bezborodko family, later a lyceum and from 1875 a historical-philological institute; Gogol was its most famous pupil.",
+   "notes": "Typed 'professional' (lyceum)."
+  },
+  {
+   "id": "m-odessa-richelieu",
+   "name": "Richelieu Lyceum",
+   "alt": [
+    "Rishelyevsky Litsey"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1817,
+     "city": "Odessa",
+     "lat": 46.4825,
+     "lon": 30.7233
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1817,
+   "start_approx": false,
+   "end": 1865,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Lyceum named after the Duc de Richelieu, governor of Odessa; the principal higher school of New Russia, replaced in 1865 by Novorossiya University.",
+   "notes": "Typed 'professional' (lyceum)."
+  },
+  {
+   "id": "u-odessa",
+   "name": "Imperial Novorossiya University",
+   "alt": [
+    "Odessa University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1865,
+     "city": "Odessa",
+     "lat": 46.4825,
+     "lon": 30.7233
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1865,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "University founded in Odessa in 1865 on the basis of the Richelieu Lyceum; Mechnikov and Sechenov taught there.",
+   "notes": ""
+  },
+  {
+   "id": "u-pecs",
+   "name": "University of Pécs",
+   "alt": [
+    "Studium generale Quinqueecclesiense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1367,
+     "city": "Pécs",
+     "lat": 46.0763,
+     "lon": 18.2281
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1367,
+   "start_approx": false,
+   "end": 1390,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "First university of Hungary, founded by Louis I with a bull of Urban V on the Bologna model, mainly teaching canon law. It is not attested after the late 14th century.",
+   "notes": "End date unknown; probably ceased before 1400."
+  },
+  {
+   "id": "u-obuda",
+   "name": "University of Óbuda",
+   "alt": [
+    "Studium generale Vetero-Budense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1395,
+     "city": "Óbuda",
+     "lat": 47.542,
+     "lon": 19.045
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1395,
+   "start_approx": false,
+   "end": 1460,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "University founded by King Sigismund, refounded in 1410; Hungarian masters represented it at the Council of Constance. It faded in the mid-15th century.",
+   "notes": "Fragmentary evidence; end date unknown."
+  },
+  {
+   "id": "u-pozsony",
+   "name": "Academia Istropolitana",
+   "alt": [
+    "University of Pozsony",
+    "Universitas Istropolitana"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1465,
+     "city": "Bratislava",
+     "lat": 48.144,
+     "lon": 17.106
+    }
+   ],
+   "modern_country": "Slovakia",
+   "start": 1465,
+   "start_approx": false,
+   "end": 1490,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "University founded by Matthias Corvinus and Archbishop János Vitéz with a bull of Paul II, with notable astronomers on its staff. It declined after Vitéz's fall (1471) and ceased after Matthias's death.",
+   "notes": "Opened 1467; end c.1490."
+  },
+  {
+   "id": "u-trnava-budapest",
+   "name": "University of Nagyszombat-Buda-Pest",
+   "alt": [
+    "University of Trnava",
+    "Royal Hungarian University",
+    "University of Budapest"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1635,
+     "city": "Trnava",
+     "lat": 48.3774,
+     "lon": 17.5872
+    },
+    {
+     "from": 1777,
+     "city": "Buda",
+     "lat": 47.4962,
+     "lon": 19.0396
+    },
+    {
+     "from": 1784,
+     "city": "Pest",
+     "lat": 47.4906,
+     "lon": 19.0597
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1635,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit university founded by Archbishop Péter Pázmány at Nagyszombat, Hungary's centre of Counter-Reformation learning. After the Jesuit suppression it was moved by Maria Theresa to Buda and by Joseph II to Pest, becoming the Royal Hungarian University of Budapest.",
+   "notes": "Today's Eötvös Loránd University and Trnava University both claim the 1635 foundation."
+  },
+  {
+   "id": "t-budapest",
+   "name": "Joseph Polytechnic of Budapest",
+   "alt": [
+    "Institutum Geometricum",
+    "Joseph Industrial School",
+    "József Műegyetem"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1782,
+     "city": "Buda",
+     "lat": 47.4962,
+     "lon": 19.0396
+    },
+    {
+     "from": 1784,
+     "city": "Pest",
+     "lat": 47.4906,
+     "lon": 19.0597
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1782,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Began as the Institutum Geometricum, an engineering institute within the university founded by Joseph II; independent as the Joseph Industrial School (1846) and Joseph Polytechnic (1871), it is today's Budapest University of Technology.",
+   "notes": "Claims 1782 via the Institutum Geometricum, which was part of the university until 1846."
+  },
+  {
+   "id": "t-banska-stiavnica",
+   "name": "Selmecbánya Mining Academy",
+   "alt": [
+    "Bergakademie Schemnitz",
+    "Banská Štiavnica Mining and Forestry Academy"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1762,
+     "city": "Banská Štiavnica",
+     "lat": 48.459,
+     "lon": 18.896
+    }
+   ],
+   "modern_country": "Slovakia",
+   "start": 1762,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "One of the first higher mining schools in the world, founded by Maria Theresa in the silver-mining town of Schemnitz and raised to an academy in 1770; forestry was added in 1807. It moved to Sopron in 1919.",
+   "notes": ""
+  },
+  {
+   "id": "t-keszthely",
+   "name": "Georgikon",
+   "alt": [
+    "Georgikon of Keszthely"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1797,
+     "city": "Keszthely",
+     "lat": 46.768,
+     "lon": 17.243
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1797,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Agricultural school founded by Count György Festetics, one of the first agricultural higher schools in Europe. Closed in 1848, its tradition was revived in 1865.",
+   "notes": "Continuity across 1848-1865 is disputed."
+  },
+  {
+   "id": "u-kosice",
+   "name": "University of Kassa",
+   "alt": [
+    "Universitas Cassoviensis",
+    "Royal Academy of Kassa"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1657,
+     "city": "Košice",
+     "lat": 48.7164,
+     "lon": 21.2611
+    }
+   ],
+   "modern_country": "Slovakia",
+   "start": 1657,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit university founded by Bishop Benedikt Kisdy, confirmed by Leopold I in 1660. After the Jesuit suppression it became a Royal Academy (1777) and then a law academy.",
+   "notes": "University rank lost 1777; law academy continued past 1900, hence end null."
+  },
+  {
+   "id": "j-cluj",
+   "name": "Jesuit Academy of Kolozsvár",
+   "alt": [
+    "Báthory University",
+    "Collegium Claudiopolitanum"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1581,
+     "city": "Cluj",
+     "lat": 46.77,
+     "lon": 23.5893
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1581,
+   "start_approx": false,
+   "end": 1603,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Jesuit college with academy rights founded by Stephen Báthory, prince of Transylvania and king of Poland, in the Protestant city of Kolozsvár; destroyed when the Protestant townspeople expelled the Jesuits.",
+   "notes": ""
+  },
+  {
+   "id": "u-cluj",
+   "name": "Franz Joseph University of Kolozsvár",
+   "alt": [
+    "Royal Hungarian Franz Joseph University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1872,
+     "city": "Cluj",
+     "lat": 46.77,
+     "lon": 23.5893
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1872,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Second university of the Kingdom of Hungary, founded by the Hungarian parliament in 1872; it moved to Szeged after 1919.",
+   "notes": "Predecessor institutions include the Jesuit academy (j-cluj) and the 18th-century Piarist academy."
+  },
+  {
+   "id": "a-debrecen",
+   "name": "Reformed College of Debrecen",
+   "alt": [
+    "Debreceni Református Kollégium"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1538,
+     "city": "Debrecen",
+     "lat": 47.534,
+     "lon": 21.625
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1538,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The principal Calvinist college of Hungary, teaching theology, philosophy and law at higher level; the 'Calvinist Rome' of Hungary.",
+   "notes": "1538 is traditional; continuous higher teaching documented from the later 16th century."
+  },
+  {
+   "id": "a-sarospatak",
+   "name": "Reformed College of Sárospatak",
+   "alt": [
+    "Sárospataki Református Kollégium"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1531,
+     "city": "Sárospatak",
+     "lat": 48.3189,
+     "lon": 21.5664
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1531,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Calvinist college founded under Péter Perényi, where Comenius taught and planned his pansophic school; exiled during the Counter-Reformation and restored in 1703.",
+   "notes": "Exile 1671-1703 partly in Transylvania (Gyulafehérvár, Marosvásárhely)."
+  },
+  {
+   "id": "a-alba-iulia",
+   "name": "Bethlen College",
+   "alt": [
+    "Collegium Academicum of Gyulafehérvár",
+    "Bethlen Kollégium (Nagyenyed)"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1622,
+     "city": "Alba Iulia",
+     "lat": 46.0677,
+     "lon": 23.5705
+    },
+    {
+     "from": 1662,
+     "city": "Aiud",
+     "lat": 46.307,
+     "lon": 23.717
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1622,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Reformed academy founded by Prince Gabriel Bethlen, who brought Herborn scholars Alsted and Bisterfeld; after destruction by Tatars it moved to Nagyenyed.",
+   "notes": ""
+  },
+  {
+   "id": "a-targu-mures",
+   "name": "Reformed College of Marosvásárhely",
+   "alt": [
+    "Marosvásárhelyi Református Kollégium"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1718,
+     "city": "Târgu Mureș",
+     "lat": 46.5455,
+     "lon": 24.5625
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1718,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Calvinist college formed when part of the exiled Sárospatak college settled in Marosvásárhely in 1718; Farkas Bolyai taught mathematics there and János Bolyai studied there.",
+   "notes": "Earlier local school existed from the 16th century."
+  },
+  {
+   "id": "u-zagreb",
+   "name": "University of Zagreb",
+   "alt": [
+    "Jesuit Academy of Zagreb",
+    "Regia Scientiarum Academia",
+    "Franz Joseph I University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1669,
+     "city": "Zagreb",
+     "lat": 45.816,
+     "lon": 15.9733
+    }
+   ],
+   "modern_country": "Croatia",
+   "start": 1669,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Leopold I granted the Zagreb Jesuit college academy status in 1669; it became a Royal Academy of Sciences (1776) and was raised to a full university in 1874.",
+   "notes": "A Jesuit academy rather than a full university until 1874."
+  },
+  {
+   "id": "u-ljubljana",
+   "name": "École centrale of Ljubljana",
+   "alt": [
+    "Écoles centrales of Laibach",
+    "Illyrian Central School"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1810,
+     "city": "Ljubljana",
+     "lat": 46.05,
+     "lon": 14.506
+    }
+   ],
+   "modern_country": "Slovenia",
+   "start": 1810,
+   "start_approx": false,
+   "end": 1813,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "University-level school established by the French administration of the Illyrian Provinces; it closed with the restoration of Austrian rule.",
+   "notes": "Its classification as a university is approximate."
+  },
+  {
+   "id": "m-zadar",
+   "name": "Dominican studium generale of Zadar",
+   "alt": [
+    "Universitas Iadertina"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1396,
+     "city": "Zadar",
+     "lat": 44.115,
+     "lon": 15.225
+    }
+   ],
+   "modern_country": "Croatia",
+   "start": 1396,
+   "start_approx": false,
+   "end": 1807,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Dominican studium generale at St Dominic's monastery in Zadar, granting degrees in theology; abolished by the French administration.",
+   "notes": "Status as a 'university' is claimed by modern Zadar University."
+  },
+  {
+   "id": "b-iasi-vasiliana",
+   "name": "Academia Vasiliană",
+   "alt": [
+    "Trei Ierarhi College",
+    "College of the Three Hierarchs"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1640,
+     "city": "Iași",
+     "lat": 47.1585,
+     "lon": 27.6014
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1640,
+   "start_approx": false,
+   "end": 1653,
+   "end_approx": true,
+   "founding_mode": "princely",
+   "summary": "Higher school founded by Prince Vasile Lupu at the Trei Ierarhi monastery with teachers from Kyiv-Mohyla.",
+   "notes": "End c.1653, at Lupu's fall."
+  },
+  {
+   "id": "b-iasi-academy",
+   "name": "Princely Academy of Iași",
+   "alt": [
+    "Academia Domnească din Iași"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1707,
+     "city": "Iași",
+     "lat": 47.16,
+     "lon": 27.586
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1707,
+   "start_approx": true,
+   "end": 1821,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Greek-language higher school of Moldavia under the Phanariote princes; ended with the 1821 revolution.",
+   "notes": "Founding dated c.1707 (Antioh Cantemir); reorganised 1714."
+  },
+  {
+   "id": "b-bucharest-academy",
+   "name": "Princely Academy of Bucharest",
+   "alt": [
+    "Academia Domnească din București",
+    "St Sava Academy"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1694,
+     "city": "Bucharest",
+     "lat": 44.4355,
+     "lon": 26.1025
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1694,
+   "start_approx": true,
+   "end": 1821,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Greek-language academy founded by Prince Constantin Brâncoveanu at St Sava monastery; it ended with the 1821 revolution.",
+   "notes": "Founding often dated 1694."
+  },
+  {
+   "id": "u-iasi",
+   "name": "University of Iași",
+   "alt": [
+    "Alexandru Ioan Cuza University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1860,
+     "city": "Iași",
+     "lat": 47.174,
+     "lon": 27.573
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1860,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The first modern university in the Romanian lands, founded by Prince Alexandru Ioan Cuza.",
+   "notes": ""
+  },
+  {
+   "id": "u-bucharest",
+   "name": "University of Bucharest",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1864,
+     "city": "Bucharest",
+     "lat": 44.4353,
+     "lon": 26.1015
+    }
+   ],
+   "modern_country": "Romania",
+   "start": 1864,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded by Prince Cuza in 1864, uniting the schools of law, sciences and letters.",
+   "notes": ""
+  },
+  {
+   "id": "u-chernivtsi",
+   "name": "Franz Joseph University of Czernowitz",
+   "alt": [
+    "University of Chernivtsi"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1875,
+     "city": "Chernivtsi",
+     "lat": 48.2921,
+     "lon": 25.9358
+    }
+   ],
+   "modern_country": "Ukraine",
+   "start": 1875,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "German-language university founded in the capital of Bukovina for the centenary of Austrian rule.",
+   "notes": ""
+  }
+ ],
+ "events": [
+  {
+   "id": "u-prague-1348-founding",
+   "inst": "u-prague",
+   "year": 1348,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation charter of Charles IV",
+   "desc": "Charles IV issued the foundation charter on 7 April 1348, following Clement VI's bull of January 1347 granting a studium generale with all four faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-1366-charter",
+   "inst": "u-prague",
+   "year": 1366,
+   "approx": false,
+   "type": "charter",
+   "title": "Collegium Carolinum founded",
+   "desc": "Charles IV endowed the Collegium Carolinum for masters of arts, giving the university its first permanent building and endowment.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-1372-split",
+   "inst": "u-prague",
+   "year": 1372,
+   "approx": false,
+   "type": "split",
+   "title": "Separate university of jurists",
+   "desc": "The law faculty seceded to form a separate Universitas iuristarum with its own rector, which existed alongside the masters' university until the Hussite wars.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-1409-reform",
+   "inst": "u-prague",
+   "year": 1409,
+   "approx": false,
+   "type": "reform",
+   "title": "Decree of Kutná Hora",
+   "desc": "King Wenceslas IV gave the Bohemian nation three votes and the three foreign nations one in university affairs; most German masters and students left, many founding the University of Leipzig.",
+   "from_inst": null,
+   "related": [
+    "u-leipzig"
+   ]
+  },
+  {
+   "id": "u-prague-1417-confessional",
+   "inst": "u-prague",
+   "year": 1417,
+   "approx": false,
+   "type": "confessional",
+   "title": "University endorses Utraquism",
+   "desc": "The masters formally declared communion under both kinds (sub utraque specie) lawful, making Prague the academic centre of the Hussite movement in defiance of the Council of Constance.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-1419-destruction",
+   "inst": "u-prague",
+   "year": 1419,
+   "approx": true,
+   "type": "destruction",
+   "title": "Hussite wars and collapse of the higher faculties",
+   "desc": "With the outbreak of the Hussite revolution the theology, law and medicine faculties ceased to function and foreign students vanished; for two centuries the university survived essentially as an Utraquist arts faculty.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-1622-confessional",
+   "inst": "u-prague",
+   "year": 1622,
+   "approx": false,
+   "type": "confessional",
+   "title": "Jesuit takeover",
+   "desc": "After the Battle of White Mountain Ferdinand II handed the Carolinum and the university to the Jesuits, ending the Utraquist university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-1654-merger",
+   "inst": "u-prague",
+   "year": 1654,
+   "approx": false,
+   "type": "merger",
+   "title": "Union with the Clementinum: Charles-Ferdinand University",
+   "desc": "Ferdinand III united the Carolinum with the Jesuit Clementinum academy as the Charles-Ferdinand University, the Jesuits controlling theology and philosophy.",
+   "from_inst": null,
+   "related": [
+    "j-prague-clementinum"
+   ]
+  },
+  {
+   "id": "u-prague-1773-reform",
+   "inst": "u-prague",
+   "year": 1773,
+   "approx": false,
+   "type": "reform",
+   "title": "Suppression of the Jesuits",
+   "desc": "The dissolution of the Society of Jesus ended Jesuit control of theology and philosophy; the university was brought under the state reforms of Maria Theresa.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-1784-reform",
+   "inst": "u-prague",
+   "year": 1784,
+   "approx": false,
+   "type": "reform",
+   "title": "German replaces Latin",
+   "desc": "Under Joseph II German replaced Latin as the language of instruction, part of the Josephine centralisation of Habsburg universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-1882-split",
+   "inst": "u-prague",
+   "year": 1882,
+   "approx": false,
+   "type": "split",
+   "title": "Division into Czech and German universities",
+   "desc": "The Charles-Ferdinand University was divided into separate Czech and German universities, each with four faculties (medicine split in 1883).",
+   "from_inst": null,
+   "related": [
+    "u-prague-czech",
+    "u-prague-german"
+   ]
+  },
+  {
+   "id": "j-prague-clementinum-1556-founding",
+   "inst": "j-prague-clementinum",
+   "year": 1556,
+   "approx": false,
+   "type": "founding",
+   "title": "Jesuits arrive at St Clement",
+   "desc": "The first Jesuits, invited by Ferdinand I, opened a college in the former Dominican monastery of St Clement in Prague's Old Town.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-prague-clementinum-1562-charter",
+   "inst": "j-prague-clementinum",
+   "year": 1562,
+   "approx": false,
+   "type": "charter",
+   "title": "Right to grant degrees",
+   "desc": "Ferdinand I authorised the college to confer academic degrees in philosophy and theology, making it an academy rivalling the Carolinum.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-prague-clementinum-1654-merger",
+   "inst": "j-prague-clementinum",
+   "year": 1654,
+   "approx": false,
+   "type": "merger",
+   "title": "Absorbed into Charles-Ferdinand University",
+   "desc": "The Clementinum was united with the Carolinum to form the Charles-Ferdinand University.",
+   "from_inst": null,
+   "related": [
+    "u-prague"
+   ]
+  },
+  {
+   "id": "u-prague-czech-1882-founding",
+   "inst": "u-prague-czech",
+   "year": 1882,
+   "approx": false,
+   "type": "founding",
+   "title": "Created by division of Charles-Ferdinand University",
+   "desc": "Established by the Austrian law of 1882 dividing the Prague university; teaching began in winter 1882/83.",
+   "from_inst": null,
+   "related": [
+    "u-prague"
+   ]
+  },
+  {
+   "id": "u-prague-czech-1897-access",
+   "inst": "u-prague-czech",
+   "year": 1897,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted to the philosophical faculty",
+   "desc": "Following the Austrian ministerial decree of 1897, women could matriculate as regular students in the faculty of philosophy (medicine followed in 1900).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-prague-german-1882-founding",
+   "inst": "u-prague-german",
+   "year": 1882,
+   "approx": false,
+   "type": "founding",
+   "title": "Created by division of Charles-Ferdinand University",
+   "desc": "Established by the 1882 division law; it retained the historic insignia and the Carolinum.",
+   "from_inst": null,
+   "related": [
+    "u-prague"
+   ]
+  },
+  {
+   "id": "u-prague-german-1897-access",
+   "inst": "u-prague-german",
+   "year": 1897,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted to the philosophical faculty",
+   "desc": "Austrian decree of 1897 opened matriculation in philosophy to women.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-prague-1707-founding",
+   "inst": "t-prague",
+   "year": 1707,
+   "approx": false,
+   "type": "founding",
+   "title": "Rescript of Joseph I",
+   "desc": "Joseph I, at the petition of the Bohemian Estates, ordered the establishment of public engineering instruction in Prague; Willenberg began teaching in 1718.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-prague-1806-reform",
+   "inst": "t-prague",
+   "year": 1806,
+   "approx": false,
+   "type": "reform",
+   "title": "Polytechnic Institute under Gerstner",
+   "desc": "Reorganised as the Polytechnic Institute of Prague with Franz Josef Gerstner as director, modelled partly on the École polytechnique.",
+   "from_inst": null,
+   "related": [
+    "t-polytechnique"
+   ]
+  },
+  {
+   "id": "t-prague-1863-reform",
+   "inst": "t-prague",
+   "year": 1863,
+   "approx": false,
+   "type": "reform",
+   "title": "New statutes, bilingual polytechnic",
+   "desc": "New organisational statutes made the institute a modern technical college teaching in both German and Czech.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-prague-1869-split",
+   "inst": "t-prague",
+   "year": 1869,
+   "approx": false,
+   "type": "split",
+   "title": "Division into Czech and German polytechnics",
+   "desc": "The polytechnic was split along language lines into the Czech and German Technical Institutes.",
+   "from_inst": null,
+   "related": [
+    "t-prague-czech",
+    "t-prague-german"
+   ]
+  },
+  {
+   "id": "t-prague-czech-1869-founding",
+   "inst": "t-prague-czech",
+   "year": 1869,
+   "approx": false,
+   "type": "founding",
+   "title": "Czech polytechnic established",
+   "desc": "Created by the 1869 division of the Prague Polytechnic.",
+   "from_inst": null,
+   "related": [
+    "t-prague"
+   ]
+  },
+  {
+   "id": "t-prague-czech-1879-reform",
+   "inst": "t-prague-czech",
+   "year": 1879,
+   "approx": true,
+   "type": "reform",
+   "title": "Rank of Technische Hochschule",
+   "desc": "Recognised as a technical college (vysoká škola technická) of university rank under Austrian law.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-prague-german-1869-founding",
+   "inst": "t-prague-german",
+   "year": 1869,
+   "approx": false,
+   "type": "founding",
+   "title": "German polytechnic established",
+   "desc": "Created by the 1869 division of the Prague Polytechnic.",
+   "from_inst": null,
+   "related": [
+    "t-prague"
+   ]
+  },
+  {
+   "id": "t-brno-1849-founding",
+   "inst": "t-brno",
+   "year": 1849,
+   "approx": false,
+   "type": "founding",
+   "title": "Technical institute opened",
+   "desc": "Established by imperial decision as the k.k. Technische Lehranstalt in Brünn, teaching in German.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-brno-1873-reform",
+   "inst": "t-brno",
+   "year": 1873,
+   "approx": false,
+   "type": "reform",
+   "title": "Rank of Technische Hochschule",
+   "desc": "Raised to the status of a technical college (Technische Hochschule).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-brno-czech-1899-founding",
+   "inst": "t-brno-czech",
+   "year": 1899,
+   "approx": false,
+   "type": "founding",
+   "title": "Founded by imperial decree",
+   "desc": "Franz Joseph's decree of 19 September 1899 established a Czech technical college in Brno.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-pribram-1849-founding",
+   "inst": "t-pribram",
+   "year": 1849,
+   "approx": false,
+   "type": "founding",
+   "title": "Montanlehranstalt opened",
+   "desc": "Founded as a state mining school (Montan-Lehranstalt) alongside Leoben.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-pribram-1865-reform",
+   "inst": "t-pribram",
+   "year": 1865,
+   "approx": false,
+   "type": "reform",
+   "title": "Raised to Bergakademie",
+   "desc": "Elevated to the rank of a mining academy (Bergakademie).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-pribram-1894-reform",
+   "inst": "t-pribram",
+   "year": 1894,
+   "approx": true,
+   "type": "reform",
+   "title": "Rank of Hochschule",
+   "desc": "Mining academies of Příbram and Leoben received the rank of Hochschulen with rectors.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-olomouc-1573-founding",
+   "inst": "u-olomouc",
+   "year": 1573,
+   "approx": false,
+   "type": "founding",
+   "title": "University privileges for the Jesuit college",
+   "desc": "Maximilian II and Pope Gregory XIII granted university rights to the Jesuit college founded in 1566 by Bishop Vilém Prusinovský.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-olomouc-1642-destruction",
+   "inst": "u-olomouc",
+   "year": 1642,
+   "approx": false,
+   "type": "destruction",
+   "title": "Swedish occupation",
+   "desc": "Swedish troops under Torstensson occupied Olomouc 1642-1650; the university was largely dispersed and its library carried off to Sweden.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-olomouc-1773-reform",
+   "inst": "u-olomouc",
+   "year": 1773,
+   "approx": false,
+   "type": "reform",
+   "title": "Suppression of the Jesuits",
+   "desc": "The dissolution of the Society of Jesus ended Jesuit control; the university came under state administration.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-olomouc-1778-relocation",
+   "inst": "u-olomouc",
+   "year": 1778,
+   "approx": false,
+   "type": "relocation",
+   "title": "Moved to Brno",
+   "desc": "Maria Theresa transferred the university to Brno, the Moravian capital.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-olomouc-1782-relocation",
+   "inst": "u-olomouc",
+   "year": 1782,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Olomouc as lyceum",
+   "desc": "Joseph II returned the institution to Olomouc but reduced it to a lyceum without degree-granting rights.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-olomouc-1827-refoundation",
+   "inst": "u-olomouc",
+   "year": 1827,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Restored as Franzens-Universität",
+   "desc": "Emperor Franz I restored university rank under the name Franzens-Universität.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-olomouc-1855-reform",
+   "inst": "u-olomouc",
+   "year": 1855,
+   "approx": true,
+   "type": "reform",
+   "title": "Reduction to a theological faculty",
+   "desc": "After 1848 the law and philosophy faculties were closed (1855) and the university formally abolished in 1860, leaving only the theological faculty.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1364-founding",
+   "inst": "u-krakow",
+   "year": 1364,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation charter of Casimir the Great",
+   "desc": "Casimir III issued the founding charter on 12 May 1364, confirmed by Pope Urban V the same year, for a studium generale without theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1370-destruction",
+   "inst": "u-krakow",
+   "year": 1370,
+   "approx": true,
+   "type": "destruction",
+   "title": "Decline after Casimir's death",
+   "desc": "After the king's death the studium lost royal support and teaching largely lapsed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1397-charter",
+   "inst": "u-krakow",
+   "year": 1397,
+   "approx": false,
+   "type": "charter",
+   "title": "Papal approval of a theology faculty",
+   "desc": "Pope Boniface IX authorised a faculty of theology at Kraków at the request of Jadwiga and Jagiełło.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1400-refoundation",
+   "inst": "u-krakow",
+   "year": 1400,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Refoundation by Władysław Jagiełło",
+   "desc": "Using Queen Jadwiga's bequest, Jagiełło refounded the university on 26 July 1400 with four faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1780-reform",
+   "inst": "u-krakow",
+   "year": 1780,
+   "approx": false,
+   "type": "reform",
+   "title": "Szkoła Główna Koronna under Kołłątaj",
+   "desc": "The Commission of National Education, through Hugo Kołłątaj, reorganised the university as the Crown Main School with modern sciences and Polish teaching.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1817-reform",
+   "inst": "u-krakow",
+   "year": 1817,
+   "approx": true,
+   "type": "reform",
+   "title": "University of the Free City of Kraków",
+   "desc": "Under the Free City of Kraków the university received new statutes (1818) and the name Jagiellonian University.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1853-reform",
+   "inst": "u-krakow",
+   "year": 1853,
+   "approx": true,
+   "type": "reform",
+   "title": "Germanisation under Austrian rule",
+   "desc": "After the annexation of Kraków by Austria (1846) and the 1848 revolution, German was imposed as a language of instruction and university autonomy curtailed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1870-reform",
+   "inst": "u-krakow",
+   "year": 1870,
+   "approx": false,
+   "type": "reform",
+   "title": "Polish restored as language of instruction",
+   "desc": "Under Galician autonomy Polish became again the language of instruction and administration.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-krakow-1897-access",
+   "inst": "u-krakow",
+   "year": 1897,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted as regular students",
+   "desc": "After admitting women as auditors from 1894, the university matriculated the first women as regular students in the philosophical faculty in 1897.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-vilnius-1570-founding",
+   "inst": "j-vilnius",
+   "year": 1570,
+   "approx": false,
+   "type": "founding",
+   "title": "College opens",
+   "desc": "The Jesuit college opened in Vilnius, endowed by Bishop Walerian Protasewicz.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-vilnius-1579-reform",
+   "inst": "j-vilnius",
+   "year": 1579,
+   "approx": false,
+   "type": "reform",
+   "title": "Raised to university",
+   "desc": "Stephen Báthory and Gregory XIII granted the college university status as the Academia et Universitas Vilnensis.",
+   "from_inst": null,
+   "related": [
+    "u-vilnius"
+   ]
+  },
+  {
+   "id": "u-vilnius-1579-founding",
+   "inst": "u-vilnius",
+   "year": 1579,
+   "approx": false,
+   "type": "founding",
+   "title": "Charter of Stephen Báthory and papal bull",
+   "desc": "Báthory's privilege and Gregory XIII's bull (October 1579) raised the Jesuit college to a university.",
+   "from_inst": null,
+   "related": [
+    "j-vilnius"
+   ]
+  },
+  {
+   "id": "u-vilnius-1641-reform",
+   "inst": "u-vilnius",
+   "year": 1641,
+   "approx": true,
+   "type": "reform",
+   "title": "Faculty of law added",
+   "desc": "A law faculty was established (1641-44), funded by Kazimierz Leon Sapieha.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vilnius-1655-destruction",
+   "inst": "u-vilnius",
+   "year": 1655,
+   "approx": false,
+   "type": "destruction",
+   "title": "Muscovite occupation of Vilnius",
+   "desc": "During the Russo-Polish war Vilnius was occupied and plundered (1655-61); teaching was interrupted.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vilnius-1781-reform",
+   "inst": "u-vilnius",
+   "year": 1781,
+   "approx": false,
+   "type": "reform",
+   "title": "Main School of the Grand Duchy",
+   "desc": "After the Jesuit suppression the Commission of National Education reorganised it as the Szkoła Główna Wielkiego Księstwa Litewskiego.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vilnius-1803-reform",
+   "inst": "u-vilnius",
+   "year": 1803,
+   "approx": false,
+   "type": "reform",
+   "title": "Imperial University of Vilna",
+   "desc": "Alexander I reconstituted it as the Imperial University, centre of the Vilna educational district, under curator Adam Czartoryski.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vilnius-1823-suppression",
+   "inst": "u-vilnius",
+   "year": 1823,
+   "approx": false,
+   "type": "suppression",
+   "title": "Philomath trial",
+   "desc": "The secret Philomath and Philaret student societies were crushed; students were exiled and professors such as Lelewel dismissed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vilnius-1832-suppression",
+   "inst": "u-vilnius",
+   "year": 1832,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed after the November Uprising",
+   "desc": "Nicholas I closed the university by ukase of 1 May 1832 in reprisal for the 1830-31 uprising.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-polotsk-1580-founding",
+   "inst": "j-polotsk",
+   "year": 1580,
+   "approx": false,
+   "type": "founding",
+   "title": "College founded by Báthory",
+   "desc": "Stephen Báthory founded the Jesuit college after recapturing Polotsk from Muscovy in 1579.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-polotsk-1773-confessional",
+   "inst": "j-polotsk",
+   "year": 1773,
+   "approx": false,
+   "type": "confessional",
+   "title": "Survives the Jesuit suppression",
+   "desc": "Catherine II refused to promulgate the papal brief, so Polotsk became the centre of the surviving Society in the Russian Empire.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-polotsk-1812-charter",
+   "inst": "j-polotsk",
+   "year": 1812,
+   "approx": false,
+   "type": "charter",
+   "title": "Raised to an academy with university rights",
+   "desc": "Alexander I granted the college the status of an academy equal to universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-polotsk-1820-suppression",
+   "inst": "j-polotsk",
+   "year": 1820,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed with the expulsion of the Jesuits",
+   "desc": "The academy was abolished when the Jesuits were expelled from the Russian Empire.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zamosc-1594-founding",
+   "inst": "u-zamosc",
+   "year": 1594,
+   "approx": false,
+   "type": "founding",
+   "title": "Opened by Jan Zamoyski",
+   "desc": "Jan Zamoyski opened the academy in March 1595 after obtaining papal approval in 1594; the founding is conventionally dated 1594.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zamosc-1648-destruction",
+   "inst": "u-zamosc",
+   "year": 1648,
+   "approx": true,
+   "type": "destruction",
+   "title": "Siege of Zamość and decline",
+   "desc": "Wars of the mid-17th century (Cossack siege 1648, Swedish 1656) and the extinction of patronage led to long decline.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zamosc-1784-suppression",
+   "inst": "u-zamosc",
+   "year": 1784,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed by Austria",
+   "desc": "After the first partition the Austrian authorities abolished the academy and replaced it with a lyceum.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-rakow-1602-founding",
+   "inst": "a-rakow",
+   "year": 1602,
+   "approx": true,
+   "type": "founding",
+   "title": "Academy opened",
+   "desc": "The Polish Brethren opened their gymnasium/academy in Raków under Jakub Sienieński.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-rakow-1638-suppression",
+   "inst": "a-rakow",
+   "year": 1638,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed by the Sejm",
+   "desc": "After students desecrated a crucifix, the Sejm ordered the school closed and the Socinian press and church at Raków destroyed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-gdansk-1558-founding",
+   "inst": "a-gdansk",
+   "year": 1558,
+   "approx": false,
+   "type": "founding",
+   "title": "Gymnasium opened in the former Franciscan monastery",
+   "desc": "The city council opened the gymnasium in the former Franciscan friary on 13 June 1558.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-gdansk-1580-reform",
+   "inst": "a-gdansk",
+   "year": 1580,
+   "approx": true,
+   "type": "reform",
+   "title": "Raised to an academic gymnasium",
+   "desc": "The school was raised to an academic gymnasium with professorial chairs.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-gdansk-1817-reform",
+   "inst": "a-gdansk",
+   "year": 1817,
+   "approx": true,
+   "type": "reform",
+   "title": "Merged into the city gymnasium",
+   "desc": "Under Prussian rule the academic gymnasium was reorganised as an ordinary municipal gymnasium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lviv-1661-founding",
+   "inst": "u-lviv",
+   "year": 1661,
+   "approx": false,
+   "type": "founding",
+   "title": "Diploma of John II Casimir",
+   "desc": "John II Casimir's diploma of 20 January 1661 granted the Jesuit college the dignity of an academy with university titles.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lviv-1773-reform",
+   "inst": "u-lviv",
+   "year": 1773,
+   "approx": false,
+   "type": "reform",
+   "title": "Suppression of the Jesuits",
+   "desc": "The Jesuit academy ceased with the dissolution of the order, the year after Lwów passed to Austria.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lviv-1784-refoundation",
+   "inst": "u-lviv",
+   "year": 1784,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Josephine University",
+   "desc": "Joseph II founded a university with four faculties and a Studium Ruthenum for Greek Catholic clergy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lviv-1805-reform",
+   "inst": "u-lviv",
+   "year": 1805,
+   "approx": false,
+   "type": "reform",
+   "title": "Reduced to a lyceum",
+   "desc": "The university was downgraded to a lyceum (and Kraków joined to it) during Austrian educational retrenchment.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lviv-1817-refoundation",
+   "inst": "u-lviv",
+   "year": 1817,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Franz I University restored",
+   "desc": "Emperor Franz I restored the university, named Franzens-Universität.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lviv-1848-destruction",
+   "inst": "u-lviv",
+   "year": 1848,
+   "approx": false,
+   "type": "destruction",
+   "title": "Bombardment of Lwów",
+   "desc": "During the Austrian bombardment of November 1848 the university building and library burned.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lviv-1871-reform",
+   "inst": "u-lviv",
+   "year": 1871,
+   "approx": false,
+   "type": "reform",
+   "title": "Polish as language of instruction",
+   "desc": "Under Galician autonomy Polish was introduced as the language of instruction (with some Ukrainian chairs) in 1871-79.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lviv-1897-access",
+   "inst": "u-lviv",
+   "year": 1897,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were admitted as regular students in the philosophical faculty following the Austrian decree of 1897.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-lviv-1844-founding",
+   "inst": "t-lviv",
+   "year": 1844,
+   "approx": false,
+   "type": "founding",
+   "title": "Technical Academy opened",
+   "desc": "Opened 4 November 1844 as the k.k. Technische Akademie.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-lviv-1871-reform",
+   "inst": "t-lviv",
+   "year": 1871,
+   "approx": false,
+   "type": "reform",
+   "title": "Polish language of instruction",
+   "desc": "Polish became the language of instruction under Galician autonomy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-lviv-1877-reform",
+   "inst": "t-lviv",
+   "year": 1877,
+   "approx": false,
+   "type": "reform",
+   "title": "Rank of polytechnic school",
+   "desc": "Raised to a Polytechnic School (Technische Hochschule) with rector and university-level status.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ostroh-1576-founding",
+   "inst": "b-ostroh",
+   "year": 1576,
+   "approx": true,
+   "type": "founding",
+   "title": "School founded by Prince Ostrogski",
+   "desc": "Prince Konstanty Wasyl Ostrogski established the 'trilingual lyceum' teaching Slavonic, Greek and Latin.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ostroh-1624-confessional",
+   "inst": "b-ostroh",
+   "year": 1624,
+   "approx": false,
+   "type": "confessional",
+   "title": "Jesuit college founded in Ostroh",
+   "desc": "Ostrogski's Catholic granddaughter Anna Alojza Chodkiewicz founded a Jesuit college that absorbed the school's role.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ostroh-1636-suppression",
+   "inst": "b-ostroh",
+   "year": 1636,
+   "approx": true,
+   "type": "suppression",
+   "title": "End of the Orthodox academy",
+   "desc": "The academy ceased, its endowment passing to the Jesuit college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-kremenets-1805-founding",
+   "inst": "m-kremenets",
+   "year": 1805,
+   "approx": false,
+   "type": "founding",
+   "title": "Volhynian Gymnasium opened",
+   "desc": "Tadeusz Czacki opened the Volhynian Gymnasium in the former Jesuit college at Kremenets.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-kremenets-1819-reform",
+   "inst": "m-kremenets",
+   "year": 1819,
+   "approx": false,
+   "type": "reform",
+   "title": "Raised to a lyceum",
+   "desc": "The gymnasium was granted the rank of a lyceum.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-kremenets-1833-suppression",
+   "inst": "m-kremenets",
+   "year": 1833,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed after the November Uprising",
+   "desc": "Russian authorities closed the lyceum; its library and botanical collections went to Kyiv's St Vladimir University.",
+   "from_inst": null,
+   "related": [
+    "u-kyiv"
+   ]
+  },
+  {
+   "id": "u-warsaw-1816-founding",
+   "inst": "u-warsaw",
+   "year": 1816,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal University of Warsaw",
+   "desc": "Alexander I's decree of 19 November 1816 created the university from the existing Schools of Law and Medicine.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-warsaw-1831-suppression",
+   "inst": "u-warsaw",
+   "year": 1831,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed after the November Uprising",
+   "desc": "The university was closed by the Russian authorities following the 1830-31 uprising; its collections were taken to St Petersburg.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-warsaw-1862-refoundation",
+   "inst": "u-warsaw",
+   "year": 1862,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Main School (Szkoła Główna)",
+   "desc": "Under Wielopolski's reforms a Polish-language Main School with four faculties opened in Warsaw.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-warsaw-1869-reform",
+   "inst": "u-warsaw",
+   "year": 1869,
+   "approx": false,
+   "type": "reform",
+   "title": "Imperial University of Warsaw",
+   "desc": "After the January Uprising the Main School was replaced by a Russian-language Imperial University.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-marymont-1816-founding",
+   "inst": "t-marymont",
+   "year": 1816,
+   "approx": false,
+   "type": "founding",
+   "title": "Institute established",
+   "desc": "The Agronomic Institute was established by decree in 1816; teaching began at Marymont in 1820.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-marymont-1831-suppression",
+   "inst": "t-marymont",
+   "year": 1831,
+   "approx": true,
+   "type": "suppression",
+   "title": "Closed after the November Uprising",
+   "desc": "The institute was closed in the wake of the 1830-31 uprising.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-marymont-1840-refoundation",
+   "inst": "t-marymont",
+   "year": 1840,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Institute of Rural Economy and Forestry",
+   "desc": "Reopened at Marymont as the Institute of Rural Economy and Forestry.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-marymont-1862-relocation",
+   "inst": "t-marymont",
+   "year": 1862,
+   "approx": false,
+   "type": "relocation",
+   "title": "Moved to Puławy",
+   "desc": "The institute was transferred to the Czartoryski palace at Puławy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-marymont-1869-reform",
+   "inst": "t-marymont",
+   "year": 1869,
+   "approx": false,
+   "type": "reform",
+   "title": "Russified as New Alexandria Institute",
+   "desc": "Converted into the Russian-language Institute of Agriculture and Forestry at Nowa Aleksandria (Puławy).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-warsaw-1898-founding",
+   "inst": "t-warsaw",
+   "year": 1898,
+   "approx": false,
+   "type": "founding",
+   "title": "Polytechnic opened",
+   "desc": "Opened in autumn 1898 with mechanical, chemical and engineering departments.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dorpat-1632-founding",
+   "inst": "u-dorpat",
+   "year": 1632,
+   "approx": false,
+   "type": "founding",
+   "title": "Academia Gustaviana",
+   "desc": "Gustavus II Adolphus signed the founding charter on 30 June 1632; the academy opened on 15 October 1632.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dorpat-1656-relocation",
+   "inst": "u-dorpat",
+   "year": 1656,
+   "approx": false,
+   "type": "relocation",
+   "title": "Flight to Reval",
+   "desc": "During the Russo-Swedish war the academy fled Dorpat for Reval (Tallinn), where it lapsed by 1665.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dorpat-1690-refoundation",
+   "inst": "u-dorpat",
+   "year": 1690,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Academia Gustavo-Carolina",
+   "desc": "Charles XI reopened the university in Dorpat as the Academia Gustavo-Carolina.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dorpat-1699-relocation",
+   "inst": "u-dorpat",
+   "year": 1699,
+   "approx": false,
+   "type": "relocation",
+   "title": "Moved to Pernau",
+   "desc": "Threatened by Russia and the decay of Dorpat, the university moved to Pernau (Pärnu).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dorpat-1710-suppression",
+   "inst": "u-dorpat",
+   "year": 1710,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure in the Great Northern War",
+   "desc": "The university ceased when Pernau capitulated to Russian forces in 1710.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dorpat-1802-refoundation",
+   "inst": "u-dorpat",
+   "year": 1802,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Imperial University of Dorpat",
+   "desc": "Alexander I reopened the university as a German-language institution under the Baltic knighthoods, confirmed by the 1803 act of foundation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dorpat-1889-reform",
+   "inst": "u-dorpat",
+   "year": 1889,
+   "approx": true,
+   "type": "reform",
+   "title": "Russification",
+   "desc": "From 1889 Russian was progressively imposed as language of instruction; in 1893 the city and university were renamed Yuryev.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-riga-1862-founding",
+   "inst": "t-riga",
+   "year": 1862,
+   "approx": false,
+   "type": "founding",
+   "title": "Riga Polytechnic School opened",
+   "desc": "Opened on 2 October 1862, funded by the Riga Exchange Committee, city and Baltic estates.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-riga-1896-reform",
+   "inst": "t-riga",
+   "year": 1896,
+   "approx": false,
+   "type": "reform",
+   "title": "Riga Polytechnic Institute",
+   "desc": "Taken over by the state as the Riga Polytechnic Institute, with Russian replacing German as language of instruction.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-moscow-academy-1687-founding",
+   "inst": "b-moscow-academy",
+   "year": 1687,
+   "approx": false,
+   "type": "founding",
+   "title": "Academy opens under the Likhoudes",
+   "desc": "Teaching began at the Zaikonospassky Monastery under Ioannikios and Sophronios Likhoudes.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-moscow-academy-1694-reform",
+   "inst": "b-moscow-academy",
+   "year": 1694,
+   "approx": false,
+   "type": "reform",
+   "title": "Removal of the Likhoudes",
+   "desc": "The Likhoud brothers were dismissed amid Latin-Greek controversies; the academy declined.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-moscow-academy-1701-reform",
+   "inst": "b-moscow-academy",
+   "year": 1701,
+   "approx": false,
+   "type": "reform",
+   "title": "Slavic-Latin Academy of Peter I",
+   "desc": "Peter I reorganised the school on the Kyiv-Mohyla model with Latin as main language and Ukrainian teachers.",
+   "from_inst": null,
+   "related": [
+    "b-kyiv-mohyla"
+   ]
+  },
+  {
+   "id": "b-moscow-academy-1814-reform",
+   "inst": "b-moscow-academy",
+   "year": 1814,
+   "approx": false,
+   "type": "reform",
+   "title": "Becomes Moscow Theological Academy",
+   "desc": "The academy was transformed into the Moscow Theological Academy and moved to the Trinity-Sergius Lavra.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-moscow-navigation-1701-founding",
+   "inst": "t-moscow-navigation",
+   "year": 1701,
+   "approx": false,
+   "type": "founding",
+   "title": "Founded by Peter I",
+   "desc": "Peter I's decree of 14 January 1701 founded the school, taught by Henry Farquharson and Leonty Magnitsky.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-moscow-navigation-1715-reform",
+   "inst": "t-moscow-navigation",
+   "year": 1715,
+   "approx": false,
+   "type": "reform",
+   "title": "Senior classes moved to St Petersburg",
+   "desc": "Upper classes were transferred to the new Naval Academy in St Petersburg, leaving the Moscow school as a preparatory school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-moscow-navigation-1752-suppression",
+   "inst": "t-moscow-navigation",
+   "year": 1752,
+   "approx": false,
+   "type": "suppression",
+   "title": "School closed",
+   "desc": "The remaining Moscow school was abolished and merged into the Naval Cadet Corps.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-academic-1724-founding",
+   "inst": "u-st-petersburg-academic",
+   "year": 1724,
+   "approx": false,
+   "type": "founding",
+   "title": "Decree of Peter I",
+   "desc": "Peter I's decree of 28 January 1724 established the Academy of Sciences with an attached university and gymnasium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-academic-1758-reform",
+   "inst": "u-st-petersburg-academic",
+   "year": 1758,
+   "approx": false,
+   "type": "reform",
+   "title": "Lomonosov takes charge",
+   "desc": "Lomonosov was put in charge of the university and gymnasium and drafted new regulations (1758-65).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-academic-1766-suppression",
+   "inst": "u-st-petersburg-academic",
+   "year": 1766,
+   "approx": true,
+   "type": "suppression",
+   "title": "University lapses",
+   "desc": "After Lomonosov's death teaching effectively ceased.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-1819-founding",
+   "inst": "u-st-petersburg",
+   "year": 1819,
+   "approx": false,
+   "type": "founding",
+   "title": "University created from the Main Pedagogical Institute",
+   "desc": "Alexander I transformed the Main Pedagogical Institute into St Petersburg University on 8 February 1819.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-1821-reform",
+   "inst": "u-st-petersburg",
+   "year": 1821,
+   "approx": false,
+   "type": "reform",
+   "title": "Runich purge",
+   "desc": "Curator Dmitry Runich prosecuted leading professors for 'subversive' teaching, causing several dismissals.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-1835-reform",
+   "inst": "u-st-petersburg",
+   "year": 1835,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1835",
+   "desc": "Nicholas I's statute curtailed autonomy and placed universities under the district curators.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-1861-suppression",
+   "inst": "u-st-petersburg",
+   "year": 1861,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure after student unrest",
+   "desc": "Following student protests against new regulations the university was closed in autumn 1861; regular teaching resumed in 1863.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-1863-reform",
+   "inst": "u-st-petersburg",
+   "year": 1863,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1863",
+   "desc": "The liberal statute restored councils' autonomy; it also confirmed the exclusion of women, who had attended lectures as auditors since 1859.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-1884-reform",
+   "inst": "u-st-petersburg",
+   "year": 1884,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1884",
+   "desc": "Alexander III's statute abolished autonomy and placed appointments under the Ministry.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-petersburg-1899-reform",
+   "inst": "u-st-petersburg",
+   "year": 1899,
+   "approx": false,
+   "type": "reform",
+   "title": "General student strike",
+   "desc": "A strike begun at St Petersburg spread to universities across the empire; the government responded with conscription of strikers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-mining-1773-founding",
+   "inst": "t-st-petersburg-mining",
+   "year": 1773,
+   "approx": false,
+   "type": "founding",
+   "title": "Mining School founded",
+   "desc": "Catherine II's decree of 21 October 1773 established the Mining School.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-mining-1804-reform",
+   "inst": "t-st-petersburg-mining",
+   "year": 1804,
+   "approx": false,
+   "type": "reform",
+   "title": "Mining Cadet Corps",
+   "desc": "Reorganised as the Mining Cadet Corps.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-mining-1833-reform",
+   "inst": "t-st-petersburg-mining",
+   "year": 1833,
+   "approx": false,
+   "type": "reform",
+   "title": "Institute of the Corps of Mining Engineers",
+   "desc": "Reorganised as a militarised institute of the Corps of Mining Engineers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-mining-1866-reform",
+   "inst": "t-st-petersburg-mining",
+   "year": 1866,
+   "approx": false,
+   "type": "reform",
+   "title": "Civil Mining Institute",
+   "desc": "Converted into a civilian higher school, the Mining Institute.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-railways-1809-founding",
+   "inst": "t-st-petersburg-railways",
+   "year": 1809,
+   "approx": false,
+   "type": "founding",
+   "title": "Institute founded",
+   "desc": "Established by Alexander I's manifesto of 20 November 1809; opened in 1810 under Betancourt.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-railways-1864-reform",
+   "inst": "t-st-petersburg-railways",
+   "year": 1864,
+   "approx": true,
+   "type": "reform",
+   "title": "Civilian institute",
+   "desc": "The institute was demilitarised and became a civilian engineering school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-technological-1828-founding",
+   "inst": "t-st-petersburg-technological",
+   "year": 1828,
+   "approx": false,
+   "type": "founding",
+   "title": "Practical Technological Institute",
+   "desc": "Founded by decree of 1828; teaching began in 1831.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-technological-1862-reform",
+   "inst": "t-st-petersburg-technological",
+   "year": 1862,
+   "approx": true,
+   "type": "reform",
+   "title": "Higher-school status",
+   "desc": "Reorganised as a higher technical school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-st-petersburg-polytechnic-1899-founding",
+   "inst": "t-st-petersburg-polytechnic",
+   "year": 1899,
+   "approx": false,
+   "type": "founding",
+   "title": "Established by imperial decree",
+   "desc": "Founded by decree of 19 February 1899; teaching began in 1902.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-st-petersburg-medical-1798-founding",
+   "inst": "m-st-petersburg-medical",
+   "year": 1798,
+   "approx": false,
+   "type": "founding",
+   "title": "Medical-Surgical Academy founded",
+   "desc": "Paul I's decree of 18 December 1798 established the academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-st-petersburg-medical-1872-access",
+   "inst": "m-st-petersburg-medical",
+   "year": 1872,
+   "approx": true,
+   "type": "access",
+   "title": "Women's medical courses",
+   "desc": "Special courses for 'learned midwives' (women's medical courses) opened attached to the academy; closed 1887.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-st-petersburg-medical-1881-reform",
+   "inst": "m-st-petersburg-medical",
+   "year": 1881,
+   "approx": false,
+   "type": "reform",
+   "title": "Military Medical Academy",
+   "desc": "Renamed and reorganised as the Imperial Military Medical Academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-tsarskoye-selo-1811-founding",
+   "inst": "m-tsarskoye-selo",
+   "year": 1811,
+   "approx": false,
+   "type": "founding",
+   "title": "Lyceum opened",
+   "desc": "Opened on 19 October 1811 in a wing of the Catherine Palace.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-tsarskoye-selo-1843-relocation",
+   "inst": "m-tsarskoye-selo",
+   "year": 1843,
+   "approx": false,
+   "type": "relocation",
+   "title": "Moved to St Petersburg",
+   "desc": "Transferred to St Petersburg and renamed the Alexander Lyceum.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-yaroslavl-1803-founding",
+   "inst": "m-yaroslavl",
+   "year": 1803,
+   "approx": false,
+   "type": "founding",
+   "title": "Demidov School of Higher Sciences",
+   "desc": "Founded with Pavel Demidov's endowment, approved by Alexander I in 1803.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-yaroslavl-1868-reform",
+   "inst": "m-yaroslavl",
+   "year": 1868,
+   "approx": false,
+   "type": "reform",
+   "title": "Juridical lyceum",
+   "desc": "Reorganised as a law lyceum.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-moscow-1755-founding",
+   "inst": "u-moscow",
+   "year": 1755,
+   "approx": false,
+   "type": "founding",
+   "title": "Decree of Empress Elizabeth",
+   "desc": "Elizabeth signed the founding decree on 12 January 1755 (St Tatiana's Day); teaching opened in April.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-moscow-1804-reform",
+   "inst": "u-moscow",
+   "year": 1804,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1804",
+   "desc": "Alexander I's statute granted councils autonomy and made the university the head of the Moscow educational district.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-moscow-1812-destruction",
+   "inst": "u-moscow",
+   "year": 1812,
+   "approx": false,
+   "type": "destruction",
+   "title": "Moscow fire",
+   "desc": "The university's buildings, library and collections were destroyed in the fire of Moscow during the French occupation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-moscow-1835-reform",
+   "inst": "u-moscow",
+   "year": 1835,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1835",
+   "desc": "Nicholas I's statute subordinated the university to the district curator.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-moscow-1863-reform",
+   "inst": "u-moscow",
+   "year": 1863,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1863",
+   "desc": "Restored self-government to the university council.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-moscow-1884-reform",
+   "inst": "u-moscow",
+   "year": 1884,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1884",
+   "desc": "Abolished university autonomy and imposed state examinations.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-moscow-technical-1830-founding",
+   "inst": "t-moscow-technical",
+   "year": 1830,
+   "approx": false,
+   "type": "founding",
+   "title": "Craft school founded",
+   "desc": "Nicholas I approved the craft educational establishment of the Moscow Orphanage on 1 July 1830.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-moscow-technical-1868-reform",
+   "inst": "t-moscow-technical",
+   "year": 1868,
+   "approx": false,
+   "type": "reform",
+   "title": "Imperial Moscow Technical School",
+   "desc": "Reorganised as a higher technical school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-moscow-petrovskaya-1865-founding",
+   "inst": "t-moscow-petrovskaya",
+   "year": 1865,
+   "approx": false,
+   "type": "founding",
+   "title": "Academy opened",
+   "desc": "Opened in December 1865 on the former Razumovsky estate.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-moscow-petrovskaya-1894-reform",
+   "inst": "t-moscow-petrovskaya",
+   "year": 1894,
+   "approx": false,
+   "type": "reform",
+   "title": "Moscow Agricultural Institute",
+   "desc": "The academy was closed and replaced by the Moscow Agricultural Institute.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kazan-1804-founding",
+   "inst": "u-kazan",
+   "year": 1804,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding decree",
+   "desc": "Alexander I's charter of 5 November 1804 established Kazan University; teaching began in 1805.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kazan-1819-reform",
+   "inst": "u-kazan",
+   "year": 1819,
+   "approx": false,
+   "type": "reform",
+   "title": "Magnitsky purge",
+   "desc": "Curator Mikhail Magnitsky dismissed professors, imposed religious censorship and 'cleansed' the anatomical collection (1819-26).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kazan-1835-reform",
+   "inst": "u-kazan",
+   "year": 1835,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1835",
+   "desc": "Nicholas I's statute reduced autonomy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kazan-1842-destruction",
+   "inst": "u-kazan",
+   "year": 1842,
+   "approx": false,
+   "type": "destruction",
+   "title": "Kazan fire",
+   "desc": "The great fire of Kazan damaged the university, including the observatory.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kazan-1884-reform",
+   "inst": "u-kazan",
+   "year": 1884,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1884",
+   "desc": "Abolished autonomy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kazan-1887-suppression",
+   "inst": "u-kazan",
+   "year": 1887,
+   "approx": false,
+   "type": "suppression",
+   "title": "Student meeting and expulsions",
+   "desc": "A student protest in December 1887 led to mass expulsions, including Vladimir Ulyanov.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kharkiv-1804-founding",
+   "inst": "u-kharkiv",
+   "year": 1804,
+   "approx": false,
+   "type": "founding",
+   "title": "Charter of 1804",
+   "desc": "Alexander I's charter of 5 November 1804 founded the university; it opened on 17 January 1805.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kharkiv-1835-reform",
+   "inst": "u-kharkiv",
+   "year": 1835,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1835",
+   "desc": "Reduced autonomy under Nicholas I.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kharkiv-1863-reform",
+   "inst": "u-kharkiv",
+   "year": 1863,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1863",
+   "desc": "Restored corporate self-government.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kharkiv-1884-reform",
+   "inst": "u-kharkiv",
+   "year": 1884,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1884",
+   "desc": "Abolished autonomy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kharkiv-collegium-1726-founding",
+   "inst": "b-kharkiv-collegium",
+   "year": 1726,
+   "approx": false,
+   "type": "founding",
+   "title": "Collegium moved to Kharkiv",
+   "desc": "Bishop Epifaniy Tykhorsky transferred the Belgorod episcopal school to Kharkiv, opening the collegium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kharkiv-collegium-1817-reform",
+   "inst": "b-kharkiv-collegium",
+   "year": 1817,
+   "approx": true,
+   "type": "reform",
+   "title": "Converted into a seminary",
+   "desc": "The collegium was reorganised as the Kharkiv Theological Seminary.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kyiv-mohyla-1615-founding",
+   "inst": "b-kyiv-mohyla",
+   "year": 1615,
+   "approx": false,
+   "type": "founding",
+   "title": "Kyiv Brotherhood school",
+   "desc": "Halshka Hulevychivna's gift of land enabled the Kyiv Epiphany Brotherhood to open its school in Podil.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kyiv-mohyla-1632-reform",
+   "inst": "b-kyiv-mohyla",
+   "year": 1632,
+   "approx": false,
+   "type": "reform",
+   "title": "Mohyla Collegium",
+   "desc": "Archimandrite (later Metropolitan) Peter Mohyla united his Lavra school with the brotherhood school as the Kyiv-Mohyla Collegium with a Latin curriculum.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kyiv-mohyla-1694-charter",
+   "inst": "b-kyiv-mohyla",
+   "year": 1694,
+   "approx": false,
+   "type": "charter",
+   "title": "Tsars' charter",
+   "desc": "A charter of Ivan V and Peter I recognised the collegium's right to teach philosophy and theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kyiv-mohyla-1701-charter",
+   "inst": "b-kyiv-mohyla",
+   "year": 1701,
+   "approx": false,
+   "type": "charter",
+   "title": "Academy status",
+   "desc": "Peter I's charter granted the title and rights of an academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kyiv-mohyla-1817-suppression",
+   "inst": "b-kyiv-mohyla",
+   "year": 1817,
+   "approx": false,
+   "type": "suppression",
+   "title": "Academy closed",
+   "desc": "The academy was closed; the Kyiv Theological Academy was established in its buildings in 1819.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kyiv-1834-founding",
+   "inst": "u-kyiv",
+   "year": 1834,
+   "approx": false,
+   "type": "founding",
+   "title": "University opened",
+   "desc": "Founded by decree of 8 November 1833 and opened on 15 July 1834, with the library and collections of the Kremenets Lyceum.",
+   "from_inst": null,
+   "related": [
+    "m-kremenets",
+    "u-vilnius"
+   ]
+  },
+  {
+   "id": "u-kyiv-1839-suppression",
+   "inst": "u-kyiv",
+   "year": 1839,
+   "approx": false,
+   "type": "suppression",
+   "title": "Temporary closure",
+   "desc": "After the discovery of Polish conspiratorial circles the university was closed for a year (1839-40).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kyiv-1847-suppression",
+   "inst": "u-kyiv",
+   "year": 1847,
+   "approx": false,
+   "type": "suppression",
+   "title": "Cyril and Methodius Brotherhood arrests",
+   "desc": "The secret Ukrainian brotherhood associated with the university was suppressed; Kostomarov was arrested.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kyiv-1863-reform",
+   "inst": "u-kyiv",
+   "year": 1863,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1863",
+   "desc": "Restored self-government.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kyiv-1884-reform",
+   "inst": "u-kyiv",
+   "year": 1884,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1884",
+   "desc": "Abolished autonomy; the university was briefly closed after student unrest.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-kyiv-1898-founding",
+   "inst": "t-kyiv",
+   "year": 1898,
+   "approx": false,
+   "type": "founding",
+   "title": "Polytechnic opened",
+   "desc": "Opened on 31 August 1898.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-nizhyn-1820-founding",
+   "inst": "m-nizhyn",
+   "year": 1820,
+   "approx": false,
+   "type": "founding",
+   "title": "Gymnasium of Higher Sciences opened",
+   "desc": "Opened with the Bezborodko bequest.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-nizhyn-1875-reform",
+   "inst": "m-nizhyn",
+   "year": 1875,
+   "approx": false,
+   "type": "reform",
+   "title": "Historical-Philological Institute",
+   "desc": "Reorganised as a Historical-Philological Institute for training teachers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-odessa-richelieu-1817-founding",
+   "inst": "m-odessa-richelieu",
+   "year": 1817,
+   "approx": false,
+   "type": "founding",
+   "title": "Lyceum founded",
+   "desc": "Created by decree of 1817 from the Odessa Noble Institute.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-odessa-richelieu-1865-reform",
+   "inst": "m-odessa-richelieu",
+   "year": 1865,
+   "approx": false,
+   "type": "reform",
+   "title": "Transformed into Novorossiya University",
+   "desc": "The lyceum's resources became the basis of the Imperial Novorossiya University.",
+   "from_inst": null,
+   "related": [
+    "u-odessa"
+   ]
+  },
+  {
+   "id": "u-odessa-1865-founding",
+   "inst": "u-odessa",
+   "year": 1865,
+   "approx": false,
+   "type": "founding",
+   "title": "University opened",
+   "desc": "Founded by decree of 1 May 1865 and opened in October.",
+   "from_inst": null,
+   "related": [
+    "m-odessa-richelieu"
+   ]
+  },
+  {
+   "id": "u-odessa-1884-reform",
+   "inst": "u-odessa",
+   "year": 1884,
+   "approx": false,
+   "type": "reform",
+   "title": "University Statute of 1884",
+   "desc": "Abolished autonomy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pecs-1367-founding",
+   "inst": "u-pecs",
+   "year": 1367,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Urban V",
+   "desc": "Pope Urban V's bull of 1 September 1367, requested by Louis I, established a studium generale without theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pecs-1390-destruction",
+   "inst": "u-pecs",
+   "year": 1390,
+   "approx": true,
+   "type": "destruction",
+   "title": "Decline and disappearance",
+   "desc": "The studium ceased to be documented around the end of the 14th century.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-obuda-1395-founding",
+   "inst": "u-obuda",
+   "year": 1395,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Boniface IX",
+   "desc": "Pope Boniface IX's bull of 6 October 1395, at Sigismund's request, founded a studium generale with theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-obuda-1410-refoundation",
+   "inst": "u-obuda",
+   "year": 1410,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Refounded by John XXIII",
+   "desc": "Antipope John XXIII reconfirmed the university at Sigismund's request.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pozsony-1465-founding",
+   "inst": "u-pozsony",
+   "year": 1465,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Paul II",
+   "desc": "Pope Paul II's bull of 19 May 1465 authorised the university; teaching began in 1467.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pozsony-1490-destruction",
+   "inst": "u-pozsony",
+   "year": 1490,
+   "approx": true,
+   "type": "destruction",
+   "title": "Cessation after Matthias's death",
+   "desc": "With the death of Matthias Corvinus the academy lost support and ceased.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1635-founding",
+   "inst": "u-trnava-budapest",
+   "year": 1635,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation by Péter Pázmány",
+   "desc": "Archbishop Pázmány's deed of 12 May 1635 founded a Jesuit university with arts and theology faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1667-reform",
+   "inst": "u-trnava-budapest",
+   "year": 1667,
+   "approx": false,
+   "type": "reform",
+   "title": "Faculty of law",
+   "desc": "A law faculty was added with the support of Archbishop György Lippay.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1769-reform",
+   "inst": "u-trnava-budapest",
+   "year": 1769,
+   "approx": false,
+   "type": "reform",
+   "title": "Faculty of medicine",
+   "desc": "Maria Theresa established a medical faculty (opened 1770), completing four faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1773-reform",
+   "inst": "u-trnava-budapest",
+   "year": 1773,
+   "approx": false,
+   "type": "reform",
+   "title": "Suppression of the Jesuits",
+   "desc": "The dissolution of the Society of Jesus brought the university under state control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1777-relocation",
+   "inst": "u-trnava-budapest",
+   "year": 1777,
+   "approx": false,
+   "type": "relocation",
+   "title": "Moved to Buda",
+   "desc": "Maria Theresa transferred the university to Buda Castle.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1780-charter",
+   "inst": "u-trnava-budapest",
+   "year": 1780,
+   "approx": false,
+   "type": "charter",
+   "title": "Diploma Inaugurale",
+   "desc": "Maria Theresa's Diploma Inaugurale granted new statutes and royal patronage.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1784-relocation",
+   "inst": "u-trnava-budapest",
+   "year": 1784,
+   "approx": false,
+   "type": "relocation",
+   "title": "Moved to Pest",
+   "desc": "Joseph II moved the university to Pest.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1844-reform",
+   "inst": "u-trnava-budapest",
+   "year": 1844,
+   "approx": false,
+   "type": "reform",
+   "title": "Hungarian language of instruction",
+   "desc": "Hungarian replaced Latin as the official language of instruction.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-trnava-budapest-1895-access",
+   "inst": "u-trnava-budapest",
+   "year": 1895,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "A royal decree of 1895 admitted women to the faculties of philosophy, medicine and pharmacy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-budapest-1782-founding",
+   "inst": "t-budapest",
+   "year": 1782,
+   "approx": false,
+   "type": "founding",
+   "title": "Institutum Geometricum",
+   "desc": "Joseph II founded the Institutum Geometricum (Hydrotechnicum) at the university in Buda, the first engineering training in Hungary.",
+   "from_inst": null,
+   "related": [
+    "u-trnava-budapest"
+   ]
+  },
+  {
+   "id": "t-budapest-1784-relocation",
+   "inst": "t-budapest",
+   "year": 1784,
+   "approx": false,
+   "type": "relocation",
+   "title": "Moved to Pest with the university",
+   "desc": "Followed the university to Pest.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-budapest-1846-reform",
+   "inst": "t-budapest",
+   "year": 1846,
+   "approx": false,
+   "type": "reform",
+   "title": "Joseph Industrial School",
+   "desc": "Re-established as the independent József Ipartanoda.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-budapest-1871-reform",
+   "inst": "t-budapest",
+   "year": 1871,
+   "approx": false,
+   "type": "reform",
+   "title": "Joseph Polytechnic",
+   "desc": "Received university rank as the Joseph Polytechnic.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-banska-stiavnica-1762-founding",
+   "inst": "t-banska-stiavnica",
+   "year": 1762,
+   "approx": false,
+   "type": "founding",
+   "title": "Chair of metallurgy and mining",
+   "desc": "Maria Theresa established practical mining instruction with Nikolaus Jacquin as first professor (1763).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-banska-stiavnica-1770-reform",
+   "inst": "t-banska-stiavnica",
+   "year": 1770,
+   "approx": false,
+   "type": "reform",
+   "title": "Raised to a Mining Academy",
+   "desc": "Given the status of a Bergakademie with three chairs.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-banska-stiavnica-1807-reform",
+   "inst": "t-banska-stiavnica",
+   "year": 1807,
+   "approx": false,
+   "type": "reform",
+   "title": "Forestry Institute added",
+   "desc": "A forestry institute was attached; the school became the Mining and Forestry Academy in 1846.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-banska-stiavnica-1867-reform",
+   "inst": "t-banska-stiavnica",
+   "year": 1867,
+   "approx": true,
+   "type": "reform",
+   "title": "Hungarian language",
+   "desc": "Hungarian replaced German as language of instruction.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-keszthely-1797-founding",
+   "inst": "t-keszthely",
+   "year": 1797,
+   "approx": false,
+   "type": "founding",
+   "title": "Founded by Count Festetics",
+   "desc": "Count György Festetics opened the Georgikon on his Keszthely estate.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-keszthely-1848-suppression",
+   "inst": "t-keszthely",
+   "year": 1848,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed",
+   "desc": "The school ceased in 1848.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-keszthely-1865-refoundation",
+   "inst": "t-keszthely",
+   "year": 1865,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Keszthely agricultural school",
+   "desc": "A state agricultural school continued the Georgikon tradition.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kosice-1657-founding",
+   "inst": "u-kosice",
+   "year": 1657,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation deed of Bishop Kisdy",
+   "desc": "Bishop Benedikt Kisdy founded a Jesuit university with philosophy and theology faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kosice-1660-charter",
+   "inst": "u-kosice",
+   "year": 1660,
+   "approx": false,
+   "type": "charter",
+   "title": "Golden Bull of Leopold I",
+   "desc": "Leopold I confirmed the university's privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kosice-1777-reform",
+   "inst": "u-kosice",
+   "year": 1777,
+   "approx": false,
+   "type": "reform",
+   "title": "Royal Academy",
+   "desc": "After the Jesuit suppression it was reorganised as one of the Royal Academies under the Ratio Educationis.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-kosice-1850-reform",
+   "inst": "u-kosice",
+   "year": 1850,
+   "approx": false,
+   "type": "reform",
+   "title": "Law Academy",
+   "desc": "Reorganised as a law academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-cluj-1581-founding",
+   "inst": "j-cluj",
+   "year": 1581,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation charter of Stephen Báthory",
+   "desc": "Báthory's charter of 12 May 1581 founded the college with the right to confer degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-cluj-1603-destruction",
+   "inst": "j-cluj",
+   "year": 1603,
+   "approx": false,
+   "type": "destruction",
+   "title": "Jesuits expelled",
+   "desc": "The college was sacked and the Jesuits expelled by the townspeople.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cluj-1872-founding",
+   "inst": "u-cluj",
+   "year": 1872,
+   "approx": false,
+   "type": "founding",
+   "title": "Act XIX of 1872",
+   "desc": "Founded by Hungarian law with four faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cluj-1895-access",
+   "inst": "u-cluj",
+   "year": 1895,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "The 1895 decree admitted women to philosophy, medicine and pharmacy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-debrecen-1538-founding",
+   "inst": "a-debrecen",
+   "year": 1538,
+   "approx": true,
+   "type": "founding",
+   "title": "School founded",
+   "desc": "A Reformed school is traditionally dated to 1538.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-debrecen-1588-reform",
+   "inst": "a-debrecen",
+   "year": 1588,
+   "approx": true,
+   "type": "reform",
+   "title": "First statutes",
+   "desc": "The college's first surviving statutes date from 1588.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-sarospatak-1531-founding",
+   "inst": "a-sarospatak",
+   "year": 1531,
+   "approx": false,
+   "type": "founding",
+   "title": "School founded under Péter Perényi",
+   "desc": "A Protestant school was established under Perényi's patronage.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-sarospatak-1650-reform",
+   "inst": "a-sarospatak",
+   "year": 1650,
+   "approx": false,
+   "type": "reform",
+   "title": "Comenius's pansophic reform",
+   "desc": "Zsuzsanna Lorántffy invited Comenius to reorganise the college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-sarospatak-1671-confessional",
+   "inst": "a-sarospatak",
+   "year": 1671,
+   "approx": false,
+   "type": "confessional",
+   "title": "Expulsion during the Counter-Reformation",
+   "desc": "The college was expelled from Sárospatak and took refuge in Transylvania.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-sarospatak-1703-refoundation",
+   "inst": "a-sarospatak",
+   "year": 1703,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Return to Sárospatak",
+   "desc": "Under Rákóczi the college returned to Sárospatak.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-alba-iulia-1622-founding",
+   "inst": "a-alba-iulia",
+   "year": 1622,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation by Gabriel Bethlen",
+   "desc": "Prince Gabriel Bethlen established the college in Gyulafehérvár.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-alba-iulia-1658-destruction",
+   "inst": "a-alba-iulia",
+   "year": 1658,
+   "approx": false,
+   "type": "destruction",
+   "title": "Tatar raid",
+   "desc": "Ottoman-Tatar forces sacked Gyulafehérvár and destroyed the college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-alba-iulia-1662-relocation",
+   "inst": "a-alba-iulia",
+   "year": 1662,
+   "approx": false,
+   "type": "relocation",
+   "title": "Moved to Nagyenyed",
+   "desc": "The college was re-established at Nagyenyed (Aiud) under Michael I Apafi.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-alba-iulia-1704-destruction",
+   "inst": "a-alba-iulia",
+   "year": 1704,
+   "approx": false,
+   "type": "destruction",
+   "title": "Sack of Nagyenyed",
+   "desc": "Imperial troops burned Nagyenyed during the Rákóczi war, damaging the college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-alba-iulia-1849-destruction",
+   "inst": "a-alba-iulia",
+   "year": 1849,
+   "approx": false,
+   "type": "destruction",
+   "title": "Burning of Nagyenyed",
+   "desc": "The town and college were burned during the 1848-49 revolution.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-targu-mures-1718-founding",
+   "inst": "a-targu-mures",
+   "year": 1718,
+   "approx": false,
+   "type": "founding",
+   "title": "Sárospatak exiles settle",
+   "desc": "The exiled Sárospatak college group was established at Marosvásárhely.",
+   "from_inst": null,
+   "related": [
+    "a-sarospatak"
+   ]
+  },
+  {
+   "id": "u-zagreb-1669-founding",
+   "inst": "u-zagreb",
+   "year": 1669,
+   "approx": false,
+   "type": "founding",
+   "title": "Diploma of Leopold I",
+   "desc": "Leopold I's diploma of 23 September 1669 granted the Jesuit academy university-level status.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zagreb-1773-reform",
+   "inst": "u-zagreb",
+   "year": 1773,
+   "approx": false,
+   "type": "reform",
+   "title": "Suppression of the Jesuits",
+   "desc": "The academy passed under state administration.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zagreb-1776-reform",
+   "inst": "u-zagreb",
+   "year": 1776,
+   "approx": false,
+   "type": "reform",
+   "title": "Royal Academy of Sciences",
+   "desc": "Maria Theresa established the Regia Scientiarum Academia.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zagreb-1850-reform",
+   "inst": "u-zagreb",
+   "year": 1850,
+   "approx": false,
+   "type": "reform",
+   "title": "Law Academy",
+   "desc": "After 1848 reorganised as a law academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zagreb-1874-refoundation",
+   "inst": "u-zagreb",
+   "year": 1874,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University of Franz Joseph I",
+   "desc": "Franz Joseph raised it to a full university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-ljubljana-1810-founding",
+   "inst": "u-ljubljana",
+   "year": 1810,
+   "approx": false,
+   "type": "founding",
+   "title": "Écoles centrales opened",
+   "desc": "The French administration established the écoles centrales in 1810.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-ljubljana-1813-suppression",
+   "inst": "u-ljubljana",
+   "year": 1813,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed by Austria",
+   "desc": "Austrian authorities abolished the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-zadar-1396-founding",
+   "inst": "m-zadar",
+   "year": 1396,
+   "approx": false,
+   "type": "founding",
+   "title": "Studium generale",
+   "desc": "The Dominican order established a studium generale at St Dominic's in Zadar.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-zadar-1807-suppression",
+   "inst": "m-zadar",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the French",
+   "desc": "Dissolved under the French administration of Dalmatia.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-iasi-vasiliana-1640-founding",
+   "inst": "b-iasi-vasiliana",
+   "year": 1640,
+   "approx": false,
+   "type": "founding",
+   "title": "School opened by Vasile Lupu",
+   "desc": "Vasile Lupu founded the college.",
+   "from_inst": null,
+   "related": [
+    "b-kyiv-mohyla"
+   ]
+  },
+  {
+   "id": "b-iasi-vasiliana-1653-suppression",
+   "inst": "b-iasi-vasiliana",
+   "year": 1653,
+   "approx": true,
+   "type": "suppression",
+   "title": "Decline after Lupu's fall",
+   "desc": "The school ceased after Vasile Lupu was deposed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-iasi-academy-1707-founding",
+   "inst": "b-iasi-academy",
+   "year": 1707,
+   "approx": true,
+   "type": "founding",
+   "title": "Academy founded",
+   "desc": "The princely academy was organised under Antioh Cantemir.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-iasi-academy-1766-reform",
+   "inst": "b-iasi-academy",
+   "year": 1766,
+   "approx": false,
+   "type": "reform",
+   "title": "Reorganisation",
+   "desc": "Prince Grigore III Ghica reorganised the academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-iasi-academy-1821-destruction",
+   "inst": "b-iasi-academy",
+   "year": 1821,
+   "approx": false,
+   "type": "destruction",
+   "title": "End in the Greek revolution",
+   "desc": "The academy collapsed during the Greek War of Independence.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-bucharest-academy-1694-founding",
+   "inst": "b-bucharest-academy",
+   "year": 1694,
+   "approx": true,
+   "type": "founding",
+   "title": "Founded by Constantin Brâncoveanu",
+   "desc": "Brâncoveanu established the academy at St Sava.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-bucharest-academy-1776-reform",
+   "inst": "b-bucharest-academy",
+   "year": 1776,
+   "approx": false,
+   "type": "reform",
+   "title": "Reorganisation",
+   "desc": "Prince Alexandros Ypsilantis reorganised the academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-bucharest-academy-1821-destruction",
+   "inst": "b-bucharest-academy",
+   "year": 1821,
+   "approx": false,
+   "type": "destruction",
+   "title": "End in the 1821 revolution",
+   "desc": "The academy ceased during the revolution.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-iasi-1860-founding",
+   "inst": "u-iasi",
+   "year": 1860,
+   "approx": false,
+   "type": "founding",
+   "title": "Founded by Alexandru Ioan Cuza",
+   "desc": "Opened on 26 October 1860.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bucharest-1864-founding",
+   "inst": "u-bucharest",
+   "year": 1864,
+   "approx": false,
+   "type": "founding",
+   "title": "Decree of Cuza",
+   "desc": "Cuza's decree of 4 July 1864 created the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-chernivtsi-1875-founding",
+   "inst": "u-chernivtsi",
+   "year": 1875,
+   "approx": false,
+   "type": "founding",
+   "title": "University opened",
+   "desc": "Opened on 4 October 1875.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-chernivtsi-1897-access",
+   "inst": "u-chernivtsi",
+   "year": 1897,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were admitted under the Austrian decree of 1897.",
+   "from_inst": null,
+   "related": []
+  }
+ ],
+ "thinkers": [
+  {
+   "name": "Fryderyk Chopin",
+   "inst": "u-warsaw",
+   "from": 1826,
+   "to": 1829,
+   "approx": false,
+   "role": "studied music",
+   "note": "Studied composition with Józef Elsner at the Main School of Music, part of the university."
+  },
+  {
+   "name": "Joachim Lelewel",
+   "inst": "u-warsaw",
+   "from": 1818,
+   "to": 1821,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Bolesław Prus",
+   "inst": "u-warsaw",
+   "from": 1866,
+   "to": 1868,
+   "approx": false,
+   "role": "studied",
+   "note": "Studied mathematics and physics at the Main School."
+  },
+  {
+   "name": "Henryk Sienkiewicz",
+   "inst": "u-warsaw",
+   "from": 1866,
+   "to": 1871,
+   "approx": false,
+   "role": "studied",
+   "note": "Studied philology and history at the Main School."
+  },
+  {
+   "name": "Ioannikios Likhoudes",
+   "inst": "b-moscow-academy",
+   "from": 1687,
+   "to": 1694,
+   "approx": false,
+   "role": "taught",
+   "note": "Greek scholar and co-founder of the curriculum with his brother Sophronios."
+  },
+  {
+   "name": "Sophronios Likhoudes",
+   "inst": "b-moscow-academy",
+   "from": 1687,
+   "to": 1694,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Vasily Trediakovsky",
+   "inst": "b-moscow-academy",
+   "from": 1723,
+   "to": 1725,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Mikhail Lomonosov",
+   "inst": "b-moscow-academy",
+   "from": 1731,
+   "to": 1735,
+   "approx": false,
+   "role": "studied",
+   "note": "Entered after walking from Kholmogory; sent to St Petersburg in 1735."
+  },
+  {
+   "name": "Leonty Magnitsky",
+   "inst": "t-moscow-navigation",
+   "from": 1701,
+   "to": 1739,
+   "approx": false,
+   "role": "taught mathematics",
+   "note": "Author of the 'Arithmetic' (1703)."
+  },
+  {
+   "name": "Mikhail Lomonosov",
+   "inst": "u-st-petersburg-academic",
+   "from": 1736,
+   "to": 1736,
+   "approx": false,
+   "role": "studied",
+   "note": "Briefly studied before being sent to Marburg."
+  },
+  {
+   "name": "Mikhail Lomonosov",
+   "inst": "u-st-petersburg-academic",
+   "from": 1758,
+   "to": 1765,
+   "approx": false,
+   "role": "rector",
+   "note": "Headed the Academic University and gymnasium."
+  },
+  {
+   "name": "Leonhard Euler",
+   "inst": "u-st-petersburg-academic",
+   "from": 1727,
+   "to": 1741,
+   "approx": true,
+   "role": "academician/taught",
+   "note": "Member of the Academy of Sciences, whose academicians lectured at the university."
+  },
+  {
+   "name": "Alexander Borodin",
+   "inst": "m-st-petersburg-medical",
+   "from": 1850,
+   "to": 1887,
+   "approx": false,
+   "role": "studied, taught chemistry",
+   "note": "Graduated 1856; professor of chemistry from 1864."
+  },
+  {
+   "name": "Ivan Sechenov",
+   "inst": "m-st-petersburg-medical",
+   "from": 1860,
+   "to": 1870,
+   "approx": false,
+   "role": "taught physiology",
+   "note": ""
+  },
+  {
+   "name": "Sergey Botkin",
+   "inst": "m-st-petersburg-medical",
+   "from": 1860,
+   "to": 1889,
+   "approx": false,
+   "role": "taught clinical medicine",
+   "note": ""
+  },
+  {
+   "name": "Ivan Pavlov",
+   "inst": "m-st-petersburg-medical",
+   "from": 1875,
+   "to": 1925,
+   "approx": false,
+   "role": "studied, taught physiology",
+   "note": "Studied 1875-79; professor of pharmacology 1890, physiology 1895."
+  },
+  {
+   "name": "Alexander Pushkin",
+   "inst": "m-tsarskoye-selo",
+   "from": 1811,
+   "to": 1817,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Konstantin Ushinsky",
+   "inst": "m-yaroslavl",
+   "from": 1846,
+   "to": 1849,
+   "approx": false,
+   "role": "taught cameral sciences",
+   "note": "Dismissed for liberal views."
+  },
+  {
+   "name": "Alexander Griboyedov",
+   "inst": "u-moscow",
+   "from": 1806,
+   "to": 1812,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Pyotr Chaadaev",
+   "inst": "u-moscow",
+   "from": 1808,
+   "to": 1811,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Nikolay Pirogov",
+   "inst": "u-moscow",
+   "from": 1824,
+   "to": 1828,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Alexander Herzen",
+   "inst": "u-moscow",
+   "from": 1829,
+   "to": 1833,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Vissarion Belinsky",
+   "inst": "u-moscow",
+   "from": 1829,
+   "to": 1832,
+   "approx": false,
+   "role": "studied",
+   "note": "Expelled 1832."
+  },
+  {
+   "name": "Mikhail Lermontov",
+   "inst": "u-moscow",
+   "from": 1830,
+   "to": 1832,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Timofey Granovsky",
+   "inst": "u-moscow",
+   "from": 1839,
+   "to": 1855,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Sergey Solovyov",
+   "inst": "u-moscow",
+   "from": 1845,
+   "to": 1879,
+   "approx": false,
+   "role": "taught history",
+   "note": "Rector 1871-77."
+  },
+  {
+   "name": "Anton Chekhov",
+   "inst": "u-moscow",
+   "from": 1879,
+   "to": 1884,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Vasily Klyuchevsky",
+   "inst": "u-moscow",
+   "from": 1879,
+   "to": 1911,
+   "approx": false,
+   "role": "taught Russian history",
+   "note": ""
+  },
+  {
+   "name": "Kliment Timiryazev",
+   "inst": "t-moscow-petrovskaya",
+   "from": 1870,
+   "to": 1892,
+   "approx": false,
+   "role": "taught plant physiology",
+   "note": ""
+  },
+  {
+   "name": "Vladimir Korolenko",
+   "inst": "t-moscow-petrovskaya",
+   "from": 1874,
+   "to": 1876,
+   "approx": false,
+   "role": "studied",
+   "note": "Expelled and exiled for student protest."
+  },
+  {
+   "name": "Sergey Aksakov",
+   "inst": "u-kazan",
+   "from": 1805,
+   "to": 1807,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Nikolai Lobachevsky",
+   "inst": "u-kazan",
+   "from": 1807,
+   "to": 1846,
+   "approx": false,
+   "role": "studied, taught, rector",
+   "note": "Rector 1827-46; presented non-Euclidean geometry 1826."
+  },
+  {
+   "name": "Nikolay Zinin",
+   "inst": "u-kazan",
+   "from": 1837,
+   "to": 1847,
+   "approx": false,
+   "role": "taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Karl Ernst Claus",
+   "inst": "u-kazan",
+   "from": 1837,
+   "to": 1852,
+   "approx": false,
+   "role": "taught chemistry",
+   "note": "Discovered ruthenium (1844)."
+  },
+  {
+   "name": "Leo Tolstoy",
+   "inst": "u-kazan",
+   "from": 1844,
+   "to": 1847,
+   "approx": false,
+   "role": "studied",
+   "note": "Left without degree."
+  },
+  {
+   "name": "Alexander Butlerov",
+   "inst": "u-kazan",
+   "from": 1844,
+   "to": 1868,
+   "approx": false,
+   "role": "studied, taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Jan Baudouin de Courtenay",
+   "inst": "u-kazan",
+   "from": 1875,
+   "to": 1883,
+   "approx": false,
+   "role": "taught linguistics",
+   "note": ""
+  },
+  {
+   "name": "Vladimir Lenin",
+   "inst": "u-kazan",
+   "from": 1887,
+   "to": 1887,
+   "approx": false,
+   "role": "studied law",
+   "note": "Expelled December 1887."
+  },
+  {
+   "name": "Mikhail Ostrogradsky",
+   "inst": "u-kharkiv",
+   "from": 1816,
+   "to": 1820,
+   "approx": false,
+   "role": "studied",
+   "note": "Refused his degree for not attending theology lectures."
+  },
+  {
+   "name": "Mykola Kostomarov",
+   "inst": "u-kharkiv",
+   "from": 1833,
+   "to": 1844,
+   "approx": false,
+   "role": "studied, master's degree",
+   "note": ""
+  },
+  {
+   "name": "Ilya Mechnikov",
+   "inst": "u-kharkiv",
+   "from": 1862,
+   "to": 1864,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Oleksandr Potebnia",
+   "inst": "u-kharkiv",
+   "from": 1856,
+   "to": 1891,
+   "approx": false,
+   "role": "studied, taught philology",
+   "note": ""
+  },
+  {
+   "name": "Aleksandr Lyapunov",
+   "inst": "u-kharkiv",
+   "from": 1885,
+   "to": 1902,
+   "approx": false,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Hryhorii Skovoroda",
+   "inst": "b-kharkiv-collegium",
+   "from": 1759,
+   "to": 1769,
+   "approx": true,
+   "role": "taught poetics, ethics",
+   "note": ""
+  },
+  {
+   "name": "Peter Mohyla",
+   "inst": "b-kyiv-mohyla",
+   "from": 1632,
+   "to": 1647,
+   "approx": false,
+   "role": "founded/patron",
+   "note": "Metropolitan of Kyiv from 1633."
+  },
+  {
+   "name": "Feofan Prokopovych",
+   "inst": "b-kyiv-mohyla",
+   "from": 1696,
+   "to": 1716,
+   "approx": true,
+   "role": "studied, taught, rector",
+   "note": "Rector 1711-16."
+  },
+  {
+   "name": "Stefan Yavorsky",
+   "inst": "b-kyiv-mohyla",
+   "from": 1684,
+   "to": 1700,
+   "approx": true,
+   "role": "studied, taught",
+   "note": ""
+  },
+  {
+   "name": "Hryhorii Skovoroda",
+   "inst": "b-kyiv-mohyla",
+   "from": 1734,
+   "to": 1753,
+   "approx": true,
+   "role": "studied",
+   "note": "Studied intermittently."
+  },
+  {
+   "name": "Mykhailo Maksymovych",
+   "inst": "u-kyiv",
+   "from": 1834,
+   "to": 1845,
+   "approx": false,
+   "role": "rector, taught literature",
+   "note": "First rector 1834-35."
+  },
+  {
+   "name": "Mykola Kostomarov",
+   "inst": "u-kyiv",
+   "from": 1846,
+   "to": 1847,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Mykhailo Drahomanov",
+   "inst": "u-kyiv",
+   "from": 1859,
+   "to": 1875,
+   "approx": false,
+   "role": "studied, taught history",
+   "note": "Dismissed 1875."
+  },
+  {
+   "name": "Volodymyr Antonovych",
+   "inst": "u-kyiv",
+   "from": 1878,
+   "to": 1901,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Nikolai Gogol",
+   "inst": "m-nizhyn",
+   "from": 1821,
+   "to": 1828,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Ilya Mechnikov",
+   "inst": "u-odessa",
+   "from": 1870,
+   "to": 1882,
+   "approx": false,
+   "role": "taught zoology",
+   "note": ""
+  },
+  {
+   "name": "Ivan Sechenov",
+   "inst": "u-odessa",
+   "from": 1871,
+   "to": 1876,
+   "approx": false,
+   "role": "taught physiology",
+   "note": ""
+  },
+  {
+   "name": "Nikolay Umov",
+   "inst": "u-odessa",
+   "from": 1875,
+   "to": 1893,
+   "approx": false,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Regiomontanus",
+   "inst": "u-pozsony",
+   "from": 1467,
+   "to": 1471,
+   "approx": true,
+   "role": "taught astronomy",
+   "note": ""
+  },
+  {
+   "name": "Marcin Bylica of Olkusz",
+   "inst": "u-pozsony",
+   "from": 1467,
+   "to": 1471,
+   "approx": true,
+   "role": "taught astronomy",
+   "note": ""
+  },
+  {
+   "name": "Péter Pázmány",
+   "inst": "u-trnava-budapest",
+   "from": 1635,
+   "to": 1637,
+   "approx": false,
+   "role": "founded",
+   "note": ""
+  },
+  {
+   "name": "Ányos Jedlik",
+   "inst": "u-trnava-budapest",
+   "from": 1840,
+   "to": 1878,
+   "approx": false,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Ignaz Semmelweis",
+   "inst": "u-trnava-budapest",
+   "from": 1855,
+   "to": 1865,
+   "approx": false,
+   "role": "taught obstetrics",
+   "note": ""
+  },
+  {
+   "name": "Loránd Eötvös",
+   "inst": "u-trnava-budapest",
+   "from": 1872,
+   "to": 1919,
+   "approx": false,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Nikolaus Joseph von Jacquin",
+   "inst": "t-banska-stiavnica",
+   "from": 1763,
+   "to": 1768,
+   "approx": false,
+   "role": "taught chemistry and mineralogy",
+   "note": ""
+  },
+  {
+   "name": "Christoph Traugott Delius",
+   "inst": "t-banska-stiavnica",
+   "from": 1770,
+   "to": 1772,
+   "approx": false,
+   "role": "taught mining",
+   "note": ""
+  },
+  {
+   "name": "Mihály Csokonai Vitéz",
+   "inst": "a-debrecen",
+   "from": 1780,
+   "to": 1795,
+   "approx": false,
+   "role": "studied, taught poetics",
+   "note": "Expelled 1795."
+  },
+  {
+   "name": "John Amos Comenius",
+   "inst": "a-sarospatak",
+   "from": 1650,
+   "to": 1654,
+   "approx": false,
+   "role": "taught",
+   "note": "Wrote Orbis pictus here."
+  },
+  {
+   "name": "Johann Heinrich Alsted",
+   "inst": "a-alba-iulia",
+   "from": 1629,
+   "to": 1638,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Johann Heinrich Bisterfeld",
+   "inst": "a-alba-iulia",
+   "from": 1630,
+   "to": 1655,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Farkas Bolyai",
+   "inst": "a-targu-mures",
+   "from": 1804,
+   "to": 1851,
+   "approx": false,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "János Bolyai",
+   "inst": "a-targu-mures",
+   "from": 1814,
+   "to": 1817,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Iosipos Moisiodax",
+   "inst": "b-iasi-academy",
+   "from": 1765,
+   "to": 1777,
+   "approx": true,
+   "role": "taught, director",
+   "note": ""
+  },
+  {
+   "name": "Sevastos Kyminitis",
+   "inst": "b-bucharest-academy",
+   "from": 1695,
+   "to": 1702,
+   "approx": true,
+   "role": "taught, director",
+   "note": ""
+  },
+  {
+   "name": "Titu Maiorescu",
+   "inst": "u-iasi",
+   "from": 1862,
+   "to": 1871,
+   "approx": false,
+   "role": "taught, rector",
+   "note": ""
+  },
+  {
+   "name": "Alexandru Dimitrie Xenopol",
+   "inst": "u-iasi",
+   "from": 1883,
+   "to": 1920,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Nicolae Iorga",
+   "inst": "u-iasi",
+   "from": 1888,
+   "to": 1889,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Titu Maiorescu",
+   "inst": "u-bucharest",
+   "from": 1884,
+   "to": 1909,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Nicolae Iorga",
+   "inst": "u-bucharest",
+   "from": 1894,
+   "to": 1940,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Eugen Ehrlich",
+   "inst": "u-chernivtsi",
+   "from": 1896,
+   "to": 1914,
+   "approx": false,
+   "role": "taught Roman law",
+   "note": ""
+  },
+  {
+   "name": "Jan Hus",
+   "inst": "u-prague",
+   "from": 1390,
+   "to": 1412,
+   "approx": true,
+   "role": "studied, taught, rector",
+   "note": ""
+  },
+  {
+   "name": "Jerome of Prague",
+   "inst": "u-prague",
+   "from": 1398,
+   "to": 1415,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Jakoubek of Stříbro",
+   "inst": "u-prague",
+   "from": 1397,
+   "to": 1429,
+   "approx": true,
+   "role": "studied, taught",
+   "note": ""
+  },
+  {
+   "name": "Jan Jesenius",
+   "inst": "u-prague",
+   "from": 1600,
+   "to": 1621,
+   "approx": true,
+   "role": "taught, rector",
+   "note": ""
+  },
+  {
+   "name": "Johannes Marcus Marci",
+   "inst": "u-prague",
+   "from": 1620,
+   "to": 1667,
+   "approx": true,
+   "role": "taught, rector",
+   "note": ""
+  },
+  {
+   "name": "Bernard Bolzano",
+   "inst": "u-prague",
+   "from": 1805,
+   "to": 1819,
+   "approx": false,
+   "role": "taught philosophy of religion",
+   "note": ""
+  },
+  {
+   "name": "Jan Evangelista Purkyně",
+   "inst": "u-prague",
+   "from": 1850,
+   "to": 1869,
+   "approx": false,
+   "role": "taught physiology",
+   "note": ""
+  },
+  {
+   "name": "Ernst Mach",
+   "inst": "u-prague",
+   "from": 1867,
+   "to": 1882,
+   "approx": false,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Ernst Mach",
+   "inst": "u-prague-german",
+   "from": 1882,
+   "to": 1895,
+   "approx": false,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Tomáš Garrigue Masaryk",
+   "inst": "u-prague-czech",
+   "from": 1882,
+   "to": 1914,
+   "approx": false,
+   "role": "taught philosophy",
+   "note": ""
+  },
+  {
+   "name": "Edmund Campion",
+   "inst": "j-prague-clementinum",
+   "from": 1574,
+   "to": 1580,
+   "approx": false,
+   "role": "taught rhetoric",
+   "note": ""
+  },
+  {
+   "name": "Rodrigo de Arriaga",
+   "inst": "j-prague-clementinum",
+   "from": 1624,
+   "to": 1654,
+   "approx": false,
+   "role": "taught philosophy and theology",
+   "note": ""
+  },
+  {
+   "name": "Christian Doppler",
+   "inst": "t-prague",
+   "from": 1835,
+   "to": 1847,
+   "approx": true,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Gregor Mendel",
+   "inst": "u-olomouc",
+   "from": 1840,
+   "to": 1843,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Nicolaus Copernicus",
+   "inst": "u-krakow",
+   "from": 1491,
+   "to": 1495,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Albert Brudzewski",
+   "inst": "u-krakow",
+   "from": 1470,
+   "to": 1495,
+   "approx": true,
+   "role": "taught astronomy",
+   "note": ""
+  },
+  {
+   "name": "Paweł Włodkowic",
+   "inst": "u-krakow",
+   "from": 1411,
+   "to": 1435,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Jan Długosz",
+   "inst": "u-krakow",
+   "from": 1428,
+   "to": 1431,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Jan Kochanowski",
+   "inst": "u-krakow",
+   "from": 1544,
+   "to": 1547,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Hugo Kołłątaj",
+   "inst": "u-krakow",
+   "from": 1777,
+   "to": 1786,
+   "approx": false,
+   "role": "reformer, rector",
+   "note": ""
+  },
+  {
+   "name": "Jan Śniadecki",
+   "inst": "u-krakow",
+   "from": 1781,
+   "to": 1803,
+   "approx": false,
+   "role": "taught astronomy",
+   "note": ""
+  },
+  {
+   "name": "Piotr Skarga",
+   "inst": "u-vilnius",
+   "from": 1579,
+   "to": 1584,
+   "approx": false,
+   "role": "rector",
+   "note": ""
+  },
+  {
+   "name": "Marcin Poczobutt",
+   "inst": "u-vilnius",
+   "from": 1780,
+   "to": 1799,
+   "approx": false,
+   "role": "rector",
+   "note": ""
+  },
+  {
+   "name": "Jan Śniadecki",
+   "inst": "u-vilnius",
+   "from": 1807,
+   "to": 1814,
+   "approx": false,
+   "role": "rector",
+   "note": ""
+  },
+  {
+   "name": "Adam Mickiewicz",
+   "inst": "u-vilnius",
+   "from": 1815,
+   "to": 1819,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Joachim Lelewel",
+   "inst": "u-vilnius",
+   "from": 1815,
+   "to": 1824,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Juliusz Słowacki",
+   "inst": "u-vilnius",
+   "from": 1825,
+   "to": 1828,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Szymon Szymonowic",
+   "inst": "u-zamosc",
+   "from": 1594,
+   "to": 1629,
+   "approx": true,
+   "role": "co-founder/adviser",
+   "note": ""
+  },
+  {
+   "name": "Ivan Franko",
+   "inst": "u-lviv",
+   "from": 1875,
+   "to": 1880,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Mykhailo Hrushevsky",
+   "inst": "u-lviv",
+   "from": 1894,
+   "to": 1914,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Herasym Smotrytsky",
+   "inst": "b-ostroh",
+   "from": 1576,
+   "to": 1594,
+   "approx": true,
+   "role": "rector",
+   "note": ""
+  },
+  {
+   "name": "Meletius Smotrytsky",
+   "inst": "b-ostroh",
+   "from": 1583,
+   "to": 1590,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Willibald Besser",
+   "inst": "m-kremenets",
+   "from": 1809,
+   "to": 1831,
+   "approx": false,
+   "role": "taught botany",
+   "note": ""
+  },
+  {
+   "name": "Bartholomäus Keckermann",
+   "inst": "a-gdansk",
+   "from": 1602,
+   "to": 1609,
+   "approx": false,
+   "role": "taught philosophy",
+   "note": ""
+  },
+  {
+   "name": "Johannes Hevelius",
+   "inst": "a-gdansk",
+   "from": 1627,
+   "to": 1630,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Friedrich Georg Wilhelm Struve",
+   "inst": "u-dorpat",
+   "from": 1808,
+   "to": 1839,
+   "approx": false,
+   "role": "studied, taught astronomy",
+   "note": ""
+  },
+  {
+   "name": "Karl Ernst von Baer",
+   "inst": "u-dorpat",
+   "from": 1810,
+   "to": 1814,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Nikolay Pirogov",
+   "inst": "u-dorpat",
+   "from": 1828,
+   "to": 1840,
+   "approx": false,
+   "role": "studied, taught surgery",
+   "note": ""
+  },
+  {
+   "name": "Wilhelm Ostwald",
+   "inst": "u-dorpat",
+   "from": 1872,
+   "to": 1881,
+   "approx": false,
+   "role": "studied, taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Emil Kraepelin",
+   "inst": "u-dorpat",
+   "from": 1886,
+   "to": 1891,
+   "approx": false,
+   "role": "taught psychiatry",
+   "note": ""
+  },
+  {
+   "name": "Wilhelm Ostwald",
+   "inst": "t-riga",
+   "from": 1881,
+   "to": 1887,
+   "approx": false,
+   "role": "taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Pafnuty Chebyshev",
+   "inst": "u-st-petersburg",
+   "from": 1847,
+   "to": 1882,
+   "approx": false,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Ivan Turgenev",
+   "inst": "u-st-petersburg",
+   "from": 1834,
+   "to": 1837,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Nikolai Gogol",
+   "inst": "u-st-petersburg",
+   "from": 1834,
+   "to": 1835,
+   "approx": false,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Dmitri Mendeleev",
+   "inst": "u-st-petersburg",
+   "from": 1857,
+   "to": 1890,
+   "approx": false,
+   "role": "taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Alexander Butlerov",
+   "inst": "u-st-petersburg",
+   "from": 1868,
+   "to": 1885,
+   "approx": false,
+   "role": "taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Ivan Pavlov",
+   "inst": "u-st-petersburg",
+   "from": 1870,
+   "to": 1875,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Alexander Popov",
+   "inst": "u-st-petersburg",
+   "from": 1877,
+   "to": 1882,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,4489 @@
+{
+ "region": "Iberia",
+ "institutions": [
+  {
+   "id": "u-palencia",
+   "name": "Studium of Palencia",
+   "alt": [
+    "Estudio General de Palencia"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1208,
+     "city": "Palencia",
+     "lat": 42.0096,
+     "lon": -4.5288
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1208,
+   "start_approx": true,
+   "end": 1263,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "The first studium generale of the Iberian peninsula, created by Alfonso VIII of Castile with Bishop Tello Téllez de Meneses, bringing masters from France and Italy to teach theology, arts and law. It declined rapidly after the king's death and was overtaken by Salamanca.",
+   "notes": "Foundation is variously dated 1208–1212; teaching had stopped by the mid-13th century and Urban IV's 1263 bull failed to revive it."
+  },
+  {
+   "id": "u-salamanca",
+   "name": "University of Salamanca",
+   "alt": [
+    "Studium of Salamanca",
+    "Universidad de Salamanca"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1218,
+     "city": "Salamanca",
+     "lat": 40.9617,
+     "lon": -5.6672
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1218,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Alfonso IX of León, Salamanca became the leading university of Castile and of the Spanish empire. In the 16th century it was home to the 'School of Salamanca' (Vitoria, Soto, Cano), which shaped natural law, international law and economic thought.",
+   "notes": "1218 is the conventional date of Alfonso IX's foundation; the founding charter itself does not survive."
+  },
+  {
+   "id": "u-valladolid",
+   "name": "University of Valladolid",
+   "alt": [
+    "Estudio General de Valladolid"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1241,
+     "city": "Valladolid",
+     "lat": 41.6523,
+     "lon": -4.7245
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1241,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "A studium that grew up in Valladolid in the 13th century, endowed by Sancho IV and recognised as a studium generale by Clement VI in 1346. With Salamanca and Alcalá it was one of the three 'major universities' of Castile, strong in law because of the royal Chancillería in the city.",
+   "notes": "Origins are obscure: dates from c.1241 to the 1280s are given; 1346 is the papal recognition."
+  },
+  {
+   "id": "u-lisbon-coimbra",
+   "name": "University of Coimbra",
+   "alt": [
+    "Estudo Geral de Lisboa",
+    "Universidade de Coimbra",
+    "University of Lisbon–Coimbra"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1290,
+     "city": "Lisbon",
+     "lat": 38.7139,
+     "lon": -9.1394
+    },
+    {
+     "from": 1308,
+     "city": "Coimbra",
+     "lat": 40.2073,
+     "lon": -8.4261
+    },
+    {
+     "from": 1338,
+     "city": "Lisbon",
+     "lat": 38.7139,
+     "lon": -9.1394
+    },
+    {
+     "from": 1354,
+     "city": "Coimbra",
+     "lat": 40.2073,
+     "lon": -8.4261
+    },
+    {
+     "from": 1377,
+     "city": "Lisbon",
+     "lat": 38.7139,
+     "lon": -9.1394
+    },
+    {
+     "from": 1537,
+     "city": "Coimbra",
+     "lat": 40.2073,
+     "lon": -8.4261
+    }
+   ],
+   "modern_country": "Portugal",
+   "start": 1290,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Portugal's only university until the 16th century, founded by King Dinis in Lisbon and moved between Lisbon and Coimbra until it settled in Coimbra in 1537. The Pombaline reform of 1772 turned it into one of the most modern scientific universities of Enlightenment Europe.",
+   "notes": "Dinis's 'Scientiae thesaurus mirabilis' is dated 1 March 1290; Nicholas IV's bull followed on 9 August 1290."
+  },
+  {
+   "id": "u-lleida",
+   "name": "University of Lleida",
+   "alt": [
+    "Estudi General de Lleida",
+    "Studium of Lérida"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1300,
+     "city": "Lleida",
+     "lat": 41.6176,
+     "lon": 0.62
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1300,
+   "start_approx": false,
+   "end": 1717,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The first university of the Crown of Aragon, founded by James II with the city council, which granted it a monopoly on higher studies in his realms. Strong in law, it trained Aragonese jurists and clergy until Philip V closed it under the Nueva Planta decrees.",
+   "notes": "Boniface VIII's bull authorising a studium was issued in 1297; James II's founding privilege dates from 1 September 1300."
+  },
+  {
+   "id": "u-perpignan",
+   "name": "University of Perpignan",
+   "alt": [
+    "Estudi General de Perpinyà",
+    "Université de Perpignan"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1350,
+     "city": "Perpignan",
+     "lat": 42.6986,
+     "lon": 2.8956
+    }
+   ],
+   "modern_country": "France",
+   "start": 1350,
+   "start_approx": false,
+   "end": 1793,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Peter IV of Aragon for Roussillon, then part of the Crown of Aragon, and confirmed by the Avignon pope Clement VII. It passed to France with Roussillon in 1659 and lasted until the French Revolution.",
+   "notes": ""
+  },
+  {
+   "id": "u-huesca",
+   "name": "University of Huesca",
+   "alt": [
+    "Universidad Sertoriana",
+    "Estudio General de Huesca"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1354,
+     "city": "Huesca",
+     "lat": 42.1401,
+     "lon": -0.4089
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1354,
+   "start_approx": false,
+   "end": 1845,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Peter IV of Aragon and refounded by John II with papal approval in 1464, Huesca (called 'Sertoriana' after Sertorius's legendary school) was the main university of Upper Aragon. It was suppressed by the Plan Pidal in 1845.",
+   "notes": "Teaching appears to have lapsed in the 14th–15th centuries before the 1464 refoundation."
+  },
+  {
+   "id": "u-alcala-madrid",
+   "name": "University of Alcalá / Central University of Madrid",
+   "alt": [
+    "Universidad Complutense",
+    "Universidad de Alcalá de Henares",
+    "Universidad Central"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1499,
+     "city": "Alcalá de Henares",
+     "lat": 40.4818,
+     "lon": -3.3644
+    },
+    {
+     "from": 1836,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1499,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded by Cardinal Francisco Jiménez de Cisneros around the Colegio Mayor de San Ildefonso as a Renaissance university devoted to theology and the three biblical languages; it produced the Complutensian Polyglot Bible (1514–17). Moved to Madrid in 1836, it became the Universidad Central, the only Spanish university allowed to grant doctorates after 1845.",
+   "notes": "Bull of Alexander VI 13 April 1499; teaching began in 1508. A 1293 studium of Sancho IV at Alcalá was a precursor without continuity."
+  },
+  {
+   "id": "u-siguenza",
+   "name": "University of Sigüenza",
+   "alt": [
+    "Colegio de San Antonio de Portaceli"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1489,
+     "city": "Sigüenza",
+     "lat": 41.0686,
+     "lon": -2.6447
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1489,
+   "start_approx": false,
+   "end": 1824,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Grew from the Colegio de San Antonio de Portaceli, founded in 1476 by the canon Juan López de Medina, and was raised to a university by Innocent VIII. A small 'minor university' that survived until the Bourbon reforms reduced it.",
+   "notes": "Suppressed 1807 but the order was not carried out; academic activity ended in 1824."
+  },
+  {
+   "id": "u-seville",
+   "name": "University of Seville",
+   "alt": [
+    "Colegio de Santa María de Jesús",
+    "Universidad de Sevilla"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1505,
+     "city": "Seville",
+     "lat": 37.3886,
+     "lon": -5.9823
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1505,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded on the Colegio de Santa María de Jesús of archdeacon Rodrigo Fernández de Santaella ('Maese Rodrigo'), and the main university of Andalusia, linked to the American trade of Seville. Pablo de Olavide's 1769 plan made it a showcase of Enlightenment reform.",
+   "notes": "A 1502 royal cédula had authorised the city to found a studium; Julius II's bull for Santaella's college dates from 1505."
+  },
+  {
+   "id": "u-santiago",
+   "name": "University of Santiago de Compostela",
+   "alt": [
+    "Universidade de Santiago",
+    "Colegio de Fonseca"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1495,
+     "city": "Santiago de Compostela",
+     "lat": 42.8805,
+     "lon": -8.5457
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1495,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Began as a grammar school for poor clerics founded by Lope Gómez de Marzoa and developed by Diego de Muros and Archbishop Alonso III de Fonseca, whose college gave it university status. The university of Galicia.",
+   "notes": "1495 is the conventional date; university status was confirmed by papal bulls of the 1520s–1550s."
+  },
+  {
+   "id": "u-zaragoza",
+   "name": "University of Zaragoza",
+   "alt": [
+    "Universidad de Zaragoza",
+    "Estudio General de Zaragoza"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1542,
+     "city": "Zaragoza",
+     "lat": 41.6561,
+     "lon": -0.8773
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1542,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Granted university privileges by Charles I in 1542 on the basis of an older arts school, it effectively opened in 1583 under Bishop Pedro Cerbuna. Aragon's main university, its buildings suffered heavily in the Napoleonic sieges.",
+   "notes": "A 1474 bull of Sixtus IV for a general study of arts is the earliest root; 1542 is the university's official foundation and 1583 the real opening."
+  },
+  {
+   "id": "u-granada",
+   "name": "University of Granada",
+   "alt": [
+    "Universidad de Granada"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1531,
+     "city": "Granada",
+     "lat": 37.1773,
+     "lon": -3.5986
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1531,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Charles V after his 1526 stay in Granada to Christianise and educate the former Nasrid kingdom, and confirmed by Clement VII in 1531. It later became the district university of eastern Andalusia.",
+   "notes": "Royal decision 1526; papal bull 1531."
+  },
+  {
+   "id": "u-toledo",
+   "name": "University of Toledo",
+   "alt": [
+    "Universidad de Santa Catalina",
+    "Colegio de Santa Catalina"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1520,
+     "city": "Toledo",
+     "lat": 39.8628,
+     "lon": -4.0273
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1520,
+   "start_approx": false,
+   "end": 1845,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Based on the Colegio de Santa Catalina founded in 1485 by the canon Francisco Álvarez de Toledo, which a bull of Leo X raised to university status. A minor university closed in the 19th-century rationalisation.",
+   "notes": ""
+  },
+  {
+   "id": "u-oviedo",
+   "name": "University of Oviedo",
+   "alt": [
+    "Universidad de Oviedo"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1608,
+     "city": "Oviedo",
+     "lat": 43.3614,
+     "lon": -5.8494
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1608,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded under the will of the Inquisitor General Fernando de Valdés Salas, with papal approval in 1574, and opened in 1608. The university of Asturias, it had Feijoo as its most famous Enlightenment professor.",
+   "notes": "Valdés's bequest 1566–68; bull of Gregory XIII 1574; formal opening 21 September 1608."
+  },
+  {
+   "id": "u-osuna",
+   "name": "University of Osuna",
+   "alt": [
+    "Colegio de la Purísima Concepción"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1548,
+     "city": "Osuna",
+     "lat": 37.2375,
+     "lon": -5.1031
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1548,
+   "start_approx": false,
+   "end": 1824,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded by Juan Téllez-Girón, fourth Count of Ureña, with a bull of Paul III, as a college-university for his seigneurial town. A typical minor Castilian university, suppressed in the 19th-century reforms.",
+   "notes": ""
+  },
+  {
+   "id": "u-onati",
+   "name": "University of Oñati",
+   "alt": [
+    "Universidad del Sancti Spiritus",
+    "Universidad de Oñate"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1540,
+     "city": "Oñati",
+     "lat": 43.0333,
+     "lon": -2.4111
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1540,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The only university of the Basque Country before modern times, founded by Bishop Rodrigo Mercado de Zuazola with a bull of Paul III, in a notable Plateresque building. It survived repeated closures until 1901.",
+   "notes": "Closed definitively in 1901 (after this dataset's scope), hence end=null. Repeatedly suppressed and reopened (1807, 1842, Carlist reopening in the 1870s, Catholic free university 1895–1901); some details are uncertain. Some sources mention a first seat at Hernani."
+  },
+  {
+   "id": "u-baeza",
+   "name": "University of Baeza",
+   "alt": [
+    "Universidad de la Santísima Trinidad"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1538,
+     "city": "Baeza",
+     "lat": 37.9934,
+     "lon": -3.4705
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1538,
+   "start_approx": false,
+   "end": 1824,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded by a bull of Paul III on a grammar school endowed by Rodrigo López, and organised by St John of Ávila. Known for training clergy in the 'Ávila school' spirituality.",
+   "notes": ""
+  },
+  {
+   "id": "u-gandia",
+   "name": "University of Gandia",
+   "alt": [
+    "Universitat de Gandia",
+    "Universidad de Gandía"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1547,
+     "city": "Gandia",
+     "lat": 38.9677,
+     "lon": -0.1816
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1547,
+   "start_approx": false,
+   "end": 1772,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded at the request of Francis Borgia, Duke of Gandia, and entrusted to the Jesuits: the first university of the Society of Jesus. Its constitutions served as a model for later Jesuit universities.",
+   "notes": ""
+  },
+  {
+   "id": "u-evora",
+   "name": "University of Évora",
+   "alt": [
+    "Universidade do Espírito Santo"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1559,
+     "city": "Évora",
+     "lat": 38.5714,
+     "lon": -7.9087
+    }
+   ],
+   "modern_country": "Portugal",
+   "start": 1559,
+   "start_approx": false,
+   "end": 1759,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Portugal's second university, founded by Cardinal Henry, Archbishop of Évora, and run by the Jesuits. It was a major centre of Jesuit scholastic theology until Pombal expelled the Society.",
+   "notes": ""
+  },
+  {
+   "id": "u-cervera",
+   "name": "University of Cervera",
+   "alt": [
+    "Real y Pontificia Universidad de Cervera"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1717,
+     "city": "Cervera",
+     "lat": 41.6703,
+     "lon": 1.2712
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1717,
+   "start_approx": false,
+   "end": 1842,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Created by Philip V after the Nueva Planta decrees to replace all the Catalan universities, as a reward to Cervera for its loyalty in the War of the Spanish Succession. It was Catalonia's only university until its transfer to Barcelona in 1842.",
+   "notes": "Briefly moved to Barcelona during the Liberal Triennium (1822–23)."
+  },
+  {
+   "id": "u-mallorca",
+   "name": "University of Mallorca",
+   "alt": [
+    "Estudi General Lul·lià",
+    "Universitat Literària de Mallorca"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1483,
+     "city": "Palma",
+     "lat": 39.5696,
+     "lon": 2.6502
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1483,
+   "start_approx": false,
+   "end": 1842,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "Grew out of the Lullist school of Palma, made a general study by Ferdinand II in 1483 and a full Universitat Literària in 1692. It disappeared during the 19th-century liberal reforms.",
+   "notes": "Papal confirmation 1673 (Clement X) and royal ratification 1692. Final closure is variously given as 1829/30 or 1842–46; replaced by the Institut Balear."
+  },
+  {
+   "id": "u-avila",
+   "name": "University of Santo Tomás of Ávila",
+   "alt": [
+    "Universidad de Santo Tomás"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1576,
+     "city": "Ávila",
+     "lat": 40.6564,
+     "lon": -4.6818
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1576,
+   "start_approx": true,
+   "end": 1824,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "A Dominican convent-university in the royal monastery of Santo Tomás. A small institution mainly for theology and arts.",
+   "notes": "Founding date and final closure are approximate; reduced to a college under the 1824 Calomarde plan."
+  },
+  {
+   "id": "u-almagro",
+   "name": "University of Almagro",
+   "alt": [
+    "Universidad de Nuestra Señora del Rosario"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1574,
+     "city": "Almagro",
+     "lat": 38.889,
+     "lon": -3.7106
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1574,
+   "start_approx": false,
+   "end": 1824,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A Dominican college-university in the Calatrava town of Almagro, founded on the bequest of Fernando Fernández de Córdoba and opened in 1574. Suppressed in the Bourbon rationalisation.",
+   "notes": ""
+  },
+  {
+   "id": "u-orihuela",
+   "name": "University of Orihuela",
+   "alt": [
+    "Universidad de Orihuela",
+    "Colegio de Predicadores"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1569,
+     "city": "Orihuela",
+     "lat": 38.0848,
+     "lon": -0.944
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1569,
+   "start_approx": false,
+   "end": 1835,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A Dominican college founded in 1547 by Archbishop Fernando de Loazes and raised to a university by Pius V. It served the southern Kingdom of Valencia.",
+   "notes": ""
+  },
+  {
+   "id": "u-tarragona",
+   "name": "University of Tarragona",
+   "alt": [
+    "Universitat de Tarragona"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1572,
+     "city": "Tarragona",
+     "lat": 41.1189,
+     "lon": 1.2445
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1572,
+   "start_approx": false,
+   "end": 1717,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded by Archbishop Gaspar Cervantes de Gaeta as a post-Tridentine university, confirmed by Gregory XIII and opened in 1577. Closed under the Nueva Planta.",
+   "notes": ""
+  },
+  {
+   "id": "u-vic",
+   "name": "University of Vic",
+   "alt": [
+    "Universitat Literària de Vic"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1599,
+     "city": "Vic",
+     "lat": 41.9301,
+     "lon": 2.2545
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1599,
+   "start_approx": false,
+   "end": 1717,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "A municipal university granted degree rights in arts and philosophy by Philip III. One of seven Catalan universities closed by Philip V.",
+   "notes": ""
+  },
+  {
+   "id": "u-girona",
+   "name": "University of Girona",
+   "alt": [
+    "Estudi General de Girona"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1446,
+     "city": "Girona",
+     "lat": 41.9831,
+     "lon": 2.8249
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1446,
+   "start_approx": false,
+   "end": 1717,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Alfonso V granted Girona a general study in 1446, but regular teaching only began in 1572 in the Les Àligues building. Closed under the Nueva Planta.",
+   "notes": ""
+  },
+  {
+   "id": "u-solsona",
+   "name": "University of Solsona",
+   "alt": [
+    "Universitat de Solsona"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1620,
+     "city": "Solsona",
+     "lat": 41.9942,
+     "lon": 1.517
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1620,
+   "start_approx": false,
+   "end": 1717,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The Dominican college of Sant Miquel i Sant Gabriel (1615), made a literary university by a bull of Paul V. Merged into Cervera in 1717.",
+   "notes": ""
+  },
+  {
+   "id": "u-tortosa",
+   "name": "University of Tortosa",
+   "alt": [
+    "Reials Col·legis de Tortosa",
+    "Universitat de Tortosa"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1600,
+     "city": "Tortosa",
+     "lat": 40.8125,
+     "lon": 0.5216
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1600,
+   "start_approx": true,
+   "end": 1717,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A Dominican university linked to the Royal Colleges of Tortosa, which granted degrees in arts and theology. Closed under the Nueva Planta.",
+   "notes": "Dominican higher studies date back to 1529; university status around 1600 is approximate."
+  },
+  {
+   "id": "u-sahagun",
+   "name": "University of Sahagún",
+   "alt": [
+    "Colegio-Universidad de San Facundo"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1534,
+     "city": "Sahagún",
+     "lat": 42.3712,
+     "lon": -5.0302
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1534,
+   "start_approx": false,
+   "end": 1605,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "The Benedictine monastery of San Facundo at Sahagún was given degree-granting powers by Clement VII. The Benedictines' university was later transferred to Irache.",
+   "notes": "The transfer date (Paul V's approval 1605) is approximate."
+  },
+  {
+   "id": "u-irache",
+   "name": "University of Irache",
+   "alt": [
+    "Universidad de Santa María la Real de Irache"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1569,
+     "city": "Irache (Ayegui)",
+     "lat": 42.6578,
+     "lon": -2.0441
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1569,
+   "start_approx": true,
+   "end": 1824,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The Benedictine university of the Congregation of Valladolid in Navarre, at the monastery of Irache near Estella. It granted many degrees, especially in theology and arts.",
+   "notes": "A college of arts and theology existed from c.1544; university status c.1569; papal confirmation 1616. Closure is variously 1807 or 1824."
+  },
+  {
+   "id": "u-osma",
+   "name": "University of Santa Catalina (El Burgo de Osma)",
+   "alt": [
+    "Universidad de Santa Catalina",
+    "Universidad de Osma"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1550,
+     "city": "El Burgo de Osma",
+     "lat": 41.5865,
+     "lon": -3.068
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1550,
+   "start_approx": false,
+   "end": 1841,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded by Bishop Pedro Álvarez de Acosta and authorised by Julius III. A minor Castilian university where Jovellanos studied.",
+   "notes": "Closed 1807–1814 and 1833–1839; final closure 1841–42; some sources say it was moved to Soria in 1839."
+  },
+  {
+   "id": "u-pamplona",
+   "name": "Dominican University of Pamplona",
+   "alt": [
+    "Universidad de Santiago de Pamplona"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1630,
+     "city": "Pamplona",
+     "lat": 42.8125,
+     "lon": -1.6458
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1630,
+   "start_approx": false,
+   "end": 1771,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A Dominican convent university in Pamplona, granting degrees in arts and theology. Suppressed under Charles III.",
+   "notes": ""
+  },
+  {
+   "id": "u-murcia",
+   "name": "University of Murcia (19th century)",
+   "alt": [
+    "Universidad Literaria de Murcia",
+    "Universidad Libre de Murcia"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1840,
+     "city": "Murcia",
+     "lat": 37.9922,
+     "lon": -1.1307
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1840,
+   "start_approx": false,
+   "end": 1874,
+   "end_approx": true,
+   "founding_mode": "other",
+   "summary": "A short-lived university proclaimed by Murcia's revolutionary junta in 1840 and suppressed the following year, then revived as a free university in 1869–74. The present university dates from 1915.",
+   "notes": "Ended 1874 for lack of money and students."
+  },
+  {
+   "id": "u-la-laguna",
+   "name": "University of San Fernando (La Laguna)",
+   "alt": [
+    "Universidad de San Fernando",
+    "Universidad de La Laguna"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1817,
+     "city": "San Cristóbal de La Laguna",
+     "lat": 28.4874,
+     "lon": -16.3159
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1817,
+   "start_approx": false,
+   "end": 1845,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The first university of the Canary Islands, decreed by Ferdinand VII and opened in the former Jesuit college of La Laguna. It was abolished by the Plan Pidal; the present university was restored in 1927.",
+   "notes": "A 1792 decree of Charles IV and an Augustinian university (bull 1744) never took effect. Ferdinand VII's decree is from 1816."
+  },
+  {
+   "id": "u-valencia",
+   "name": "University of Valencia",
+   "alt": [
+    "Estudi General de València",
+    "Universitat de València"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1499,
+     "city": "Valencia",
+     "lat": 39.4722,
+     "lon": -0.3762
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1499,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Founded by the city council of Valencia and confirmed by Alexander VI and Ferdinand II, it was a centre of Renaissance humanism and medicine. Its 1786 Plan Blasco was an important Enlightenment reform.",
+   "notes": ""
+  },
+  {
+   "id": "u-barcelona",
+   "name": "University of Barcelona",
+   "alt": [
+    "Estudi General de Barcelona",
+    "Universitat de Barcelona"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1450,
+     "city": "Barcelona",
+     "lat": 41.3825,
+     "lon": 2.1717
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1450,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Created by the Consell de Cent on a privilege of Alfonso V, it was consolidated in the 16th century. Suppressed by Philip V in 1717, it was restored in 1837–42 by moving the University of Cervera to Barcelona.",
+   "notes": "Teaching of medicine existed from 1401. The 1717–1837 suppression is treated as an interruption, as the restored university claims continuity."
+  },
+  {
+   "id": "t-vergara",
+   "name": "Royal Patriotic Seminary of Vergara",
+   "alt": [
+    "Real Seminario Patriótico Bascongado",
+    "Real Seminario de Bergara"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1776,
+     "city": "Bergara",
+     "lat": 43.1175,
+     "lon": -2.4153
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1776,
+   "start_approx": false,
+   "end": 1804,
+   "end_approx": true,
+   "founding_mode": "private",
+   "summary": "Founded by the Royal Basque Society of Friends of the Country as an Enlightenment school with chairs of chemistry and mineralogy. In its laboratory the Elhuyar brothers isolated tungsten in 1783.",
+   "notes": "Became a royal Seminario de Nobles c.1804 and later a secondary school; the end of its higher-level scientific role is approximate."
+  },
+  {
+   "id": "t-almaden-madrid",
+   "name": "Mining Academy of Almadén / School of Mining Engineers of Madrid",
+   "alt": [
+    "Academia de Minas de Almadén",
+    "Escuela de Ingenieros de Minas"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1777,
+     "city": "Almadén",
+     "lat": 38.7746,
+     "lon": -4.838
+    },
+    {
+     "from": 1835,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1777,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Spain's first mining school, created by Charles III at the mercury mines of Almadén on the model of Freiberg. In 1835 it was moved to Madrid as the Escuela de Minas, with Almadén keeping a practical school.",
+   "notes": ""
+  },
+  {
+   "id": "t-caminos-madrid",
+   "name": "School of Civil Engineering of Madrid",
+   "alt": [
+    "Escuela de Caminos, Canales y Puertos",
+    "Escuela de Ingenieros de Caminos"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1802,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1802,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Agustín de Betancourt on the model of the École des Ponts et Chaussées to train the state corps of road and canal engineers. It closed during war and absolutist reaction and was restored in 1834.",
+   "notes": ""
+  },
+  {
+   "id": "t-segovia",
+   "name": "Royal College of Artillery of Segovia",
+   "alt": [
+    "Real Colegio de Artillería",
+    "Academia de Artillería"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1764,
+     "city": "Segovia",
+     "lat": 40.948,
+     "lon": -4.1184
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1764,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The artillery academy founded by Charles III in the Alcázar of Segovia under Félix Gazola, with strong teaching in mathematics and chemistry. Louis Proust ran its chemistry laboratory, where he worked on the law of definite proportions.",
+   "notes": "During the Napoleonic war the college moved temporarily to the south."
+  },
+  {
+   "id": "t-cadiz-navy",
+   "name": "Royal Academy of Naval Guards",
+   "alt": [
+    "Real Academia de Guardias Marinas",
+    "Real Compañía de Guardias Marinas"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1717,
+     "city": "Cádiz",
+     "lat": 36.5298,
+     "lon": -6.2926
+    },
+    {
+     "from": 1769,
+     "city": "San Fernando",
+     "lat": 36.4616,
+     "lon": -6.1985
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1717,
+   "start_approx": false,
+   "end": 1824,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "The naval academy founded by José Patiño in Cádiz, which taught mathematics, astronomy and navigation and had an important observatory. It trained Jorge Juan and Antonio de Ulloa.",
+   "notes": "Closing date approximate; a naval college reopened at San Fernando in 1845."
+  },
+  {
+   "id": "t-barcelona-math",
+   "name": "Royal Military Academy of Mathematics of Barcelona",
+   "alt": [
+    "Real Academia Militar de Matemáticas"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1720,
+     "city": "Barcelona",
+     "lat": 41.3825,
+     "lon": 2.1717
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1720,
+   "start_approx": false,
+   "end": 1803,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "The training school of the Spanish corps of military engineers, founded by Philip V's engineer-general Jorge Próspero de Verboom and directed by Mateo Calabro and Pedro de Lucuce.",
+   "notes": "Founding year 1720 (opened c.1720); end approximate."
+  },
+  {
+   "id": "t-madrid-veterinary",
+   "name": "Royal Veterinary School of Madrid",
+   "alt": [
+    "Real Escuela de Veterinaria"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1792,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1792,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Spain's first veterinary school, founded on the model of Alfort. It trained army and civilian veterinarians.",
+   "notes": "Founded 1792; teaching started 1793."
+  },
+  {
+   "id": "t-montes",
+   "name": "School of Forestry Engineers",
+   "alt": [
+    "Escuela Especial de Ingenieros de Montes"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1848,
+     "city": "Villaviciosa de Odón",
+     "lat": 40.358,
+     "lon": -3.9003
+    },
+    {
+     "from": 1870,
+     "city": "El Escorial",
+     "lat": 40.5893,
+     "lon": -4.1479
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1848,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Spain's school of forestry engineering on the German (Tharandt) model, founded by Agustín Pascual and Esteban Boutelou.",
+   "notes": "Decreed 1846; opened 1848."
+  },
+  {
+   "id": "t-madrid-industrial",
+   "name": "Royal Industrial Institute of Madrid",
+   "alt": [
+    "Real Instituto Industrial"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1850,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1850,
+   "start_approx": false,
+   "end": 1867,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Spain's first school of industrial engineering, a central institute created during the reorganisation of technical education. It was closed for lack of funds.",
+   "notes": ""
+  },
+  {
+   "id": "t-barcelona-industrial",
+   "name": "Industrial School of Barcelona",
+   "alt": [
+    "Escuela Industrial Barcelonesa",
+    "Escuela de Ingenieros Industriales de Barcelona"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1851,
+     "city": "Barcelona",
+     "lat": 41.3825,
+     "lon": 2.1717
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1851,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The industrial engineering school of Catalonia, the centre of Spanish industry, created from the Junta de Comercio's earlier chairs.",
+   "notes": ""
+  },
+  {
+   "id": "t-agronomos",
+   "name": "School of Agricultural Engineers",
+   "alt": [
+    "Escuela Central de Agricultura",
+    "Escuela de Ingenieros Agrónomos"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1855,
+     "city": "Aranjuez",
+     "lat": 40.0322,
+     "lon": -3.6046
+    },
+    {
+     "from": 1869,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1855,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The central school of agronomy, opened at the La Flamenca estate near Aranjuez and later moved to Madrid.",
+   "notes": "Relocation date approximate."
+  },
+  {
+   "id": "t-madrid-architecture",
+   "name": "School of Architecture of Madrid",
+   "alt": [
+    "Escuela Especial de Arquitectura"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1844,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1844,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Created by separating architectural teaching from the Royal Academy of San Fernando, it became the professional school of Spanish architects.",
+   "notes": ""
+  },
+  {
+   "id": "t-lisbon-polytechnic",
+   "name": "Polytechnic School of Lisbon",
+   "alt": [
+    "Escola Politécnica de Lisboa"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1837,
+     "city": "Lisbon",
+     "lat": 38.7139,
+     "lon": -9.1394
+    }
+   ],
+   "modern_country": "Portugal",
+   "start": 1837,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Created by Sá da Bandeira in the former Royal College of Nobles (1761) to teach mathematics and science as preparation for army and engineering careers. It was Portugal's main science school outside Coimbra.",
+   "notes": ""
+  },
+  {
+   "id": "t-porto-polytechnic",
+   "name": "Polytechnic Academy of Porto",
+   "alt": [
+    "Academia Real da Marinha e Comércio",
+    "Academia Politécnica do Porto"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1803,
+     "city": "Porto",
+     "lat": 41.1496,
+     "lon": -8.6109
+    }
+   ],
+   "modern_country": "Portugal",
+   "start": 1803,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded as the Royal Academy of Navy and Commerce, it became the Polytechnic Academy in 1837, training engineers and pilots for Porto's trade and industry.",
+   "notes": ""
+  },
+  {
+   "id": "m-lisbon-medical",
+   "name": "Medical-Surgical School of Lisbon",
+   "alt": [
+    "Real Escola de Cirurgia de Lisboa",
+    "Escola Médico-Cirúrgica de Lisboa"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1825,
+     "city": "Lisbon",
+     "lat": 38.7139,
+     "lon": -9.1394
+    }
+   ],
+   "modern_country": "Portugal",
+   "start": 1825,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded as the Royal School of Surgery at the hospital of São José, it became a medical-surgical school in 1836. It was a rival to Coimbra's faculty of medicine.",
+   "notes": ""
+  },
+  {
+   "id": "m-porto-medical",
+   "name": "Medical-Surgical School of Porto",
+   "alt": [
+    "Real Escola de Cirurgia do Porto",
+    "Escola Médico-Cirúrgica do Porto"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1825,
+     "city": "Porto",
+     "lat": 41.1496,
+     "lon": -8.6109
+    }
+   ],
+   "modern_country": "Portugal",
+   "start": 1825,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded as the Royal School of Surgery of Porto, it became a medical-surgical school in 1836.",
+   "notes": ""
+  },
+  {
+   "id": "m-lisbon-letras",
+   "name": "Higher Course of Letters (Lisbon)",
+   "alt": [
+    "Curso Superior de Letras"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1859,
+     "city": "Lisbon",
+     "lat": 38.7139,
+     "lon": -9.1394
+    }
+   ],
+   "modern_country": "Portugal",
+   "start": 1859,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "A higher school of humanities endowed by King Pedro V, Portugal's first state institution for literature, history and philosophy outside Coimbra.",
+   "notes": ""
+  },
+  {
+   "id": "m-cadiz-surgery",
+   "name": "Royal College of Surgery of Cádiz",
+   "alt": [
+    "Real Colegio de Cirugía de la Armada",
+    "Facultad de Medicina de Cádiz"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1748,
+     "city": "Cádiz",
+     "lat": 36.5298,
+     "lon": -6.2926
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1748,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Pedro Virgili to train surgeons for the Spanish navy, it introduced modern anatomy and surgery to Spain. It became a faculty of medicine in 1843.",
+   "notes": ""
+  },
+  {
+   "id": "m-barcelona-surgery",
+   "name": "Royal College of Surgery of Barcelona",
+   "alt": [
+    "Real Colegio de Cirugía de Barcelona"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1760,
+     "city": "Barcelona",
+     "lat": 41.3825,
+     "lon": 2.1717
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1760,
+   "start_approx": false,
+   "end": 1843,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The second royal college of surgery, founded by Pedro Virgili; in the absence of a university in Barcelona it was the city's main medical school. Merged into the University of Barcelona in 1843.",
+   "notes": ""
+  },
+  {
+   "id": "m-madrid-san-carlos",
+   "name": "Royal College of Surgery of San Carlos",
+   "alt": [
+    "Real Colegio de Cirugía de San Carlos"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1787,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1787,
+   "start_approx": false,
+   "end": 1843,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The royal surgical college of Madrid, founded by Antonio Gimbernat and Mariano Ribas. It became the faculty of medicine of the University of Madrid in 1843.",
+   "notes": ""
+  },
+  {
+   "id": "j-madrid-colegio-imperial",
+   "name": "Colegio Imperial / Reales Estudios de San Isidro",
+   "alt": [
+    "Colegio Imperial de Madrid",
+    "Reales Estudios de San Isidro"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1625,
+     "city": "Madrid",
+     "lat": 40.4168,
+     "lon": -3.7038
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1625,
+   "start_approx": false,
+   "end": 1845,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "The Jesuit college of Madrid, founded on Empress Maria's bequest and raised by Philip IV into the Reales Estudios with chairs in mathematics, sciences and languages. After the 1767 expulsion it continued as the state-run Reales Estudios de San Isidro.",
+   "notes": "Became a secondary Instituto in 1845; end approximate."
+  },
+  {
+   "id": "j-lisbon-santo-antao",
+   "name": "Jesuit College of Santo Antão",
+   "alt": [
+    "Colégio de Santo Antão",
+    "Aula da Esfera"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1553,
+     "city": "Lisbon",
+     "lat": 38.7139,
+     "lon": -9.1394
+    }
+   ],
+   "modern_country": "Portugal",
+   "start": 1553,
+   "start_approx": false,
+   "end": 1759,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The main Jesuit college of Lisbon, whose 'Aula da Esfera' (from c.1590) was the leading school of mathematics, astronomy and navigation in Portugal. Closed by Pombal's expulsion of the Jesuits.",
+   "notes": ""
+  }
+ ],
+ "events": [
+  {
+   "id": "u-palencia-1208-founding",
+   "inst": "u-palencia",
+   "year": 1208,
+   "approx": true,
+   "type": "founding",
+   "title": "Alfonso VIII founds the studium",
+   "desc": "Alfonso VIII of Castile, with Bishop Tello, establishes salaried masters in theology, arts and law at Palencia (date conventional, 1208–1212).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-palencia-1263-charter",
+   "inst": "u-palencia",
+   "year": 1263,
+   "approx": false,
+   "type": "charter",
+   "title": "Urban IV grants Paris privileges",
+   "desc": "Pope Urban IV grants the studium the privileges of Paris in an attempt to revive it; the attempt failed and the school disappears.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-salamanca-1218-founding",
+   "inst": "u-salamanca",
+   "year": 1218,
+   "approx": true,
+   "type": "founding",
+   "title": "Alfonso IX founds the studium",
+   "desc": "Alfonso IX of León establishes 'scolas' at Salamanca, the conventional foundation of the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-salamanca-1254-charter",
+   "inst": "u-salamanca",
+   "year": 1254,
+   "approx": false,
+   "type": "charter",
+   "title": "Charter of Alfonso X",
+   "desc": "Alfonso X 'the Wise' issues a royal charter endowing chairs in law, canon law, medicine, logic, grammar and music, and regulating the studium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-salamanca-1255-charter",
+   "inst": "u-salamanca",
+   "year": 1255,
+   "approx": false,
+   "type": "charter",
+   "title": "Papal recognition by Alexander IV",
+   "desc": "Pope Alexander IV confirms Salamanca as a studium generale and grants its graduates the licentia ubique docendi (except Paris and Bologna).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-salamanca-1411-charter",
+   "inst": "u-salamanca",
+   "year": 1411,
+   "approx": false,
+   "type": "charter",
+   "title": "Constitutions of Benedict XIII",
+   "desc": "The Avignon pope Benedict XIII (Pedro de Luna) issues constitutions and founds a faculty of theology, also funding the Escuelas Mayores.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-salamanca-1422-reform",
+   "inst": "u-salamanca",
+   "year": 1422,
+   "approx": false,
+   "type": "reform",
+   "title": "Constitutions of Martin V",
+   "desc": "Martin V's constitutions fix the university's governance (rector, consiliarios, claustro), its basic statutes until the 18th century.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-salamanca-1771-reform",
+   "inst": "u-salamanca",
+   "year": 1771,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan de estudios of Charles III",
+   "desc": "Charles III's government imposes a new plan of studies, modernising curricula after the expulsion of the Jesuits.",
+   "from_inst": null,
+   "related": [
+    "u-valladolid",
+    "u-alcala-madrid"
+   ]
+  },
+  {
+   "id": "u-salamanca-1807-reform",
+   "inst": "u-salamanca",
+   "year": 1807,
+   "approx": false,
+   "type": "reform",
+   "title": "Caballero plan",
+   "desc": "The Caballero reform imposes Salamanca's plan of studies on all Spanish universities and suppresses eleven minor universities.",
+   "from_inst": null,
+   "related": [
+    "u-osuna",
+    "u-baeza",
+    "u-onati",
+    "u-irache",
+    "u-siguenza",
+    "u-osma",
+    "u-avila",
+    "u-almagro",
+    "u-toledo",
+    "u-orihuela"
+   ]
+  },
+  {
+   "id": "u-salamanca-1812-destruction",
+   "inst": "u-salamanca",
+   "year": 1812,
+   "approx": false,
+   "type": "destruction",
+   "title": "Napoleonic demolitions",
+   "desc": "During the French occupation and the 1812 Arapiles campaign, many colleges and university buildings were demolished for fortifications.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-salamanca-1845-reform",
+   "inst": "u-salamanca",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "The Plan Pidal centralises Spanish universities under the state, reducing them to ten district universities with uniform curricula; Salamanca loses doctoral rights to Madrid.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-salamanca-1868-reform",
+   "inst": "u-salamanca",
+   "year": 1868,
+   "approx": false,
+   "type": "reform",
+   "title": "Abolition of the theology faculty",
+   "desc": "After the 1868 revolution, the state abolishes faculties of theology, ending Salamanca's most historic faculty.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valladolid-1241-founding",
+   "inst": "u-valladolid",
+   "year": 1241,
+   "approx": true,
+   "type": "founding",
+   "title": "Emergence of the studium",
+   "desc": "A studium is attested at Valladolid in the 13th century, likely transferred from or influenced by Palencia; date conventional.",
+   "from_inst": null,
+   "related": [
+    "u-palencia"
+   ]
+  },
+  {
+   "id": "u-valladolid-1293-charter",
+   "inst": "u-valladolid",
+   "year": 1293,
+   "approx": true,
+   "type": "charter",
+   "title": "Endowment by Sancho IV",
+   "desc": "Sancho IV grants royal revenues (tercias) to support the studium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valladolid-1346-charter",
+   "inst": "u-valladolid",
+   "year": 1346,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Clement VI",
+   "desc": "Pope Clement VI recognises Valladolid as a studium generale with the privileges of Paris and Bologna (without theology).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valladolid-1418-charter",
+   "inst": "u-valladolid",
+   "year": 1418,
+   "approx": true,
+   "type": "charter",
+   "title": "Faculty of theology",
+   "desc": "Pope Martin V authorises a faculty of theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valladolid-1845-reform",
+   "inst": "u-valladolid",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "Retained as one of the ten state district universities under the Plan Pidal.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1290-founding",
+   "inst": "u-lisbon-coimbra",
+   "year": 1290,
+   "approx": false,
+   "type": "founding",
+   "title": "King Dinis founds the Estudo Geral",
+   "desc": "King Dinis issues 'Scientiae thesaurus mirabilis' (1 March 1290) founding a general study in Lisbon.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1290-charter",
+   "inst": "u-lisbon-coimbra",
+   "year": 1290,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Nicholas IV",
+   "desc": "Pope Nicholas IV confirms the Lisbon studium generale with faculties of arts, canon law, civil law and medicine.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1308-relocation",
+   "inst": "u-lisbon-coimbra",
+   "year": 1308,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Coimbra",
+   "desc": "Dinis transfers the university to Coimbra after conflicts between students and Lisbon townsmen.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1338-relocation",
+   "inst": "u-lisbon-coimbra",
+   "year": 1338,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Lisbon",
+   "desc": "Afonso IV moves the university back to Lisbon.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1354-relocation",
+   "inst": "u-lisbon-coimbra",
+   "year": 1354,
+   "approx": false,
+   "type": "relocation",
+   "title": "Back to Coimbra",
+   "desc": "Afonso IV returns the university to Coimbra.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1377-relocation",
+   "inst": "u-lisbon-coimbra",
+   "year": 1377,
+   "approx": false,
+   "type": "relocation",
+   "title": "Back to Lisbon",
+   "desc": "King Fernando moves the university to Lisbon, where it stays for 160 years.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1537-relocation",
+   "inst": "u-lisbon-coimbra",
+   "year": 1537,
+   "approx": false,
+   "type": "relocation",
+   "title": "Definitive move to Coimbra",
+   "desc": "John III transfers the university permanently to Coimbra, later installing it in the royal palace (Paço das Escolas).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1555-confessional",
+   "inst": "u-lisbon-coimbra",
+   "year": 1555,
+   "approx": false,
+   "type": "confessional",
+   "title": "Colégio das Artes handed to the Jesuits",
+   "desc": "John III gives the preparatory Colégio das Artes, founded 1548 with humanists from Bordeaux, to the Society of Jesus.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1759-confessional",
+   "inst": "u-lisbon-coimbra",
+   "year": 1759,
+   "approx": false,
+   "type": "confessional",
+   "title": "Expulsion of the Jesuits",
+   "desc": "Pombal expels the Jesuits from Portugal, removing them from the Colégio das Artes and university teaching.",
+   "from_inst": null,
+   "related": [
+    "u-evora",
+    "j-lisbon-santo-antao"
+   ]
+  },
+  {
+   "id": "u-lisbon-coimbra-1772-reform",
+   "inst": "u-lisbon-coimbra",
+   "year": 1772,
+   "approx": false,
+   "type": "reform",
+   "title": "Pombaline reform",
+   "desc": "New statutes create faculties of mathematics and philosophy (natural sciences), with a botanical garden, observatory, chemistry laboratory and natural history museum.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1836-reform",
+   "inst": "u-lisbon-coimbra",
+   "year": 1836,
+   "approx": true,
+   "type": "reform",
+   "title": "Liberal reform",
+   "desc": "After the dissolution of the religious orders (1834), Passos Manuel's reform merges canon and civil law faculties (into the faculty of law) and reorganises the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lisbon-coimbra-1891-access",
+   "inst": "u-lisbon-coimbra",
+   "year": 1891,
+   "approx": false,
+   "type": "access",
+   "title": "First woman student",
+   "desc": "Domitila de Carvalho enrols in mathematics, the first woman admitted to the University of Coimbra.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lleida-1300-founding",
+   "inst": "u-lleida",
+   "year": 1300,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of James II",
+   "desc": "James II of Aragon issues the founding privilege, following Boniface VIII's 1297 bull, and grants the studium a monopoly in the Crown of Aragon.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lleida-1707-destruction",
+   "inst": "u-lleida",
+   "year": 1707,
+   "approx": false,
+   "type": "destruction",
+   "title": "Bourbon siege of Lleida",
+   "desc": "Philip V's troops storm Lleida in the War of the Spanish Succession; teaching is disrupted and the cathedral turned into a fortress.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lleida-1717-suppression",
+   "inst": "u-lleida",
+   "year": 1717,
+   "approx": false,
+   "type": "suppression",
+   "title": "Nueva Planta suppression",
+   "desc": "Philip V suppresses the Catalan universities and concentrates teaching at Cervera.",
+   "from_inst": null,
+   "related": [
+    "u-cervera"
+   ]
+  },
+  {
+   "id": "u-perpignan-1350-founding",
+   "inst": "u-perpignan",
+   "year": 1350,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of Peter IV",
+   "desc": "Peter IV 'the Ceremonious' founds a studium generale at Perpignan.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-perpignan-1379-charter",
+   "inst": "u-perpignan",
+   "year": 1379,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Clement VII",
+   "desc": "The Avignon pope Clement VII confirms the university and adds theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-perpignan-1659-reform",
+   "inst": "u-perpignan",
+   "year": 1659,
+   "approx": false,
+   "type": "reform",
+   "title": "Transfer to the French crown",
+   "desc": "The Treaty of the Pyrenees cedes Roussillon to France; the university comes under French royal control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-perpignan-1793-suppression",
+   "inst": "u-perpignan",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Revolutionary suppression",
+   "desc": "Abolished with all French universities by the revolutionary Convention.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-huesca-1354-founding",
+   "inst": "u-huesca",
+   "year": 1354,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of Peter IV",
+   "desc": "Peter IV grants Huesca a studium generale with the privileges of Lleida, Toulouse and Montpellier.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-huesca-1464-refoundation",
+   "inst": "u-huesca",
+   "year": 1464,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Refoundation by John II",
+   "desc": "John II of Aragon restores the studium, confirmed by a bull of Paul II.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-huesca-1845-suppression",
+   "inst": "u-huesca",
+   "year": 1845,
+   "approx": false,
+   "type": "suppression",
+   "title": "Suppressed by Plan Pidal",
+   "desc": "The Plan Pidal abolishes the university, leaving Aragon served by Zaragoza.",
+   "from_inst": null,
+   "related": [
+    "u-zaragoza"
+   ]
+  },
+  {
+   "id": "u-alcala-madrid-1499-founding",
+   "inst": "u-alcala-madrid",
+   "year": 1499,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Alexander VI for Cisneros",
+   "desc": "Alexander VI authorises Cisneros's Colegio de San Ildefonso as a university; teaching opened in 1508.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-alcala-madrid-1771-reform",
+   "inst": "u-alcala-madrid",
+   "year": 1771,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan de estudios",
+   "desc": "Charles III's reform plan imposes new curricula on Alcalá, reducing the power of the colegios mayores.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-alcala-madrid-1836-relocation",
+   "inst": "u-alcala-madrid",
+   "year": 1836,
+   "approx": false,
+   "type": "relocation",
+   "title": "Transfer to Madrid",
+   "desc": "The liberal government moves the university from Alcalá to Madrid, where it becomes the Universidad Literaria, renamed Universidad Central in 1850.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-alcala-madrid-1843-merger",
+   "inst": "u-alcala-madrid",
+   "year": 1843,
+   "approx": false,
+   "type": "merger",
+   "title": "Absorbs the Colegio de San Carlos",
+   "desc": "The Royal College of Surgery of San Carlos is merged into the university's new faculty of medicine.",
+   "from_inst": null,
+   "related": [
+    "m-madrid-san-carlos"
+   ]
+  },
+  {
+   "id": "u-alcala-madrid-1845-reform",
+   "inst": "u-alcala-madrid",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "The Universidad Central is made the only university in Spain allowed to grant doctorates.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-alcala-madrid-1857-reform",
+   "inst": "u-alcala-madrid",
+   "year": 1857,
+   "approx": false,
+   "type": "reform",
+   "title": "Ley Moyano",
+   "desc": "The Moyano Law fixes the centralised structure of Spanish education, with Madrid at its apex.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-alcala-madrid-1882-access",
+   "inst": "u-alcala-madrid",
+   "year": 1882,
+   "approx": false,
+   "type": "access",
+   "title": "First doctorates for women",
+   "desc": "Dolors Aleu and Martina Castells receive doctorates in medicine at Madrid, the first women doctors from a Spanish university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-siguenza-1489-founding",
+   "inst": "u-siguenza",
+   "year": 1489,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Innocent VIII",
+   "desc": "Innocent VIII raises the Colegio de San Antonio de Portaceli to university status (30 April 1489).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-siguenza-1807-suppression",
+   "inst": "u-siguenza",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Listed for suppression in the 1807 reform; the Napoleonic invasion prevented its execution.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-siguenza-1824-suppression",
+   "inst": "u-siguenza",
+   "year": 1824,
+   "approx": false,
+   "type": "suppression",
+   "title": "Final closure",
+   "desc": "Calomarde's plan reduces the university to a college, ending university teaching.",
+   "from_inst": null,
+   "related": [
+    "u-alcala-madrid"
+   ]
+  },
+  {
+   "id": "u-seville-1505-founding",
+   "inst": "u-seville",
+   "year": 1505,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Julius II",
+   "desc": "Julius II grants the Colegio de Santa María de Jesús the right to confer degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-seville-1769-reform",
+   "inst": "u-seville",
+   "year": 1769,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan of Olavide",
+   "desc": "Pablo de Olavide's reform separates university and college, and the university moves to the former Jesuit Casa Profesa (1771).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-seville-1845-reform",
+   "inst": "u-seville",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "Seville becomes one of the ten state district universities, also covering Cádiz medicine.",
+   "from_inst": null,
+   "related": [
+    "m-cadiz-surgery"
+   ]
+  },
+  {
+   "id": "u-santiago-1495-founding",
+   "inst": "u-santiago",
+   "year": 1495,
+   "approx": false,
+   "type": "founding",
+   "title": "Estudio of Lope Gómez de Marzoa",
+   "desc": "Lope Gómez de Marzoa founds a study house for clerics, later the nucleus of the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-santiago-1526-charter",
+   "inst": "u-santiago",
+   "year": 1526,
+   "approx": true,
+   "type": "charter",
+   "title": "Fonseca's college",
+   "desc": "Archbishop Alonso de Fonseca founds the Colegio de Santiago Alfeo and obtains papal bulls granting it university privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-santiago-1772-reform",
+   "inst": "u-santiago",
+   "year": 1772,
+   "approx": true,
+   "type": "reform",
+   "title": "Plan de estudios",
+   "desc": "Charles III's reform plan is applied to Santiago.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-santiago-1845-reform",
+   "inst": "u-santiago",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "Retained as Galicia's district university under the Plan Pidal.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zaragoza-1542-founding",
+   "inst": "u-zaragoza",
+   "year": 1542,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of Charles I",
+   "desc": "Charles I grants Zaragoza a general study with university privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zaragoza-1583-reform",
+   "inst": "u-zaragoza",
+   "year": 1583,
+   "approx": false,
+   "type": "reform",
+   "title": "Opening under Pedro Cerbuna",
+   "desc": "Bishop Pedro Cerbuna funds and organises the university, which begins regular teaching.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zaragoza-1809-destruction",
+   "inst": "u-zaragoza",
+   "year": 1809,
+   "approx": false,
+   "type": "destruction",
+   "title": "Sieges of Zaragoza",
+   "desc": "The university buildings are badly damaged in the French sieges of 1808–1809.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zaragoza-1845-reform",
+   "inst": "u-zaragoza",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "Becomes the district university for all Aragon after Huesca's suppression.",
+   "from_inst": null,
+   "related": [
+    "u-huesca"
+   ]
+  },
+  {
+   "id": "u-granada-1531-founding",
+   "inst": "u-granada",
+   "year": 1531,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Clement VII",
+   "desc": "Clement VII confirms the university founded by Charles V's 1526 decision.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-granada-1769-reform",
+   "inst": "u-granada",
+   "year": 1769,
+   "approx": true,
+   "type": "reform",
+   "title": "Move into the former Jesuit college",
+   "desc": "After the Jesuit expulsion the university is reorganised and occupies the former Jesuit college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-granada-1845-reform",
+   "inst": "u-granada",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "Retained as one of the ten district universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toledo-1520-founding",
+   "inst": "u-toledo",
+   "year": 1520,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Leo X",
+   "desc": "Leo X grants the Colegio de Santa Catalina university privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toledo-1807-suppression",
+   "inst": "u-toledo",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Suppressed by the 1807 reform.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-toledo-1814-refoundation",
+   "inst": "u-toledo",
+   "year": 1814,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Restoration",
+   "desc": "Reopened after the Napoleonic war.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toledo-1845-suppression",
+   "inst": "u-toledo",
+   "year": 1845,
+   "approx": false,
+   "type": "suppression",
+   "title": "Suppressed by Plan Pidal",
+   "desc": "Finally abolished in the Plan Pidal reorganisation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oviedo-1608-founding",
+   "inst": "u-oviedo",
+   "year": 1608,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the university",
+   "desc": "The university opens, decades after Valdés's bequest and the 1574 bull of Gregory XIII.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oviedo-1845-reform",
+   "inst": "u-oviedo",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "Retained as one of the ten district universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-osuna-1548-founding",
+   "inst": "u-osuna",
+   "year": 1548,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Paul III",
+   "desc": "Paul III authorises the college-university founded by the Count of Ureña.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-osuna-1807-suppression",
+   "inst": "u-osuna",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Suppressed by the 1807 reform; teaching was disrupted by the war.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-osuna-1814-refoundation",
+   "inst": "u-osuna",
+   "year": 1814,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Precarious revival",
+   "desc": "Teaching resumes after the Napoleonic war.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-osuna-1824-suppression",
+   "inst": "u-osuna",
+   "year": 1824,
+   "approx": false,
+   "type": "suppression",
+   "title": "Definitive closure",
+   "desc": "Closed definitively under Calomarde's plan.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-onati-1540-founding",
+   "inst": "u-onati",
+   "year": 1540,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Paul III",
+   "desc": "Paul III authorises the university founded by Bishop Mercado de Zuazola; building began in 1543.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-onati-1807-suppression",
+   "inst": "u-onati",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Included among the minor universities suppressed in 1807.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-onati-1842-suppression",
+   "inst": "u-onati",
+   "year": 1842,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "Closed by the liberal government after the First Carlist War.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-onati-1874-refoundation",
+   "inst": "u-onati",
+   "year": 1874,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Carlist university",
+   "desc": "During the Third Carlist War the Carlists reopen it as the Real y Pontificia Universidad Vasco-Navarra.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-onati-1895-refoundation",
+   "inst": "u-onati",
+   "year": 1895,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Catholic free university",
+   "desc": "Reopened as a Catholic free university, closing for lack of funds in 1901.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-baeza-1538-founding",
+   "inst": "u-baeza",
+   "year": 1538,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Paul III",
+   "desc": "Paul III's bull establishes the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-baeza-1807-suppression",
+   "inst": "u-baeza",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Abolished by the 1807 reform.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-baeza-1815-refoundation",
+   "inst": "u-baeza",
+   "year": 1815,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Brief revival",
+   "desc": "A weak revival after the war.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-baeza-1824-suppression",
+   "inst": "u-baeza",
+   "year": 1824,
+   "approx": false,
+   "type": "suppression",
+   "title": "Definitive abolition",
+   "desc": "Finally abolished in 1824.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-gandia-1547-founding",
+   "inst": "u-gandia",
+   "year": 1547,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Paul III",
+   "desc": "Paul III grants the university of Gandia the privileges of Paris, Valencia, Salamanca and Alcalá.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-gandia-1767-confessional",
+   "inst": "u-gandia",
+   "year": 1767,
+   "approx": false,
+   "type": "confessional",
+   "title": "Expulsion of the Jesuits",
+   "desc": "After the expulsion of the Jesuits from Spain, lay professors take over.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-gandia-1772-suppression",
+   "inst": "u-gandia",
+   "year": 1772,
+   "approx": false,
+   "type": "suppression",
+   "title": "Suppression",
+   "desc": "The university is suppressed at the request of the collegiate chapter (11 August 1772).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-evora-1559-founding",
+   "inst": "u-evora",
+   "year": 1559,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Paul IV",
+   "desc": "Paul IV confirms the Jesuit University of the Holy Spirit founded by Cardinal Henry.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-evora-1759-suppression",
+   "inst": "u-evora",
+   "year": 1759,
+   "approx": false,
+   "type": "suppression",
+   "title": "Pombal's suppression",
+   "desc": "Closed when Pombal expels the Jesuits from Portugal.",
+   "from_inst": null,
+   "related": [
+    "u-lisbon-coimbra"
+   ]
+  },
+  {
+   "id": "u-cervera-1717-founding",
+   "inst": "u-cervera",
+   "year": 1717,
+   "approx": false,
+   "type": "founding",
+   "title": "Decree of Philip V",
+   "desc": "Philip V creates the university at Cervera by royal decree (11 May 1717).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cervera-1717-merger",
+   "inst": "u-cervera",
+   "year": 1717,
+   "approx": false,
+   "type": "merger",
+   "title": "Absorption of the Catalan universities",
+   "desc": "The incomes and functions of the suppressed Catalan universities are transferred to Cervera.",
+   "from_inst": null,
+   "related": [
+    "u-lleida",
+    "u-girona",
+    "u-vic",
+    "u-tarragona",
+    "u-solsona",
+    "u-tortosa"
+   ]
+  },
+  {
+   "id": "u-mallorca-1483-founding",
+   "inst": "u-mallorca",
+   "year": 1483,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of Ferdinand II",
+   "desc": "Ferdinand II grants Palma a general study, linked to the Lullist tradition.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-mallorca-1673-charter",
+   "inst": "u-mallorca",
+   "year": 1673,
+   "approx": true,
+   "type": "charter",
+   "title": "Papal bull",
+   "desc": "Clement X grants university status.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-mallorca-1692-charter",
+   "inst": "u-mallorca",
+   "year": 1692,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal confirmation",
+   "desc": "Charles II ratifies the Universitat Literària de Mallorca.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-mallorca-1842-suppression",
+   "inst": "u-mallorca",
+   "year": 1842,
+   "approx": true,
+   "type": "suppression",
+   "title": "Abolition",
+   "desc": "The university is abolished in the liberal reorganisation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-avila-1576-founding",
+   "inst": "u-avila",
+   "year": 1576,
+   "approx": true,
+   "type": "founding",
+   "title": "Papal bull",
+   "desc": "Papal authorisation for the Dominican convent of Santo Tomás to grant degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-avila-1807-suppression",
+   "inst": "u-avila",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Suppressed by the 1807 reform.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-avila-1824-suppression",
+   "inst": "u-avila",
+   "year": 1824,
+   "approx": true,
+   "type": "suppression",
+   "title": "Reduced to college",
+   "desc": "Calomarde's plan ends its university status.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-almagro-1574-founding",
+   "inst": "u-almagro",
+   "year": 1574,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of classes",
+   "desc": "Classes open (18 October 1574) at the Dominican college-university of the Rosary.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-almagro-1807-suppression",
+   "inst": "u-almagro",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Suppressed by the 1807 reform.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-almagro-1814-refoundation",
+   "inst": "u-almagro",
+   "year": 1814,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Revival",
+   "desc": "Teaching resumes after the Napoleonic war.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-almagro-1824-suppression",
+   "inst": "u-almagro",
+   "year": 1824,
+   "approx": false,
+   "type": "suppression",
+   "title": "Final closure",
+   "desc": "University life ends in 1824; the Dominicans were expelled in 1835.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orihuela-1569-founding",
+   "inst": "u-orihuela",
+   "year": 1569,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Pius V",
+   "desc": "Pius V raises the Dominican college to a university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orihuela-1646-charter",
+   "inst": "u-orihuela",
+   "year": 1646,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal title",
+   "desc": "Philip IV grants it the title of 'Real' university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orihuela-1807-suppression",
+   "inst": "u-orihuela",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Listed for suppression in 1807; teaching continued.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-orihuela-1835-suppression",
+   "inst": "u-orihuela",
+   "year": 1835,
+   "approx": false,
+   "type": "suppression",
+   "title": "Final closure",
+   "desc": "Definitively closed; it continued as a college attached to Valencia.",
+   "from_inst": null,
+   "related": [
+    "u-valencia"
+   ]
+  },
+  {
+   "id": "u-tarragona-1572-founding",
+   "inst": "u-tarragona",
+   "year": 1572,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation by Archbishop Cervantes",
+   "desc": "Archbishop Gaspar Cervantes founds the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-tarragona-1574-charter",
+   "inst": "u-tarragona",
+   "year": 1574,
+   "approx": false,
+   "type": "charter",
+   "title": "Confirmation by Gregory XIII",
+   "desc": "Gregory XIII confirms the university; teaching starts in 1577.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-tarragona-1717-suppression",
+   "inst": "u-tarragona",
+   "year": 1717,
+   "approx": false,
+   "type": "suppression",
+   "title": "Nueva Planta suppression",
+   "desc": "Suppressed by Philip V; later a Literary Study dependent on Cervera.",
+   "from_inst": null,
+   "related": [
+    "u-cervera"
+   ]
+  },
+  {
+   "id": "u-vic-1599-founding",
+   "inst": "u-vic",
+   "year": 1599,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of Philip III",
+   "desc": "Philip III grants Vic the right to confer degrees in arts and philosophy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vic-1717-suppression",
+   "inst": "u-vic",
+   "year": 1717,
+   "approx": false,
+   "type": "suppression",
+   "title": "Nueva Planta suppression",
+   "desc": "Suppressed by Philip V.",
+   "from_inst": null,
+   "related": [
+    "u-cervera"
+   ]
+  },
+  {
+   "id": "u-girona-1446-founding",
+   "inst": "u-girona",
+   "year": 1446,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of Alfonso V",
+   "desc": "Alfonso the Magnanimous grants Girona the privilege of a general study with power to grant degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-girona-1572-reform",
+   "inst": "u-girona",
+   "year": 1572,
+   "approx": false,
+   "type": "reform",
+   "title": "Opening at Les Àligues",
+   "desc": "Regular teaching begins in the new Les Àligues building.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-girona-1717-suppression",
+   "inst": "u-girona",
+   "year": 1717,
+   "approx": false,
+   "type": "suppression",
+   "title": "Nueva Planta suppression",
+   "desc": "Suppressed by Philip V.",
+   "from_inst": null,
+   "related": [
+    "u-cervera"
+   ]
+  },
+  {
+   "id": "u-solsona-1620-founding",
+   "inst": "u-solsona",
+   "year": 1620,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Paul V",
+   "desc": "Paul V raises the Dominican college to a university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-solsona-1717-suppression",
+   "inst": "u-solsona",
+   "year": 1717,
+   "approx": false,
+   "type": "suppression",
+   "title": "Nueva Planta suppression",
+   "desc": "Suppressed and merged into Cervera; continued as a college until 1835.",
+   "from_inst": null,
+   "related": [
+    "u-cervera"
+   ]
+  },
+  {
+   "id": "u-tortosa-1600-founding",
+   "inst": "u-tortosa",
+   "year": 1600,
+   "approx": true,
+   "type": "founding",
+   "title": "University status",
+   "desc": "The Dominican studium in Tortosa receives degree-granting powers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-tortosa-1717-suppression",
+   "inst": "u-tortosa",
+   "year": 1717,
+   "approx": false,
+   "type": "suppression",
+   "title": "Nueva Planta suppression",
+   "desc": "Suppressed by Philip V.",
+   "from_inst": null,
+   "related": [
+    "u-cervera"
+   ]
+  },
+  {
+   "id": "u-sahagun-1534-founding",
+   "inst": "u-sahagun",
+   "year": 1534,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Clement VII",
+   "desc": "Clement VII allows the monastery of San Facundo to confer degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-irache-1569-founding",
+   "inst": "u-irache",
+   "year": 1569,
+   "approx": true,
+   "type": "founding",
+   "title": "University status",
+   "desc": "The Benedictine college at Irache begins to function as a university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-irache-1605-merger",
+   "inst": "u-irache",
+   "year": 1605,
+   "approx": true,
+   "type": "merger",
+   "title": "Transfer from Sahagún",
+   "desc": "Paul V approves the transfer of the Benedictines' degree-granting university from Sahagún to Irache.",
+   "from_inst": null,
+   "related": [
+    "u-sahagun"
+   ]
+  },
+  {
+   "id": "u-irache-1616-charter",
+   "inst": "u-irache",
+   "year": 1616,
+   "approx": false,
+   "type": "charter",
+   "title": "Pontifical university",
+   "desc": "Paul V confirms Irache as a pontifical university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-irache-1665-charter",
+   "inst": "u-irache",
+   "year": 1665,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal confirmation",
+   "desc": "Philip IV confirms the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-irache-1807-suppression",
+   "inst": "u-irache",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Suppressed by the 1807 reform.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-irache-1824-suppression",
+   "inst": "u-irache",
+   "year": 1824,
+   "approx": true,
+   "type": "suppression",
+   "title": "Final closure",
+   "desc": "The last degrees are granted; the university ends.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-osma-1550-founding",
+   "inst": "u-osma",
+   "year": 1550,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Julius III",
+   "desc": "Julius III authorises the university founded by Bishop Álvarez de Acosta (5 August 1550).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-osma-1807-suppression",
+   "inst": "u-osma",
+   "year": 1807,
+   "approx": false,
+   "type": "suppression",
+   "title": "Caballero plan",
+   "desc": "Suppressed by the 1807 reform.",
+   "from_inst": null,
+   "related": [
+    "u-salamanca"
+   ]
+  },
+  {
+   "id": "u-osma-1814-refoundation",
+   "inst": "u-osma",
+   "year": 1814,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Reopening",
+   "desc": "Reopened on 7 October 1814.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-osma-1841-suppression",
+   "inst": "u-osma",
+   "year": 1841,
+   "approx": true,
+   "type": "suppression",
+   "title": "Final closure",
+   "desc": "Closed during the 1841–42 academic year.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pamplona-1630-founding",
+   "inst": "u-pamplona",
+   "year": 1630,
+   "approx": false,
+   "type": "founding",
+   "title": "University status",
+   "desc": "The Dominican college of Santiago obtains university status.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pamplona-1771-suppression",
+   "inst": "u-pamplona",
+   "year": 1771,
+   "approx": false,
+   "type": "suppression",
+   "title": "Suppression",
+   "desc": "Suppressed on 11 March 1771.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-murcia-1840-founding",
+   "inst": "u-murcia",
+   "year": 1840,
+   "approx": false,
+   "type": "founding",
+   "title": "Proclaimed by the provisional junta",
+   "desc": "Proclaimed by the provisional government of Murcia (18 September) and opened on 22 October 1840.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-murcia-1841-suppression",
+   "inst": "u-murcia",
+   "year": 1841,
+   "approx": false,
+   "type": "suppression",
+   "title": "Suppressed by the central government",
+   "desc": "Suppressed (15 May 1841) together with the University of Cáceres and turned into a secondary institute.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-murcia-1869-refoundation",
+   "inst": "u-murcia",
+   "year": 1869,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Free university",
+   "desc": "The province and city open a free university (11 November 1869).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-murcia-1874-suppression",
+   "inst": "u-murcia",
+   "year": 1874,
+   "approx": true,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "The free university closes for lack of funds and students.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-la-laguna-1817-founding",
+   "inst": "u-la-laguna",
+   "year": 1817,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the university",
+   "desc": "The University of San Fernando opens on 12 January 1817, following Ferdinand VII's 1816 decree.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-la-laguna-1845-suppression",
+   "inst": "u-la-laguna",
+   "year": 1845,
+   "approx": false,
+   "type": "suppression",
+   "title": "Suppressed by Plan Pidal",
+   "desc": "Abolished and replaced by the Instituto de Canarias.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valencia-1499-founding",
+   "inst": "u-valencia",
+   "year": 1499,
+   "approx": false,
+   "type": "founding",
+   "title": "Constitutions of the city council",
+   "desc": "The city council establishes the Estudi General and issues its constitutions.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valencia-1501-charter",
+   "inst": "u-valencia",
+   "year": 1501,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Alexander VI",
+   "desc": "Alexander VI (the Valencian Borja pope) issues the founding bull.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valencia-1502-charter",
+   "inst": "u-valencia",
+   "year": 1502,
+   "approx": false,
+   "type": "charter",
+   "title": "Privilege of Ferdinand II",
+   "desc": "Ferdinand II confirms the university by royal privilege.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valencia-1786-reform",
+   "inst": "u-valencia",
+   "year": 1786,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Blasco",
+   "desc": "Rector Vicente Blasco's plan modernises curricula, especially in science and medicine.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valencia-1812-destruction",
+   "inst": "u-valencia",
+   "year": 1812,
+   "approx": false,
+   "type": "destruction",
+   "title": "Bombardment of Valencia",
+   "desc": "The university library burns during the French bombardment of Valencia.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valencia-1845-reform",
+   "inst": "u-valencia",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "Retained as one of ten district universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-barcelona-1450-founding",
+   "inst": "u-barcelona",
+   "year": 1450,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of Alfonso V",
+   "desc": "Alfonso V grants the Consell de Cent a general study, confirmed by Nicholas V the same year.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-barcelona-1559-reform",
+   "inst": "u-barcelona",
+   "year": 1559,
+   "approx": true,
+   "type": "reform",
+   "title": "Consolidation of the Estudi General",
+   "desc": "The city unifies teaching in the new Estudi General building on the Rambla.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-barcelona-1717-suppression",
+   "inst": "u-barcelona",
+   "year": 1717,
+   "approx": false,
+   "type": "suppression",
+   "title": "Nueva Planta suppression",
+   "desc": "Philip V suppresses the university after the 1714 siege and transfers it to Cervera.",
+   "from_inst": null,
+   "related": [
+    "u-cervera"
+   ]
+  },
+  {
+   "id": "u-barcelona-1837-refoundation",
+   "inst": "u-barcelona",
+   "year": 1837,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Provisional restoration",
+   "desc": "Liberal governments restore university teaching in Barcelona.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-barcelona-1842-merger",
+   "inst": "u-barcelona",
+   "year": 1842,
+   "approx": false,
+   "type": "merger",
+   "title": "Absorbs Cervera",
+   "desc": "The University of Cervera is transferred to Barcelona.",
+   "from_inst": null,
+   "related": [
+    "u-cervera"
+   ]
+  },
+  {
+   "id": "u-barcelona-1843-merger",
+   "inst": "u-barcelona",
+   "year": 1843,
+   "approx": false,
+   "type": "merger",
+   "title": "Absorbs the College of Surgery",
+   "desc": "The Royal College of Surgery becomes the faculty of medicine.",
+   "from_inst": null,
+   "related": [
+    "m-barcelona-surgery"
+   ]
+  },
+  {
+   "id": "u-barcelona-1845-reform",
+   "inst": "u-barcelona",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Plan Pidal",
+   "desc": "Barcelona becomes one of the ten district universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-barcelona-1872-access",
+   "inst": "u-barcelona",
+   "year": 1872,
+   "approx": false,
+   "type": "access",
+   "title": "First woman student",
+   "desc": "María Elena Maseras enrols in medicine with royal permission, the first woman in a Spanish university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-vergara-1776-founding",
+   "inst": "t-vergara",
+   "year": 1776,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the seminary",
+   "desc": "The Real Sociedad Bascongada opens the Patriotic Seminary at Vergara.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-vergara-1804-reform",
+   "inst": "t-vergara",
+   "year": 1804,
+   "approx": true,
+   "type": "reform",
+   "title": "Royal Seminario de Nobles",
+   "desc": "The seminary passes to the Crown as a school for nobles, ending its period as a research school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-almaden-madrid-1777-founding",
+   "inst": "t-almaden-madrid",
+   "year": 1777,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding of the mining academy",
+   "desc": "Charles III founds the Academia de Minas at Almadén (14 July 1777).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-almaden-madrid-1835-relocation",
+   "inst": "t-almaden-madrid",
+   "year": 1835,
+   "approx": false,
+   "type": "relocation",
+   "title": "Transfer to Madrid",
+   "desc": "The school is re-established in Madrid as the Escuela de Ingenieros de Minas.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-caminos-madrid-1802-founding",
+   "inst": "t-caminos-madrid",
+   "year": 1802,
+   "approx": false,
+   "type": "founding",
+   "title": "Founded by Betancourt",
+   "desc": "Agustín de Betancourt opens the school in Madrid.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-caminos-madrid-1808-suppression",
+   "inst": "t-caminos-madrid",
+   "year": 1808,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed by war",
+   "desc": "Closed with the French invasion.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-caminos-madrid-1820-refoundation",
+   "inst": "t-caminos-madrid",
+   "year": 1820,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Liberal reopening",
+   "desc": "Reopened during the Liberal Triennium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-caminos-madrid-1823-suppression",
+   "inst": "t-caminos-madrid",
+   "year": 1823,
+   "approx": false,
+   "type": "suppression",
+   "title": "Absolutist closure",
+   "desc": "Closed again after the restoration of Ferdinand VII's absolute rule.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-caminos-madrid-1834-refoundation",
+   "inst": "t-caminos-madrid",
+   "year": 1834,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Definitive reopening",
+   "desc": "Re-established permanently.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-segovia-1764-founding",
+   "inst": "t-segovia",
+   "year": 1764,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the college",
+   "desc": "The Real Colegio de Artillería opens in the Alcázar (16 May 1764).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-segovia-1862-destruction",
+   "inst": "t-segovia",
+   "year": 1862,
+   "approx": false,
+   "type": "destruction",
+   "title": "Fire in the Alcázar",
+   "desc": "A fire destroys much of the Alcázar where the academy was housed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-cadiz-navy-1717-founding",
+   "inst": "t-cadiz-navy",
+   "year": 1717,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding by Patiño",
+   "desc": "José Patiño founds the Company and Academy of Naval Guards in Cádiz.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-cadiz-navy-1769-relocation",
+   "inst": "t-cadiz-navy",
+   "year": 1769,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Isla de León",
+   "desc": "The academy moves to Isla de León (San Fernando).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-cadiz-navy-1824-suppression",
+   "inst": "t-cadiz-navy",
+   "year": 1824,
+   "approx": true,
+   "type": "suppression",
+   "title": "Dissolution",
+   "desc": "The academy is dissolved after the Trienio.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-barcelona-math-1720-founding",
+   "inst": "t-barcelona-math",
+   "year": 1720,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding of the academy",
+   "desc": "The academy opens in Barcelona to train military engineers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-barcelona-math-1803-suppression",
+   "inst": "t-barcelona-math",
+   "year": 1803,
+   "approx": true,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "Engineers' training moves to the new Academy of Military Engineers at Alcalá.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-madrid-veterinary-1792-founding",
+   "inst": "t-madrid-veterinary",
+   "year": 1792,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal foundation",
+   "desc": "Charles IV founds the Real Escuela de Veterinaria; it opened in 1793.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-montes-1848-founding",
+   "inst": "t-montes",
+   "year": 1848,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening at Villaviciosa de Odón",
+   "desc": "The school opens in the castle of Villaviciosa de Odón.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-montes-1870-relocation",
+   "inst": "t-montes",
+   "year": 1870,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to El Escorial",
+   "desc": "The school moves to El Escorial.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-madrid-industrial-1850-founding",
+   "inst": "t-madrid-industrial",
+   "year": 1850,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal decree",
+   "desc": "Founded by royal decree.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-madrid-industrial-1867-suppression",
+   "inst": "t-madrid-industrial",
+   "year": 1867,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "Closed for lack of funds.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-barcelona-industrial-1851-founding",
+   "inst": "t-barcelona-industrial",
+   "year": 1851,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding",
+   "desc": "Founded as the Escuela Industrial Barcelonesa.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-agronomos-1855-founding",
+   "inst": "t-agronomos",
+   "year": 1855,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening at La Flamenca",
+   "desc": "The Escuela Central de Agricultura opens near Aranjuez.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-agronomos-1869-relocation",
+   "inst": "t-agronomos",
+   "year": 1869,
+   "approx": true,
+   "type": "relocation",
+   "title": "Move to Madrid",
+   "desc": "The school moves to Madrid.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-madrid-architecture-1844-founding",
+   "inst": "t-madrid-architecture",
+   "year": 1844,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding",
+   "desc": "Founded as an independent school of architecture.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-lisbon-polytechnic-1837-founding",
+   "inst": "t-lisbon-polytechnic",
+   "year": 1837,
+   "approx": false,
+   "type": "founding",
+   "title": "Decree of Sá da Bandeira",
+   "desc": "Founded by decree (11 January 1837).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-porto-polytechnic-1803-founding",
+   "inst": "t-porto-polytechnic",
+   "year": 1803,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal Academy of Navy and Commerce",
+   "desc": "The Academia Real da Marinha e Comércio is created in Porto.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-porto-polytechnic-1837-reform",
+   "inst": "t-porto-polytechnic",
+   "year": 1837,
+   "approx": false,
+   "type": "reform",
+   "title": "Polytechnic Academy",
+   "desc": "Reorganised as the Academia Politécnica do Porto.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-lisbon-medical-1825-founding",
+   "inst": "m-lisbon-medical",
+   "year": 1825,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal School of Surgery",
+   "desc": "Founded by royal decree.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-lisbon-medical-1836-reform",
+   "inst": "m-lisbon-medical",
+   "year": 1836,
+   "approx": false,
+   "type": "reform",
+   "title": "Medical-Surgical School",
+   "desc": "Reorganised as the Escola Médico-Cirúrgica.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-porto-medical-1825-founding",
+   "inst": "m-porto-medical",
+   "year": 1825,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal School of Surgery",
+   "desc": "Founded by royal decree.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-porto-medical-1836-reform",
+   "inst": "m-porto-medical",
+   "year": 1836,
+   "approx": false,
+   "type": "reform",
+   "title": "Medical-Surgical School",
+   "desc": "Reorganised as the Escola Médico-Cirúrgica.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-lisbon-letras-1859-founding",
+   "inst": "m-lisbon-letras",
+   "year": 1859,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding by Pedro V",
+   "desc": "King Pedro V endows and founds the Curso Superior de Letras.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-cadiz-surgery-1748-founding",
+   "inst": "m-cadiz-surgery",
+   "year": 1748,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding by Virgili",
+   "desc": "Pedro Virgili founds the Royal College of Surgery for the navy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-cadiz-surgery-1843-reform",
+   "inst": "m-cadiz-surgery",
+   "year": 1843,
+   "approx": false,
+   "type": "reform",
+   "title": "Faculty of medicine",
+   "desc": "Converted into a faculty of medicine, later attached to the University of Seville.",
+   "from_inst": null,
+   "related": [
+    "u-seville"
+   ]
+  },
+  {
+   "id": "m-barcelona-surgery-1760-founding",
+   "inst": "m-barcelona-surgery",
+   "year": 1760,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding",
+   "desc": "Founded by Pedro Virgili on Charles III's authority.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-madrid-san-carlos-1787-founding",
+   "inst": "m-madrid-san-carlos",
+   "year": 1787,
+   "approx": false,
+   "type": "founding",
+   "title": "Founding",
+   "desc": "Founded by Charles III on the proposal of Gimbernat and Ribas.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-madrid-colegio-imperial-1625-founding",
+   "inst": "j-madrid-colegio-imperial",
+   "year": 1625,
+   "approx": false,
+   "type": "founding",
+   "title": "Reales Estudios founded",
+   "desc": "Philip IV founds the Reales Estudios at the Jesuit Colegio Imperial (opened 1629).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-madrid-colegio-imperial-1767-confessional",
+   "inst": "j-madrid-colegio-imperial",
+   "year": 1767,
+   "approx": false,
+   "type": "confessional",
+   "title": "Expulsion of the Jesuits",
+   "desc": "Charles III expels the Jesuits.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-madrid-colegio-imperial-1770-reform",
+   "inst": "j-madrid-colegio-imperial",
+   "year": 1770,
+   "approx": false,
+   "type": "reform",
+   "title": "Reales Estudios de San Isidro",
+   "desc": "Re-established under lay control as the Reales Estudios de San Isidro.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-madrid-colegio-imperial-1845-reform",
+   "inst": "j-madrid-colegio-imperial",
+   "year": 1845,
+   "approx": true,
+   "type": "reform",
+   "title": "Secondary institute",
+   "desc": "Turned into a secondary school (Instituto de San Isidro).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-lisbon-santo-antao-1553-founding",
+   "inst": "j-lisbon-santo-antao",
+   "year": 1553,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the college",
+   "desc": "The Jesuits open the College of Santo Antão in Lisbon.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-lisbon-santo-antao-1590-reform",
+   "inst": "j-lisbon-santo-antao",
+   "year": 1590,
+   "approx": true,
+   "type": "reform",
+   "title": "Aula da Esfera",
+   "desc": "Lectures in mathematics and navigation ('Aula da Esfera') begin.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-lisbon-santo-antao-1759-suppression",
+   "inst": "j-lisbon-santo-antao",
+   "year": 1759,
+   "approx": false,
+   "type": "suppression",
+   "title": "Expulsion of the Jesuits",
+   "desc": "Closed when Pombal expels the Society.",
+   "from_inst": null,
+   "related": []
+  }
+ ],
+ "thinkers": [
+  {
+   "name": "Alfonso de Borja (Pope Callixtus III)",
+   "inst": "u-lleida",
+   "from": 1390,
+   "to": 1416,
+   "approx": true,
+   "role": "studied and taught law",
+   "note": "Doctor of both laws; later bishop of Valencia and pope."
+  },
+  {
+   "name": "Vincent Ferrer",
+   "inst": "u-lleida",
+   "from": 1370,
+   "to": 1388,
+   "approx": true,
+   "role": "studied",
+   "note": "Studied at Lleida; tradition places his doctorate there in 1388."
+  },
+  {
+   "name": "José María Blanco White",
+   "inst": "u-seville",
+   "from": 1790,
+   "to": 1799,
+   "approx": true,
+   "role": "studied theology",
+   "note": "Later a liberal exile and writer in England."
+  },
+  {
+   "name": "Ramón del Valle-Inclán",
+   "inst": "u-santiago",
+   "from": 1885,
+   "to": 1890,
+   "approx": true,
+   "role": "studied law",
+   "note": "Left without a degree."
+  },
+  {
+   "name": "Pedro Cerbuna",
+   "inst": "u-zaragoza",
+   "from": 1583,
+   "to": 1597,
+   "approx": true,
+   "role": "founded and endowed",
+   "note": "Bishop of Tarazona."
+  },
+  {
+   "name": "Santiago Ramón y Cajal",
+   "inst": "u-zaragoza",
+   "from": 1869,
+   "to": 1873,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Ángel Ganivet",
+   "inst": "u-granada",
+   "from": 1880,
+   "to": 1888,
+   "approx": true,
+   "role": "studied philosophy and law",
+   "note": ""
+  },
+  {
+   "name": "Benito Jerónimo Feijoo",
+   "inst": "u-oviedo",
+   "from": 1709,
+   "to": 1739,
+   "approx": true,
+   "role": "taught theology",
+   "note": "Benedictine Enlightenment essayist."
+  },
+  {
+   "name": "Leopoldo Alas 'Clarín'",
+   "inst": "u-oviedo",
+   "from": 1883,
+   "to": 1901,
+   "approx": false,
+   "role": "taught law",
+   "note": "Novelist, author of La Regenta."
+  },
+  {
+   "name": "John of Ávila",
+   "inst": "u-baeza",
+   "from": 1538,
+   "to": 1569,
+   "approx": true,
+   "role": "founded and directed",
+   "note": "Organised the university; Doctor of the Church."
+  },
+  {
+   "name": "Francis Borgia",
+   "inst": "u-gandia",
+   "from": 1547,
+   "to": 1550,
+   "approx": true,
+   "role": "founded",
+   "note": "Duke of Gandia, later Superior General of the Jesuits."
+  },
+  {
+   "name": "Luis de Molina",
+   "inst": "u-evora",
+   "from": 1568,
+   "to": 1583,
+   "approx": true,
+   "role": "taught theology",
+   "note": "Developed his doctrine of scientia media."
+  },
+  {
+   "name": "Francisco Suárez",
+   "inst": "u-evora",
+   "from": 1597,
+   "to": 1597,
+   "approx": false,
+   "role": "received doctorate in theology",
+   "note": "Took his doctorate before taking the Coimbra chair."
+  },
+  {
+   "name": "Josep Finestres",
+   "inst": "u-cervera",
+   "from": 1734,
+   "to": 1777,
+   "approx": true,
+   "role": "taught law",
+   "note": "Leading Catalan jurist and humanist."
+  },
+  {
+   "name": "Jaume Balmes",
+   "inst": "u-cervera",
+   "from": 1826,
+   "to": 1835,
+   "approx": true,
+   "role": "studied theology",
+   "note": "Catholic philosopher."
+  },
+  {
+   "name": "Gaspar Cervantes de Gaeta",
+   "inst": "u-tarragona",
+   "from": 1572,
+   "to": 1575,
+   "approx": false,
+   "role": "founded",
+   "note": "Archbishop of Tarragona and cardinal."
+  },
+  {
+   "name": "Gaspar Melchor de Jovellanos",
+   "inst": "u-osma",
+   "from": 1760,
+   "to": 1761,
+   "approx": true,
+   "role": "studied canon law",
+   "note": "Took the bachiller degree."
+  },
+  {
+   "name": "Juan Luis Vives",
+   "inst": "u-valencia",
+   "from": 1507,
+   "to": 1509,
+   "approx": true,
+   "role": "studied",
+   "note": "Then left for Paris."
+  },
+  {
+   "name": "Gregorio Mayans",
+   "inst": "u-valencia",
+   "from": 1723,
+   "to": 1730,
+   "approx": true,
+   "role": "taught law",
+   "note": "Enlightenment scholar."
+  },
+  {
+   "name": "Santiago Ramón y Cajal",
+   "inst": "u-valencia",
+   "from": 1884,
+   "to": 1887,
+   "approx": false,
+   "role": "taught anatomy",
+   "note": ""
+  },
+  {
+   "name": "Vicente Blasco Ibáñez",
+   "inst": "u-valencia",
+   "from": 1882,
+   "to": 1888,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Manuel Milà i Fontanals",
+   "inst": "u-barcelona",
+   "from": 1846,
+   "to": 1884,
+   "approx": true,
+   "role": "taught literature",
+   "note": "Founder of Romance philology in Spain."
+  },
+  {
+   "name": "Marcelino Menéndez Pelayo",
+   "inst": "u-barcelona",
+   "from": 1871,
+   "to": 1873,
+   "approx": false,
+   "role": "studied",
+   "note": "Student of Milà i Fontanals."
+  },
+  {
+   "name": "Santiago Ramón y Cajal",
+   "inst": "u-barcelona",
+   "from": 1887,
+   "to": 1892,
+   "approx": false,
+   "role": "taught histology",
+   "note": "Did his key neuron research here."
+  },
+  {
+   "name": "María Elena Maseras",
+   "inst": "u-barcelona",
+   "from": 1872,
+   "to": 1882,
+   "approx": true,
+   "role": "studied medicine",
+   "note": "First woman in a Spanish university."
+  },
+  {
+   "name": "Dolors Aleu",
+   "inst": "u-barcelona",
+   "from": 1874,
+   "to": 1879,
+   "approx": true,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Alfonso Fernández de Madrigal 'El Tostado'",
+   "inst": "u-salamanca",
+   "from": 1420,
+   "to": 1445,
+   "approx": true,
+   "role": "studied and taught theology",
+   "note": ""
+  },
+  {
+   "name": "Antonio de Nebrija",
+   "inst": "u-salamanca",
+   "from": 1475,
+   "to": 1513,
+   "approx": true,
+   "role": "taught grammar and rhetoric",
+   "note": "Studied there c.1458–63; taught 1475–87 and 1505–13."
+  },
+  {
+   "name": "Martín de Azpilcueta",
+   "inst": "u-salamanca",
+   "from": 1524,
+   "to": 1538,
+   "approx": true,
+   "role": "taught canon law",
+   "note": "Monetary theorist."
+  },
+  {
+   "name": "Francisco de Vitoria",
+   "inst": "u-salamanca",
+   "from": 1526,
+   "to": 1546,
+   "approx": false,
+   "role": "taught theology (prima chair)",
+   "note": "Founder of the School of Salamanca."
+  },
+  {
+   "name": "Domingo de Soto",
+   "inst": "u-salamanca",
+   "from": 1532,
+   "to": 1560,
+   "approx": true,
+   "role": "taught theology",
+   "note": ""
+  },
+  {
+   "name": "Melchor Cano",
+   "inst": "u-salamanca",
+   "from": 1546,
+   "to": 1552,
+   "approx": true,
+   "role": "taught theology",
+   "note": ""
+  },
+  {
+   "name": "Francisco Sánchez de las Brozas 'El Brocense'",
+   "inst": "u-salamanca",
+   "from": 1554,
+   "to": 1600,
+   "approx": true,
+   "role": "taught rhetoric and grammar",
+   "note": ""
+  },
+  {
+   "name": "Luis de León",
+   "inst": "u-salamanca",
+   "from": 1561,
+   "to": 1591,
+   "approx": false,
+   "role": "taught theology and Scripture",
+   "note": "Imprisoned by the Inquisition 1572–76."
+  },
+  {
+   "name": "John of the Cross",
+   "inst": "u-salamanca",
+   "from": 1564,
+   "to": 1568,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Francisco Suárez",
+   "inst": "u-salamanca",
+   "from": 1564,
+   "to": 1570,
+   "approx": true,
+   "role": "studied law and theology",
+   "note": "Taught there 1593–97."
+  },
+  {
+   "name": "Luis de Góngora",
+   "inst": "u-salamanca",
+   "from": 1576,
+   "to": 1580,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Pedro Calderón de la Barca",
+   "inst": "u-salamanca",
+   "from": 1615,
+   "to": 1619,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Diego de Torres Villarroel",
+   "inst": "u-salamanca",
+   "from": 1726,
+   "to": 1751,
+   "approx": true,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Miguel de Unamuno",
+   "inst": "u-salamanca",
+   "from": 1891,
+   "to": 1936,
+   "approx": false,
+   "role": "taught Greek; rector from 1900",
+   "note": ""
+  },
+  {
+   "name": "Francisco de Quevedo",
+   "inst": "u-valladolid",
+   "from": 1601,
+   "to": 1605,
+   "approx": true,
+   "role": "studied theology",
+   "note": ""
+  },
+  {
+   "name": "José Zorrilla",
+   "inst": "u-valladolid",
+   "from": 1833,
+   "to": 1836,
+   "approx": true,
+   "role": "studied law",
+   "note": "Left without a degree."
+  },
+  {
+   "name": "Francisco Jiménez de Cisneros",
+   "inst": "u-alcala-madrid",
+   "from": 1499,
+   "to": 1517,
+   "approx": false,
+   "role": "founded",
+   "note": ""
+  },
+  {
+   "name": "Antonio de Nebrija",
+   "inst": "u-alcala-madrid",
+   "from": 1513,
+   "to": 1522,
+   "approx": false,
+   "role": "taught rhetoric",
+   "note": "Worked on the Complutensian Polyglot."
+  },
+  {
+   "name": "Domingo de Soto",
+   "inst": "u-alcala-madrid",
+   "from": 1516,
+   "to": 1524,
+   "approx": true,
+   "role": "studied and taught",
+   "note": ""
+  },
+  {
+   "name": "Ignatius of Loyola",
+   "inst": "u-alcala-madrid",
+   "from": 1526,
+   "to": 1527,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Benito Arias Montano",
+   "inst": "u-alcala-madrid",
+   "from": 1548,
+   "to": 1552,
+   "approx": true,
+   "role": "studied",
+   "note": "Later edited the Antwerp Polyglot."
+  },
+  {
+   "name": "Lope de Vega",
+   "inst": "u-alcala-madrid",
+   "from": 1577,
+   "to": 1581,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Francisco Suárez",
+   "inst": "u-alcala-madrid",
+   "from": 1585,
+   "to": 1593,
+   "approx": false,
+   "role": "taught theology",
+   "note": ""
+  },
+  {
+   "name": "Francisco de Quevedo",
+   "inst": "u-alcala-madrid",
+   "from": 1596,
+   "to": 1600,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Pedro Calderón de la Barca",
+   "inst": "u-alcala-madrid",
+   "from": 1614,
+   "to": 1615,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Gaspar Melchor de Jovellanos",
+   "inst": "u-alcala-madrid",
+   "from": 1764,
+   "to": 1766,
+   "approx": true,
+   "role": "studied canon law",
+   "note": ""
+  },
+  {
+   "name": "Julián Sanz del Río",
+   "inst": "u-alcala-madrid",
+   "from": 1854,
+   "to": 1869,
+   "approx": true,
+   "role": "taught philosophy",
+   "note": "Introduced Krausism to Spain."
+  },
+  {
+   "name": "Emilio Castelar",
+   "inst": "u-alcala-madrid",
+   "from": 1858,
+   "to": 1865,
+   "approx": true,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Francisco Giner de los Ríos",
+   "inst": "u-alcala-madrid",
+   "from": 1867,
+   "to": 1875,
+   "approx": true,
+   "role": "taught philosophy of law",
+   "note": "Dismissed 1875; founded the Institución Libre de Enseñanza."
+  },
+  {
+   "name": "Marcelino Menéndez Pelayo",
+   "inst": "u-alcala-madrid",
+   "from": 1878,
+   "to": 1898,
+   "approx": true,
+   "role": "taught Spanish literature",
+   "note": ""
+  },
+  {
+   "name": "Miguel de Unamuno",
+   "inst": "u-alcala-madrid",
+   "from": 1880,
+   "to": 1884,
+   "approx": false,
+   "role": "studied; doctorate 1884",
+   "note": ""
+  },
+  {
+   "name": "Dolors Aleu",
+   "inst": "u-alcala-madrid",
+   "from": 1882,
+   "to": 1882,
+   "approx": false,
+   "role": "received doctorate in medicine",
+   "note": ""
+  },
+  {
+   "name": "Santiago Ramón y Cajal",
+   "inst": "u-alcala-madrid",
+   "from": 1892,
+   "to": 1922,
+   "approx": false,
+   "role": "taught histology",
+   "note": "Nobel Prize 1906."
+  },
+  {
+   "name": "Pedro Nunes",
+   "inst": "u-lisbon-coimbra",
+   "from": 1529,
+   "to": 1562,
+   "approx": true,
+   "role": "taught; mathematics chair from 1544",
+   "note": "Taught in Lisbon before 1537, then Coimbra."
+  },
+  {
+   "name": "Martín de Azpilcueta",
+   "inst": "u-lisbon-coimbra",
+   "from": 1538,
+   "to": 1555,
+   "approx": true,
+   "role": "taught canon law",
+   "note": ""
+  },
+  {
+   "name": "Pedro da Fonseca",
+   "inst": "u-lisbon-coimbra",
+   "from": 1555,
+   "to": 1561,
+   "approx": true,
+   "role": "taught philosophy",
+   "note": "Jesuit, 'the Portuguese Aristotle'."
+  },
+  {
+   "name": "Luis de Molina",
+   "inst": "u-lisbon-coimbra",
+   "from": 1563,
+   "to": 1567,
+   "approx": true,
+   "role": "taught philosophy",
+   "note": ""
+  },
+  {
+   "name": "Francisco Suárez",
+   "inst": "u-lisbon-coimbra",
+   "from": 1597,
+   "to": 1615,
+   "approx": false,
+   "role": "taught theology (prima chair)",
+   "note": ""
+  },
+  {
+   "name": "Domenico Vandelli",
+   "inst": "u-lisbon-coimbra",
+   "from": 1772,
+   "to": 1791,
+   "approx": true,
+   "role": "taught natural history and chemistry",
+   "note": "Brought in by the Pombaline reform."
+  },
+  {
+   "name": "José Bonifácio de Andrada e Silva",
+   "inst": "u-lisbon-coimbra",
+   "from": 1783,
+   "to": 1788,
+   "approx": true,
+   "role": "studied",
+   "note": "Later 'Patriarch of Brazilian independence'."
+  },
+  {
+   "name": "Almeida Garrett",
+   "inst": "u-lisbon-coimbra",
+   "from": 1816,
+   "to": 1821,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Antero de Quental",
+   "inst": "u-lisbon-coimbra",
+   "from": 1858,
+   "to": 1864,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Eça de Queirós",
+   "inst": "u-lisbon-coimbra",
+   "from": 1861,
+   "to": 1866,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Teófilo Braga",
+   "inst": "u-lisbon-coimbra",
+   "from": 1861,
+   "to": 1868,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Domitila de Carvalho",
+   "inst": "u-lisbon-coimbra",
+   "from": 1891,
+   "to": 1904,
+   "approx": true,
+   "role": "studied mathematics, philosophy and medicine",
+   "note": "First woman at Coimbra."
+  },
+  {
+   "name": "Louis Proust",
+   "inst": "t-vergara",
+   "from": 1778,
+   "to": 1780,
+   "approx": true,
+   "role": "taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Fausto Elhuyar",
+   "inst": "t-vergara",
+   "from": 1781,
+   "to": 1785,
+   "approx": true,
+   "role": "taught mineralogy",
+   "note": "Isolated tungsten with his brother Juan José in 1783."
+  },
+  {
+   "name": "Agustín de Betancourt",
+   "inst": "t-caminos-madrid",
+   "from": 1802,
+   "to": 1807,
+   "approx": true,
+   "role": "founded and directed",
+   "note": ""
+  },
+  {
+   "name": "José Echegaray",
+   "inst": "t-caminos-madrid",
+   "from": 1854,
+   "to": 1868,
+   "approx": true,
+   "role": "taught mathematics and physics",
+   "note": "Nobel Prize in Literature 1904."
+  },
+  {
+   "name": "Louis Proust",
+   "inst": "t-segovia",
+   "from": 1786,
+   "to": 1799,
+   "approx": true,
+   "role": "taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Jorge Juan",
+   "inst": "t-cadiz-navy",
+   "from": 1729,
+   "to": 1734,
+   "approx": true,
+   "role": "studied",
+   "note": "Later its director and a reformer of naval science."
+  },
+  {
+   "name": "Teófilo Braga",
+   "inst": "m-lisbon-letras",
+   "from": 1872,
+   "to": 1910,
+   "approx": true,
+   "role": "taught modern literatures",
+   "note": "Later President of Portugal."
+  },
+  {
+   "name": "Pedro Virgili",
+   "inst": "m-cadiz-surgery",
+   "from": 1748,
+   "to": 1758,
+   "approx": true,
+   "role": "founded and directed",
+   "note": ""
+  },
+  {
+   "name": "Pedro Virgili",
+   "inst": "m-barcelona-surgery",
+   "from": 1760,
+   "to": 1764,
+   "approx": true,
+   "role": "founded",
+   "note": ""
+  },
+  {
+   "name": "Antonio de Gimbernat",
+   "inst": "m-madrid-san-carlos",
+   "from": 1787,
+   "to": 1801,
+   "approx": true,
+   "role": "founded and taught anatomy",
+   "note": ""
+  },
+  {
+   "name": "Pedro Calderón de la Barca",
+   "inst": "j-madrid-colegio-imperial",
+   "from": 1608,
+   "to": 1613,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  }
+ ]
+}

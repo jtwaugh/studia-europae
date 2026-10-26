@@ -1,0 +1,1636 @@
+{
+ "group": "by1",
+ "sources": {
+  "by1-001": {
+   "title": "A History of the Byzantine Empire: Literature, learning and art (Iconoclast epoch)",
+   "publisher": "A. A. Vasiliev (via Elpenor)",
+   "url": "https://www.ellopos.net/elpenor/vasilief/literature-learning-art-4.asp?pg=8",
+   "tier": 2
+  },
+  "by1-002": {
+   "title": "A History of the Byzantine Empire: Education, learning, literature and art (Macedonian epoch)",
+   "publisher": "A. A. Vasiliev (via Elpenor)",
+   "url": "https://www.ellopos.net/elpenor/vasilief/literature-education-learning-art-5.asp?pg=6",
+   "tier": 2
+  },
+  "by1-003": {
+   "title": "Leo the Mathematician (D. Pingree)",
+   "publisher": "Complete Dictionary of Scientific Biography (Encyclopedia.com)",
+   "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/leo-mathematician",
+   "tier": 2
+  },
+  "by1-004": {
+   "title": "Bardas",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Bardas",
+   "tier": 2
+  },
+  "by1-005": {
+   "title": "Education: The Byzantine Empire",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/education/The-Byzantine-Empire",
+   "tier": 2
+  },
+  "by1-006": {
+   "title": "Michael Psellus",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Michael-Constantine-Psellus",
+   "tier": 2
+  },
+  "by1-007": {
+   "title": "John Italus",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/John-Italus",
+   "tier": 2
+  },
+  "by1-008": {
+   "title": "Byzantine Philosophy",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/byzantine-philosophy/",
+   "tier": 2
+  },
+  "by1-009": {
+   "title": "Saint Cyril",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Saint-Cyril",
+   "tier": 2
+  },
+  "by1-010": {
+   "title": "George Akropolites",
+   "publisher": "Foundation of the Hellenic World",
+   "url": "https://fhw.gr/chronos/10/en/pl/pn/pnf3.html",
+   "tier": 2
+  },
+  "by1-011": {
+   "title": "Theodore II Doukas Laskaris",
+   "publisher": "Foundation of the Hellenic World",
+   "url": "https://fhw.gr/chronos/10/en/p/pa4/pa4b2.html",
+   "tier": 2
+  },
+  "by1-012": {
+   "title": "A History of the Byzantine Empire: Education, learning, literature and art (Nicaean period)",
+   "publisher": "A. A. Vasiliev (via Elpenor)",
+   "url": "https://www.ellopos.net/elpenor/vasilief/literature-education-learning-art-7.asp?pg=5",
+   "tier": 2
+  },
+  "by1-013": {
+   "title": "Nicephorus Blemmida",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/02596c.htm",
+   "tier": 2
+  },
+  "by1-014": {
+   "title": "A History of the Byzantine Empire: Literature, learning, science and art (Palaeologan period)",
+   "publisher": "A. A. Vasiliev (via Elpenor)",
+   "url": "https://www.ellopos.net/elpenor/vasilief/literature-learning-science-art.asp?pg=14",
+   "tier": 2
+  },
+  "by1-015": {
+   "title": "Metochites, Theodore",
+   "publisher": "Biographical Encyclopedia of Astronomers (McGill RASI)",
+   "url": "https://islamsci.mcgill.ca/RASI/BEA/Metochites_BEA.htm",
+   "tier": 2
+  },
+  "by1-016": {
+   "title": "Theodore Metochites",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Theodore-Metochites",
+   "tier": 2
+  },
+  "by1-017": {
+   "title": "Nicephorus Gregoras",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Nicephorus-Gregoras",
+   "tier": 2
+  },
+  "by1-018": {
+   "title": "George Gemistus Plethon",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/George-Gemistus-Plethon",
+   "tier": 2
+  },
+  "by1-019": {
+   "title": "A History of the Byzantine Empire: Byzantium and the Italian Renaissance",
+   "publisher": "A. A. Vasiliev (via Elpenor)",
+   "url": "https://www.ellopos.net/elpenor/vasilief/byzantium-renaissance.asp?pg=7",
+   "tier": 2
+  },
+  "by1-020": {
+   "title": "Cardinal Bessarion",
+   "publisher": "Biblioteca Nazionale Marciana",
+   "url": "https://bibliotecanazionalemarciana.cultura.gov.it/en/library/history/cardinal-bessarion/",
+   "tier": 2
+  },
+  "by1-021": {
+   "title": "Bessarion",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Bessarion",
+   "tier": 2
+  },
+  "by1-022": {
+   "title": "Manuel II in the Peloponnese",
+   "publisher": "Foundation of the Hellenic World",
+   "url": "https://fhw.gr/chronos/10/en/p/pb7/pb7a4.html",
+   "tier": 2
+  },
+  "by1-023": {
+   "title": "History",
+   "publisher": "American University of Beirut",
+   "url": "https://www.aub.edu.lb/AboutUs/Pages/history.aspx",
+   "tier": 1
+  },
+  "by1-024": {
+   "title": "American University of Beirut",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/American-University-of-Beirut",
+   "tier": 2
+  },
+  "by1-025": {
+   "title": "Tarihimiz (Our History)",
+   "publisher": "Robert College",
+   "url": "https://website.robcol.k12.tr/tr/rc-hakkinda/tarihimiz",
+   "tier": 1
+  },
+  "by1-026": {
+   "title": "Robert College",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Robert-College",
+   "tier": 2
+  },
+  "by1-027": {
+   "title": "History: Opening",
+   "publisher": "Sofia University St. Kliment Ohridski",
+   "url": "https://www.uni-sofia.bg/index.php/eng/the_university/history/opening",
+   "tier": 1
+  },
+  "by1-028": {
+   "title": "History: Founding",
+   "publisher": "Sofia University St. Kliment Ohridski",
+   "url": "https://www.uni-sofia.bg/index.php/eng/the_university/history/founding",
+   "tier": 1
+  },
+  "by1-029": {
+   "title": "History: Academic History",
+   "publisher": "Sofia University St. Kliment Ohridski",
+   "url": "https://www.uni-sofia.bg/index.php/eng/the_university/history/academic_history",
+   "tier": 1
+  },
+  "by1-030": {
+   "title": "Rectors of Sofia University",
+   "publisher": "Sofia University St. Kliment Ohridski",
+   "url": "https://www.uni-sofia.bg/index.php/eng/the_university/history/rectors_of_sofia_university",
+   "tier": 1
+  },
+  "by1-031": {
+   "title": "History",
+   "publisher": "University of Belgrade",
+   "url": "https://www.bg.ac.rs/en/university/history.php",
+   "tier": 1
+  },
+  "by1-032": {
+   "title": "Leo the Mathematician",
+   "publisher": "Foundation of the Hellenic World",
+   "url": "https://www.fhw.gr/chronos/09/en/pl/610/pn/main/pn2am.html",
+   "tier": 2
+  },
+  "by1-033": {
+   "title": "History of NKUA",
+   "publisher": "National and Kapodistrian University of Athens, Department of Chemistry",
+   "url": "https://en.chem.uoa.gr/history/history_of_nkua",
+   "tier": 1
+  },
+  "by1-034": {
+   "title": "History of the NTUA",
+   "publisher": "National Technical University of Athens",
+   "url": "https://ntua.gr/en/ntua/history-of-ntua",
+   "tier": 1
+  },
+  "by1-035": {
+   "title": "Theological School of Halki",
+   "publisher": "Ecumenical Patriarchate",
+   "url": "https://ec-patr.org/en/ecumenical-patriarchate/institutes-organizations/theological-school-of-halki/",
+   "tier": 1
+  },
+  "by1-036": {
+   "title": "Rizarios Foundation: home and timeline",
+   "publisher": "Rizarios Foundation",
+   "url": "https://rizarios.gr/en/main-home-en/",
+   "tier": 1
+  },
+  "by1-037": {
+   "title": "Saint-Joseph University of Beirut: an enclave of the French-speaking communities in the Levant, 1875-1914 (abstract)",
+   "publisher": "Itinerario, Cambridge University Press",
+   "url": "https://www.cambridge.org/core/journals/itinerario/article/abs/saintjoseph-university-of-beirut-an-enclave-of-the-frenchspeaking-communities-in-the-levant-18751914/FE08901DB64E51E78CA3A666E9D74977",
+   "tier": 2
+  },
+  "by1-038": {
+   "title": "The Library of Lord Guilford in Corfu (1824-1830), V. Bobou-Stamati",
+   "publisher": "Institute of Historical Research, NHRF",
+   "url": "https://history-bookstore.eie.gr/en/section-neohellenic-research/tetradia-ergasias/n020310/",
+   "tier": 2
+  },
+  "by1-039": {
+   "title": "The Athonias School Academy",
+   "publisher": "Holy Monastery of Vatopedi",
+   "url": "https://www.vatopedi.gr/en/i-moni/istoria-i-m-vatopediou/metochia/i-athonias-scholi-akadimia/",
+   "tier": 1
+  },
+  "by1-040": {
+   "title": "Athos and the Enlightenment (P. M. Kitromilides, in Mount Athos and Byzantine Monasticism, 1996)",
+   "publisher": "Variorum / Helios repository, National Hellenic Research Foundation",
+   "url": "https://helios.eie.gr/helios/bitstream/10442/15587/2/INR_Kitromilides_96_01.pdf",
+   "tier": 2
+  },
+  "by1-041": {
+   "title": "Benjamin Lesvios: biography",
+   "publisher": "Benjamin Lesvios bicentenary conference (IESL-FORTH)",
+   "url": "https://benjamin-lesvios200years.iesl.forth.gr/en/?p=193",
+   "tier": 3
+  },
+  "by1-042": {
+   "title": "Phanar Greek Orthodox College (Constantinople), M. Kappler",
+   "publisher": "Encyclopedia of Greek Language and Linguistics Online, Brill (repository copy, Ca' Foscari)",
+   "url": "https://iris.unive.it/retrieve/60818994-96f1-4092-914c-ebb4a85aca56/EGLL%20Phanar%20Greek%20Orthodox%20College%20%28Constantinople%29.pdf",
+   "tier": 2
+  },
+  "by1-043": {
+   "title": "The School of Patmos",
+   "publisher": "Patmosweb",
+   "url": "https://www.patmosweb.gr/monumentsen/schoolen",
+   "tier": 3
+  },
+  "by1-044": {
+   "title": "Kydonies (Ayvalik)",
+   "publisher": "Aristotle University of Thessaloniki, Monuments database",
+   "url": "https://monuments.hist.auth.gr/?p=1990",
+   "tier": 3
+  },
+  "by1-045": {
+   "title": "Information about the Greek educational institutions of Smyrna (G. Vassiadis, 2007)",
+   "publisher": "Levantine Heritage",
+   "url": "https://www.levantineheritage.com/note46.htm",
+   "tier": 3
+  },
+  "by1-046": {
+   "title": "Paideia in Ioannina during the so-called Tourkokratia (I. N. Floros, MA thesis, 2009)",
+   "publisher": "University of Johannesburg",
+   "url": "https://ujcontent.uj.ac.za/esploro/outputs/graduate/Paideia-in-Ioannina-during-the-so-called/9911920307691",
+   "tier": 3
+  },
+  "by1-047": {
+   "title": "Cornelius Van Dyck (1818-1895)",
+   "publisher": "AUB Libraries Online Exhibits",
+   "url": "https://online-exhibit.aub.edu.lb/exhibits/show/founders--legacy---honoring-th/daniel-bliss--1823-1916---serv/cornelius-van-dyck--1818-1895-",
+   "tier": 1
+  },
+  "by1-048": {
+   "title": "Commencement 1882: the Darwin issue",
+   "publisher": "AUB Libraries Online Exhibits",
+   "url": "https://online-exhibit.aub.edu.lb/exhibits/show/caps--gowns--and-beginnings---/commencements-through-challeng/commencement-1882--darwin-issu",
+   "tier": 1
+  },
+  "by1-049": {
+   "title": "Lanfranc",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/08784c.htm",
+   "tier": 2
+  },
+  "by1-050": {
+   "title": "Lombard law books in the tenth and eleventh centuries (T. Gobbitt)",
+   "publisher": "Austrian Academy of Sciences, Institute for Medieval Research",
+   "url": "https://www.oeaw.ac.at/imafo/read/lombard-law-books-in-the-tenth-and-eleventh-centuries",
+   "tier": 2
+  },
+  "by1-051": {
+   "title": "Pančić's educational work",
+   "publisher": "Faculty of Biology, University of Belgrade (Josif Pančić site)",
+   "url": "https://pancic.bio.bg.ac.rs/Engl/Biography/education.html",
+   "tier": 1
+  },
+  "by1-052": {
+   "title": "History",
+   "publisher": "Faculty of Geography, University of Belgrade",
+   "url": "https://gef.bg.ac.rs/en/history/",
+   "tier": 1
+  },
+  "by1-053": {
+   "title": "Biografija: Jovan Cvijić",
+   "publisher": "University of Novi Sad",
+   "url": "https://www.uns.ac.rs/images/novosti/2016/biografija_Jovan_Cvijic.pdf",
+   "tier": 1
+  },
+  "by1-054": {
+   "title": "148 years from the birth of Prof. Ivan Shishmanov",
+   "publisher": "Sofia University St. Kliment Ohridski",
+   "url": "https://www.uni-sofia.bg/index.php/eng/news/archive/archive_of_hot_news/148th_years_from_the_birth_of_prof_ivan_shishmanov",
+   "tier": 1
+  },
+  "by1-055": {
+   "title": "Members of Parliament (biographical list)",
+   "publisher": "Hellenic Parliament Foundation",
+   "url": "https://foundation.parliament.gr/sites/default/files/2020-07/koinovouleftikoi_EN.pdf",
+   "tier": 2
+  },
+  "by1-056": {
+   "title": "Hamlin, Cyrus (1811-1900)",
+   "publisher": "Boston University School of Theology, History of Missiology",
+   "url": "https://www.bu.edu/missiology/missionary-biography/g-h/hamlin-cyrus-1811-1900",
+   "tier": 2
+  },
+  "by1-057": {
+   "title": "Konstantin Stoilov",
+   "publisher": "Ministry of Finance of Bulgaria",
+   "url": "https://minfin.bg/en/106",
+   "tier": 1
+  },
+  "by1-058": {
+   "title": "History of the Office of the President",
+   "publisher": "American University of Beirut",
+   "url": "https://www.aub.edu.lb/President/Pages/history.aspx",
+   "tier": 1
+  },
+  "by1-059": {
+   "title": "Faculty of Medicine: History",
+   "publisher": "Université Saint-Joseph de Beyrouth",
+   "url": "https://www.usj.edu.lb/catalogues/2025/FM/01-FM-TheFaculty.pdf",
+   "tier": 1
+  },
+  "by1-060": {
+   "title": "Ioanna Stefanopoli: first female student",
+   "publisher": "National and Kapodistrian University of Athens, eStories",
+   "url": "https://estories.uoa.gr/en/ioanna-stefanoli-first-female-student",
+   "tier": 1
+  },
+  "by1-061": {
+   "title": "The University",
+   "publisher": "Ionian University",
+   "url": "https://ionio.gr/en/university/",
+   "tier": 1
+  },
+  "by1-062": {
+   "title": "Kyrillos V",
+   "publisher": "Archive of Contemporary Coptic Orthodox Theology, St Cyril's Coptic Orthodox Theological College",
+   "url": "https://accot.stcyrils.edu.au/kyrillos-v/",
+   "tier": 2
+  },
+  "by1-063": {
+   "title": "Yusuf Manqaryus",
+   "publisher": "Archive of Contemporary Coptic Orthodox Theology, St Cyril's Coptic Orthodox Theological College",
+   "url": "https://accot.stcyrils.edu.au/authors/yusuf-manqaryus/",
+   "tier": 2
+  },
+  "by1-064": {
+   "title": "Kalvos, Andreas",
+   "publisher": "Encyclopedia of Romantic Nationalism in Europe (University of Amsterdam)",
+   "url": "https://ernie.uva.nl/viewer.p/21/56/object/131-158706",
+   "tier": 2
+  },
+  "by1-065": {
+   "title": "History of the Faculty (Z. S. Mirković)",
+   "publisher": "University of Belgrade Faculty of Law",
+   "url": "https://www1.ius.bg.ac.rs/history/",
+   "tier": 1
+  },
+  "by1-066": {
+   "title": "Sevastos Kyminitis",
+   "publisher": "Bibliothèque nationale de France, data.bnf.fr",
+   "url": "https://data.bnf.fr/12209316/sevastos_kyminitis/fr.pdf",
+   "tier": 2
+  }
+ },
+ "institutions": {
+  "b-magnaura": {
+   "src": [
+    "by1-001",
+    "by1-003",
+    "by1-004",
+    "by1-005"
+   ],
+   "fix": {
+    "start": 855,
+    "start_approx": true,
+    "end": 1045,
+    "end_approx": true,
+    "locations": [
+     {
+      "from": 855,
+      "city": "Constantinople",
+      "lat": 41.0075,
+      "lon": 28.9781
+     }
+    ]
+   },
+   "note": "Leo's appointment as head of Bardas' school is dated c. 855 (DSB), and Britannica places Bardas' organization of the school after he took power in 855-56. Constantine IX's new schools date to 1045."
+  },
+  "m-pavia-law": {
+   "src": [
+    "by1-050",
+    "by1-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-ravenna-law": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-pandidakterion": {
+   "src": [
+    "by1-002",
+    "by1-005",
+    "by1-006",
+    "by1-008"
+   ],
+   "fix": {
+    "start": 1045,
+    "locations": [
+     {
+      "from": 1045,
+      "city": "Constantinople",
+      "lat": 41.01,
+      "lon": 28.983
+     }
+    ]
+   },
+   "note": "Britannica and Vasiliev date Constantine IX's foundation and Psellos' appointment to 1045."
+  },
+  "b-constantinople-law": {
+   "src": [
+    "by1-002",
+    "by1-005"
+   ],
+   "fix": {},
+   "note": "Britannica says Constantine IX's schools of philosophy and law survived into the 12th century; their fate before 1204 is unclear."
+  },
+  "b-patriarchal-academy": {
+   "src": [
+    "by1-005",
+    "by1-008",
+    "by1-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-nicaea": {
+   "src": [
+    "by1-008",
+    "by1-010",
+    "by1-011",
+    "by1-012",
+    "by1-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-chora": {
+   "src": [
+    "by1-014",
+    "by1-015",
+    "by1-016"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-mistra": {
+   "src": [
+    "by1-018",
+    "by1-019",
+    "by1-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-ioannina-gioumeios": {
+   "src": [
+    "by1-046"
+   ],
+   "fix": {},
+   "note": "One study dates the Gioumas school 1677-1723, after which the Balanos family controlled teaching in Ioannina."
+  },
+  "b-patmos": {
+   "src": [
+    "by1-043",
+    "by1-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-smyrna-evangelical": {
+   "src": [
+    "by1-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-ioannina-maroutsaia": {
+   "src": [
+    "by1-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-athonite-academy": {
+   "src": [
+    "by1-039",
+    "by1-040"
+   ],
+   "fix": {},
+   "note": "After 1761 the academy was largely deserted; revivals were attempted in 1769, 1782 and 1800, and it ceased operating around 1809."
+  },
+  "b-chios": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-ioannina-kaplaneios": {
+   "src": [
+    "by1-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-kydonies": {
+   "src": [
+    "by1-041",
+    "by1-044"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-belgrade-velika-skola": {
+   "src": [
+    "by1-031",
+    "by1-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-ionian-academy": {
+   "src": [
+    "by1-038",
+    "by1-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-athens": {
+   "src": [
+    "by1-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-athens-polytechnic": {
+   "src": [
+    "by1-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-belgrade": {
+   "src": [
+    "by1-031",
+    "by1-052"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-halki": {
+   "src": [
+    "by1-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-rizarios": {
+   "src": [
+    "by1-036"
+   ],
+   "fix": {},
+   "note": "The foundation was set up by the Rizaris brothers in 1841; the school opened in 1844."
+  },
+  "a-robert-college": {
+   "src": [
+    "by1-025",
+    "by1-026",
+    "by1-056"
+   ],
+   "fix": {},
+   "note": "The college opened on 16 September 1863 in Bebek; Britannica's date of 1861 refers to its earlier planning."
+  },
+  "a-beirut": {
+   "src": [
+    "by1-023",
+    "by1-024",
+    "by1-047",
+    "by1-048"
+   ],
+   "fix": {},
+   "note": "Chartered by New York State on 24 April 1863; opened 3 December 1866."
+  },
+  "j-beirut": {
+   "src": [
+    "by1-037",
+    "by1-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-sofia": {
+   "src": [
+    "by1-027",
+    "by1-028",
+    "by1-029",
+    "by1-030"
+   ],
+   "fix": {},
+   "note": "Became the Higher School under the 1894 Law on Higher Education and a university in 1904."
+  },
+  "b-cairo-coptic": {
+   "src": [
+    "by1-062",
+    "by1-063"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "b-magnaura-849-founding": {
+   "status": "corrected",
+   "src": [
+    "by1-001",
+    "by1-003",
+    "by1-004"
+   ],
+   "fix": {
+    "year": 855,
+    "approx": true
+   },
+   "note": "Leo was made head of the philosophical school founded by the Caesar Bardas in the Magnaura about 855; Bardas came to power in 855-56."
+  },
+  "b-magnaura-945-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "m-pavia-law-1000-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-050"
+   ],
+   "note": "The Liber Papiensis appeared around the turn of the eleventh century, produced by legal scholars at Pavia.",
+   "fix": {}
+  },
+  "m-ravenna-law-1000-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-pandidakterion-1046-founding": {
+   "status": "corrected",
+   "src": [
+    "by1-002",
+    "by1-006",
+    "by1-008"
+   ],
+   "fix": {
+    "year": 1045
+   },
+   "note": "Psellos was appointed head of philosophy in the new imperial school in 1045."
+  },
+  "b-magnaura-1046-reform": {
+   "status": "corrected",
+   "src": [
+    "by1-002",
+    "by1-005",
+    "by1-006"
+   ],
+   "fix": {
+    "year": 1045
+   },
+   "note": "Constantine IX's new schools of philosophy and law are dated 1045."
+  },
+  "b-constantinople-law-1047-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-002",
+    "by1-005"
+   ],
+   "fix": {},
+   "note": "Vasiliev dates the foundation, with John Xiphilinos as head of the law school, to 1045; the novel is also dated 1047."
+  },
+  "m-pavia-law-1070-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-pandidakterion-1082-confessional": {
+   "status": "confirmed",
+   "src": [
+    "by1-007",
+    "by1-008"
+   ],
+   "fix": {},
+   "note": "Condemned by a synod in 1082."
+  },
+  "b-patriarchal-academy-1107-founding": {
+   "status": "unverified",
+   "src": [
+    "by1-005"
+   ],
+   "fix": {},
+   "note": "Britannica confirms the rise of the patriarchal school with teachers of grammar, rhetoric and scripture in the 12th century; the 1107 edict itself was not checked."
+  },
+  "b-nicaea-1204-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-008",
+    "by1-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-pandidakterion-1204-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by1-005",
+    "by1-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-constantinople-law-1204-destruction": {
+   "status": "doubtful",
+   "src": [
+    "by1-005"
+   ],
+   "fix": {},
+   "note": "Britannica says Constantine IX's schools survived only until the 12th century, so the law school had probably lapsed before 1204."
+  },
+  "b-patriarchal-academy-1204-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-nicaea-1254-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-011",
+    "by1-012"
+   ],
+   "fix": {},
+   "note": "Theodore II (r. 1254-58) founded a school at Nicaea with faculties of grammar and rhetoric; the St Tryphon link is not stated in these sources."
+  },
+  "b-pandidakterion-1261-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "by1-008",
+    "by1-010"
+   ],
+   "fix": {},
+   "note": "Michael VIII put Akropolites in charge of the imperial school; he taught in the 1260s and early 1270s."
+  },
+  "b-chora-1316-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-014",
+    "by1-015",
+    "by1-016"
+   ],
+   "fix": {},
+   "note": "Metochites restored the monastery, gave it his library and taught Gregoras; the restoration is usually dated c. 1316-21."
+  },
+  "b-mistra-1409-founding": {
+   "status": "unverified",
+   "src": [
+    "by1-018",
+    "by1-019",
+    "by1-022"
+   ],
+   "fix": {},
+   "note": "Plethon's school at Mistra is confirmed and he was in the Peloponnese by 1415, but the year he settled is not given in these sources."
+  },
+  "b-pandidakterion-1453-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by1-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-chora-1453-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-patriarchal-academy-1454-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "by1-042",
+    "by1-008"
+   ],
+   "note": "The school's post-conquest foundation is dated 1454, when Gennadios Scholarios became patriarch; Kamariotis' role was not checked.",
+   "fix": {}
+  },
+  "b-mistra-1460-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-patriarchal-academy-1624-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-042"
+   ],
+   "note": "Korydalleus directed the school from about 1621 to 1639.",
+   "fix": {}
+  },
+  "b-patriarchal-academy-1661-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-ioannina-gioumeios-1676-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-046"
+   ],
+   "note": "Dated 1677 in one study.",
+   "fix": {}
+  },
+  "b-patmos-1713-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-043",
+    "by1-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-smyrna-evangelical-1733-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-045"
+   ],
+   "note": "Founded in 1733 largely through the merchants Pantelis Sevastopoulos and Georgios Omeros; the first teacher was not checked.",
+   "fix": {}
+  },
+  "b-ioannina-maroutsaia-1742-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-046",
+    "by1-040"
+   ],
+   "note": "Voulgaris taught modern philosophy at Ioannina in the 1740s.",
+   "fix": {}
+  },
+  "b-smyrna-evangelical-1747-charter": {
+   "status": "confirmed",
+   "src": [
+    "by1-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-athonite-academy-1749-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-039",
+    "by1-040"
+   ],
+   "note": "Founded on Vatopedi's initiative in 1749 (Vatopedi gives 1748 for the patriarchal sigil; Kitromilides dates the sigil c. May 1750). Neophytos Kafsokalyvitis was the first director.",
+   "fix": {}
+  },
+  "b-athonite-academy-1753-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-039",
+    "by1-040"
+   ],
+   "note": "Voulgaris was appointed chief teacher on 7 July 1753.",
+   "fix": {}
+  },
+  "b-athonite-academy-1759-confessional": {
+   "status": "confirmed",
+   "src": [
+    "by1-039",
+    "by1-040"
+   ],
+   "note": "Voulgaris resigned in 1759 despite an appeal by 34 students; the school was deserted by 1761.",
+   "fix": {}
+  },
+  "b-chios-1788-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-ioannina-kaplaneios-1797-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-ioannina-maroutsaia-1797-merger": {
+   "status": "confirmed",
+   "src": [
+    "by1-046"
+   ],
+   "note": "The Maroutsaia is dated 1742-1797.",
+   "fix": {}
+  },
+  "b-kydonies-1800-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-044",
+    "by1-041"
+   ],
+   "note": "Dated between 1795-1800 (Benjamin's directorship) and 1803 in different sources.",
+   "fix": {}
+  },
+  "b-patriarchal-academy-1804-relocation": {
+   "status": "corrected",
+   "src": [
+    "by1-042"
+   ],
+   "fix": {
+    "year": 1803
+   },
+   "note": "Moved to Kuruçeşme (Xirokrini) on the Bosporus in 1803; it returned to the Phanar in 1850/52."
+  },
+  "b-belgrade-velika-skola-1808-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-031"
+   ],
+   "fix": {},
+   "note": "The University of Belgrade dates its origins to the school founded in 1808 under Dositej Obradović."
+  },
+  "b-belgrade-velika-skola-1813-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by1-065"
+   ],
+   "note": "The school's activity spans 1808-1813, ending with the collapse of the First Serbian Uprising.",
+   "fix": {}
+  },
+  "b-chios-1815-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-ioannina-kaplaneios-1820-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-athonite-academy-1821-destruction": {
+   "status": "doubtful",
+   "src": [
+    "by1-039",
+    "by1-040"
+   ],
+   "note": "The Vatopedi history says the school ceased operating in 1809; it was largely deserted after 1761, with only short-lived revivals.",
+   "fix": {}
+  },
+  "b-kydonies-1821-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by1-044"
+   ],
+   "note": "Kydonies was burned on 3 June 1821.",
+   "fix": {}
+  },
+  "b-chios-1822-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-ionian-academy-1824-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-ionian-academy-1827-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-038"
+   ],
+   "note": "After Guilford's death the Ionian government did not carry out his will, and his library went to his heir and was sold in London (1830-35).",
+   "fix": {}
+  },
+  "u-athens-1837-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-033"
+   ],
+   "note": "Founded 1837 with four faculties, first housed in Kleanthis' house in Plaka.",
+   "fix": {}
+  },
+  "t-athens-polytechnic-1837-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-034"
+   ],
+   "note": "Established by royal decree as a technical school meeting on Sundays and holidays.",
+   "fix": {}
+  },
+  "u-belgrade-1838-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-athens-1841-relocation": {
+   "status": "confirmed",
+   "src": [
+    "by1-033"
+   ],
+   "note": "Hansen's central building on Panepistimiou Street was begun in 1839; the move is usually dated 1841.",
+   "fix": {}
+  },
+  "u-belgrade-1841-relocation": {
+   "status": "confirmed",
+   "src": [
+    "by1-031"
+   ],
+   "fix": {},
+   "note": "Moved to Belgrade in 1841, when the law department opened."
+  },
+  "b-halki-1844-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-035"
+   ],
+   "note": "The school opened on 1 October 1844.",
+   "fix": {}
+  },
+  "b-rizarios-1844-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-athonite-academy-1845-relocation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-athonite-academy-1845-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-athens-1862-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-robert-college-1863-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-025"
+   ],
+   "fix": {},
+   "note": "Opened on 16 September 1863 in an old wooden building in Bebek with four students."
+  },
+  "u-belgrade-1863-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-031"
+   ],
+   "fix": {},
+   "note": "A law of 24 September 1863 turned the Lyceum into the Higher School."
+  },
+  "b-ionian-academy-1864-suppression": {
+   "status": "confirmed",
+   "src": [
+    "by1-061"
+   ],
+   "note": "Closed in the course of the union of the Ionian Islands with Greece (1864).",
+   "fix": {}
+  },
+  "a-beirut-1866-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-023",
+    "by1-024"
+   ],
+   "fix": {},
+   "note": "Opened 3 December 1866 with 16 students."
+  },
+  "a-robert-college-1871-relocation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "j-beirut-1875-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-037"
+   ],
+   "note": "The Jesuit college of Ghazir (founded 1843) moved to Beirut in 1875.",
+   "fix": {}
+  },
+  "j-beirut-1881-charter": {
+   "status": "confirmed",
+   "src": [
+    "by1-037"
+   ],
+   "note": "Leo XIII conferred the title of Pontifical University on 25 February 1881.",
+   "fix": {}
+  },
+  "b-patriarchal-academy-1881-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-042"
+   ],
+   "note": "Rebuilt from 1881 to designs by Konstantinos Dimadis, a former pupil, funded by wealthy Constantinople Greeks.",
+   "fix": {}
+  },
+  "a-beirut-1882-reform": {
+   "status": "unverified",
+   "src": [
+    "by1-048"
+   ],
+   "note": "The 1882 crisis over Edwin Lewis's speech on Darwin is confirmed; the year of the switch to English teaching was not.",
+   "fix": {}
+  },
+  "j-beirut-1883-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-059"
+   ],
+   "note": "Agreed with the French government on 7 May 1883; the medical school opened on 30 November 1883.",
+   "fix": {}
+  },
+  "t-athens-polytechnic-1887-reform": {
+   "status": "confirmed",
+   "src": [
+    "by1-034"
+   ],
+   "note": "A four-year course for civil and mechanical engineers was introduced in 1887.",
+   "fix": {}
+  },
+  "u-sofia-1888-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-027",
+    "by1-030"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-athens-1890-access": {
+   "status": "confirmed",
+   "src": [
+    "by1-060"
+   ],
+   "note": "She enrolled in the School of Philosophy in 1890.",
+   "fix": {}
+  },
+  "u-sofia-1892-reform": {
+   "status": "unverified",
+   "src": [
+    "by1-029"
+   ],
+   "fix": {},
+   "note": "The university's history gives the physics-mathematics department from 1889/90 and lists law among the three faculties of the Higher School under the 1894 Law on Higher Education; 1892 was not confirmed."
+  },
+  "b-cairo-coptic-1893-founding": {
+   "status": "confirmed",
+   "src": [
+    "by1-062",
+    "by1-063"
+   ],
+   "note": "Founded in 1893 under Kyrillos V, with Yusuf Manqaryus as first dean.",
+   "fix": {}
+  }
+ },
+ "thinkers": {
+  "th942": {
+   "status": "corrected",
+   "src": [
+    "by1-003",
+    "by1-001",
+    "by1-032"
+   ],
+   "fix": {
+    "from": 855
+   },
+   "note": "Appointed head of Bardas' school about 855; last recorded in 869."
+  },
+  "th943": {
+   "status": "doubtful",
+   "src": [
+    "by1-001",
+    "by1-009"
+   ],
+   "fix": {},
+   "note": "Studied under Leo and Photios and held a chair of philosophy before his Khazar mission (c. 860); Britannica places his chair at the patriarchal school. Years before c. 855 predate Bardas' school."
+  },
+  "th944": {
+   "status": "confirmed",
+   "src": [
+    "by1-001"
+   ],
+   "fix": {},
+   "note": "Vasiliev: Photios devoted much time to teaching at Bardas' school before becoming patriarch (858)."
+  },
+  "th945": {
+   "status": "corrected",
+   "src": [
+    "by1-006"
+   ],
+   "fix": {
+    "from": 1045
+   },
+   "note": "Head of philosophy from 1045; withdrew to a monastery in 1054."
+  },
+  "th946": {
+   "status": "confirmed",
+   "src": [
+    "by1-007",
+    "by1-008"
+   ],
+   "fix": {},
+   "note": "Succeeded Psellos as chief philosopher; condemned 1082. The start of his tenure is not precisely dated."
+  },
+  "th947": {
+   "status": "confirmed",
+   "src": [
+    "by1-008",
+    "by1-010"
+   ],
+   "fix": {},
+   "note": "Taught in the 1260s and early 1270s."
+  },
+  "th948": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th949": {
+   "status": "confirmed",
+   "src": [
+    "by1-002"
+   ],
+   "fix": {},
+   "note": "Head of the law school founded in 1045 (Vasiliev)."
+  },
+  "th950": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th951": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th952": {
+   "status": "corrected",
+   "src": [
+    "by1-042"
+   ],
+   "fix": {
+    "from": 1621,
+    "to": 1639
+   },
+   "note": "Director of the school 1621-1639."
+  },
+  "th953": {
+   "status": "corrected",
+   "src": [
+    "by1-042"
+   ],
+   "fix": {
+    "from": 1663,
+    "to": 1671,
+    "role": "director"
+   },
+   "note": "Director of the school 1663-1671."
+  },
+  "th954": {
+   "status": "confirmed",
+   "src": [
+    "by1-066"
+   ],
+   "note": "Director of the school 1671-1682.",
+   "fix": {}
+  },
+  "th955": {
+   "status": "confirmed",
+   "src": [
+    "by1-039",
+    "by1-040"
+   ],
+   "note": "Taught at the Patriarchal Academy from 1759 until April 1761.",
+   "fix": {}
+  },
+  "th956": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th957": {
+   "status": "confirmed",
+   "src": [
+    "by1-013",
+    "by1-012"
+   ],
+   "fix": {},
+   "note": "At Nicaea from c. 1223; teacher of Akropolites and Theodore II; later abbot near Ephesus."
+  },
+  "th958": {
+   "status": "confirmed",
+   "src": [
+    "by1-014",
+    "by1-015",
+    "by1-016"
+   ],
+   "fix": {},
+   "note": "Restored Chora and gave it his library; died there in 1332."
+  },
+  "th959": {
+   "status": "unverified",
+   "src": [
+    "by1-014",
+    "by1-017"
+   ],
+   "fix": {},
+   "note": "Pupil of Metochites; his years at Chora are not dated in these sources."
+  },
+  "th960": {
+   "status": "confirmed",
+   "src": [
+    "by1-018",
+    "by1-019"
+   ],
+   "fix": {},
+   "note": "Founded a school at Mistra; died 1450/52."
+  },
+  "th961": {
+   "status": "corrected",
+   "src": [
+    "by1-020",
+    "by1-019"
+   ],
+   "fix": {
+    "from": 1430
+   },
+   "note": "Studied under Plethon at Mistra 1430-1436."
+  },
+  "th962": {
+   "status": "confirmed",
+   "src": [
+    "by1-043",
+    "by1-040"
+   ],
+   "note": "Founded the school in 1713 and led it until his death in 1737.",
+   "fix": {}
+  },
+  "th963": {
+   "status": "confirmed",
+   "src": [
+    "by1-039"
+   ],
+   "note": "First director, before Voulgaris took over in 1753.",
+   "fix": {}
+  },
+  "th964": {
+   "status": "confirmed",
+   "src": [
+    "by1-039",
+    "by1-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th965": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th966": {
+   "status": "unverified",
+   "src": [
+    "by1-046"
+   ],
+   "note": "Taught at the Gioumas school until 1723; his earlier years there were not checked.",
+   "fix": {}
+  },
+  "th967": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th968": {
+   "status": "doubtful",
+   "src": [
+    "by1-046"
+   ],
+   "note": "One study dates Psalidas' teaching at the Kaplaneios to 1805-1820.",
+   "fix": {}
+  },
+  "th969": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th970": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th971": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th972": {
+   "status": "confirmed",
+   "src": [
+    "by1-041"
+   ],
+   "note": "Became director at Kydonies on his return to Greece, between 1795 and 1800.",
+   "fix": {}
+  },
+  "th973": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th974": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th975": {
+   "status": "corrected",
+   "src": [
+    "by1-064"
+   ],
+   "fix": {
+    "from": 1826,
+    "to": 1841
+   },
+   "note": "Arrived on Corfu in 1826 and was appointed professor at the Ionian Academy on Guilford's proposal; he taught philosophy there in 1827, 1836-37 and 1840-41."
+  },
+  "th976": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th977": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th978": {
+   "status": "confirmed",
+   "src": [
+    "by1-033"
+   ],
+   "note": "First rector of the university.",
+   "fix": {}
+  },
+  "th979": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th980": {
+   "status": "unverified",
+   "src": [
+    "by1-055"
+   ],
+   "note": "Professor of history and palaeography at Athens, rector 1904-05; the start year was not confirmed.",
+   "fix": {}
+  },
+  "th981": {
+   "status": "confirmed",
+   "src": [
+    "by1-031"
+   ],
+   "fix": {},
+   "note": "The University of Belgrade credits him with founding the 1808 school."
+  },
+  "th982": {
+   "status": "confirmed",
+   "src": [
+    "by1-051"
+   ],
+   "note": "Professor of natural history from September 1853; first rector of the Higher School and rector several times.",
+   "fix": {}
+  },
+  "th983": {
+   "status": "confirmed",
+   "src": [
+    "by1-053"
+   ],
+   "note": "Studied natural sciences and mathematics at the Higher School 1884-1888.",
+   "fix": {}
+  },
+  "th984": {
+   "status": "confirmed",
+   "src": [
+    "by1-027",
+    "by1-030"
+   ],
+   "fix": {},
+   "note": "First rector (1888/89), again 1896/97 and 1902/03."
+  },
+  "th985": {
+   "status": "unverified",
+   "src": [
+    "by1-054"
+   ],
+   "note": "A founder and professor of Sofia University; the start year was not confirmed.",
+   "fix": {}
+  },
+  "th986": {
+   "status": "corrected",
+   "src": [
+    "by1-056"
+   ],
+   "fix": {
+    "to": 1873
+   },
+   "note": "President of Robert College 1863-1873."
+  },
+  "th987": {
+   "status": "confirmed",
+   "src": [
+    "by1-057"
+   ],
+   "note": "Graduated from Robert College in 1871.",
+   "fix": {}
+  },
+  "th988": {
+   "status": "corrected",
+   "src": [
+    "by1-058"
+   ],
+   "fix": {
+    "to": 1902
+   },
+   "note": "President 1866-1902, succeeded by his son Howard Bliss."
+  },
+  "th989": {
+   "status": "confirmed",
+   "src": [
+    "by1-047"
+   ],
+   "note": "Professor of pathology 1867-1882; resigned over the Darwin controversy.",
+   "fix": {}
+  },
+  "th1016": {
+   "status": "confirmed",
+   "src": [
+    "by1-049"
+   ],
+   "note": "Born at Pavia c. 1005, where he studied and practised law before leaving for Normandy.",
+   "fix": {}
+  }
+ }
+}

@@ -1,0 +1,4582 @@
+{
+ "group": "de1",
+ "sources": {
+  "de1-001": {
+   "title": "University of Vienna",
+   "publisher": "Catholic Encyclopedia (1912), New Advent",
+   "url": "https://www.newadvent.org/cathen/15421a.htm",
+   "tier": 2
+  },
+  "de1-002": {
+   "title": "University of Vienna",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Vienna",
+   "tier": 2
+  },
+  "de1-003": {
+   "title": "The Society of Jesus and the University of Vienna",
+   "publisher": "Universität Wien, 650 plus – Geschichte der Universität Wien",
+   "url": "https://geschichte.univie.ac.at/en/topics/society-jesus-and-university-vienna",
+   "tier": 1
+  },
+  "de1-004": {
+   "title": "Women at the University of Vienna",
+   "publisher": "Universität Wien, 650 plus – Geschichte der Universität Wien",
+   "url": "https://geschichte.univie.ac.at/en/topics/women-university-vienna",
+   "tier": 1
+  },
+  "de1-005": {
+   "title": "Swieten, Gerard van",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz106708.html",
+   "tier": 2
+  },
+  "de1-006": {
+   "title": "Aula",
+   "publisher": "Austria-Forum (AEIOU Österreich-Lexikon)",
+   "url": "https://austria-forum.org/af/AEIOU/Aula/Aula_english",
+   "tier": 2
+  },
+  "de1-007": {
+   "title": "Georg Peurbach",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Peurbach/",
+   "tier": 2
+  },
+  "de1-008": {
+   "title": "Regiomontanus",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Regiomontanus/",
+   "tier": 2
+  },
+  "de1-009": {
+   "title": "Konrad Celtis",
+   "publisher": "Universität Wien, 650 plus – Geschichte der Universität Wien",
+   "url": "https://geschichte.univie.ac.at/de/node/33511",
+   "tier": 1
+  },
+  "de1-010": {
+   "title": "Philip Schaff, History of the Christian Church vol. 8, §  Zwingli's education",
+   "publisher": "Christian Classics Ethereal Library",
+   "url": "https://ccel.org/ccel/schaff/hcc8.iv.ii.ii.html",
+   "tier": 3
+  },
+  "de1-011": {
+   "title": "Christian Doppler",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Doppler/",
+   "tier": 2
+  },
+  "de1-012": {
+   "title": "Mendel, Johann Gregor",
+   "publisher": "Austria-Forum (Österreichisches Biographisches Lexikon)",
+   "url": "https://austria-forum.org/af/Biographien/Mendel%2C_Johann_Gregor",
+   "tier": 2
+  },
+  "de1-013": {
+   "title": "Sigmund Freud",
+   "publisher": "Max Planck Institute for the History of Science, Virtual Laboratory",
+   "url": "https://vlp.mpiwg-berlin.mpg.de/people/data?id=per174",
+   "tier": 2
+  },
+  "de1-014": {
+   "title": "Billroth, Theodor",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz4491.html",
+   "tier": 2
+  },
+  "de1-015": {
+   "title": "Ludwig Boltzmann",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boltzmann/",
+   "tier": 2
+  },
+  "de1-016": {
+   "title": "Franz Brentano",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/brentano/",
+   "tier": 2
+  },
+  "de1-017": {
+   "title": "Ernst Mach",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/ernst-mach/",
+   "tier": 2
+  },
+  "de1-018": {
+   "title": "A university for Vienna",
+   "publisher": "Die Welt der Habsburger (habsburger.net)",
+   "url": "https://habsburger.net/en/chapter/university-vienna",
+   "tier": 2
+  },
+  "de1-019": {
+   "title": "Nicholas of Cusa",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cusa/",
+   "tier": 2
+  },
+  "de1-020": {
+   "title": "Hegel, Georg Wilhelm Friedrich",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118547739.html",
+   "tier": 2
+  },
+  "de1-021": {
+   "title": "Schelling, Friedrich Wilhelm Joseph von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118607057.html",
+   "tier": 2
+  },
+  "de1-022": {
+   "title": "Luther, Martin",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118575449.html",
+   "tier": 2
+  },
+  "de1-023": {
+   "title": "Melanchthon, Philipp",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118580485.html",
+   "tier": 2
+  },
+  "de1-024": {
+   "title": "Fichte, Johann Gottlieb",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118532847.html",
+   "tier": 2
+  },
+  "de1-025": {
+   "title": "Leibniz, Gottfried Wilhelm",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118571249.html",
+   "tier": 2
+  },
+  "de1-026": {
+   "title": "Kant, Immanuel",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118559796.html",
+   "tier": 2
+  },
+  "de1-027": {
+   "title": "Schiller, Friedrich von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118607626.html",
+   "tier": 2
+  },
+  "de1-028": {
+   "title": "Goethe, Johann Wolfgang von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118540238.html",
+   "tier": 2
+  },
+  "de1-029": {
+   "title": "Humboldt, Alexander von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118554700.html",
+   "tier": 2
+  },
+  "de1-030": {
+   "title": "Humboldt, Wilhelm von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118554727.html",
+   "tier": 2
+  },
+  "de1-031": {
+   "title": "Ranke, Leopold von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118598279.html",
+   "tier": 2
+  },
+  "de1-032": {
+   "title": "Nietzsche, Friedrich",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118587943.html",
+   "tier": 2
+  },
+  "de1-033": {
+   "title": "Lessing, Gotthold Ephraim",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118572121.html",
+   "tier": 2
+  },
+  "de1-034": {
+   "title": "Hölderlin, Friedrich",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118551981.html",
+   "tier": 2
+  },
+  "de1-035": {
+   "title": "Schlegel, August Wilhelm von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/pnd118607960.html",
+   "tier": 2
+  },
+  "de1-036": {
+   "title": "Johannes Kepler",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kepler/",
+   "tier": 2
+  },
+  "de1-037": {
+   "title": "Heidelberg University",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Heidelberg",
+   "tier": 2
+  },
+  "de1-038": {
+   "title": "Universities",
+   "publisher": "Catholic Encyclopedia (1912), New Advent",
+   "url": "https://www.newadvent.org/cathen/15188a.htm",
+   "tier": 2
+  },
+  "de1-039": {
+   "title": "Conrad Celtes",
+   "publisher": "Catholic Encyclopedia (1908), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/conrad-celtes",
+   "tier": 2
+  },
+  "de1-040": {
+   "title": "The history of the University of Erfurt",
+   "publisher": "Universität Erfurt",
+   "url": "https://www.uni-erfurt.de/en/university/profile/history",
+   "tier": 1
+  },
+  "de1-041": {
+   "title": "Leipzig University: History in the making",
+   "publisher": "Universität Leipzig",
+   "url": "https://www.uni-leipzig.de/en/university/profile/history",
+   "tier": 1
+  },
+  "de1-042": {
+   "title": "Chronicle 1418–1563",
+   "publisher": "Universität Rostock",
+   "url": "https://www.uni-rostock.de/en/university/history/history/chronicle/epochs/1418-1563/",
+   "tier": 1
+  },
+  "de1-043": {
+   "title": "Timeline of the history of the University",
+   "publisher": "Julius-Maximilians-Universität Würzburg, Universitätsarchiv",
+   "url": "https://uni-wuerzburg.de/en/uniarchiv/jmus-history/timeline",
+   "tier": 1
+  },
+  "de1-044": {
+   "title": "University chronicle",
+   "publisher": "Universität Greifswald",
+   "url": "https://www.uni-greifswald.de/en/university/history/university-chronicle/",
+   "tier": 1
+  },
+  "de1-045": {
+   "title": "University of Greifswald",
+   "publisher": "Catholic Encyclopedia (1910), New Advent",
+   "url": "https://www.newadvent.org/cathen/07025a.htm",
+   "tier": 2
+  },
+  "de1-046": {
+   "title": "Die Geschichte der LMU",
+   "publisher": "Ludwig-Maximilians-Universität München",
+   "url": "https://www.lmu.de/de/die-lmu/die-lmu-auf-einen-blick/geschichte/index.html",
+   "tier": 1
+  },
+  "de1-047": {
+   "title": "Key dates: the University founded in 1477",
+   "publisher": "Universität Tübingen",
+   "url": "https://uni-tuebingen.de/en/121",
+   "tier": 1
+  },
+  "de1-048": {
+   "title": "Geschichte der Universität",
+   "publisher": "Martin-Luther-Universität Halle-Wittenberg",
+   "url": "https://www.uni-halle.de/universitaet/geschichte/",
+   "tier": 1
+  },
+  "de1-049": {
+   "title": "Geschichte der Philipps-Universität",
+   "publisher": "Philipps-Universität Marburg",
+   "url": "https://www.uni-marburg.de/de/universitaet/profil/geschichte",
+   "tier": 1
+  },
+  "de1-050": {
+   "title": "History: University privilege",
+   "publisher": "Friedrich-Schiller-Universität Jena",
+   "url": "https://www.uni-jena.de/en/history",
+   "tier": 1
+  },
+  "de1-051": {
+   "title": "A university with tradition and an eventful history",
+   "publisher": "Universität Innsbruck",
+   "url": "https://www.uibk.ac.at/en/about-us/profile/history/tradition/",
+   "tier": 1
+  },
+  "de1-052": {
+   "title": "University of Göttingen",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Gottingen",
+   "tier": 2
+  },
+  "de1-053": {
+   "title": "1665 (SDU history timeline)",
+   "publisher": "Syddansk Universitet",
+   "url": "https://www.sdu.dk/da/om-sdu/historie/aarstal/1665",
+   "tier": 3
+  },
+  "de1-054": {
+   "title": "Geschichte der Rheinischen Friedrich-Wilhelms-Universität",
+   "publisher": "Universität Bonn, Universitätsarchiv",
+   "url": "https://www.uni-bonn.de/de/universitaet/organisation/weitere-einrichtungen/archiv-der-universitaet/universitaetsgeschichte-1/geschichte-der-rheinischen-friedrich-wilhelms-universitaet",
+   "tier": 1
+  },
+  "de1-055": {
+   "title": "History of FAU",
+   "publisher": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+   "url": "https://www.275.fau.eu/jubilee/history-of-fau/",
+   "tier": 1
+  },
+  "de1-056": {
+   "title": "400 years of University history (Altdorf)",
+   "publisher": "Friedrich-Alexander-Universität Erlangen-Nürnberg",
+   "url": "https://fau.eu/altdorf",
+   "tier": 1
+  },
+  "de1-057": {
+   "title": "Geschichte: Chronologie",
+   "publisher": "Universität Heidelberg",
+   "url": "https://www.uni-heidelberg.de/de/universitaet/geschichte/chronologie",
+   "tier": 1
+  },
+  "de1-058": {
+   "title": "Kurze Geschichte der Johannes Gutenberg-Universität Mainz",
+   "publisher": "Johannes Gutenberg-Universität Mainz",
+   "url": "https://presse.uni-mainz.de/files/2023/01/JGU_kurze_geschichte_der_universitaet.pdf",
+   "tier": 1
+  },
+  "de1-059": {
+   "title": "Altes Universitätsgebäude / Universitätsgeschichte",
+   "publisher": "Stadt Köln",
+   "url": "https://www.stadt-koeln.de/artikel/00054/index.html",
+   "tier": 3
+  },
+  "de1-060": {
+   "title": "University of Cologne",
+   "publisher": "Catholic Encyclopedia (1908), New Advent",
+   "url": "https://www.newadvent.org/cathen/04120a.htm",
+   "tier": 2
+  },
+  "de1-061": {
+   "title": "200 Jahre Universität Breslau",
+   "publisher": "Philipps-Universität Marburg (news archive)",
+   "url": "https://www.uni-marburg.de/archive/news/2012-2-24-200-jahre-universitat-breslau.html",
+   "tier": 2
+  },
+  "de1-062": {
+   "title": "History of JLU",
+   "publisher": "Justus-Liebig-Universität Gießen",
+   "url": "https://www.uni-giessen.de/en/about/portrait/historyjlu/history",
+   "tier": 1
+  },
+  "de1-063": {
+   "title": "Universität Graz (factsheet)",
+   "publisher": "Land Steiermark",
+   "url": "https://www.europa.steiermark.at/cms/dokumente/12769492_2950520/192e2df8/Uni-Graz.pdf",
+   "tier": 3
+  },
+  "de1-064": {
+   "title": "Christian-Albrechts-Universität zu Kiel",
+   "publisher": "International Association of Universities, World Higher Education Database",
+   "url": "https://www.whed.net/institutions/IAU-002794",
+   "tier": 2
+  },
+  "de1-065": {
+   "title": "University of Dillingen",
+   "publisher": "Catholic Encyclopedia (1909), New Advent",
+   "url": "https://www.newadvent.org/cathen/04795a.htm",
+   "tier": 2
+  },
+  "de1-066": {
+   "title": "University Chronology",
+   "publisher": "Otto-Friedrich-Universität Bamberg",
+   "url": "https://www.uni-bamberg.de/en/universitaet/profil/geschichte-und-tradition/university-chronology/",
+   "tier": 1
+  },
+  "de1-067": {
+   "title": "Key historical dates (400 Jahre PLUS)",
+   "publisher": "Paris Lodron Universität Salzburg",
+   "url": "https://www.plus.ac.at/400-jahre-plus/historische-eckdaten/?lang=en",
+   "tier": 1
+  },
+  "de1-068": {
+   "title": "Universitas Francofurtensis (1506–1811)",
+   "publisher": "Europa-Universität Viadrina",
+   "url": "https://europa-uni.de/en/ueber_uns/portrait/geschichte/geschichte2.html",
+   "tier": 1
+  },
+  "de1-069": {
+   "title": "Niemeyer, August Hermann",
+   "publisher": "Deutsche Biographie (ADB/NDB)",
+   "url": "https://www.deutsche-biographie.de/ppn118786199.html",
+   "tier": 2
+  },
+  "de1-070": {
+   "title": "The Protestant Faculty of Theology of Strasbourg",
+   "publisher": "Musée protestant",
+   "url": "https://museeprotestant.org/en/notice/la-faculte-de-theologie-protestante-de-strasbourg/",
+   "tier": 3
+  },
+  "de1-071": {
+   "title": "History of the University of Münster",
+   "publisher": "Universität Münster",
+   "url": "https://uni-muenster.de/profil/en/geschichte.html",
+   "tier": 1
+  },
+  "de1-072": {
+   "title": "Foundation 1582",
+   "publisher": "Julius-Maximilians-Universität Würzburg, Universitätsarchiv",
+   "url": "https://www.uni-wuerzburg.de/en/uniarchiv/jmus-history/highlights/foundation-1582/",
+   "tier": 1
+  },
+  "de1-073": {
+   "title": "History (timeline, part 4)",
+   "publisher": "Universität Leipzig",
+   "url": "https://www.uni-leipzig.de/en/university/profile/history/4",
+   "tier": 1
+  },
+  "de1-074": {
+   "title": "Dillingen an der Donau",
+   "publisher": "Historisches Lexikon der Schweiz",
+   "url": "https://hls-dhs-dss.ch/de/articles/006586/",
+   "tier": 2
+  },
+  "de1-075": {
+   "title": "A Tradition of Innovation: history",
+   "publisher": "Friedrich-Schiller-Universität Jena",
+   "url": "https://www.uni-jena.de/en/2425/history",
+   "tier": 1
+  },
+  "de1-076": {
+   "title": "Hermann von Helmholtz",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Helmholtz/",
+   "tier": 2
+  },
+  "de1-077": {
+   "title": "Gustav Kirchhoff",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kirchhoff/",
+   "tier": 2
+  },
+  "de1-078": {
+   "title": "Max Planck",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Planck/",
+   "tier": 2
+  },
+  "de1-079": {
+   "title": "David Hilbert",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hilbert/",
+   "tier": 2
+  },
+  "de1-080": {
+   "title": "Carl Friedrich Gauss",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/",
+   "tier": 2
+  },
+  "de1-081": {
+   "title": "Bernhard Riemann",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Riemann/",
+   "tier": 2
+  },
+  "de1-082": {
+   "title": "Felix Klein",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Klein/",
+   "tier": 2
+  },
+  "de1-083": {
+   "title": "Karl Weierstrass",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Weierstrass/",
+   "tier": 2
+  },
+  "de1-084": {
+   "title": "Friedrich Wilhelm Bessel",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bessel/",
+   "tier": 2
+  },
+  "de1-085": {
+   "title": "Carl Gustav Jacob Jacobi",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Jacobi/",
+   "tier": 2
+  },
+  "de1-086": {
+   "title": "Franz Neumann",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Neumann_Franz/",
+   "tier": 2
+  },
+  "de1-087": {
+   "title": "Hermann Minkowski",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Minkowski/",
+   "tier": 2
+  },
+  "de1-088": {
+   "title": "Georg Cantor",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cantor/",
+   "tier": 2
+  },
+  "de1-089": {
+   "title": "Gottlob Frege",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Frege/",
+   "tier": 2
+  },
+  "de1-090": {
+   "title": "Georg Joachim Rheticus",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Rheticus/",
+   "tier": 2
+  },
+  "de1-091": {
+   "title": "Erasmus Reinhold",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Reinhold/",
+   "tier": 2
+  },
+  "de1-092": {
+   "title": "Wilhelm Schickard",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Schickard/",
+   "tier": 2
+  },
+  "de1-093": {
+   "title": "Tycho Brahe",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahe/",
+   "tier": 2
+  },
+  "de1-094": {
+   "title": "Joachim Jungius",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Jungius/",
+   "tier": 2
+  },
+  "de1-095": {
+   "title": "Paul Guldin",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Guldin/",
+   "tier": 2
+  },
+  "de1-096": {
+   "title": "Schleiermacher, Friedrich",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz3143.html",
+   "tier": 2
+  },
+  "de1-097": {
+   "title": "Savigny, Friedrich Carl von",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz6777.html",
+   "tier": 2
+  },
+  "de1-098": {
+   "title": "Thomasius, Christian",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz26825.html",
+   "tier": 2
+  },
+  "de1-099": {
+   "title": "Weber, Max",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz6881.html",
+   "tier": 2
+  },
+  "de1-100": {
+   "title": "Virchow, Rudolf",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz75022.html",
+   "tier": 2
+  },
+  "de1-101": {
+   "title": "Roentgen, Wilhelm",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz106224.html",
+   "tier": 2
+  },
+  "de1-102": {
+   "title": "Mommsen, Theodor",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz65037.html",
+   "tier": 2
+  },
+  "de1-103": {
+   "title": "Bunsen, Robert",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz31565.html",
+   "tier": 2
+  },
+  "de1-104": {
+   "title": "Koelliker, Albert Ritter von",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz43732.html",
+   "tier": 2
+  },
+  "de1-105": {
+   "title": "Hertz, Heinrich",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz70132.html",
+   "tier": 2
+  },
+  "de1-106": {
+   "title": "Christian Wolff",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/archives/spr2021/entries/wolff-christian/",
+   "tier": 2
+  },
+  "de1-107": {
+   "title": "Jacob Grimm 1785–1863",
+   "publisher": "Deutsches Historisches Museum, LeMO",
+   "url": "https://www.dhm.de/lemo/biografie/jacob-grimm.html",
+   "tier": 2
+  },
+  "de1-108": {
+   "title": "Karl Marx 1818–1883",
+   "publisher": "Deutsches Historisches Museum, LeMO",
+   "url": "https://www.dhm.de/lemo/biografie/karl-marx.html",
+   "tier": 2
+  },
+  "de1-109": {
+   "title": "Otto von Bismarck",
+   "publisher": "Deutsches Historisches Museum, LeMO",
+   "url": "https://www.dhm.de/lemo/biografie/otto-von-bismarck.html",
+   "tier": 2
+  },
+  "de1-110": {
+   "title": "Ernst Haeckel",
+   "publisher": "Deutsches Historisches Museum, LeMO",
+   "url": "https://www.dhm.de/lemo/biografie/ernst-haeckel.html",
+   "tier": 2
+  },
+  "de1-111": {
+   "title": "Ferdinand Lassalle",
+   "publisher": "Deutsches Historisches Museum, LeMO",
+   "url": "https://www.dhm.de/lemo/biografie/ferdinand-lassalle.html",
+   "tier": 2
+  },
+  "de1-112": {
+   "title": "August Heinrich Hoffmann von Fallersleben",
+   "publisher": "Deutsches Historisches Museum, LeMO",
+   "url": "https://www.dhm.de/lemo/biografie/august-heinrich-hoffmann-von-fallersleben.html",
+   "tier": 2
+  },
+  "de1-113": {
+   "title": "Justus von Liebig",
+   "publisher": "Deutsches Historisches Museum, LeMO",
+   "url": "https://www.dhm.de/lemo/biografie/justus-von-liebig.html",
+   "tier": 2
+  },
+  "de1-114": {
+   "title": "Edmund Husserl",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/husserl/",
+   "tier": 2
+  },
+  "de1-115": {
+   "title": "Samuel von Pufendorf",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/pufendorf/",
+   "tier": 2
+  },
+  "de1-116": {
+   "title": "Johann Georg Hamann",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/hamann/",
+   "tier": 2
+  },
+  "de1-117": {
+   "title": "Johann Gottfried von Herder",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/herder/",
+   "tier": 2
+  },
+  "de1-118": {
+   "title": "Francke, August Hermann",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz69808.html",
+   "tier": 2
+  },
+  "de1-119": {
+   "title": "Bugenhagen, Johannes",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz7233.html",
+   "tier": 2
+  },
+  "de1-120": {
+   "title": "Bodenstein (Karlstadt), Andreas",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz4909.html",
+   "tier": 2
+  },
+  "de1-121": {
+   "title": "Calixt, Georg",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz60834.html",
+   "tier": 2
+  },
+  "de1-122": {
+   "title": "Conring, Hermann",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz8686.html",
+   "tier": 2
+  },
+  "de1-123": {
+   "title": "Mosheim, Johann Lorenz von",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz65768.html",
+   "tier": 2
+  },
+  "de1-124": {
+   "title": "Lichtenberg, Georg Christoph",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz51050.html",
+   "tier": 2
+  },
+  "de1-125": {
+   "title": "Haller, (Victor) Albrecht von",
+   "publisher": "Complete Dictionary of Scientific Biography, via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/medicine/medical-journals/haller-victor-albrecht-von",
+   "tier": 2
+  },
+  "de1-126": {
+   "title": "Heyne, Christian Gottlob",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz32168.html",
+   "tier": 2
+  },
+  "de1-127": {
+   "title": "Wolf, Friedrich August",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/117444154.html",
+   "tier": 2
+  },
+  "de1-128": {
+   "title": "Weber, Wilhelm",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz75068.html",
+   "tier": 2
+  },
+  "de1-129": {
+   "title": "Baur, Ferdinand Christian",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz60746.html",
+   "tier": 2
+  },
+  "de1-130": {
+   "title": "Strauß, David Friedrich",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz34642.html",
+   "tier": 2
+  },
+  "de1-131": {
+   "title": "Weishaupt, Adam",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz84871.html",
+   "tier": 2
+  },
+  "de1-132": {
+   "title": "Reuchlin, Johannes",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz74609.html",
+   "tier": 2
+  },
+  "de1-133": {
+   "title": "Sömmerring, Samuel Thomas von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz80556.html",
+   "tier": 2
+  },
+  "de1-134": {
+   "title": "Chytraeus, David",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz19489.html",
+   "tier": 2
+  },
+  "de1-135": {
+   "title": "Eck, Johannes",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz12386.html",
+   "tier": 2
+  },
+  "de1-136": {
+   "title": "Zasius, Ulrich",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz86438.html",
+   "tier": 2
+  },
+  "de1-137": {
+   "title": "Osiander, Andreas",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz73858.html",
+   "tier": 2
+  },
+  "de1-138": {
+   "title": "Biel, Gabriel",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz4410.html",
+   "tier": 2
+  },
+  "de1-139": {
+   "title": "Weismann, August",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz107556.html",
+   "tier": 2
+  },
+  "de1-140": {
+   "title": "Purkinje, Johann von",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz97642.html",
+   "tier": 2
+  },
+  "de1-141": {
+   "title": "Cohn, Ferdinand",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz8562.html",
+   "tier": 2
+  },
+  "de1-142": {
+   "title": "University of Graz",
+   "publisher": "Catholic Encyclopedia (1909), New Advent",
+   "url": "https://www.newadvent.org/cathen/06733d.htm",
+   "tier": 2
+  },
+  "de1-143": {
+   "title": "Göttingen",
+   "publisher": "Encyclopedia.com (Encyclopedia of the Enlightenment / Europe 1450–1789)",
+   "url": "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/gottingen",
+   "tier": 2
+  },
+  "de1-144": {
+   "title": "Freiburg (University of Freiburg)",
+   "publisher": "Catholic Encyclopedia (1909), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/freiburg",
+   "tier": 2
+  },
+  "de1-145": {
+   "title": "Adolphus von Dalberg",
+   "publisher": "Catholic Encyclopedia (1908), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/adolphus-von-dalberg",
+   "tier": 2
+  },
+  "de1-146": {
+   "title": "Stadthagen (Residenzstädte im Alten Reich, Handbuch)",
+   "publisher": "Akademie der Wissenschaften zu Göttingen, Residenzstädte project",
+   "url": "https://adw-goe.de/fileadmin/forschungsprojekte/residenzstaedte/dokumente/pdfs/HB1/HB1-BD2/RESIST-HB1-BD2-ART116.pdf",
+   "tier": 2
+  },
+  "de1-147": {
+   "title": "M. Laux, Denkschriften (old University of Trier)",
+   "publisher": "Universität Trier, Fachbereich III",
+   "url": "https://www.uni-trier.de/fileadmin/fb3/prof/GES/LG1/Bilder_allgemein/Allgemein_Laux/Aufs%C3%A4tze_Prof._Dr._Laux/laux__denkschriften__2020.pdf",
+   "tier": 2
+  },
+  "de1-148": {
+   "title": "Historischer Stadtrundgang Rinteln",
+   "publisher": "Stadt Rinteln",
+   "url": "https://www.Rinteln.de/assets/Dokumente-und-Formulare/Historischer-Stadtrundgang.pdf",
+   "tier": 3
+  },
+  "de1-149": {
+   "title": "Review of Schlochtern, Die Academia Theodoriana (EWR 2015)",
+   "publisher": "Erziehungswissenschaftliche Revue, via peDOCS",
+   "url": "https://www.pedocs.de/volltexte/2019/15492/pdf/EWR_2015_1_Overhoff_Rezension_Schlochtern_Die_Academia_Theodoriana.pdf",
+   "tier": 2
+  },
+  "de1-150": {
+   "title": "University of Rostock",
+   "publisher": "Catholic Encyclopedia (1912), New Advent",
+   "url": "https://www.newadvent.org/cathen/13205b.htm",
+   "tier": 2
+  },
+  "de1-151": {
+   "title": "D. de la Croix, Scholars and Literati at the University of Molsheim (1621–1793)",
+   "publisher": "Repertorium Eruditorum Totius Europae (RETE), UCLouvain",
+   "url": "https://perso.uclouvain.be/david.delacroix/fiches/fiche-molsheim.pdf",
+   "tier": 2
+  },
+  "de1-152": {
+   "title": "D. de la Croix, Scholars and Literati at the University of Strasbourg (1621–1795)",
+   "publisher": "Repertorium Eruditorum Totius Europae (RETE), UCLouvain",
+   "url": "https://perso.uclouvain.be/david.delacroix/fiches/fiche-strasbourg.pdf",
+   "tier": 2
+  },
+  "de1-153": {
+   "title": "Feuerbach, Ludwig",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz15935.html",
+   "tier": 2
+  },
+  "de1-154": {
+   "title": "Ohm, Georg Simon",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz73275.html",
+   "tier": 2
+  },
+  "de1-155": {
+   "title": "Karl Leonhard Reinhold",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/karl-reinhold/",
+   "tier": 2
+  },
+  "de1-156": {
+   "title": "Windelband, Wilhelm",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz116502.html",
+   "tier": 2
+  },
+  "de1-157": {
+   "title": "Kircher, Athanasius",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz41067.html",
+   "tier": 2
+  },
+  "de1-158": {
+   "title": "Weigel, Erhard",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz26881.html",
+   "tier": 2
+  },
+  "de1-159": {
+   "title": "Sturm, Johann Christoph",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz81871.html",
+   "tier": 2
+  },
+  "de1-160": {
+   "title": "Spee, Friedrich von",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz80673.html",
+   "tier": 2
+  },
+  "de1-161": {
+   "title": "Clauberg, Johann",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz8395.html",
+   "tier": 2
+  },
+  "de1-162": {
+   "title": "Hutten, Ulrich von",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz36174.html",
+   "tier": 2
+  },
+  "de1-163": {
+   "title": "Eobanus Hessus",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz13418.html",
+   "tier": 2
+  },
+  "de1-164": {
+   "title": "Agricola, Georgius",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz462.html",
+   "tier": 2
+  },
+  "de1-165": {
+   "title": "Müntzer, Thomas",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz67128.html",
+   "tier": 2
+  },
+  "de1-166": {
+   "title": "Hubmaier, Balthasar",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz34098.html",
+   "tier": 2
+  },
+  "de1-167": {
+   "title": "Waldseemüller, Martin",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz36216.html",
+   "tier": 2
+  },
+  "de1-168": {
+   "title": "Bach, Carl Philipp Emanuel",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz1732.html",
+   "tier": 2
+  },
+  "de1-169": {
+   "title": "Kleist, Heinrich von",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz45881.html",
+   "tier": 2
+  },
+  "de1-170": {
+   "title": "Heine, Heinrich",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz68461.html",
+   "tier": 2
+  },
+  "de1-171": {
+   "title": "Schopenhauer, Arthur",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz79035.html",
+   "tier": 2
+  },
+  "de1-172": {
+   "title": "Novalis (Georg Philipp Friedrich von Hardenberg)",
+   "publisher": "Internet Encyclopedia of Philosophy",
+   "url": "https://iep.utm.edu/novalis/",
+   "tier": 2
+  },
+  "de1-173": {
+   "title": "Gerhardt, Paul",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz20601.html",
+   "tier": 2
+  },
+  "de1-174": {
+   "title": "Dach, Simon",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz9147.html",
+   "tier": 2
+  },
+  "de1-175": {
+   "title": "Baumgarten, Alexander Gottlieb",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz2334.html",
+   "tier": 2
+  },
+  "de1-176": {
+   "title": "Krafft-Ebing, Richard Freiherr von",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz61213.html",
+   "tier": 2
+  }
+ },
+ "institutions": {
+  "u-vienna": {
+   "src": [
+    "de1-001",
+    "de1-002",
+    "de1-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-erfurt": {
+   "src": [
+    "de1-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-heidelberg": {
+   "src": [
+    "de1-057",
+    "de1-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cologne": {
+   "src": [
+    "de1-060",
+    "de1-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-wurzburg": {
+   "src": [
+    "de1-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leipzig": {
+   "src": [
+    "de1-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rostock": {
+   "src": [
+    "de1-042",
+    "de1-150"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-greifswald": {
+   "src": [
+    "de1-044",
+    "de1-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-freiburg": {
+   "src": [
+    "de1-144"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-ingolstadt-munich": {
+   "src": [
+    "de1-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-trier": {
+   "src": [
+    "de1-147"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-mainz": {
+   "src": [
+    "de1-058"
+   ],
+   "note": "The successor medical school lasted until 1822 per the university's own history.",
+   "fix": {}
+  },
+  "u-tubingen": {
+   "src": [
+    "de1-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-wittenberg": {
+   "src": [
+    "de1-048",
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-frankfurt-oder": {
+   "src": [
+    "de1-068",
+    "de1-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-marburg": {
+   "src": [
+    "de1-049",
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-konigsberg": {
+   "src": [
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dillingen": {
+   "src": [
+    "de1-065",
+    "de1-074"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-jena": {
+   "src": [
+    "de1-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-helmstedt": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-altdorf": {
+   "src": [
+    "de1-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-graz": {
+   "src": [
+    "de1-142",
+    "de1-063"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-giessen": {
+   "src": [
+    "de1-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rinteln": {
+   "src": [
+    "de1-146",
+    "de1-148"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paderborn": {
+   "src": [
+    "de1-149"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-molsheim": {
+   "src": [
+    "de1-151"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-strasbourg": {
+   "src": [
+    "de1-152",
+    "de1-070"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-salzburg": {
+   "src": [
+    "de1-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-osnabruck": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-kassel": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-bamberg": {
+   "src": [
+    "de1-066"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-duisburg": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-kiel": {
+   "src": [
+    "de1-064",
+    "de1-053"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-innsbruck": {
+   "src": [
+    "de1-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-halle": {
+   "src": [
+    "de1-048",
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-breslau": {
+   "src": [
+    "de1-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-gottingen": {
+   "src": [
+    "de1-052",
+    "de1-143",
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fulda": {
+   "src": [
+    "de1-145"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-erlangen": {
+   "src": [
+    "de1-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-butzow": {
+   "src": [
+    "de1-150"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-stuttgart-karlsschule": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-munster": {
+   "src": [
+    "de1-071"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bonn-electoral": {
+   "src": [
+    "de1-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-berlin": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-halle-wittenberg": {
+   "src": [
+    "de1-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bonn": {
+   "src": [
+    "de1-054"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "u-vienna-1365-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-001",
+    "de1-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vienna-1384-charter": {
+   "status": "confirmed",
+   "src": [
+    "de1-001",
+    "de1-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vienna-1529-destruction": {
+   "status": "confirmed",
+   "src": [
+    "de1-001"
+   ],
+   "note": "Enrolment collapsed in the late 1520s; by 1529 the theology faculty had only two professors.",
+   "fix": {}
+  },
+  "u-vienna-1623-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-001",
+    "de1-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vienna-1752-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-005",
+    "de1-001"
+   ],
+   "note": "Van Swieten's medical reform began in 1749; the university became a state institution in 1752 and theology and philosophy were reformed from 1753.",
+   "fix": {}
+  },
+  "u-vienna-1773-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-003",
+    "de1-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vienna-1848-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-006",
+    "de1-001"
+   ],
+   "note": "The Aula was the centre of the student revolt and was partly used as barracks from 1848 to 1856.",
+   "fix": {}
+  },
+  "u-vienna-1849-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-001",
+    "de1-002"
+   ],
+   "note": "Provisional law of 30 September 1849 and ordinances of 1849–50.",
+   "fix": {}
+  },
+  "u-vienna-1897-access": {
+   "status": "confirmed",
+   "src": [
+    "de1-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-heidelberg-1386-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-057",
+    "de1-037"
+   ],
+   "note": "Papal approval 23 October 1385; formal opening 18 October 1386.",
+   "fix": {}
+  },
+  "u-heidelberg-1803-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "de1-057",
+    "de1-037"
+   ],
+   "note": "Passed to Baden in 1803; named Ruperto Carola in 1805.",
+   "fix": {}
+  },
+  "u-wittenberg-1502-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-048",
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-marburg-1527-founding": {
+   "status": "corrected",
+   "src": [
+    "de1-049",
+    "de1-038"
+   ],
+   "fix": {
+    "desc": "Landgrave Philip I founded the university without papal approval, funded by secularized monasteries; it opened on 30 May 1527 with eleven professors and about 90 students."
+   },
+   "note": "The university's own history gives the opening as 30 May 1527."
+  },
+  "u-konigsberg-1544-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-halle-1694-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-048",
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-gottingen-1737-charter": {
+   "status": "confirmed",
+   "src": [
+    "de1-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-erfurt-1379-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cologne-1388-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-060"
+   ],
+   "note": "Bull of 21 May 1388; opened in 1389 with 21 masters and 737 matriculated students.",
+   "fix": {}
+  },
+  "u-cologne-1388-merger": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-erfurt-1389-charter": {
+   "status": "confirmed",
+   "src": [
+    "de1-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-wurzburg-1402-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leipzig-1409-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-041"
+   ],
+   "note": "Opened on 2 December 1409 with masters and scholars who had come from Prague.",
+   "fix": {}
+  },
+  "u-leipzig-1409-migration": {
+   "status": "confirmed",
+   "src": [
+    "de1-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-wurzburg-1413-destruction": {
+   "status": "confirmed",
+   "src": [
+    "de1-043"
+   ],
+   "note": "Rector Johann Zantfurt was killed in 1413; decline followed from 1415 and the last document of the first university dates from 1427.",
+   "fix": {}
+  },
+  "u-rostock-1419-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-042"
+   ],
+   "note": "Papal approval 13 February 1419, opening 12 November 1419; theology faculty approved in 1433.",
+   "fix": {}
+  },
+  "u-rostock-1437-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rostock-1443-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-greifswald-1456-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-044",
+    "de1-045"
+   ],
+   "note": "Bull of Callixtus III dated 29 May 1456; opened 17 October 1456 with Heinrich Rubenow as first rector.",
+   "fix": {}
+  },
+  "u-freiburg-1457-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-144"
+   ],
+   "note": "Bull of 20 April 1455; foundation charter 21 September 1457; teaching opened 26 April 1460.",
+   "fix": {}
+  },
+  "u-ingolstadt-munich-1472-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-trier-1473-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-147"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-mainz-1477-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tubingen-1477-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rostock-1487-relocation": {
+   "status": "corrected",
+   "src": [
+    "de1-042"
+   ],
+   "fix": {
+    "desc": "During the conflict over the cathedral chapter (Domfehde) the university left Rostock in March 1487, first for Wismar and then briefly for Lübeck."
+   },
+   "note": "The university went first to Wismar, then to Lübeck."
+  },
+  "u-rostock-1488-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-042"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Returned in August 1488."
+  },
+  "u-frankfurt-oder-1506-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-wittenberg-1507-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-cologne-1514-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-wittenberg-1517-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-erfurt-1521-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-marburg-1529-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-wittenberg-1533-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-tubingen-1535-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tubingen-1536-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leipzig-1539-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-greifswald-1539-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-044",
+    "de1-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-frankfurt-oder-1539-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-marburg-1541-charter": {
+   "status": "confirmed",
+   "src": [
+    "de1-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leipzig-1543-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-041"
+   ],
+   "note": "The university library was founded in 1543; the former Dominican friary was formally handed over as the Collegium Paulinum in 1544.",
+   "fix": {}
+  },
+  "u-ingolstadt-munich-1549-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-konigsberg-1550-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-dillingen-1551-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dillingen-1553-charter": {
+   "status": "confirmed",
+   "src": [
+    "de1-065"
+   ],
+   "note": "Charles V ratified the privileges; formal inauguration 21 May 1554.",
+   "fix": {}
+  },
+  "u-heidelberg-1556-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-057"
+   ],
+   "note": "Ottheinrich's new statutes date from 1558.",
+   "fix": {}
+  },
+  "u-cologne-1556-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-jena-1558-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-050"
+   ],
+   "note": "Hohe Schule opened 1548; imperial privilege signed 15 August 1557; inaugurated 2 February 1558.",
+   "fix": {}
+  },
+  "u-konigsberg-1560-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-trier-1561-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-mainz-1561-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-heidelberg-1563-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-rostock-1563-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-042"
+   ],
+   "note": "Settlement dated 11 May 1563; the university had become Protestant in 1531.",
+   "fix": {}
+  },
+  "u-dillingen-1564-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-074",
+    "de1-065"
+   ],
+   "note": "Some accounts date the handover to the Jesuits to 1563.",
+   "fix": {}
+  },
+  "u-wittenberg-1574-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-helmstedt-1576-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-altdorf-1578-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-helmstedt-1580-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-wurzburg-1582-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "de1-043",
+    "de1-072"
+   ],
+   "note": "Solemn inauguration on 2 January 1582.",
+   "fix": {}
+  },
+  "u-graz-1585-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-063"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-marburg-1605-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-049"
+   ],
+   "note": "The Reformed turn under Landgrave Maurice followed the 1604 succession dispute; Hesse-Darmstadt founded Giessen in 1607.",
+   "fix": {}
+  },
+  "u-giessen-1607-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-062",
+    "de1-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rinteln-1610-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-146"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paderborn-1614-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-149"
+   ],
+   "note": "Founded by Prince-Bishop Dietrich IV von Fürstenberg and entrusted to the Jesuits; imperial and papal privileges followed in 1615.",
+   "fix": {}
+  },
+  "u-frankfurt-oder-1616-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-molsheim-1618-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-151"
+   ],
+   "note": "Dates for university status vary in the literature: 1611, 1618 and 1621 are all given.",
+   "fix": {}
+  },
+  "u-freiburg-1620-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-144"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-strasbourg-1621-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-070"
+   ],
+   "note": "Successor to the school of 1538 and the academy of 1566.",
+   "fix": {}
+  },
+  "u-rinteln-1621-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-146"
+   ],
+   "note": "University status was granted at Stadthagen in 1619/20, and the university moved to Rinteln in 1621.",
+   "fix": {}
+  },
+  "u-salzburg-1622-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-067"
+   ],
+   "note": "Formally founded on 8 October 1622 in the presence of Paris Lodron.",
+   "fix": {}
+  },
+  "u-altdorf-1622-charter": {
+   "status": "confirmed",
+   "src": [
+    "de1-056"
+   ],
+   "note": "Imperial charter dated 3 October 1622; privileges proclaimed in 1623.",
+   "fix": {}
+  },
+  "u-heidelberg-1622-destruction": {
+   "status": "confirmed",
+   "src": [
+    "de1-057"
+   ],
+   "note": "The Bibliotheca Palatina was taken to Rome in 1623; the university reopened in 1652.",
+   "fix": {}
+  },
+  "u-salzburg-1625-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-giessen-1625-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-marburg-1625-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-049"
+   ],
+   "note": "Hesse-Darmstadt took Marburg in 1624; the university returned to Lutheranism and was divided with Kassel by the 1627 settlement.",
+   "fix": {}
+  },
+  "u-osnabruck-1632-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-kassel-1633-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-osnabruck-1633-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-bamberg-1647-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-066"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Founded 14 November 1647; imperial and papal privileges in 1648."
+  },
+  "u-greifswald-1648-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-044",
+    "de1-045"
+   ],
+   "note": "Swedish administration of Western Pomerania began in 1637 and was confirmed by the Peace of Westphalia in 1648.",
+   "fix": {}
+  },
+  "u-giessen-1650-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-marburg-1653-merger": {
+   "status": "confirmed",
+   "src": [
+    "de1-049"
+   ],
+   "note": "Hesse-Kassel regained Marburg in 1645/46; the 1653 statutes re-established it as a Reformed university.",
+   "fix": {}
+  },
+  "u-duisburg-1655-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-kiel-1665-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-064",
+    "de1-053"
+   ],
+   "note": "Inaugurated in October 1665.",
+   "fix": {}
+  },
+  "u-innsbruck-1669-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-strasbourg-1681-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-152"
+   ],
+   "note": "The capitulation treaty preserved the Protestant university's autonomy.",
+   "fix": {}
+  },
+  "u-freiburg-1686-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-144"
+   ],
+   "note": "After the French took Freiburg (ceded 1679) most professors and students moved to Konstanz.",
+   "fix": {}
+  },
+  "u-heidelberg-1693-destruction": {
+   "status": "confirmed",
+   "src": [
+    "de1-057"
+   ],
+   "note": "Heavily hit in the Nine Years' War (1688–97); returned to Heidelberg in 1700.",
+   "fix": {}
+  },
+  "u-freiburg-1698-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-144"
+   ],
+   "note": "Return followed the Peace of Ryswick (1697).",
+   "fix": {}
+  },
+  "u-molsheim-1701-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-151"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-breslau-1702-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-061"
+   ],
+   "note": "Some histories describe the Leopoldina as a Jesuit academy that gained full university status only with the 1811 union.",
+   "fix": {}
+  },
+  "u-halle-1723-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-049"
+   ],
+   "note": "Wolff left Halle for Marburg in 1723 and stayed there until 1740.",
+   "fix": {}
+  },
+  "u-gottingen-1734-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-052"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fulda-1734-founding": {
+   "status": "corrected",
+   "src": [
+    "de1-145"
+   ],
+   "fix": {
+    "year": 1733
+   },
+   "note": "Papal charter 1 July 1732, imperial confirmation 12 March 1733; solemnly inaugurated on 19 September 1733."
+  },
+  "u-halle-1740-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-breslau-1742-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-erlangen-1743-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-halle-1754-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-butzow-1760-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-150"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-molsheim-1765-confessional": {
+   "status": "confirmed",
+   "src": [
+    "de1-151"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-freiburg-1767-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-144"
+   ],
+   "note": "Maria Theresa's new curriculum was introduced in 1767 despite much opposition.",
+   "fix": {}
+  },
+  "u-stuttgart-karlsschule-1770-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-wurzburg-1773-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-freiburg-1773-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-144"
+   ],
+   "note": "The Jesuit college, church and gymnasium passed to the university in 1777.",
+   "fix": {}
+  },
+  "u-ingolstadt-munich-1773-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-trier-1773-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-dillingen-1773-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-graz-1773-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-142"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paderborn-1773-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-innsbruck-1773-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-breslau-1773-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-kiel-1773-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bamberg-1773-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-066"
+   ],
+   "note": "Law faculty from 1735, medicine added later; named Universitas Ottoniano-Fridericiana in 1773.",
+   "fix": {}
+  },
+  "u-stuttgart-karlsschule-1775-relocation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-munster-1780-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-071"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-stuttgart-karlsschule-1781-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-graz-1782-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-142"
+   ],
+   "note": "Joseph II's decree at the end of 1782 turned the university into a lyceum.",
+   "fix": {}
+  },
+  "u-innsbruck-1782-reform": {
+   "status": "corrected",
+   "src": [
+    "de1-051"
+   ],
+   "fix": {
+    "year": 1781
+   },
+   "note": "Joseph II reduced the university to a lyceum by decree of 29 November 1781; full teaching resumed in 1792."
+  },
+  "u-mainz-1784-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bonn-electoral-1786-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-054"
+   ],
+   "note": "The Maxische Akademie of 1777 was raised to a university by imperial patent in 1786.",
+   "fix": {}
+  },
+  "u-rostock-1789-merger": {
+   "status": "confirmed",
+   "src": [
+    "de1-150"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-strasbourg-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-070"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-molsheim-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-151"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-stuttgart-karlsschule-1794-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-cologne-1798-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-059",
+    "de1-060"
+   ],
+   "note": "Teaching was halted in April 1796 under French occupation; the university was formally abolished in 1798.",
+   "fix": {}
+  },
+  "u-trier-1798-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-147"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-mainz-1798-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bonn-electoral-1798-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-jena-1799-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-024"
+   ],
+   "note": "Fichte was dismissed in 1799 after the atheism dispute.",
+   "fix": {}
+  },
+  "u-ingolstadt-munich-1800-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-ingolstadt-munich-1802-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-dillingen-1803-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-065",
+    "de1-074"
+   ],
+   "note": "Abolished by Bavarian rescript of 3 November 1803, effective 1804; replaced by a gymnasium and lyceum.",
+   "fix": {}
+  },
+  "u-bamberg-1803-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-066"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-wurzburg-1803-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fulda-1805-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-145"
+   ],
+   "note": "The Benedictines ran it after 1773 and had to close it in 1805, after their monastery was secularized in 1802.",
+   "fix": {}
+  },
+  "u-halle-1806-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-069"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-strasbourg-1808-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-halle-1808-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "de1-069"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-altdorf-1809-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-berlin-1810-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-helmstedt-1810-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-rinteln-1810-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-148"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-salzburg-1810-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-innsbruck-1810-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-konigsberg-1810-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-erlangen-1810-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-055",
+    "de1-056"
+   ],
+   "note": "Erlangen passed to Bavaria in 1810 and inherited the assets of Altdorf, closed in 1809.",
+   "fix": {}
+  },
+  "u-breslau-1811-merger": {
+   "status": "confirmed",
+   "src": [
+    "de1-061"
+   ],
+   "note": "By royal edict of August 1811; five faculties including Catholic and Protestant theology.",
+   "fix": {}
+  },
+  "u-halle-1813-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-069"
+   ],
+   "note": "Closed again by Napoleon's decree of 15 July 1813, reopened after the Battle of Leipzig.",
+   "fix": {}
+  },
+  "u-wittenberg-1813-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-greifswald-1815-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-044",
+    "de1-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-jena-1815-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-erfurt-1816-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-halle-wittenberg-1817-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-halle-wittenberg-1817-merger": {
+   "status": "confirmed",
+   "src": [
+    "de1-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tubingen-1817-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bonn-1818-founding": {
+   "status": "confirmed",
+   "src": [
+    "de1-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paderborn-1818-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de1-149"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": ""
+  },
+  "u-duisburg-1818-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-munster-1818-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-071"
+   ],
+   "note": "Law and medicine were closed on 18 October 1818, leaving a two-faculty institution.",
+   "fix": {}
+  },
+  "u-jena-1819-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-berlin-1819-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-freiburg-1820-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-bonn-1820-reform": {
+   "status": "corrected",
+   "src": [
+    "de1-054"
+   ],
+   "fix": {
+    "year": 1819
+   },
+   "note": "Arndt was banned from teaching in the wake of the 1819 Carlsbad Decrees; the ban was lifted in 1840."
+  },
+  "u-giessen-1824-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-062"
+   ],
+   "note": "Liebig became professor of chemistry at Giessen in 1824.",
+   "fix": {}
+  },
+  "u-ingolstadt-munich-1826-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de1-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-innsbruck-1826-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "de1-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-graz-1827-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "de1-063"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leipzig-1830-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-gottingen-1837-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-143",
+    "de1-107",
+    "de1-128"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-marburg-1866-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-gottingen-1866-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-kiel-1867-reform": {
+   "status": "confirmed",
+   "src": [
+    "de1-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-strasbourg-1870-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-strasbourg-1872-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "de1-070"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-gottingen-1874-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-berlin-1896-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-graz-1897-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-heidelberg-1900-access": {
+   "status": "confirmed",
+   "src": [
+    "de1-057"
+   ],
+   "note": "Four women enrolled for the summer semester of 1900.",
+   "fix": {}
+  },
+  "u-freiburg-1900-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "thinkers": {
+  "th416": {
+   "status": "confirmed",
+   "src": [
+    "de1-007"
+   ],
+   "fix": {},
+   "note": "Master's degree 1453; taught at Vienna from 1454 until his death in 1461."
+  },
+  "th417": {
+   "status": "confirmed",
+   "src": [
+    "de1-008"
+   ],
+   "note": "Entered 1450, BA 1452, MA and arts faculty member 1457, lectured until leaving for Italy with Bessarion in 1461.",
+   "fix": {}
+  },
+  "th418": {
+   "status": "confirmed",
+   "src": [
+    "de1-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th419": {
+   "status": "confirmed",
+   "src": [
+    "de1-010"
+   ],
+   "note": "Main period of study at Vienna was 1500–1502; an earlier enrolment of 1498 is recorded in the matricula.",
+   "fix": {}
+  },
+  "th420": {
+   "status": "confirmed",
+   "src": [
+    "de1-005"
+   ],
+   "note": "Came to Vienna 1745; head of the medical faculty from 1749 until his death in 1772.",
+   "fix": {}
+  },
+  "th421": {
+   "status": "corrected",
+   "src": [
+    "de1-011"
+   ],
+   "fix": {
+    "to": 1853
+   },
+   "note": "First director of the Physics Institute from January 1850; he left Vienna for health reasons late in 1852 and died in Venice in March 1853, still in office."
+  },
+  "th422": {
+   "status": "confirmed",
+   "src": [
+    "de1-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th423": {
+   "status": "confirmed",
+   "src": [
+    "de1-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th424": {
+   "status": "confirmed",
+   "src": [
+    "de1-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th425": {
+   "status": "confirmed",
+   "src": [
+    "de1-015"
+   ],
+   "note": "He held Vienna chairs also 1873–76 and again 1902–06.",
+   "fix": {}
+  },
+  "th426": {
+   "status": "confirmed",
+   "src": [
+    "de1-016"
+   ],
+   "note": "Full professor 1874–80, then Privatdozent until 1895.",
+   "fix": {}
+  },
+  "th427": {
+   "status": "confirmed",
+   "src": [
+    "de1-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th429": {
+   "status": "confirmed",
+   "src": [
+    "de1-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th442": {
+   "status": "corrected",
+   "src": [
+    "de1-019"
+   ],
+   "fix": {
+    "role": "studied theology"
+   },
+   "note": "Matriculated at Cologne in 1425 to study theology; no evidence he taught canon law there."
+  },
+  "th433": {
+   "status": "confirmed",
+   "src": [
+    "de1-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th492": {
+   "status": "confirmed",
+   "src": [
+    "de1-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th538": {
+   "status": "confirmed",
+   "src": [
+    "de1-020"
+   ],
+   "fix": {},
+   "note": "Habilitated at Jena in 1801 and left in March 1807."
+  },
+  "th629": {
+   "status": "confirmed",
+   "src": [
+    "de1-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th449": {
+   "status": "confirmed",
+   "src": [
+    "de1-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th481": {
+   "status": "confirmed",
+   "src": [
+    "de1-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th494": {
+   "status": "confirmed",
+   "src": [
+    "de1-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th537": {
+   "status": "confirmed",
+   "src": [
+    "de1-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th609": {
+   "status": "confirmed",
+   "src": [
+    "de1-021"
+   ],
+   "note": "Honorary professor at Erlangen from 1820 until his move to Munich in 1827.",
+   "fix": {}
+  },
+  "th633": {
+   "status": "confirmed",
+   "src": [
+    "de1-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th445": {
+   "status": "confirmed",
+   "src": [
+    "de1-022"
+   ],
+   "note": "Entered Erfurt 1501; BA 1502; MA in early 1505 (dated December 1504 by some).",
+   "fix": {}
+  },
+  "th498": {
+   "status": "confirmed",
+   "src": [
+    "de1-022"
+   ],
+   "note": "First came to Wittenberg in 1508; doctorate in theology 1512 and professor of Bible until his death in 1546.",
+   "fix": {}
+  },
+  "th430": {
+   "status": "confirmed",
+   "src": [
+    "de1-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th487": {
+   "status": "confirmed",
+   "src": [
+    "de1-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th499": {
+   "status": "confirmed",
+   "src": [
+    "de1-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th458": {
+   "status": "confirmed",
+   "src": [
+    "de1-024"
+   ],
+   "note": "Moved from Jena to Leipzig in 1781 and left without a degree for lack of money.",
+   "fix": {}
+  },
+  "th532": {
+   "status": "confirmed",
+   "src": [
+    "de1-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th607": {
+   "status": "confirmed",
+   "src": [
+    "de1-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th626": {
+   "status": "confirmed",
+   "src": [
+    "de1-024"
+   ],
+   "note": "Rector 1811–12.",
+   "fix": {}
+  },
+  "th454": {
+   "status": "confirmed",
+   "src": [
+    "de1-025"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th531": {
+   "status": "confirmed",
+   "src": [
+    "de1-025"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th549": {
+   "status": "confirmed",
+   "src": [
+    "de1-025"
+   ],
+   "note": "Doctorate in both laws, February 1667.",
+   "fix": {}
+  },
+  "th521": {
+   "status": "confirmed",
+   "src": [
+    "de1-026"
+   ],
+   "note": "Matriculated 1740, lecturer from 1755, professor of logic and metaphysics from 1770; stopped lecturing in 1796.",
+   "fix": {}
+  },
+  "th534": {
+   "status": "confirmed",
+   "src": [
+    "de1-027"
+   ],
+   "note": "Lectured in Jena from 1789; illness from 1791 curtailed his teaching and he moved to Weimar in December 1799.",
+   "fix": {}
+  },
+  "th641": {
+   "status": "confirmed",
+   "src": [
+    "de1-027"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th457": {
+   "status": "confirmed",
+   "src": [
+    "de1-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th568": {
+   "status": "confirmed",
+   "src": [
+    "de1-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th509": {
+   "status": "confirmed",
+   "src": [
+    "de1-029"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th597": {
+   "status": "confirmed",
+   "src": [
+    "de1-029"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th508": {
+   "status": "confirmed",
+   "src": [
+    "de1-030"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th596": {
+   "status": "confirmed",
+   "src": [
+    "de1-030"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th459": {
+   "status": "confirmed",
+   "src": [
+    "de1-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th630": {
+   "status": "confirmed",
+   "src": [
+    "de1-031"
+   ],
+   "note": "Extraordinary professor 1824/25, full professor 1834.",
+   "fix": {}
+  },
+  "th460": {
+   "status": "confirmed",
+   "src": [
+    "de1-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th623": {
+   "status": "confirmed",
+   "src": [
+    "de1-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th456": {
+   "status": "confirmed",
+   "src": [
+    "de1-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th493": {
+   "status": "confirmed",
+   "src": [
+    "de1-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th535": {
+   "status": "confirmed",
+   "src": [
+    "de1-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th616": {
+   "status": "confirmed",
+   "src": [
+    "de1-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th467": {
+   "status": "confirmed",
+   "src": [
+    "de1-014"
+   ],
+   "fix": {},
+   "note": "Enrolled in medicine at Greifswald in 1848 and followed his teacher Baum to Göttingen in 1849."
+  },
+  "th556": {
+   "status": "confirmed",
+   "src": [
+    "de1-015"
+   ],
+   "fix": {},
+   "note": "Chair of experimental physics at Graz from 1876; he moved to Munich in 1890."
+  },
+  "th474": {
+   "status": "corrected",
+   "src": [
+    "de1-046",
+    "de1-039"
+   ],
+   "fix": {
+    "from": 1492
+   },
+   "note": "Came to Ingolstadt in 1492; called to Vienna in 1497."
+  },
+  "th490": {
+   "status": "unverified",
+   "src": [
+    "de1-036"
+   ],
+   "fix": {},
+   "note": "MacTutor confirms his study at Tübingen under Maestlin but gives no years."
+  },
+  "th428": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th431": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th432": {
+   "status": "confirmed",
+   "src": [
+    "de1-115"
+   ],
+   "note": "Taught philology and the law of nations at Heidelberg from about 1661 until he left for Lund in early 1668.",
+   "fix": {}
+  },
+  "th434": {
+   "status": "confirmed",
+   "src": [
+    "de1-077",
+    "de1-103"
+   ],
+   "note": "Retired in 1888/89.",
+   "fix": {}
+  },
+  "th435": {
+   "status": "confirmed",
+   "src": [
+    "de1-077"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th436": {
+   "status": "confirmed",
+   "src": [
+    "de1-076"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th437": {
+   "status": "confirmed",
+   "src": [
+    "de1-099"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th443": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th444": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th446": {
+   "status": "corrected",
+   "src": [
+    "de1-162"
+   ],
+   "fix": {
+    "from": 1503,
+    "to": 1505,
+    "approx": true
+   },
+   "note": "Studied at Erfurt until about 1504/05, then went to Cologne; one older account also places him in Erfurt in 1506."
+  },
+  "th447": {
+   "status": "confirmed",
+   "src": [
+    "de1-163"
+   ],
+   "note": "Entered Erfurt in 1504; professor of Latin from 1517 until he left for Nuremberg in 1526, with an absence from 1509 to 1514.",
+   "fix": {}
+  },
+  "th448": {
+   "status": "confirmed",
+   "src": [
+    "de1-157"
+   ],
+   "note": "Taught ethics, mathematics, Hebrew and Syriac from 1629 until the college fled the Swedes in October 1631.",
+   "fix": {}
+  },
+  "th450": {
+   "status": "confirmed",
+   "src": [
+    "de1-104"
+   ],
+   "note": "Emeritus in 1897 but continued to head his department until 1902.",
+   "fix": {}
+  },
+  "th451": {
+   "status": "confirmed",
+   "src": [
+    "de1-100"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th452": {
+   "status": "confirmed",
+   "src": [
+    "de1-101"
+   ],
+   "note": "Discovered X-rays at Würzburg in 1895; moved to Munich in 1900.",
+   "fix": {}
+  },
+  "th453": {
+   "status": "corrected",
+   "src": [
+    "de1-164"
+   ],
+   "fix": {
+    "to": 1517,
+    "role": "studied theology, philosophy and philology"
+   },
+   "note": "Studied at Leipzig about 1514–17 and returned as a lecturer in 1522–23."
+  },
+  "th455": {
+   "status": "confirmed",
+   "src": [
+    "de1-073",
+    "de1-098"
+   ],
+   "note": "Taught privately at Leipzig from about 1682; announced a lecture in German in 1687 and left for Halle in 1690.",
+   "fix": {}
+  },
+  "th461": {
+   "status": "confirmed",
+   "src": [
+    "de1-073"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th462": {
+   "status": "confirmed",
+   "src": [
+    "de1-162"
+   ],
+   "note": "In Rostock around the winter of 1509/10, after Leipzig and Greifswald.",
+   "fix": {}
+  },
+  "th463": {
+   "status": "confirmed",
+   "src": [
+    "de1-134"
+   ],
+   "note": "Called to Rostock in 1550 and lecturing from April 1551 until his death in 1600.",
+   "fix": {}
+  },
+  "th464": {
+   "status": "corrected",
+   "src": [
+    "de1-093"
+   ],
+   "fix": {
+    "to": 1567
+   },
+   "note": "Arrived in 1566 and returned home in April 1567; he later revisited Rostock."
+  },
+  "th465": {
+   "status": "confirmed",
+   "src": [
+    "de1-094"
+   ],
+   "note": "Chair of mathematics 1624–25 and 1626–28, with a year at Helmstedt in between.",
+   "fix": {}
+  },
+  "th466": {
+   "status": "confirmed",
+   "src": [
+    "de1-044"
+   ],
+   "note": "Studied and later taught history at Greifswald.",
+   "fix": {}
+  },
+  "th468": {
+   "status": "confirmed",
+   "src": [
+    "de1-167"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Matriculated on 7 December 1490."
+  },
+  "th469": {
+   "status": "confirmed",
+   "src": [
+    "de1-135"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Came to Freiburg in June 1502; doctorate in theology in October 1510, then left for Ingolstadt."
+  },
+  "th470": {
+   "status": "confirmed",
+   "src": [
+    "de1-136"
+   ],
+   "note": "Ordinarius in civil law from 1506; died in November 1535 (some sources say 1536).",
+   "fix": {}
+  },
+  "th471": {
+   "status": "confirmed",
+   "src": [
+    "de1-166"
+   ],
+   "note": "Matriculated 1 May 1503; he taught in the theology faculty from 1511 and followed Eck to Ingolstadt in 1512.",
+   "fix": {}
+  },
+  "th472": {
+   "status": "confirmed",
+   "src": [
+    "de1-139"
+   ],
+   "note": "Habilitated 1863, full professor from 1873, emeritus 1912.",
+   "fix": {}
+  },
+  "th473": {
+   "status": "corrected",
+   "src": [
+    "de1-099"
+   ],
+   "fix": {
+    "to": 1897
+   },
+   "note": "Held the Freiburg chair of economics from 1894 until he moved to Heidelberg in 1897."
+  },
+  "th475": {
+   "status": "confirmed",
+   "src": [
+    "de1-046",
+    "de1-135"
+   ],
+   "note": "Held the theology chair at Ingolstadt from 1510 until his death in 1543.",
+   "fix": {}
+  },
+  "th476": {
+   "status": "confirmed",
+   "src": [
+    "de1-132"
+   ],
+   "note": "Came to Ingolstadt in late 1519; professor of Hebrew and Greek from 1520; left because of plague in 1521.",
+   "fix": {}
+  },
+  "th477": {
+   "status": "confirmed",
+   "src": [
+    "de1-046"
+   ],
+   "note": "Arrived at Ingolstadt in November 1549.",
+   "fix": {}
+  },
+  "th478": {
+   "status": "confirmed",
+   "src": [
+    "de1-046"
+   ],
+   "note": "Taught mathematics and Hebrew at Ingolstadt from about 1610.",
+   "fix": {}
+  },
+  "th479": {
+   "status": "confirmed",
+   "src": [
+    "de1-131"
+   ],
+   "note": "Extraordinary professor from 1772, chair of canon law from 1773; dismissed in 1785 after the ban on the Illuminati.",
+   "fix": {}
+  },
+  "th480": {
+   "status": "confirmed",
+   "src": [
+    "de1-097"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th482": {
+   "status": "confirmed",
+   "src": [
+    "de1-046",
+    "de1-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th483": {
+   "status": "confirmed",
+   "src": [
+    "de1-078"
+   ],
+   "note": "Entered Munich in October 1874 and went to Berlin in 1877; he later took his doctorate (1879) at Munich.",
+   "fix": {}
+  },
+  "th484": {
+   "status": "corrected",
+   "src": [
+    "de1-160"
+   ],
+   "fix": {
+    "from": 1632,
+    "approx": false
+   },
+   "note": "Professor of moral theology at Trier from 1632, of biblical studies from 1634, until his death in 1635."
+  },
+  "th485": {
+   "status": "confirmed",
+   "src": [
+    "de1-133"
+   ],
+   "note": "Regular teaching was interrupted by the French occupation of 1792; he resigned in 1797.",
+   "fix": {}
+  },
+  "th486": {
+   "status": "confirmed",
+   "src": [
+    "de1-138"
+   ],
+   "note": "Professor of theology from 1484, probably until about 1491; he died in Tübingen at the end of 1495.",
+   "fix": {}
+  },
+  "th488": {
+   "status": "confirmed",
+   "src": [
+    "de1-132"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th489": {
+   "status": "confirmed",
+   "src": [
+    "de1-092"
+   ],
+   "note": "His death in 1631 left the Tübingen chair of mathematics vacant.",
+   "fix": {}
+  },
+  "th491": {
+   "status": "confirmed",
+   "src": [
+    "de1-092"
+   ],
+   "note": "Professor of Hebrew from 1619, of mathematics and astronomy from 1631; died of plague in 1635.",
+   "fix": {}
+  },
+  "th495": {
+   "status": "confirmed",
+   "src": [
+    "de1-129"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th496": {
+   "status": "confirmed",
+   "src": [
+    "de1-130"
+   ],
+   "note": "Student at the Stift 1825–30; Repetent from 1832 until dismissed in 1835 after the Life of Jesus.",
+   "fix": {}
+  },
+  "th497": {
+   "status": "corrected",
+   "src": [
+    "de1-120"
+   ],
+   "fix": {
+    "to": 1524
+   },
+   "note": "At Wittenberg from 1504/05 (doctorate 1510); became pastor at Orlamünde in late 1523 and lost his Wittenberg post in 1524."
+  },
+  "th500": {
+   "status": "confirmed",
+   "src": [
+    "de1-119"
+   ],
+   "note": "Lectured from 1521; full member of the theology faculty from 1535; died in Wittenberg in 1558.",
+   "fix": {}
+  },
+  "th501": {
+   "status": "confirmed",
+   "src": [
+    "de1-090"
+   ],
+   "note": "On leave from 1538 to visit Copernicus; left for Leipzig in 1542.",
+   "fix": {}
+  },
+  "th502": {
+   "status": "confirmed",
+   "src": [
+    "de1-091"
+   ],
+   "note": "Left Wittenberg because of plague in 1552 and died in 1553.",
+   "fix": {}
+  },
+  "th503": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th504": {
+   "status": "confirmed",
+   "src": [
+    "de1-173"
+   ],
+   "note": "Matriculated on 2 January 1628 and probably stayed until about 1642.",
+   "fix": {}
+  },
+  "th505": {
+   "status": "confirmed",
+   "src": [
+    "de1-172"
+   ],
+   "note": "Studied law at Jena (from 1790), Leipzig and finally Wittenberg, finishing in 1794.",
+   "fix": {}
+  },
+  "th506": {
+   "status": "confirmed",
+   "src": [
+    "de1-165",
+    "de1-068"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Matriculated at Frankfurt (Oder) in 1512, after Leipzig (1506)."
+  },
+  "th507": {
+   "status": "confirmed",
+   "src": [
+    "de1-168",
+    "de1-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th510": {
+   "status": "confirmed",
+   "src": [
+    "de1-169",
+    "de1-068"
+   ],
+   "note": "Began studying mathematics, physics and philosophy in spring 1799 and gave up soon after; by August 1800 he had left.",
+   "fix": {}
+  },
+  "th511": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th512": {
+   "status": "unverified",
+   "src": [
+    "de1-049"
+   ],
+   "note": "His presence at Marburg is attested; the years were not checked.",
+   "fix": {}
+  },
+  "th513": {
+   "status": "confirmed",
+   "src": [
+    "de1-049",
+    "de1-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th514": {
+   "status": "corrected",
+   "src": [
+    "de1-097"
+   ],
+   "fix": {
+    "from": 1795,
+    "to": 1808,
+    "approx": false
+   },
+   "note": "Studied at Marburg from 1795, doctorate 1800, then lecturer and from 1803 professor until he left for Landshut in 1808."
+  },
+  "th515": {
+   "status": "confirmed",
+   "src": [
+    "de1-107"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th516": {
+   "status": "confirmed",
+   "src": [
+    "de1-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th517": {
+   "status": "confirmed",
+   "src": [
+    "de1-103"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": ""
+  },
+  "th518": {
+   "status": "confirmed",
+   "src": [
+    "de1-049"
+   ],
+   "note": "Founded the Marburg School of neo-Kantianism with Paul Natorp.",
+   "fix": {}
+  },
+  "th519": {
+   "status": "confirmed",
+   "src": [
+    "de1-137"
+   ],
+   "note": "Arrived in January 1549 as professor primarius of theology; died in October 1552.",
+   "fix": {}
+  },
+  "th520": {
+   "status": "confirmed",
+   "src": [
+    "de1-174"
+   ],
+   "note": "Lectured from 1 November 1639 until his death in April 1659.",
+   "fix": {}
+  },
+  "th522": {
+   "status": "confirmed",
+   "src": [
+    "de1-116"
+   ],
+   "note": "Entered at sixteen (about 1746) and left without a degree.",
+   "fix": {}
+  },
+  "th523": {
+   "status": "confirmed",
+   "src": [
+    "de1-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th524": {
+   "status": "confirmed",
+   "src": [
+    "de1-084"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th525": {
+   "status": "confirmed",
+   "src": [
+    "de1-085"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th526": {
+   "status": "confirmed",
+   "src": [
+    "de1-086"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th527": {
+   "status": "confirmed",
+   "src": [
+    "de1-076"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th528": {
+   "status": "confirmed",
+   "src": [
+    "de1-079"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th529": {
+   "status": "confirmed",
+   "src": [
+    "de1-087"
+   ],
+   "note": "Spent three semesters in Berlin; doctorate from Königsberg in 1885.",
+   "fix": {}
+  },
+  "th530": {
+   "status": "confirmed",
+   "src": [
+    "de1-158"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th533": {
+   "status": "confirmed",
+   "src": [
+    "de1-155"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th536": {
+   "status": "unverified",
+   "src": [
+    "de1-075"
+   ],
+   "note": "His teaching at Jena around 1800 is attested; exact years not checked.",
+   "fix": {}
+  },
+  "th539": {
+   "status": "confirmed",
+   "src": [
+    "de1-108",
+    "de1-075"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th540": {
+   "status": "confirmed",
+   "src": [
+    "de1-110"
+   ],
+   "note": "Habilitated 1861, full professor of zoology from 1865, emeritus 1909.",
+   "fix": {}
+  },
+  "th541": {
+   "status": "confirmed",
+   "src": [
+    "de1-050"
+   ],
+   "note": "Privatdozent at Jena from 1863; associate professor from 1870.",
+   "fix": {}
+  },
+  "th542": {
+   "status": "confirmed",
+   "src": [
+    "de1-089"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th543": {
+   "status": "confirmed",
+   "src": [
+    "de1-065"
+   ],
+   "note": "Taught moral and pastoral theology at Dillingen after the Jesuit era.",
+   "fix": {}
+  },
+  "th544": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th545": {
+   "status": "confirmed",
+   "src": [
+    "de1-121"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th546": {
+   "status": "confirmed",
+   "src": [
+    "de1-122"
+   ],
+   "note": "Chair of natural philosophy from 1632, medicine from 1636, politics by 1650; died in Helmstedt in 1681.",
+   "fix": {}
+  },
+  "th547": {
+   "status": "confirmed",
+   "src": [
+    "de1-123"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Called to Helmstedt in 1723; moved to Göttingen as chancellor in 1747."
+  },
+  "th548": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th550": {
+   "status": "confirmed",
+   "src": [
+    "de1-159"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th555": {
+   "status": "confirmed",
+   "src": [
+    "de1-095"
+   ],
+   "note": "Returned to Graz in 1637 after teaching in Vienna, and died there in 1643; he had also taught at Graz from 1617.",
+   "fix": {}
+  },
+  "th557": {
+   "status": "confirmed",
+   "src": [
+    "de1-176"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th559": {
+   "status": "corrected",
+   "src": [
+    "de1-160"
+   ],
+   "fix": {
+    "to": 1630,
+    "approx": false
+   },
+   "note": "Taught philosophy at Paderborn 1623–26 and moral theology from 1629 until his dismissal in 1630."
+  },
+  "th560": {
+   "status": "confirmed",
+   "src": [
+    "de1-094"
+   ],
+   "note": "Professor of mathematics 1609–14.",
+   "fix": {}
+  },
+  "th561": {
+   "status": "confirmed",
+   "src": [
+    "de1-062",
+    "de1-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th562": {
+   "status": "confirmed",
+   "src": [
+    "de1-062"
+   ],
+   "note": "Founded the Society for Human Rights while a student at Giessen in 1834.",
+   "fix": {}
+  },
+  "th563": {
+   "status": "confirmed",
+   "src": [
+    "de1-101"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th569": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th570": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th571": {
+   "status": "confirmed",
+   "src": [
+    "de1-101"
+   ],
+   "note": "Assistant from 1872, habilitated 1873, at Hohenheim 1875–76, then extraordinary professor at Strasbourg until 1879.",
+   "fix": {}
+  },
+  "th572": {
+   "status": "confirmed",
+   "src": [
+    "de1-156"
+   ],
+   "note": "Rector 1894–95 and 1897–98; moved to Heidelberg in 1903.",
+   "fix": {}
+  },
+  "th573": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th574": {
+   "status": "corrected",
+   "src": [
+    "de1-161"
+   ],
+   "fix": {
+    "from": 1651
+   },
+   "note": "Called to Duisburg as professor of philosophy and theology in 1651, before the formal opening of 1655; died there in 1665."
+  },
+  "th575": {
+   "status": "confirmed",
+   "src": [
+    "de1-102"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th576": {
+   "status": "confirmed",
+   "src": [
+    "de1-105"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th577": {
+   "status": "confirmed",
+   "src": [
+    "de1-078"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th578": {
+   "status": "confirmed",
+   "src": [
+    "de1-098"
+   ],
+   "note": "Taught law at Halle from 1690, before its formal inauguration in 1694, until his death in 1728.",
+   "fix": {}
+  },
+  "th579": {
+   "status": "corrected",
+   "src": [
+    "de1-118"
+   ],
+   "fix": {
+    "from": 1692
+   },
+   "note": "Professor of Greek and oriental languages from January 1692, of theology from 1698, until his death in 1727."
+  },
+  "th580": {
+   "status": "corrected",
+   "src": [
+    "de1-106"
+   ],
+   "fix": {
+    "from": 1707
+   },
+   "note": "Inaugural lecture at Halle in early 1707 (appointed late 1706); expelled in November 1723."
+  },
+  "th581": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th582": {
+   "status": "corrected",
+   "src": [
+    "de1-175"
+   ],
+   "fix": {
+    "from": 1737,
+    "approx": false
+   },
+   "note": "Studied at Halle from 1730; extraordinary professor of philosophy from 1737 until he moved to Frankfurt (Oder) in 1740."
+  },
+  "th583": {
+   "status": "corrected",
+   "src": [
+    "de1-127"
+   ],
+   "fix": {
+    "to": 1806
+   },
+   "note": "Professor at Halle from 1783 until Napoleon closed the university in 1806; he moved to Berlin in April 1807."
+  },
+  "th584": {
+   "status": "confirmed",
+   "src": [
+    "de1-096"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th585": {
+   "status": "confirmed",
+   "src": [
+    "de1-088"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th586": {
+   "status": "confirmed",
+   "src": [
+    "de1-114"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th587": {
+   "status": "confirmed",
+   "src": [
+    "de1-140"
+   ],
+   "note": "Professor of physiology from January 1823 until his return to Prague in 1850.",
+   "fix": {}
+  },
+  "th588": {
+   "status": "confirmed",
+   "src": [
+    "de1-112"
+   ],
+   "note": "University librarian from 1823; professor from 1830 (full professor 1835) until his dismissal in 1842.",
+   "fix": {}
+  },
+  "th589": {
+   "status": "confirmed",
+   "src": [
+    "de1-111"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Studied philosophy and history at Breslau and Berlin, 1843–46."
+  },
+  "th590": {
+   "status": "confirmed",
+   "src": [
+    "de1-077"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th591": {
+   "status": "confirmed",
+   "src": [
+    "de1-077",
+    "de1-103"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th592": {
+   "status": "confirmed",
+   "src": [
+    "de1-141"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Privatdozent from 1850, full professor from 1872; died in Breslau in 1898."
+  },
+  "th593": {
+   "status": "confirmed",
+   "src": [
+    "de1-125"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th594": {
+   "status": "confirmed",
+   "src": [
+    "de1-124"
+   ],
+   "note": "Enrolled 1763; professor from 1770 (full professor 1775) until his death in 1799.",
+   "fix": {}
+  },
+  "th595": {
+   "status": "confirmed",
+   "src": [
+    "de1-126"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th598": {
+   "status": "confirmed",
+   "src": [
+    "de1-080"
+   ],
+   "note": "Studied 1795–98; director of the observatory from 1807 until his death in 1855.",
+   "fix": {}
+  },
+  "th599": {
+   "status": "confirmed",
+   "src": [
+    "de1-171"
+   ],
+   "note": "Studied medicine then philosophy at Göttingen 1809–11 before moving to Berlin.",
+   "fix": {}
+  },
+  "th600": {
+   "status": "confirmed",
+   "src": [
+    "de1-170"
+   ],
+   "note": "Came to Göttingen in autumn 1820, was sent down after a duel challenge, studied in Berlin, and returned to take his law doctorate at Göttingen in 1825.",
+   "fix": {}
+  },
+  "th601": {
+   "status": "confirmed",
+   "src": [
+    "de1-107"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th602": {
+   "status": "confirmed",
+   "src": [
+    "de1-128"
+   ],
+   "note": "Dismissed in December 1837 as one of the Göttingen Seven; he returned to his chair in 1849.",
+   "fix": {}
+  },
+  "th603": {
+   "status": "confirmed",
+   "src": [
+    "de1-109"
+   ],
+   "note": "Enrolled 1832 and moved to Berlin in September 1833.",
+   "fix": {}
+  },
+  "th604": {
+   "status": "confirmed",
+   "src": [
+    "de1-081"
+   ],
+   "note": "Studied at Berlin 1847–49; full professor at Göttingen from 1859.",
+   "fix": {}
+  },
+  "th605": {
+   "status": "confirmed",
+   "src": [
+    "de1-082"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th606": {
+   "status": "confirmed",
+   "src": [
+    "de1-079"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th608": {
+   "status": "confirmed",
+   "src": [
+    "de1-154"
+   ],
+   "note": "Studied about three semesters from 1805 before leaving in 1806; he returned as a lecturer in 1811 and took his doctorate there.",
+   "fix": {}
+  },
+  "th610": {
+   "status": "confirmed",
+   "src": [
+    "de1-153"
+   ],
+   "note": "Habilitated in 1828; stopped lecturing in 1832, though he taught one more semester in 1835–36.",
+   "fix": {}
+  },
+  "th611": {
+   "status": "confirmed",
+   "src": [
+    "de1-082"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th612": {
+   "status": "confirmed",
+   "src": [
+    "de1-071"
+   ],
+   "note": "Founder and curator of the university, which he opened on 16 April 1780.",
+   "fix": {}
+  },
+  "th613": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th614": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th615": {
+   "status": "confirmed",
+   "src": [
+    "de1-054"
+   ],
+   "note": "Called at the foundation in 1818; banned from teaching after 1819 and reinstated in 1840.",
+   "fix": {}
+  },
+  "th617": {
+   "status": "confirmed",
+   "src": [
+    "de1-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th618": {
+   "status": "corrected",
+   "src": [
+    "de1-113"
+   ],
+   "fix": {
+    "from": 1819,
+    "to": 1821
+   },
+   "note": "Began studying chemistry at Bonn under Kastner in 1819 and followed him to Erlangen in 1821."
+  },
+  "th619": {
+   "status": "confirmed",
+   "src": [
+    "de1-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th620": {
+   "status": "confirmed",
+   "src": [
+    "de1-108",
+    "de1-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th621": {
+   "status": "confirmed",
+   "src": [
+    "de1-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th622": {
+   "status": "confirmed",
+   "src": [
+    "de1-076"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th624": {
+   "status": "confirmed",
+   "src": [
+    "de1-054"
+   ],
+   "note": "Directed the Chemical Institute built 1864–67.",
+   "fix": {}
+  },
+  "th625": {
+   "status": "confirmed",
+   "src": [
+    "de1-105"
+   ],
+   "note": "Succeeded Clausius in 1889 and died in Bonn on 1 January 1894.",
+   "fix": {}
+  },
+  "th627": {
+   "status": "confirmed",
+   "src": [
+    "de1-096"
+   ],
+   "note": "First dean of the theology faculty; rector 1815–16; taught until his death in 1834.",
+   "fix": {}
+  },
+  "th628": {
+   "status": "confirmed",
+   "src": [
+    "de1-097"
+   ],
+   "note": "Left the professorship in 1842 to become Prussian minister for legislation.",
+   "fix": {}
+  },
+  "th631": {
+   "status": "confirmed",
+   "src": [
+    "de1-108"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th632": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th634": {
+   "status": "confirmed",
+   "src": [
+    "de1-107"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th635": {
+   "status": "confirmed",
+   "src": [
+    "de1-083"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th636": {
+   "status": "confirmed",
+   "src": [
+    "de1-100"
+   ],
+   "note": "Chair of pathological anatomy from 1856 until his death in 1902; rector 1892–93.",
+   "fix": {}
+  },
+  "th637": {
+   "status": "confirmed",
+   "src": [
+    "de1-102"
+   ],
+   "note": "Taught regularly at Berlin 1861–87 and remained active at the Academy until his death in 1903.",
+   "fix": {}
+  },
+  "th638": {
+   "status": "confirmed",
+   "src": [
+    "de1-076"
+   ],
+   "note": "Physics chair from 1871; from 1888 he also headed the new Physikalisch-Technische Reichsanstalt.",
+   "fix": {}
+  },
+  "th639": {
+   "status": "confirmed",
+   "src": [
+    "de1-099"
+   ],
+   "note": "Studied law in Berlin, habilitated 1891 and became professor there in 1893.",
+   "fix": {}
+  },
+  "th640": {
+   "status": "corrected",
+   "src": [
+    "de1-078"
+   ],
+   "fix": {
+    "from": 1888,
+    "to": 1927
+   },
+   "note": "Appointed at Berlin in November 1888 and retired in October 1927."
+  },
+  "th642": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  }
+ }
+}

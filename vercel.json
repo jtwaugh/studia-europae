@@ -1,0 +1,12 @@
+{
+  "buildCommand": "",
+  "installCommand": "",
+  "outputDirectory": "site",
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/relief.jpg",
+      "headers": [{ "key": "Cache-Control", "value": "public, max-age=31536000, immutable" }]
+    }
+  ]
+}

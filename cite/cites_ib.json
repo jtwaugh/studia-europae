@@ -1,0 +1,3581 @@
+{
+ "group": "ib",
+ "sources": {
+  "ib-001": {
+   "title": "Historia de la USAL",
+   "publisher": "Universidad de Salamanca (Alumni)",
+   "url": "https://alumni.usal.es/en/comunidad/historia-de-la-usal/",
+   "tier": 1
+  },
+  "ib-002": {
+   "title": "University of Salamanca",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Salamanca",
+   "tier": 2
+  },
+  "ib-003": {
+   "title": "History",
+   "publisher": "Universidad de Valladolid",
+   "url": "https://universityofvalladolid.uva.es/1.about/2.history/",
+   "tier": 1
+  },
+  "ib-004": {
+   "title": "University of Valladolid",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Valladolid",
+   "tier": 2
+  },
+  "ib-005": {
+   "title": "13th to 16th centuries",
+   "publisher": "Universidade de Coimbra",
+   "url": "https://www.uc.pt/en/sobrenos/history/13th-to-16th-centuries",
+   "tier": 1
+  },
+  "ib-006": {
+   "title": "University of Coimbra",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Coimbra",
+   "tier": 2
+  },
+  "ib-007": {
+   "title": "Reseña histórica",
+   "publisher": "Universidad Complutense de Madrid",
+   "url": "https://ucm.es/resena-historica",
+   "tier": 1
+  },
+  "ib-008": {
+   "title": "Complutense University of Madrid",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Complutense-University-of-Madrid",
+   "tier": 2
+  },
+  "ib-009": {
+   "title": "Edifici de La Nau: cronologia",
+   "publisher": "Universitat de València",
+   "url": "https://www.uv.es/cultura/v/edificilanau/edificilanau01cronologia.htm",
+   "tier": 1
+  },
+  "ib-010": {
+   "title": "Universitat de València",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0068514",
+   "tier": 2
+  },
+  "ib-011": {
+   "title": "Els estudis generals i les universitats",
+   "publisher": "Enciclopèdia Catalana (Història dels Països Catalans)",
+   "url": "https://www.enciclopedia.cat/historia.-politica-societat-i-cultura-dels-paisos-catalans/els-estudis-generals-i-les-universitats",
+   "tier": 2
+  },
+  "ib-012": {
+   "title": "History",
+   "publisher": "Universitat de Lleida",
+   "url": "https://udl.cat/ca/en/udl/history/",
+   "tier": 1
+  },
+  "ib-013": {
+   "title": "Universitat històrica",
+   "publisher": "Universitat de Barcelona",
+   "url": "https://web.ub.edu/web/la-nostra-historia/universitat-historica",
+   "tier": 1
+  },
+  "ib-014": {
+   "title": "University 1495",
+   "publisher": "Universidade de Santiago de Compostela",
+   "url": "https://assets.usc.gal/en/usc/history-heritage/university-1495",
+   "tier": 1
+  },
+  "ib-015": {
+   "title": "La Universidad de Granada, a ocho años de su quinto centenario",
+   "publisher": "Universidad de Granada",
+   "url": "https://www.ugr.es/destacado/492-aniversario-ugr",
+   "tier": 1
+  },
+  "ib-016": {
+   "title": "Medalla Carta fundacional",
+   "publisher": "Universidad de Zaragoza, Secretaría General",
+   "url": "https://secregen.unizar.es/sites/secregen/files/2023-10/5.%20Medalla%20Carta%20fundacional_3.pdf",
+   "tier": 1
+  },
+  "ib-017": {
+   "title": "University of Palencia",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/University_of_Palencia",
+   "tier": 3
+  },
+  "ib-018": {
+   "title": "Perpignan et son université, XIVe–XVIIIe siècle",
+   "publisher": "Presses universitaires de Perpignan (OpenEdition Books)",
+   "url": "https://books.openedition.org/pupvd/742",
+   "tier": 2
+  },
+  "ib-019": {
+   "title": "University of Perpignan",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/11701a.htm",
+   "tier": 2
+  },
+  "ib-020": {
+   "title": "History",
+   "publisher": "Universitat de Girona",
+   "url": "https://www.udg.edu/en/coneix/La-UdG/Historia",
+   "tier": 1
+  },
+  "ib-021": {
+   "title": "La Universidad de Sigüenza",
+   "publisher": "Meer",
+   "url": "https://www.meer.com/es/33161-la-universidad-de-siguenza",
+   "tier": 3
+  },
+  "ib-022": {
+   "title": "Universidad de Sancti Spiritus de Oñati",
+   "publisher": "Auñamendi Eusko Entziklopedia",
+   "url": "https://aunamendi.eusko-ikaskuntza.eus/en/artikulua/ar-129273/",
+   "tier": 2
+  },
+  "ib-023": {
+   "title": "History",
+   "publisher": "Universidad de Jaén",
+   "url": "https://www.ujaen.es/en/node/347",
+   "tier": 1
+  },
+  "ib-024": {
+   "title": "University of Oviedo",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/University_of_Oviedo",
+   "tier": 3
+  },
+  "ib-025": {
+   "title": "Fases históricas",
+   "publisher": "Universidad de Sevilla, Patrimonio Cultural",
+   "url": "https://patrimoniocultural.us.es/fases-historicas?lang=EN",
+   "tier": 1
+  },
+  "ib-026": {
+   "title": "History",
+   "publisher": "Universidade de Évora",
+   "url": "https://www.uevora.pt/en/university/history",
+   "tier": 1
+  },
+  "ib-027": {
+   "title": "Universitat de Cervera",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0068503",
+   "tier": 2
+  },
+  "ib-028": {
+   "title": "Universitat de Gandia",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0068504",
+   "tier": 2
+  },
+  "ib-029": {
+   "title": "University of Orihuela",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/University_of_Orihuela",
+   "tier": 3
+  },
+  "ib-030": {
+   "title": "Universitat d'Oriola",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0068515",
+   "tier": 2
+  },
+  "ib-031": {
+   "title": "La universidad de Irache (A. Linage Conde, Príncipe de Viana, 1993)",
+   "publisher": "Repositorio Institucional CEU",
+   "url": "https://repositorioinstitucional.ceu.es/jspui/bitstream/10637/1258/1/Universidad_Linage_Prin_Viana_1993.pdf",
+   "tier": 2
+  },
+  "ib-032": {
+   "title": "Monasterio de Irache",
+   "publisher": "Universidad de Navarra, Cátedra de Patrimonio",
+   "url": "https://www.unav.edu/web/catedra-patrimonio/itinerarios-visitas/monasterio-de-irache",
+   "tier": 2
+  },
+  "ib-033": {
+   "title": "Universitat de Tarragona",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0068512",
+   "tier": 2
+  },
+  "ib-034": {
+   "title": "Documentos de la Universidad de Santo Tomás de Ávila (1576–1814)",
+   "publisher": "Archivo Dominicos Hispania",
+   "url": "https://archivo.dominicoshispania.org/index.php/documentos-de-la-universidad-de-santo-tomas-de-avila-1576-1801",
+   "tier": 2
+  },
+  "ib-035": {
+   "title": "Universidad de Osuna",
+   "publisher": "Universidad Pablo de Olavide (Patio Colorado)",
+   "url": "https://www.upo.es/patio-colorado/2022/05/15/universidad-de-osuna",
+   "tier": 2
+  },
+  "ib-036": {
+   "title": "La Universidad de Santa Catalina de El Burgo de Osma (article)",
+   "publisher": "REDINED, Ministerio de Educación",
+   "url": "https://redined.educacion.gob.es/xmlui/bitstream/handle/11162/175948/6560-22927-1-PB.pdf?sequence=1",
+   "tier": 2
+  },
+  "ib-037": {
+   "title": "Universidad de Almagro",
+   "publisher": "Hispanopedia (Wikipedia mirror)",
+   "url": "https://es.hispanopedia.com/wiki/Universidad_de_Almagro",
+   "tier": 3
+  },
+  "ib-038": {
+   "title": "Universitat de Tortosa",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0068513",
+   "tier": 2
+  },
+  "ib-039": {
+   "title": "Universitat de Solsona",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0068511",
+   "tier": 2
+  },
+  "ib-040": {
+   "title": "The School of Salamanca",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/school-salamanca/",
+   "tier": 2
+  },
+  "ib-041": {
+   "title": "Francisco Suárez",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Francisco-Suarez",
+   "tier": 2
+  },
+  "ib-042": {
+   "title": "Pedro Nunes Salaciense",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Nunes/",
+   "tier": 2
+  },
+  "ib-043": {
+   "title": "Santiago Ramón y Cajal",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Santiago-Ramon-y-Cajal",
+   "tier": 2
+  },
+  "ib-044": {
+   "title": "Joseph-Louis Proust",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Joseph-Louis-Proust",
+   "tier": 2
+  },
+  "ib-045": {
+   "title": "Miguel de Unamuno",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Miguel-de-Unamuno",
+   "tier": 2
+  },
+  "ib-046": {
+   "title": "Luis de Molina",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Luis-de-Molina",
+   "tier": 2
+  },
+  "ib-047": {
+   "title": "Melchior Cano",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/03251a.htm",
+   "tier": 2
+  },
+  "ib-048": {
+   "title": "Francisco Suárez",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/suarez/",
+   "tier": 2
+  },
+  "ib-049": {
+   "title": "Historia",
+   "publisher": "Universidad de La Laguna",
+   "url": "https://www.ull.es/la-universidad/historia/",
+   "tier": 1
+  },
+  "ib-050": {
+   "title": "Historia",
+   "publisher": "Facultad de Veterinaria, Universidad Complutense de Madrid",
+   "url": "https://veterinaria.ucm.es/historia",
+   "tier": 1
+  },
+  "ib-051": {
+   "title": "Breve reseña de la Escuela de Ingenieros de Montes",
+   "publisher": "Foresta (forestales.net)",
+   "url": "https://www.forestales.net/revistas/articulos/893/completo/ff2_breve_resena_de_la_escuela_de_ingenieros_de_mo.pdf",
+   "tier": 2
+  },
+  "ib-052": {
+   "title": "La Flamenca y la Escuela Central de Agricultura",
+   "publisher": "Universidad Politécnica de Madrid (Archivo Digital UPM)",
+   "url": "https://oa.upm.es/85362/1/2024_flamenca_JL.pdf",
+   "tier": 2
+  },
+  "ib-053": {
+   "title": "Archivo y biblioteca de la ETSAM: historia y patrimonio",
+   "publisher": "VAD Veredes Arquitectura y Divulgación",
+   "url": "https://veredes.es/vad/index.php/vad/article/download/archivo-biblioteca-etsa-upm-historia-patrimonio-suarez-menendez/325/3224",
+   "tier": 2
+  },
+  "ib-054": {
+   "title": "Real Colegio de Cirugía de San Carlos",
+   "publisher": "Universidad Complutense de Madrid",
+   "url": "https://www.ucm.es/data/cont/media/www/pag-38221/Real%20Colegio%20de%20Cirugia%20de%20San%20Carlos.pdf",
+   "tier": 1
+  },
+  "ib-055": {
+   "title": "Manual del SGIC, cap. II: descripción de centros",
+   "publisher": "Universidad de Cádiz",
+   "url": "https://ucalidad.uca.es/sgc-2010/msgic-uca-cap-ii-descripcion-centros-v_02",
+   "tier": 1
+  },
+  "ib-056": {
+   "title": "Primera lección, curso 2019–2020",
+   "publisher": "Academia de Artillería (Ejército de Tierra)",
+   "url": "https://ejercito.defensa.gob.es/Galerias/Descarga_pdf/Unidades/Segovia/acart/1x_leccion_2019-20.pdf",
+   "tier": 1
+  },
+  "ib-057": {
+   "title": "University of Lisbon (1911–2013)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/University_of_Lisbon_(1911%E2%80%932013)",
+   "tier": 3
+  },
+  "ib-058": {
+   "title": "School of Mining Engineering of Madrid",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/School_of_Mining_Engineering_of_Madrid",
+   "tier": 3
+  },
+  "ib-059": {
+   "title": "L'Escola d'Enginyers Industrials de Barcelona (1851–1936)",
+   "publisher": "Enciclopèdia Catalana (Tècnics i tecnologia a la Catalunya contemporània)",
+   "url": "https://www.enciclopedia.cat/tecnics-i-tecnologia-en-el-desenvolupament-de-la-catalunya-contemporania/lescola-denginyers",
+   "tier": 2
+  },
+  "ib-060": {
+   "title": "300 aniversario de la Academia de Matemáticas de Barcelona",
+   "publisher": "Ejército de Tierra",
+   "url": "https://ejercito.defensa.gob.es/ca/Galerias/Descarga_pdf/EjercitoTierra/Noticias/2021/04/300-academia-de-matematicas.pdf",
+   "tier": 1
+  },
+  "ib-061": {
+   "title": "Naval Military Academy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Naval_Military_Academy",
+   "tier": 3
+  },
+  "ib-062": {
+   "title": "Colegio Imperial de Madrid",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Colegio_Imperial_de_Madrid",
+   "tier": 3
+  },
+  "ib-063": {
+   "title": "Seminario de Nobles de Vergara",
+   "publisher": "Hispanopedia (Wikipedia mirror)",
+   "url": "https://es.hispanopedia.com/wiki/Seminario_de_Nobles_de_Vergara",
+   "tier": 3
+  },
+  "ib-064": {
+   "title": "João Delgado",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Delgado/",
+   "tier": 2
+  },
+  "ib-065": {
+   "title": "La Universidad de Toledo (F. Gómez Sánchez, 1980)",
+   "publisher": "Real Academia de Bellas Artes y Ciencias Históricas de Toledo",
+   "url": "https://www.realacademiatoledo.es/downloads/publicaciones_cont/261/4.-florentino-gomez-sanchez-la-universidad-de-toledo-1980.pdf",
+   "tier": 2
+  },
+  "ib-066": {
+   "title": "La Universidad Libre de Murcia (1869–1874)",
+   "publisher": "Universidad de Murcia (Digitum)",
+   "url": "https://digitum.um.es/digitum/bitstream/10201/12838/1/La%20Universidad%20Libre%20de%20Murcia%2018691874.pdf",
+   "tier": 1
+  },
+  "ib-067": {
+   "title": "La Universidad Literaria de Murcia (1840)",
+   "publisher": "Universidad de Murcia (Digitum)",
+   "url": "https://digitum.um.es/xmlui/bitstream/10201/15301/1/01%20La%20Universidad%20Literaria%20de%20Murcia%201840.pdf",
+   "tier": 1
+  },
+  "ib-068": {
+   "title": "Los dominicos en Navarra: una presencia de ocho siglos",
+   "publisher": "Universidad de Navarra, Cátedra de Patrimonio",
+   "url": "https://en.unav.edu/web/catedra-patrimonio/activities/cycles-and-conferences/2017/los-dominicos-en-navarra-una-presencia-de-ocho-siglos",
+   "tier": 2
+  },
+  "ib-069": {
+   "title": "Escuela de Caminos",
+   "publisher": "Real Academia Española, Diccionario panhispánico del español jurídico",
+   "url": "https://dpej.rae.es/lema/escuela-de-caminos",
+   "tier": 2
+  },
+  "ib-070": {
+   "title": "História do ensino da medicina em Portugal",
+   "publisher": "Acta Médica Portuguesa",
+   "url": "https://actamedicaportuguesa.com/revista/index.php/amp/article/viewFile/2684/2075",
+   "tier": 2
+  },
+  "ib-071": {
+   "title": "Quando ensinar é cuidar: 200 anos da Escola Médica do Porto",
+   "publisher": "Observador (op-ed by a FMUP professor)",
+   "url": "https://observador.pt/opiniao/quando-ensinar-e-cuidar-200-anos-da-escola-medica-do-porto/",
+   "tier": 3
+  },
+  "ib-072": {
+   "title": "El Reial Col·legi de Cirurgia",
+   "publisher": "Societat Catalana de Cirurgia",
+   "url": "https://www.sccirurgia.org/docs/historia/Histor%20SCC%203%20Collegi.pdf",
+   "tier": 2
+  },
+  "ib-073": {
+   "title": "A university with maritime vocation",
+   "publisher": "Portus Online (RETE network)",
+   "url": "https://portusonline.org/a-university-with-maritime-vocation-2/?pdf=8305",
+   "tier": 2
+  },
+  "ib-074": {
+   "title": "Martín de Azpilcueta",
+   "publisher": "Real Academia de la Historia, DB~e",
+   "url": "https://dbe.rah.es/biografias/7368/martin-de-azpilcueta",
+   "tier": 2
+  },
+  "ib-075": {
+   "title": "Cronología de Elio Antonio de Nebrija",
+   "publisher": "Biblioteca Virtual Miguel de Cervantes",
+   "url": "https://www.cervantesvirtual.com/portales/elio_antonio_de_nebrija/autor_cronologia/",
+   "tier": 2
+  },
+  "ib-076": {
+   "title": "Domingo de Soto (1494–1560)",
+   "publisher": "Cambridge University Library exhibition",
+   "url": "https://exhibitions.lib.cam.ac.uk/dominicans/?p=126",
+   "tier": 2
+  },
+  "ib-077": {
+   "title": "Maseras, the first of many",
+   "publisher": "Universitat de Barcelona",
+   "url": "https://web.ub.edu/en/web/actualitat/w/maseras-la-primera-de-moltes",
+   "tier": 1
+  },
+  "ib-078": {
+   "title": "Cronología de Francisco de Quevedo",
+   "publisher": "Biblioteca Virtual Miguel de Cervantes",
+   "url": "https://www.cervantesvirtual.com/portales/francisco_de_quevedo/cronologia/",
+   "tier": 2
+  },
+  "ib-079": {
+   "title": "Vida do Padre Feijoo (Fronda 50)",
+   "publisher": "Arquivos de Galicia, Xunta de Galicia",
+   "url": "https://arquivosdegalicia.xunta.gal/sites/default/files/publicacion/documentos/50-vida-del-padre-feijoo.pdf",
+   "tier": 2
+  },
+  "ib-080": {
+   "title": "Josep Finestres i de Monsalvo",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0027020",
+   "tier": 2
+  },
+  "ib-081": {
+   "title": "Antero de Quental",
+   "publisher": "Imprensa Nacional",
+   "url": "https://imprensanacional.pt/antero-de-quental",
+   "tier": 2
+  },
+  "ib-082": {
+   "title": "José Maria de Eça de Queirós",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Jose-Maria-de-Eca-de-Queiros",
+   "tier": 2
+  },
+  "ib-083": {
+   "title": "Teófilo Braga",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Teofilo-Braga",
+   "tier": 2
+  },
+  "ib-084": {
+   "title": "Almeida Garrett",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Joao-Baptista-da-Silva-Leitao-de-Almeida-Garrett-visconde-de-Almeida-Garrett",
+   "tier": 2
+  },
+  "ib-085": {
+   "title": "Marcelino Menéndez y Pelayo",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Marcelino-Menendez-y-Pelayo",
+   "tier": 2
+  },
+  "ib-086": {
+   "title": "Emilio Castelar y Ripoll",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Emilio-Castelar-y-Ripoll",
+   "tier": 2
+  },
+  "ib-087": {
+   "title": "St. Ignatius of Loyola",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Saint-Ignatius-of-Loyola",
+   "tier": 2
+  },
+  "ib-088": {
+   "title": "St. Vincent Ferrer",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/15437a.htm",
+   "tier": 2
+  },
+  "ib-089": {
+   "title": "Juan Luis Vives",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Juan-Luis-Vives",
+   "tier": 2
+  },
+  "ib-090": {
+   "title": "17th to 19th centuries",
+   "publisher": "Universidade de Coimbra",
+   "url": "https://www.uc.pt/en/sobrenos/history/17th-to-19th-centuries",
+   "tier": 1
+  },
+  "ib-091": {
+   "title": "Article in CIAN – Revista de Historia de las Universidades (on the 1807 and 1824 study plans)",
+   "publisher": "Universidad Carlos III de Madrid, CIAN",
+   "url": "https://e-revistas.uc3m.es/index.php/CIAN/article/download/541/233",
+   "tier": 2
+  },
+  "ib-092": {
+   "title": "Lección magistral (history of the Spanish university system)",
+   "publisher": "Universitat de València",
+   "url": "https://www.uv.es/gpremsa/leccionmagistralolmos25",
+   "tier": 1
+  },
+  "ib-093": {
+   "title": "Reseña histórica: la universidad isabelina",
+   "publisher": "Universidad Complutense de Madrid",
+   "url": "https://ucm.es/resena-historica-la-universidad-isabelina",
+   "tier": 1
+  },
+  "ib-094": {
+   "title": "225 aniversario: de dónde viene el futuro",
+   "publisher": "Universidad de La Laguna",
+   "url": "https://www.ull.es/eventos/225-aniversario-ull/?p=136",
+   "tier": 1
+  },
+  "ib-095": {
+   "title": "Article on the history of the Escuela de Caminos (Revista de Obras Públicas)",
+   "publisher": "Dialnet / Universidad de La Rioja (Documat)",
+   "url": "https://documat.unirioja.es/descarga/articulo/587626.pdf",
+   "tier": 2
+  },
+  "ib-096": {
+   "title": "University of Oñati: history",
+   "publisher": "Auñamendi Eusko Entziklopedia",
+   "url": "https://aunamendi.eusko-ikaskuntza.eus/en/university-of-onati-history/ar-129273-120522/",
+   "tier": 2
+  },
+  "ib-097": {
+   "title": "Domitila de Carvalho",
+   "publisher": "She Thought It (Instituto de Línguas, Culturas e Modernidade)",
+   "url": "https://shethoughtit.ilcml.com/biography/domitila-de-carvalho/",
+   "tier": 2
+  },
+  "ib-098": {
+   "title": "Chronology",
+   "publisher": "Casa Museo Lope de Vega",
+   "url": "https://casamuseolopedevega.org/en/lope-and-his-work/cronologia-en",
+   "tier": 1
+  },
+  "ib-099": {
+   "title": "Biografía de Luis de Góngora",
+   "publisher": "Biblioteca Virtual Miguel de Cervantes",
+   "url": "https://www.cervantesvirtual.com/portales/luis_de_gongora/autor_biografia/",
+   "tier": 2
+  },
+  "ib-100": {
+   "title": "Calderón de la Barca y Toledo",
+   "publisher": "Real Academia de Bellas Artes y Ciencias Históricas de Toledo (Toletum)",
+   "url": "https://www.realacademiatoledo.es/downloads/toletum_cont1/815/calderon-de-la-barca-y-toledo.pdf",
+   "tier": 2
+  },
+  "ib-101": {
+   "title": "St. John of the Cross",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/08480a.htm",
+   "tier": 2
+  },
+  "ib-102": {
+   "title": "Cronología de Gaspar Melchor de Jovellanos",
+   "publisher": "Biblioteca Virtual Miguel de Cervantes",
+   "url": "https://www.cervantesvirtual.com/portales/gaspar_melchor_de_jovellanos/autor_cronologia/",
+   "tier": 2
+  },
+  "ib-103": {
+   "title": "Arias Montano, Benito",
+   "publisher": "Biblioteca Virtual de la Filosofía Española (BVFE)",
+   "url": "https://www.bvfe.es/en/component/mtree/autor/9236-arias-montano-benito.html",
+   "tier": 2
+  },
+  "ib-104": {
+   "title": "Sánchez de las Brozas, Francisco (El Brocense)",
+   "publisher": "Biblioteca Virtual de la Filosofía Española (BVFE)",
+   "url": "https://www.bvfe.es/en/component/mtree/autor/10624-sanchez-de-las-brozas-francisco-el-brocense.html",
+   "tier": 2
+  },
+  "ib-105": {
+   "title": "Diego de Torres Villarroel, Vida: sinopsis y biografía",
+   "publisher": "Editorial Planeta",
+   "url": "https://proapi.planetadelibros.com/descargas/sala-prensa-libro/sinopsis-y-biografia/425085/vida.pdf",
+   "tier": 3
+  },
+  "ib-106": {
+   "title": "Cronología de Leopoldo Alas 'Clarín'",
+   "publisher": "Biblioteca Virtual Miguel de Cervantes",
+   "url": "https://www.cervantesvirtual.com/portales/leopoldo_alas_clarin/autor_cronologia/",
+   "tier": 2
+  },
+  "ib-107": {
+   "title": "Cronología de Marcelino Menéndez Pelayo",
+   "publisher": "Biblioteca Virtual Miguel de Cervantes",
+   "url": "https://www.cervantesvirtual.com/portales/marcelino_menendez_pelayo/autor_cronologia/",
+   "tier": 2
+  },
+  "ib-108": {
+   "title": "Cronología de José Zorrilla",
+   "publisher": "Biblioteca Virtual Miguel de Cervantes",
+   "url": "https://www.cervantesvirtual.com/portales/jose_zorrilla/cronologia/",
+   "tier": 2
+  },
+  "ib-109": {
+   "title": "Cronología de Vicente Blasco Ibáñez",
+   "publisher": "Biblioteca Virtual Miguel de Cervantes",
+   "url": "https://www.cervantesvirtual.com/portales/vicente_blasco_ibanez/autor_cronologia/",
+   "tier": 2
+  },
+  "ib-110": {
+   "title": "Miguel de Unamuno (electo, 1932)",
+   "publisher": "Real Academia Española",
+   "url": "https://www.rae.es/academicos/miguel-de-unamuno-electo-1932",
+   "tier": 2
+  },
+  "ib-111": {
+   "title": "Jorge Juan y Santacilia",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Santacilia.html",
+   "tier": 2
+  },
+  "ib-112": {
+   "title": "História da ciência na UC: Laboratório Chimico (Rodrigues)",
+   "publisher": "Universidade de Coimbra",
+   "url": "https://www.uc.pt/org/historia_ciencia_na_uc/Textos/rodrigues/rod",
+   "tier": 1
+  },
+  "ib-113": {
+   "title": "Fausto Fermín de Elhuyar",
+   "publisher": "UNED, Museo virtual de la historia de la masonería",
+   "url": "https://www.uned.es/universidad/inicio/unidad/museo-virtual-historia-masoneria/sala-xvii-ciencia-y-masoneria/fausto-fermin-de-elhuyar.html",
+   "tier": 2
+  },
+  "ib-114": {
+   "title": "5 segles, 40 anys: de l'Estudi General a la UIB",
+   "publisher": "Universitat de les Illes Balears",
+   "url": "https://5segles40anys.uib.es/digitalAssets/478/478190_5segles.pdf",
+   "tier": 1
+  },
+  "ib-115": {
+   "title": "Alocución de San Braulio 2009",
+   "publisher": "Universidad de Zaragoza, Secretaría General",
+   "url": "https://secregen.unizar.es/sites/secregen/files/archivos/san%20braulio/alocucion2009.pdf",
+   "tier": 1
+  },
+  "ib-116": {
+   "title": "Un estudio sobre los graduados de la Universidad de Huesca",
+   "publisher": "Dialnet (repository of Universidad de Las Palmas de Gran Canaria)",
+   "url": "https://accedacris.ulpgc.es/bitstream/10553/60092/1/Dialnet-UnEstudioSobreLosGraduadosDeLaUniversidadDeHuesca-2275022.pdf",
+   "tier": 2
+  },
+  "ib-117": {
+   "title": "History of the Faculty",
+   "publisher": "Facultad de Medicina, Universidad de Sevilla",
+   "url": "https://medicina.us.es/en/node/304",
+   "tier": 1
+  },
+  "ib-118": {
+   "title": "Colégio das Artes",
+   "publisher": "Infopédia (Porto Editora)",
+   "url": "https://www.infopedia.pt/$colegio-das-artes",
+   "tier": 2
+  },
+  "ib-119": {
+   "title": "Historia del Real Colegio de Cirugía de la Armada de Cádiz",
+   "publisher": "Universidad de Alcalá (e-Buah repository)",
+   "url": "https://ebuah.uah.es/xmlui/handle/10017/51211",
+   "tier": 2
+  },
+  "ib-120": {
+   "title": "Aniversario del Real Colegio de Cirugía de la Armada (sesión 11 diciembre 2023)",
+   "publisher": "Real Academia Nacional de Medicina de España",
+   "url": "https://ranm.es/wp-content/content/pdf/2023/sesiones-trim3/20231211_aniversario.pdf",
+   "tier": 2
+  },
+  "ib-121": {
+   "title": "La Academia de Artillería en el exconvento de San Francisco, 1862–2012",
+   "publisher": "Patronato del Alcázar de Segovia",
+   "url": "https://www.alcazardesegovia.com/wp-content/uploads/2017/12/la-academia-de-artilleria-en-el-exconvento-de-san-francisco-1862-2012-ligero-1.pdf",
+   "tier": 1
+  },
+  "ib-122": {
+   "title": "El edificio del IGME",
+   "publisher": "Instituto Geológico y Minero de España",
+   "url": "https://info.igme.es/media/Pdfs/libroedificioIGME.pdf",
+   "tier": 1
+  },
+  "ib-123": {
+   "title": "Os jesuítas em Portugal e a ciência",
+   "publisher": "Universidade de Coimbra (repository)",
+   "url": "https://baes.uc.pt/bitstream/10316/40639/1/jesu%c3%adtas%20_em%20_Portugal_ciencia.pdf",
+   "tier": 2
+  },
+  "ib-124": {
+   "title": "Manuel Milà i Fontanals",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/EC-GEC-0042441",
+   "tier": 2
+  },
+  "ib-125": {
+   "title": "Francisco Giner de los Ríos",
+   "publisher": "Universidad de Granada, Horizonte V Centenario",
+   "url": "https://horizontevcentenario.ugr.es/print/pdf/node/265",
+   "tier": 1
+  },
+  "ib-126": {
+   "title": "Former University of Osuna",
+   "publisher": "Bética Romana",
+   "url": "https://beticaromana.org/?p=11279",
+   "tier": 3
+  },
+  "ib-127": {
+   "title": "Almagro: el convento del Rosario y su restauración",
+   "publisher": "Archivo Dominicano",
+   "url": "https://archivodominicano.dominicos.org/ojs/article/download/almagro-rosario-convento-restauracion/222/297",
+   "tier": 2
+  },
+  "ib-128": {
+   "title": "Francisco Suárez",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/14319a.htm",
+   "tier": 2
+  },
+  "ib-129": {
+   "title": "Homenaje a Julián Sanz del Río (Soria, 2019)",
+   "publisher": "Ayuntamiento de Soria",
+   "url": "https://elige.soria.es/wp-content/uploads/2019/10/Homenaje-a-Julian-Sanz-del-Rio-Soria-2019.pdf",
+   "tier": 2
+  },
+  "ib-130": {
+   "title": "Jaume Llucià Balmes i Urpià",
+   "publisher": "Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/jaume-llucia-balmes-i-urpia",
+   "tier": 2
+  },
+  "ib-131": {
+   "title": "Apostolic Letter proclaiming St John of Ávila a Doctor of the Church",
+   "publisher": "Holy See",
+   "url": "https://www.vatican.va/content/benedict-xvi/en/apost_letters/documents/hf_ben-xvi_apl_20121007_giovanni-avila.html",
+   "tier": 2
+  }
+ },
+ "institutions": {
+  "u-palencia": {
+   "src": [
+    "ib-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-salamanca": {
+   "src": [
+    "ib-001",
+    "ib-002",
+    "ib-092",
+    "ib-093"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valladolid": {
+   "src": [
+    "ib-003",
+    "ib-004",
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lisbon-coimbra": {
+   "src": [
+    "ib-005",
+    "ib-006",
+    "ib-090",
+    "ib-097",
+    "ib-118",
+    "ib-123"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lleida": {
+   "src": [
+    "ib-012",
+    "ib-011",
+    "ib-027"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-perpignan": {
+   "src": [
+    "ib-018",
+    "ib-019",
+    "ib-011"
+   ],
+   "fix": {
+    "note": "Founding privilege dated 20 March 1349 (old style), i.e. 1350."
+   },
+   "note": ""
+  },
+  "u-huesca": {
+   "src": [
+    "ib-011",
+    "ib-094",
+    "ib-116"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-girona": {
+   "src": [
+    "ib-020",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-barcelona": {
+   "src": [
+    "ib-013",
+    "ib-011",
+    "ib-027",
+    "ib-072",
+    "ib-077",
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-mallorca": {
+   "src": [
+    "ib-011",
+    "ib-114"
+   ],
+   "fix": {
+    "note": "Papal bull 1673 (Clement X); university created 1691, statutes sanctioned 1697, renamed Universitat Literària 1772. Suppressed 1829, revived 1840 and definitively suppressed August 1842."
+   },
+   "note": ""
+  },
+  "u-siguenza": {
+   "src": [
+    "ib-021"
+   ],
+   "fix": {
+    "note": "Closed 1807 and restored 1814; incorporated into Alcalá in 1824 and definitively suppressed in 1837."
+   },
+   "note": ""
+  },
+  "u-santiago": {
+   "src": [
+    "ib-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-alcala-madrid": {
+   "src": [
+    "ib-007",
+    "ib-008",
+    "ib-054",
+    "ib-077",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valencia": {
+   "src": [
+    "ib-009",
+    "ib-010",
+    "ib-011",
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-seville": {
+   "src": [
+    "ib-025",
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-toledo": {
+   "src": [
+    "ib-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-granada": {
+   "src": [
+    "ib-015",
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-sahagun": {
+   "src": [
+    "ib-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-baeza": {
+   "src": [
+    "ib-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-onati": {
+   "src": [
+    "ib-022",
+    "ib-091",
+    "ib-096"
+   ],
+   "fix": {
+    "note": "Closed definitively in 1902 (after this dataset's scope), hence end=null. Suppressed 1807 and 1842, reopened by the Carlists in 1874, and refounded as a Catholic university recognised in 1896; it began at Hernani (1542) before moving to Oñati in 1548."
+   },
+   "note": ""
+  },
+  "u-zaragoza": {
+   "src": [
+    "ib-016",
+    "ib-094",
+    "ib-092",
+    "ib-115"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-gandia": {
+   "src": [
+    "ib-028",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-osuna": {
+   "src": [
+    "ib-035",
+    "ib-126"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-osma": {
+   "src": [
+    "ib-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-lisbon-santo-antao": {
+   "src": [
+    "ib-064",
+    "ib-123"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-evora": {
+   "src": [
+    "ib-026"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-orihuela": {
+   "src": [
+    "ib-030",
+    "ib-029"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-irache": {
+   "src": [
+    "ib-031",
+    "ib-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tarragona": {
+   "src": [
+    "ib-033",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-almagro": {
+   "src": [
+    "ib-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-avila": {
+   "src": [
+    "ib-034",
+    "ib-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vic": {
+   "src": [
+    "ib-011",
+    "ib-027",
+    "ib-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tortosa": {
+   "src": [
+    "ib-038",
+    "ib-027"
+   ],
+   "fix": {
+    "note": "Dominican higher studies date back to 1529; a royal decree of Philip IV (1645) created the university, so the c.1600 date is uncertain."
+   },
+   "note": ""
+  },
+  "u-oviedo": {
+   "src": [
+    "ib-024",
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-solsona": {
+   "src": [
+    "ib-039",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-madrid-colegio-imperial": {
+   "src": [
+    "ib-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pamplona": {
+   "src": [
+    "ib-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cervera": {
+   "src": [
+    "ib-027",
+    "ib-012",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-cadiz-navy": {
+   "src": [
+    "ib-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-barcelona-math": {
+   "src": [
+    "ib-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-cadiz-surgery": {
+   "src": [
+    "ib-055",
+    "ib-119",
+    "ib-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-barcelona-surgery": {
+   "src": [
+    "ib-072"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-segovia": {
+   "src": [
+    "ib-056",
+    "ib-121"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vergara": {
+   "src": [
+    "ib-063"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-almaden-madrid": {
+   "src": [
+    "ib-058",
+    "ib-122"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-madrid-san-carlos": {
+   "src": [
+    "ib-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-madrid-veterinary": {
+   "src": [
+    "ib-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-caminos-madrid": {
+   "src": [
+    "ib-069",
+    "ib-095"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-porto-polytechnic": {
+   "src": [
+    "ib-073"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-la-laguna": {
+   "src": [
+    "ib-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-lisbon-medical": {
+   "src": [
+    "ib-070"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-porto-medical": {
+   "src": [
+    "ib-070",
+    "ib-071"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-lisbon-polytechnic": {
+   "src": [
+    "ib-057"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-murcia": {
+   "src": [
+    "ib-067",
+    "ib-066"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-madrid-architecture": {
+   "src": [
+    "ib-053"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-montes": {
+   "src": [
+    "ib-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-madrid-industrial": {
+   "src": [
+    "ib-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-barcelona-industrial": {
+   "src": [
+    "ib-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-agronomos": {
+   "src": [
+    "ib-052"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-lisbon-letras": {
+   "src": [
+    "ib-057"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "u-palencia-1208-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-017"
+   ],
+   "fix": {},
+   "note": "Founding is dated variously 1208–1212."
+  },
+  "u-salamanca-1218-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-001",
+    "ib-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valladolid-1241-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-003"
+   ],
+   "fix": {},
+   "note": "The university says it was operating by the last quarter of the 13th century; exact origin unknown."
+  },
+  "u-salamanca-1254-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-001",
+    "ib-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-salamanca-1255-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-palencia-1263-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-017"
+   ],
+   "fix": {},
+   "note": "Bull of Urban IV, 14 May 1263."
+  },
+  "u-lisbon-coimbra-1290-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-005",
+    "ib-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lisbon-coimbra-1290-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-005"
+   ],
+   "fix": {},
+   "note": "Bull 'De statu regni Portugaliae', 9 August 1290."
+  },
+  "u-valladolid-1293-charter": {
+   "status": "corrected",
+   "src": [
+    "ib-003"
+   ],
+   "fix": {
+    "year": 1292
+   },
+   "note": "The university dates Sancho IV's grant of the tercias to 1292."
+  },
+  "u-lleida-1300-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-012",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": "Bull of Boniface VIII 1 April 1297; James II's privilege 1 September 1300."
+  },
+  "u-lisbon-coimbra-1308-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lisbon-coimbra-1338-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valladolid-1346-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-003",
+    "ib-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-perpignan-1350-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-018",
+    "ib-019"
+   ],
+   "fix": {},
+   "note": "Privilege dated 20 March 1349 (old style), i.e. 1350."
+  },
+  "u-huesca-1354-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-011"
+   ],
+   "fix": {},
+   "note": "Privilege of 12 March 1354."
+  },
+  "u-lisbon-coimbra-1354-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lisbon-coimbra-1377-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-perpignan-1379-charter": {
+   "status": "corrected",
+   "src": [
+    "ib-019",
+    "ib-011"
+   ],
+   "fix": {
+    "desc": "The Avignon pope Clement VII confirms the university and its privileges (28 November 1379), adding medicine."
+   },
+   "note": "Theology was not added in 1379: a faculty of theology was created by Nicholas V in 1447."
+  },
+  "u-salamanca-1411-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valladolid-1418-charter": {
+   "status": "corrected",
+   "src": [
+    "ib-003"
+   ],
+   "fix": {
+    "year": 1417,
+    "approx": false
+   },
+   "note": "The university dates Martin V's grant of theology to 1417."
+  },
+  "u-salamanca-1422-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-girona-1446-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-020",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": "Privilege of 9 March 1446; papal confirmation only came in 1605."
+  },
+  "u-barcelona-1450-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-013",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": "Royal privilege 3 September 1450; Nicholas V's bull later that month (suspended in November under pressure from Lleida)."
+  },
+  "u-huesca-1464-refoundation": {
+   "status": "corrected",
+   "src": [
+    "ib-116"
+   ],
+   "fix": {
+    "year": 1465,
+    "approx": true
+   },
+   "note": "One study dates the refoundation, backed by John II, the city, the Church and the Holy See, to 1465."
+  },
+  "u-mallorca-1483-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-011"
+   ],
+   "fix": {},
+   "note": "Privilege signed at Córdoba, 30 August 1483."
+  },
+  "u-siguenza-1489-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-santiago-1495-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-alcala-madrid-1499-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-007",
+    "ib-008"
+   ],
+   "fix": {},
+   "note": "Bull 'Inter cetera', 13 April 1499; classes began 18 October 1508."
+  },
+  "u-valencia-1499-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-009",
+    "ib-010"
+   ],
+   "fix": {},
+   "note": "Constitutions drafted 30 April 1499."
+  },
+  "u-valencia-1501-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-009",
+    "ib-010"
+   ],
+   "fix": {},
+   "note": "Bull of 22 January 1501."
+  },
+  "u-valencia-1502-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-009",
+    "ib-010",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": "Privilege of February 1502."
+  },
+  "u-seville-1505-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-025"
+   ],
+   "fix": {},
+   "note": "Bull of 12 July 1505."
+  },
+  "u-toledo-1520-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-065"
+   ],
+   "fix": {},
+   "note": "Bull of Leo X, 22 February 1520; the college itself was founded in 1485 under a bull of Innocent VIII."
+  },
+  "u-santiago-1526-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-014"
+   ],
+   "fix": {},
+   "note": "Papal endorsements by Julius II (1504) and Clement VII (1526)."
+  },
+  "u-granada-1531-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-015"
+   ],
+   "fix": {},
+   "note": "Charles V's order 7 December 1526; bull 14 July 1531."
+  },
+  "u-sahagun-1534-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lisbon-coimbra-1537-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-005",
+    "ib-006"
+   ],
+   "fix": {},
+   "note": "The royal palace was bought for the university in 1597 and renamed Paço das Escolas."
+  },
+  "u-baeza-1538-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-onati-1540-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-022"
+   ],
+   "fix": {},
+   "note": "Bull of 23 April 1540."
+  },
+  "u-zaragoza-1542-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-016"
+   ],
+   "fix": {},
+   "note": "Privilege 'Dum noster animus', Cortes of Monzón, 10 September 1542."
+  },
+  "u-gandia-1547-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-028",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-osuna-1548-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-035"
+   ],
+   "fix": {},
+   "note": "Papal authorisation of 10 October 1548."
+  },
+  "u-osma-1550-founding": {
+   "status": "corrected",
+   "src": [
+    "ib-036"
+   ],
+   "fix": {
+    "desc": "Julius III authorises the university founded by Bishop Álvarez de Acosta (bull dated 1 August 1550)."
+   },
+   "note": "The bull is dated 1 August 1550."
+  },
+  "j-lisbon-santo-antao-1553-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-064"
+   ],
+   "fix": {},
+   "note": "Courses began 18 October 1553."
+  },
+  "u-lisbon-coimbra-1555-confessional": {
+   "status": "confirmed",
+   "src": [
+    "ib-118"
+   ],
+   "fix": {},
+   "note": "Opened 1548 under André de Gouveia with masters from Bordeaux; taken over by the Jesuits in 1555."
+  },
+  "u-evora-1559-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-026"
+   ],
+   "fix": {},
+   "note": "Bull 'Cum nobis' (April 1559); inaugurated 1 November 1559."
+  },
+  "u-barcelona-1559-reform": {
+   "status": "corrected",
+   "src": [
+    "ib-013",
+    "ib-011"
+   ],
+   "fix": {
+    "desc": "The Estudi General begins to function on a stable footing in the building on the Rambla (built 1536–1539)."
+   },
+   "note": "The Rambla building dates from 1536–39; 1559 is when the studium began to operate securely."
+  },
+  "u-orihuela-1569-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-030",
+    "ib-029"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-irache-1569-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-031",
+    "ib-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tarragona-1572-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-033",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-girona-1572-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-almagro-1574-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tarragona-1574-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-033",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-avila-1576-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zaragoza-1583-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-016"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-lisbon-santo-antao-1590-reform": {
+   "status": "corrected",
+   "src": [
+    "ib-064"
+   ],
+   "fix": {
+    "desc": "João Delgado is appointed to teach the 'Aula da Esfera', now opened to lay students as well as Jesuits."
+   },
+   "note": "The sphere class existed earlier for Jesuits; in 1590 it was opened to lay students under João Delgado."
+  },
+  "u-vic-1599-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tortosa-1600-founding": {
+   "status": "doubtful",
+   "src": [
+    "ib-038"
+   ],
+   "fix": {},
+   "note": "Enciclopèdia Catalana dates the university's creation to a decree of Philip IV in 1645, confirming a college approved by Philip II."
+  },
+  "u-irache-1605-merger": {
+   "status": "confirmed",
+   "src": [
+    "ib-031"
+   ],
+   "fix": {},
+   "note": "Date uncertain."
+  },
+  "u-oviedo-1608-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-024"
+   ],
+   "fix": {},
+   "note": "Opened 21 September 1608; bull of Gregory XIII 1574."
+  },
+  "u-irache-1616-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-solsona-1620-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-039",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-madrid-colegio-imperial-1625-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pamplona-1630-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-orihuela-1646-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-030",
+    "ib-029"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-perpignan-1659-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-irache-1665-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-mallorca-1673-charter": {
+   "status": "confirmed",
+   "src": [
+    "ib-114"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Clement X's bull gave its degrees universal validity."
+  },
+  "u-mallorca-1692-charter": {
+   "status": "corrected",
+   "src": [
+    "ib-114"
+   ],
+   "fix": {
+    "year": 1697,
+    "desc": "Charles II sanctions the statutes of the Lullian University of Mallorca (created 1691; statutes published 1698)."
+   },
+   "note": "The university was created in 1691 and Charles II sanctioned its statutes in 1697; it was renamed Universitat Literària in 1772."
+  },
+  "u-lleida-1707-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-cervera-1717-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-027",
+    "ib-012"
+   ],
+   "fix": {},
+   "note": "Statutes 1726; papal bull of Clement XII 1730."
+  },
+  "t-cadiz-navy-1717-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cervera-1717-merger": {
+   "status": "confirmed",
+   "src": [
+    "ib-027",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lleida-1717-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-012",
+    "ib-027"
+   ],
+   "fix": {},
+   "note": "Closure ordered by royal decree of 9 October 1717."
+  },
+  "u-tarragona-1717-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-033"
+   ],
+   "fix": {},
+   "note": "The Literary Study was attached to Cervera in 1724 and closed in 1846."
+  },
+  "u-vic-1717-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-027",
+    "ib-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-girona-1717-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-solsona-1717-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-tortosa-1717-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-027",
+    "ib-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-barcelona-1717-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-013",
+    "ib-027"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-barcelona-math-1720-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-060"
+   ],
+   "fix": {},
+   "note": "Created on the orders of the engineer-general Jorge Próspero de Verboom."
+  },
+  "m-cadiz-surgery-1748-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-evora-1759-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-026"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-lisbon-santo-antao-1759-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-123"
+   ],
+   "fix": {},
+   "note": "The Aula da Esfera ran from 1590 until the expulsion of 1759."
+  },
+  "u-lisbon-coimbra-1759-confessional": {
+   "status": "confirmed",
+   "src": [
+    "ib-123",
+    "ib-090"
+   ],
+   "fix": {},
+   "note": "All Jesuit establishments in Portugal were closed by force in 1759."
+  },
+  "m-barcelona-surgery-1760-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-072"
+   ],
+   "fix": {},
+   "note": "Virgili named director on 19 September 1760; building opened 1764."
+  },
+  "t-segovia-1764-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-gandia-1767-confessional": {
+   "status": "confirmed",
+   "src": [
+    "ib-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-madrid-colegio-imperial-1767-confessional": {
+   "status": "confirmed",
+   "src": [
+    "ib-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-cadiz-navy-1769-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-seville-1769-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-025"
+   ],
+   "fix": {},
+   "note": "Plan approved 1768, decreed 1769; move to the Casa Profesa on 21 December 1771."
+  },
+  "u-granada-1769-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-madrid-colegio-imperial-1770-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pamplona-1771-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-salamanca-1771-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-alcala-madrid-1771-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-gandia-1772-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lisbon-coimbra-1772-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-090"
+   ],
+   "fix": {},
+   "note": "The natural history museum and physics cabinet followed in 1773."
+  },
+  "u-santiago-1772-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vergara-1776-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-063"
+   ],
+   "fix": {},
+   "note": "Installed in the former Jesuit college of Vergara."
+  },
+  "t-almaden-madrid-1777-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valencia-1786-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-009",
+    "ib-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-madrid-san-carlos-1787-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-054"
+   ],
+   "fix": {},
+   "note": "Ordinances approved 24 February 1787; opened 1 October 1787."
+  },
+  "t-madrid-veterinary-1792-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-050"
+   ],
+   "fix": {},
+   "note": "The faculty gives 1793, the year teaching began."
+  },
+  "u-perpignan-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-018",
+    "ib-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-caminos-madrid-1802-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-069"
+   ],
+   "fix": {},
+   "note": "Teaching began 19 October 1802."
+  },
+  "t-porto-polytechnic-1803-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-073"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-barcelona-math-1803-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-vergara-1804-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-siguenza-1807-suppression": {
+   "status": "doubtful",
+   "src": [
+    "ib-021"
+   ],
+   "fix": {},
+   "note": "One account says the university was actually closed in 1807 and restored in 1814."
+  },
+  "u-toledo-1807-suppression": {
+   "status": "doubtful",
+   "src": [
+    "ib-065"
+   ],
+   "fix": {},
+   "note": "A royal order of July 1807 listed Toledo for suppression, but it was soon found not to apply and the university kept functioning."
+  },
+  "u-osuna-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-035"
+   ],
+   "fix": {},
+   "note": "Teaching continued until French troops occupied the building in 1810."
+  },
+  "u-onati-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-baeza-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-avila-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-almagro-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-orihuela-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-029"
+   ],
+   "fix": {},
+   "note": "The 1807 reform cut its teaching to philosophy and theology rather than closing it."
+  },
+  "u-irache-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-031"
+   ],
+   "fix": {},
+   "note": "Closure is given as either 1807 or 1824."
+  },
+  "u-osma-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-salamanca-1807-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-caminos-madrid-1808-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-095"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zaragoza-1809-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ib-115"
+   ],
+   "fix": {},
+   "note": "The Paraninfo was blown up by French mines on 18 February 1809; repairs began in 1813."
+  },
+  "u-salamanca-1812-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ib-002"
+   ],
+   "fix": {},
+   "note": "Britannica dates the French destruction of the university quarter to the early 19th century."
+  },
+  "u-valencia-1812-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ib-009"
+   ],
+   "fix": {},
+   "note": "Much of the building, including the library, burned during Suchet's siege."
+  },
+  "u-toledo-1814-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ib-065"
+   ],
+   "fix": {},
+   "note": "Re-established by royal cédula of September 1814."
+  },
+  "u-osuna-1814-refoundation": {
+   "status": "doubtful",
+   "src": [
+    "ib-126"
+   ],
+   "fix": {},
+   "note": "No formal reopening is recorded; the university is said to have survived precariously after its 1807 suppression."
+  },
+  "u-almagro-1814-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-osma-1814-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-baeza-1815-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-la-laguna-1817-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-049"
+   ],
+   "fix": {},
+   "note": "Decree of Ferdinand VII 1816; opened 12 January 1817 in the former Jesuit college."
+  },
+  "t-caminos-madrid-1820-refoundation": {
+   "status": "corrected",
+   "src": [
+    "ib-095"
+   ],
+   "fix": {
+    "year": 1821
+   },
+   "note": "The second school operated in 1821–1823 during the Liberal Triennium."
+  },
+  "t-caminos-madrid-1823-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-095"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-siguenza-1824-suppression": {
+   "status": "doubtful",
+   "src": [
+    "ib-021"
+   ],
+   "fix": {},
+   "note": "One account says it was incorporated into Alcalá in 1824 and definitively suppressed only in October 1837."
+  },
+  "u-osuna-1824-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-126",
+    "ib-035"
+   ],
+   "fix": {},
+   "note": "It survived precariously after 1807 and was finally closed in 1824."
+  },
+  "u-baeza-1824-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-avila-1824-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-almagro-1824-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-irache-1824-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-031",
+    "ib-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-cadiz-navy-1824-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "m-lisbon-medical-1825-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-070"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-porto-medical-1825-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-070",
+    "ib-071"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-caminos-madrid-1834-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ib-095"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-almaden-madrid-1835-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-122"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-orihuela-1835-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-030",
+    "ib-029"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-alcala-madrid-1836-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-008",
+    "ib-007"
+   ],
+   "fix": {},
+   "note": "A first short-lived Universidad Central was set up in Madrid in 1822."
+  },
+  "u-lisbon-coimbra-1836-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-090"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "The faculties of laws and canons were merged into a single faculty of law in 1836."
+  },
+  "m-lisbon-medical-1836-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-070"
+   ],
+   "fix": {},
+   "note": "Reform under Passos Manuel; one account dates the medical-surgical schools' period from 1838."
+  },
+  "m-porto-medical-1836-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-070"
+   ],
+   "fix": {},
+   "note": "Reform under Passos Manuel; one account dates the medical-surgical schools' period from 1838."
+  },
+  "t-lisbon-polytechnic-1837-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-057"
+   ],
+   "fix": {},
+   "note": "Created from the Royal Naval Academy and the Royal College of Nobles."
+  },
+  "u-barcelona-1837-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ib-013",
+    "ib-011"
+   ],
+   "fix": {},
+   "note": "Provisionally re-established 1 September 1837."
+  },
+  "t-porto-polytechnic-1837-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-073"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-murcia-1840-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-osma-1841-suppression": {
+   "status": "doubtful",
+   "src": [
+    "ib-036"
+   ],
+   "fix": {},
+   "note": "A published study places the definitive suppression in 1840."
+  },
+  "u-murcia-1841-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-barcelona-1842-merger": {
+   "status": "confirmed",
+   "src": [
+    "ib-011",
+    "ib-027"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-onati-1842-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-096"
+   ],
+   "fix": {},
+   "note": "Decree of 11 November 1842 turned it into a secondary institute attached to Valladolid."
+  },
+  "u-mallorca-1842-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-114"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Suppressed by royal decree in 1829, revived as the Universitat Literària Balear in 1840, and definitively suppressed in August 1842."
+  },
+  "u-alcala-madrid-1843-merger": {
+   "status": "confirmed",
+   "src": [
+    "ib-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-barcelona-1843-merger": {
+   "status": "confirmed",
+   "src": [
+    "ib-072"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-cadiz-surgery-1843-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-119",
+    "ib-117"
+   ],
+   "fix": {},
+   "note": "The royal colleges of surgery were dissolved by decree of 10 October 1843 and their masters passed to the faculties of medicine; Seville's medical studies moved to Cádiz in 1845."
+  },
+  "t-madrid-architecture-1844-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-053"
+   ],
+   "fix": {},
+   "note": "Royal decree of 25 September 1844."
+  },
+  "u-huesca-1845-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-094"
+   ],
+   "fix": {},
+   "note": "Huesca is not among the ten universities retained in 1845."
+  },
+  "u-toledo-1845-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-065"
+   ],
+   "fix": {},
+   "note": "Royal decree of 17 September 1845 turned it into a secondary institute."
+  },
+  "u-la-laguna-1845-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-salamanca-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-092"
+   ],
+   "fix": {},
+   "note": "Salamanca's loss of doctoral rights follows from Madrid's monopoly on doctorates."
+  },
+  "u-valladolid-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-alcala-madrid-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-seville-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-santiago-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zaragoza-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-granada-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oviedo-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valencia-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-barcelona-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-094",
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-madrid-colegio-imperial-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-062"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Became the Instituto San Isidro under the 1845 Pidal plan."
+  },
+  "t-montes-1848-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-051"
+   ],
+   "fix": {},
+   "note": "Created 1846 on the Tharandt model by Agustín Pascual; first seat the castle of Villaviciosa de Odón."
+  },
+  "t-madrid-industrial-1850-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-059"
+   ],
+   "fix": {},
+   "note": "Royal decree of 8 September 1850."
+  },
+  "t-barcelona-industrial-1851-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-059"
+   ],
+   "fix": {},
+   "note": "Inaugurated in 1851, taking over most of the Junta de Comerç's teaching."
+  },
+  "t-agronomos-1855-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-052"
+   ],
+   "fix": {},
+   "note": "Created by royal decree of 1 September 1855; formal inauguration 28 September 1856."
+  },
+  "u-alcala-madrid-1857-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-lisbon-letras-1859-founding": {
+   "status": "confirmed",
+   "src": [
+    "ib-057"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-segovia-1862-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ib-121"
+   ],
+   "fix": {},
+   "note": "Fire of 6 March 1862; the college moved to the former convent of San Francisco."
+  },
+  "t-madrid-industrial-1867-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-salamanca-1868-reform": {
+   "status": "confirmed",
+   "src": [
+    "ib-093"
+   ],
+   "fix": {},
+   "note": "Theology faculties were suppressed in 1852, partly restored in 1854, and definitively abolished in 1868."
+  },
+  "t-agronomos-1869-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-052"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Suppressed in 1868 and refounded in Madrid in January 1869."
+  },
+  "u-murcia-1869-refoundation": {
+   "status": "corrected",
+   "src": [
+    "ib-066"
+   ],
+   "fix": {
+    "desc": "The province and city open a free university (inaugurated 14 November 1869)."
+   },
+   "note": "Inaugurated on 14 November 1869."
+  },
+  "t-montes-1870-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ib-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-barcelona-1872-access": {
+   "status": "confirmed",
+   "src": [
+    "ib-077"
+   ],
+   "fix": {},
+   "note": "Admitted in the 1872–73 academic year."
+  },
+  "u-murcia-1874-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ib-066"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Ended by the law of 29 July 1874 suppressing the free universities, after years of budget shortfalls and low enrolment."
+  },
+  "u-onati-1874-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ib-096"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "The Carlist court re-established a faculty of theology; the course opened on 5 October 1874."
+  },
+  "u-alcala-madrid-1882-access": {
+   "status": "confirmed",
+   "src": [
+    "ib-077"
+   ],
+   "fix": {},
+   "note": "Aleu and Castells received their doctorates about ten years after Maseras enrolled."
+  },
+  "u-lisbon-coimbra-1891-access": {
+   "status": "confirmed",
+   "src": [
+    "ib-097"
+   ],
+   "fix": {},
+   "note": "Enrolled 1891; the source does not name her first course."
+  },
+  "u-onati-1895-refoundation": {
+   "status": "corrected",
+   "src": [
+    "ib-096"
+   ],
+   "fix": {
+    "desc": "Reopened as a Catholic university, officially recognised as the Literary University of Oñate in 1896 and closed by royal decree in August 1902."
+   },
+   "note": "Recognised by royal decree of 6 March 1896; closed by decree of 23 August 1902, not 1901."
+  }
+ },
+ "thinkers": {
+  "th105": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th106": {
+   "status": "doubtful",
+   "src": [
+    "ib-088"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia says he taught philosophy at Lleida in 1370 and studied at Barcelona and Toulouse; it does not mention study or a doctorate at Lleida."
+  },
+  "th107": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th108": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th109": {
+   "status": "confirmed",
+   "src": [
+    "ib-016"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th110": {
+   "status": "confirmed",
+   "src": [
+    "ib-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th111": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th112": {
+   "status": "confirmed",
+   "src": [
+    "ib-079"
+   ],
+   "fix": {},
+   "note": "Settled at San Vicente in Oviedo in 1709 and retired from the university's prima chair of theology in 1739."
+  },
+  "th113": {
+   "status": "confirmed",
+   "src": [
+    "ib-106"
+   ],
+   "fix": {},
+   "note": "Chair of Roman law at Oviedo from 10 July 1883, natural law from 1888, until his death on 13 June 1901."
+  },
+  "th114": {
+   "status": "confirmed",
+   "src": [
+    "ib-131"
+   ],
+   "fix": {},
+   "note": "Paul III's bull of 4 March 1538 was addressed to him; he organised the university and was its first rector. He died in 1569."
+  },
+  "th115": {
+   "status": "confirmed",
+   "src": [
+    "ib-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th116": {
+   "status": "confirmed",
+   "src": [
+    "ib-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th117": {
+   "status": "confirmed",
+   "src": [
+    "ib-041",
+    "ib-026"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th118": {
+   "status": "corrected",
+   "src": [
+    "ib-080"
+   ],
+   "fix": {
+    "from": 1715,
+    "to": 1751,
+    "approx": false
+   },
+   "note": "Taught law at Cervera from 1715 (prima chair later) until he retired in 1751; he died in Cervera in 1777."
+  },
+  "th119": {
+   "status": "confirmed",
+   "src": [
+    "ib-130",
+    "ib-027"
+   ],
+   "fix": {},
+   "note": "Licentiate 1833 and doctorate in theology 1835 at Cervera; start year approximate."
+  },
+  "th120": {
+   "status": "confirmed",
+   "src": [
+    "ib-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th121": {
+   "status": "confirmed",
+   "src": [
+    "ib-102"
+   ],
+   "fix": {},
+   "note": "Took the bachiller degree in canon law at Osma in 1761."
+  },
+  "th122": {
+   "status": "confirmed",
+   "src": [
+    "ib-089"
+   ],
+   "fix": {},
+   "note": "Left Spain at 17 and was studying in Paris from 1509."
+  },
+  "th123": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th124": {
+   "status": "confirmed",
+   "src": [
+    "ib-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th125": {
+   "status": "confirmed",
+   "src": [
+    "ib-109"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Entered the law faculty in 1882 and completed the degree in October 1888."
+  },
+  "th126": {
+   "status": "corrected",
+   "src": [
+    "ib-124"
+   ],
+   "fix": {
+    "from": 1847,
+    "approx": false
+   },
+   "note": "Won the chair of general and Spanish literature in 1847 and held it until his death in 1884."
+  },
+  "th127": {
+   "status": "corrected",
+   "src": [
+    "ib-107"
+   ],
+   "fix": {
+    "from": 1870
+   },
+   "note": "Began studying at Barcelona in 1870 and moved to Madrid in 1873."
+  },
+  "th128": {
+   "status": "confirmed",
+   "src": [
+    "ib-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th129": {
+   "status": "confirmed",
+   "src": [
+    "ib-077"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th130": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th131": {
+   "status": "unverified",
+   "src": [
+    "ib-001"
+   ],
+   "fix": {},
+   "note": "Named among the university's notable figures; years not checked."
+  },
+  "th132": {
+   "status": "confirmed",
+   "src": [
+    "ib-075"
+   ],
+   "fix": {},
+   "note": "Taught at Salamanca from 1475 to 1487 and again from 1505 to 1513."
+  },
+  "th133": {
+   "status": "corrected",
+   "src": [
+    "ib-074"
+   ],
+   "fix": {
+    "from": 1528,
+    "approx": false
+   },
+   "note": "Taught canon law at Salamanca from 1528 (Decretum chair 1532, prima chair 1537) until released to Coimbra in July 1538."
+  },
+  "th134": {
+   "status": "confirmed",
+   "src": [
+    "ib-040",
+    "ib-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th135": {
+   "status": "confirmed",
+   "src": [
+    "ib-076"
+   ],
+   "fix": {},
+   "note": "Vespers chair of theology from 1532, prima chair from 1552, until his death in 1560."
+  },
+  "th136": {
+   "status": "confirmed",
+   "src": [
+    "ib-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th137": {
+   "status": "confirmed",
+   "src": [
+    "ib-104"
+   ],
+   "fix": {},
+   "note": "At Salamanca from 1545; won the rhetoric chair after a failed attempt in 1554, and held the Greek post from 1576. Dates approximate."
+  },
+  "th138": {
+   "status": "confirmed",
+   "src": [
+    "ib-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th139": {
+   "status": "confirmed",
+   "src": [
+    "ib-101"
+   ],
+   "fix": {},
+   "note": "Sent to Salamanca for higher studies and ordained priest in 1567; exact years approximate."
+  },
+  "th140": {
+   "status": "corrected",
+   "src": [
+    "ib-128",
+    "ib-041"
+   ],
+   "fix": {
+    "from": 1565,
+    "role": "studied philosophy and theology"
+   },
+   "note": "The Catholic Encyclopedia gives philosophy and theology at Salamanca 1565–1570; Britannica says he first studied law."
+  },
+  "th141": {
+   "status": "confirmed",
+   "src": [
+    "ib-099"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Enrolled in canon law in 1576 and attended until 1579–80; no degree is recorded."
+  },
+  "th142": {
+   "status": "confirmed",
+   "src": [
+    "ib-100"
+   ],
+   "fix": {},
+   "note": "Studied canon law at Salamanca from December 1615 to at least 1618–19."
+  },
+  "th143": {
+   "status": "confirmed",
+   "src": [
+    "ib-105"
+   ],
+   "fix": {},
+   "note": "Won the mathematics chair in late 1726; retirement year approximate."
+  },
+  "th144": {
+   "status": "confirmed",
+   "src": [
+    "ib-110"
+   ],
+   "fix": {},
+   "note": "Won the Greek chair in 1891 and became rector in 1900; removed in 1914, exiled 1924–30, rector again from 1931, dismissed in 1936 and died that December."
+  },
+  "th145": {
+   "status": "doubtful",
+   "src": [
+    "ib-078"
+   ],
+   "fix": {},
+   "note": "He moved to Valladolid with the court in 1601, but the source does not confirm he studied at the university there."
+  },
+  "th146": {
+   "status": "doubtful",
+   "src": [
+    "ib-108"
+   ],
+   "fix": {},
+   "note": "The source says he went to study law at Toledo in 1833 and does not mention study at Valladolid."
+  },
+  "th147": {
+   "status": "confirmed",
+   "src": [
+    "ib-007",
+    "ib-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th148": {
+   "status": "corrected",
+   "src": [
+    "ib-075"
+   ],
+   "fix": {
+    "from": 1514
+   },
+   "note": "Took a chair at Alcalá in 1514 with Cisneros's support; died there in 1522."
+  },
+  "th149": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th150": {
+   "status": "confirmed",
+   "src": [
+    "ib-087"
+   ],
+   "fix": {},
+   "note": "Studied at Alcalá and then Salamanca before going to Paris."
+  },
+  "th151": {
+   "status": "confirmed",
+   "src": [
+    "ib-103"
+   ],
+   "fix": {},
+   "note": "Moved from Seville to Alcalá in 1548; end year approximate."
+  },
+  "th152": {
+   "status": "confirmed",
+   "src": [
+    "ib-098"
+   ],
+   "fix": {},
+   "note": "Possibly enrolled at Alcalá in 1577 and finished his studies there in 1581."
+  },
+  "th153": {
+   "status": "corrected",
+   "src": [
+    "ib-128"
+   ],
+   "fix": {
+    "to": 1592,
+    "approx": false
+   },
+   "note": "Taught theology at Alcalá for seven years, 1585–1592."
+  },
+  "th154": {
+   "status": "confirmed",
+   "src": [
+    "ib-078"
+   ],
+   "fix": {},
+   "note": "Entered university in 1596 and took his licentiate in 1600."
+  },
+  "th155": {
+   "status": "confirmed",
+   "src": [
+    "ib-100"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Took courses at Alcalá from October 1614 until his father's death in November 1615."
+  },
+  "th156": {
+   "status": "confirmed",
+   "src": [
+    "ib-102"
+   ],
+   "fix": {},
+   "note": "A collegian of San Ildefonso at Alcalá in 1764; length of stay approximate."
+  },
+  "th157": {
+   "status": "confirmed",
+   "src": [
+    "ib-129"
+   ],
+   "fix": {},
+   "note": "Named to the history of philosophy chair in 1843 but back in the classroom only from 1854; removed December 1867, restored October 1868, died 12 October 1869."
+  },
+  "th158": {
+   "status": "confirmed",
+   "src": [
+    "ib-086"
+   ],
+   "fix": {},
+   "note": "Lost his chair in April 1865 after speeches against the monarchy; start year approximate."
+  },
+  "th159": {
+   "status": "corrected",
+   "src": [
+    "ib-125"
+   ],
+   "fix": {
+    "from": 1866
+   },
+   "note": "Won the chair of philosophy of law and international law in 1866; removed with Sanz del Río under the Orovio decree, restored after the 1868 revolution, and confined at Cádiz in April 1875."
+  },
+  "th160": {
+   "status": "confirmed",
+   "src": [
+    "ib-085"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th161": {
+   "status": "confirmed",
+   "src": [
+    "ib-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th162": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th163": {
+   "status": "confirmed",
+   "src": [
+    "ib-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th164": {
+   "status": "confirmed",
+   "src": [
+    "ib-042"
+   ],
+   "fix": {},
+   "note": "Lisbon from December 1529; Coimbra mathematics chair from 16 October 1544 to 1562."
+  },
+  "th165": {
+   "status": "confirmed",
+   "src": [
+    "ib-074"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Prima chair of canon law at Coimbra from 17 October 1538 until 1555."
+  },
+  "th166": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th167": {
+   "status": "confirmed",
+   "src": [
+    "ib-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th168": {
+   "status": "confirmed",
+   "src": [
+    "ib-041",
+    "ib-048"
+   ],
+   "fix": {},
+   "note": "Held the Coimbra prima chair 1597–1615/16."
+  },
+  "th169": {
+   "status": "corrected",
+   "src": [
+    "ib-112"
+   ],
+   "fix": {
+    "role": "taught chemistry and directed the chemical laboratory"
+   },
+   "note": "Directed the chemical laboratory and held the chemistry chair from 1772 until he retired in January 1791."
+  },
+  "th170": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th171": {
+   "status": "confirmed",
+   "src": [
+    "ib-084"
+   ],
+   "fix": {},
+   "note": "Graduated in law in 1820; start year approximate."
+  },
+  "th172": {
+   "status": "confirmed",
+   "src": [
+    "ib-081"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Enrolled in law in September 1858; bachelor of law 1864."
+  },
+  "th173": {
+   "status": "confirmed",
+   "src": [
+    "ib-082"
+   ],
+   "fix": {},
+   "note": "Took his law degree in 1866."
+  },
+  "th174": {
+   "status": "confirmed",
+   "src": [
+    "ib-083"
+   ],
+   "fix": {},
+   "note": "Graduated from Coimbra in 1868."
+  },
+  "th175": {
+   "status": "confirmed",
+   "src": [
+    "ib-097"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Enrolled 1891; degrees in mathematics (1894), philosophy (1895) and medicine (1904)."
+  },
+  "th176": {
+   "status": "confirmed",
+   "src": [
+    "ib-044"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th177": {
+   "status": "confirmed",
+   "src": [
+    "ib-113"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Professor of mineralogy and metallurgy 1781–1785; isolated tungsten with his brother in 1783."
+  },
+  "th178": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th179": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th180": {
+   "status": "corrected",
+   "src": [
+    "ib-044"
+   ],
+   "fix": {
+    "from": 1788
+   },
+   "note": "Taught at Segovia from 1788 (formally in the chair from 1792); in 1786 he first taught in Madrid."
+  },
+  "th181": {
+   "status": "confirmed",
+   "src": [
+    "ib-111"
+   ],
+   "fix": {},
+   "note": "Entered the company of naval guards around 1729 and left for the Peru expedition at the end of 1733; director of the academy from 1751."
+  },
+  "th182": {
+   "status": "confirmed",
+   "src": [
+    "ib-083"
+   ],
+   "fix": {},
+   "note": "Professor of modern literature in Lisbon from 1872."
+  },
+  "th183": {
+   "status": "confirmed",
+   "src": [
+    "ib-120",
+    "ib-055"
+   ],
+   "fix": {},
+   "note": "Promoted the college's creation in 1748 with Juan Lacomba; years of directorship approximate."
+  },
+  "th184": {
+   "status": "confirmed",
+   "src": [
+    "ib-072"
+   ],
+   "fix": {},
+   "note": "Directed the college from 1760 until his death in 1776."
+  },
+  "th185": {
+   "status": "confirmed",
+   "src": [
+    "ib-054"
+   ],
+   "fix": {},
+   "note": "Named perpetual director in 1787 and gave the inaugural lecture."
+  },
+  "th186": {
+   "status": "corrected",
+   "src": [
+    "ib-100"
+   ],
+   "fix": {
+    "from": 1610,
+    "to": 1614
+   },
+   "note": "Studied humanities at the Jesuit Colegio Imperial from about 1610 to 1614."
+  }
+ }
+}

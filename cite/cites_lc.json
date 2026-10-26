@@ -1,0 +1,2146 @@
+{
+ "group": "lc",
+ "sources": {
+  "lc-001": {
+   "title": "Universität Bern",
+   "publisher": "Historisches Lexikon der Schweiz",
+   "url": "https://hls-dhs-dss.ch/de/articles/010972/2014-01-21/",
+   "tier": 2
+  },
+  "lc-002": {
+   "title": "History of the university",
+   "publisher": "Universität Bern",
+   "url": "https://unibe.ch/university/portrait/history/history_of_the_university/index_eng.html",
+   "tier": 1
+  },
+  "lc-003": {
+   "title": "Université de Genève",
+   "publisher": "Dictionnaire historique de la Suisse",
+   "url": "https://hls-dhs-dss.ch/fr/articles/010974",
+   "tier": 2
+  },
+  "lc-004": {
+   "title": "Historique de l'Université",
+   "publisher": "Université de Genève",
+   "url": "https://www.unige.ch/universite/historique/",
+   "tier": 1
+  },
+  "lc-005": {
+   "title": "Universität Basel (Université de Bâle)",
+   "publisher": "Dictionnaire historique de la Suisse",
+   "url": "https://hls-dhs-dss.ch/fr/articles/010971/2013-01-28/",
+   "tier": 2
+  },
+  "lc-006": {
+   "title": "Zeitstrahl: Unigeschichte seit 1460",
+   "publisher": "Universität Basel",
+   "url": "https://unigeschichte.unibas.ch/en/550-menu/unigeschichte-seit-1460/zeitstrahl",
+   "tier": 1
+  },
+  "lc-007": {
+   "title": "Old University of Leuven",
+   "publisher": "Wikipedia (citing Lamberts & Roegiers, Leuven University 1425-1985)",
+   "url": "https://en.wikipedia.org/wiki/Old_University_of_Leuven",
+   "tier": 3
+  },
+  "lc-008": {
+   "title": "Catholic University of Leuven",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Catholic-University-of-Leuven",
+   "tier": 2
+  },
+  "lc-009": {
+   "title": "A bird's eye view: history of Leiden University",
+   "publisher": "Universiteit Leiden",
+   "url": "https://www.universiteitleiden.nl/en/dossiers/history-of-leiden-university/birds-eye-view",
+   "tier": 1
+  },
+  "lc-010": {
+   "title": "University of Groningen 1614-1815",
+   "publisher": "University Museum, Rijksuniversiteit Groningen",
+   "url": "https://www.rug.nl/museum/history/university-of-groningen/1614-1815?lang=en",
+   "tier": 1
+  },
+  "lc-011": {
+   "title": "History",
+   "publisher": "Utrecht University",
+   "url": "https://www.uu.nl/en/organisation/about-us/tradition-and-history/history",
+   "tier": 1
+  },
+  "lc-012": {
+   "title": "Het Nederlands hoger onderwijs in de scheikunde (appendix)",
+   "publisher": "DBNL",
+   "url": "https://www.dbnl.org/tekst/snel016gesc01_01/snel016gesc01_01_0012.php",
+   "tier": 2
+  },
+  "lc-013": {
+   "title": "Universität Zürich",
+   "publisher": "Historisches Lexikon der Schweiz",
+   "url": "https://hls-dhs-dss.ch/articles/010977/2013-01-28/",
+   "tier": 2
+  },
+  "lc-014": {
+   "title": "Johann Bernoulli",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Johann/",
+   "tier": 2
+  },
+  "lc-015": {
+   "title": "Jacob Bernoulli",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Jacob/",
+   "tier": 2
+  },
+  "lc-016": {
+   "title": "Daniel Bernoulli",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bernoulli_Daniel/",
+   "tier": 2
+  },
+  "lc-017": {
+   "title": "Leonhard Euler",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euler/",
+   "tier": 2
+  },
+  "lc-018": {
+   "title": "Willebrord Snell",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Snell/",
+   "tier": 2
+  },
+  "lc-019": {
+   "title": "Christiaan Huygens",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Huygens/",
+   "tier": 2
+  },
+  "lc-020": {
+   "title": "Gemma Frisius",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gemma_Frisius/",
+   "tier": 2
+  },
+  "lc-021": {
+   "title": "Gerardus Mercator",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mercator_Gerardus/",
+   "tier": 2
+  },
+  "lc-022": {
+   "title": "Juan Luis Vives",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/vives/",
+   "tier": 2
+  },
+  "lc-023": {
+   "title": "Justus Lipsius",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Justus-Lipsius",
+   "tier": 2
+  },
+  "lc-024": {
+   "title": "Joseph Justus Scaliger",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Joseph-Justus-Scaliger",
+   "tier": 2
+  },
+  "lc-025": {
+   "title": "Franciscus Gomarus",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Franciscus-Gomarus",
+   "tier": 2
+  },
+  "lc-026": {
+   "title": "Jacobus Arminius",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Jacobus-Arminius",
+   "tier": 2
+  },
+  "lc-027": {
+   "title": "Hugo Grotius",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/grotius/",
+   "tier": 2
+  },
+  "lc-028": {
+   "title": "Herman Boerhaave",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Herman-Boerhaave",
+   "tier": 2
+  },
+  "lc-029": {
+   "title": "Hendrik Antoon Lorentz",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hendrik-Antoon-Lorentz",
+   "tier": 2
+  },
+  "lc-030": {
+   "title": "René Descartes",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/descartes/",
+   "tier": 2
+  },
+  "lc-031": {
+   "title": "William Ames",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/William-Ames",
+   "tier": 2
+  },
+  "lc-032": {
+   "title": "Aletta Jacobs",
+   "publisher": "University of Groningen",
+   "url": "https://rug.nl/alumni/about-alumni/alettajaar/aletta-jacobs?lang=en",
+   "tier": 1
+  },
+  "lc-033": {
+   "title": "Gisbertus Voetius",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Gisbertus-Voetius",
+   "tier": 2
+  },
+  "lc-034": {
+   "title": "Gerardus Johannes Vossius",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Gerardus-Johannes-Vossius",
+   "tier": 2
+  },
+  "lc-035": {
+   "title": "Jacobus H. van 't Hoff: biographical",
+   "publisher": "Nobel Prize",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1901/hoff/biographical/",
+   "tier": 2
+  },
+  "lc-036": {
+   "title": "Hugo de Vries",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hugo-de-Vries",
+   "tier": 2
+  },
+  "lc-037": {
+   "title": "Abraham Kuyper",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Abraham-Kuyper",
+   "tier": 2
+  },
+  "lc-038": {
+   "title": "Adolphe Quetelet",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Quetelet/",
+   "tier": 2
+  },
+  "lc-039": {
+   "title": "Theodor Schwann",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Theodor-Schwann",
+   "tier": 2
+  },
+  "lc-040": {
+   "title": "Richard Dedekind",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Dedekind/",
+   "tier": 2
+  },
+  "lc-041": {
+   "title": "Elwin Bruno Christoffel",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Christoffel/",
+   "tier": 2
+  },
+  "lc-042": {
+   "title": "Hermann Minkowski",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Minkowski/",
+   "tier": 2
+  },
+  "lc-043": {
+   "title": "Rudolf Clausius",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clausius/",
+   "tier": 2
+  },
+  "lc-044": {
+   "title": "Albert Einstein",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Einstein/",
+   "tier": 2
+  },
+  "lc-045": {
+   "title": "Johannes Diderik van der Waals: biographical",
+   "publisher": "Nobel Prize",
+   "url": "https://www.nobelprize.org/prizes/physics/1910/waals/biographical/",
+   "tier": 2
+  },
+  "lc-046": {
+   "title": "University of Franeker",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/University_of_Franeker",
+   "tier": 3
+  },
+  "lc-047": {
+   "title": "Wilhelm Conrad Röntgen: biographical",
+   "publisher": "Nobel Prize",
+   "url": "https://www.nobelprize.org/prizes/physics/1901/rontgen/biographical/",
+   "tier": 2
+  },
+  "lc-048": {
+   "title": "History of Ghent University",
+   "publisher": "Ghent University",
+   "url": "https://www.ugent.be/en/ghentuniv/history",
+   "tier": 1
+  },
+  "lc-049": {
+   "title": "ULB's origins and evolution",
+   "publisher": "Université libre de Bruxelles",
+   "url": "https://www.ulb.be/en/about-ulb/ulbs-origins-and-evolution",
+   "tier": 1
+  },
+  "lc-050": {
+   "title": "From 1830: a State University in Belgium",
+   "publisher": "Université de Liège",
+   "url": "https://www.uliege.be/cms/c_9269416/en/from-1830-a-state-university-in-belgium",
+   "tier": 1
+  },
+  "lc-051": {
+   "title": "University of Liège",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://britannica.com/print/article/339938",
+   "tier": 2
+  },
+  "lc-052": {
+   "title": "Delft's founding (Royal Academy, 1842)",
+   "publisher": "Delta, TU Delft",
+   "url": "https://delta.tudelft.nl/?p=78873",
+   "tier": 1
+  },
+  "lc-053": {
+   "title": "Zurich Federal Polytechnic history",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/HistTopics/ETH_history",
+   "tier": 2
+  },
+  "lc-054": {
+   "title": "University of Fribourg (Switzerland)",
+   "publisher": "Catholic Encyclopedia (1913), via Wikisource",
+   "url": "https://en.wikisource.org/wiki/Catholic_Encyclopedia_(1913)/University_of_Fribourg_(Switzerland)",
+   "tier": 2
+  },
+  "lc-055": {
+   "title": "History",
+   "publisher": "Université de Lausanne",
+   "url": "https://unil.ch/unil/en/home/menuinst/universite/histoire.html",
+   "tier": 1
+  },
+  "lc-056": {
+   "title": "UniNews: 100 ans de l'Université de Neuchâtel",
+   "publisher": "Université de Neuchâtel",
+   "url": "https://unine.ch/media/wp-content/uploads/sites/17/uninews10_100ans.pdf",
+   "tier": 1
+  },
+  "lc-057": {
+   "title": "General Seminaries",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06235c.htm",
+   "tier": 2
+  },
+  "lc-058": {
+   "title": "1894: L'Université libre de Bruxelles en crise (F. Noël, 1988)",
+   "publisher": "Éditions de l'Université de Bruxelles / ULB digistore",
+   "url": "https://digistore.bib.ulb.ac.be/2010/DL2377563_000_f.pdf",
+   "tier": 2
+  },
+  "lc-059": {
+   "title": "500 years old: the Collegium Trilingue in Leuven",
+   "publisher": "The Low Countries",
+   "url": "https://the-low-countries.com/article/500-years-old.-the-collegium-trilingue-in-leuven-1",
+   "tier": 2
+  },
+  "lc-060": {
+   "title": "University of Harderwijk",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/University_of_Harderwijk",
+   "tier": 3
+  },
+  "lc-061": {
+   "title": "Faculty of Theology, Old University of Leuven",
+   "publisher": "Wikipedia (citing van Eijl, Facultas S. Theologiae Lovaniensis 1432-1797)",
+   "url": "https://en.wikipedia.org/wiki/Faculty_of_Theology,_Old_University_of_Leuven",
+   "tier": 3
+  },
+  "lc-062": {
+   "title": "The Hortus botanicus: from herb garden to crown jewel",
+   "publisher": "Universiteit Leiden",
+   "url": "https://www.universiteitleiden.nl/en/news/2015/02/the-hortus-botanicus-from-herb-garden-to-crown-jewel",
+   "tier": 1
+  },
+  "lc-063": {
+   "title": "Catholic University of Leuven (1834-1968)",
+   "publisher": "Wikipedia (citing Lamberts & Roegiers, Leuven University 1990)",
+   "url": "https://en.wikipedia.org/wiki/Catholic_University_of_Leuven_(1834%E2%80%931968)",
+   "tier": 3
+  },
+  "lc-064": {
+   "title": "UNIL in the 16th century",
+   "publisher": "Université de Lausanne",
+   "url": "https://cec.cms.unil.ch/central/en/home/menuinst/unil-en-bref/hier-et-aujourdhui/lunil-au-16e-siecle.html",
+   "tier": 1
+  },
+  "lc-065": {
+   "title": "Chronology",
+   "publisher": "Université de Lausanne",
+   "url": "https://unil.ch/unil/en/home/menuinst/universite/histoire/chronologie.html",
+   "tier": 1
+  },
+  "lc-066": {
+   "title": "Anna Maria van Schurman: an academic multitalent",
+   "publisher": "Utrecht University",
+   "url": "https://www.uu.nl/en/background/anna-maria-van-schurman-an-academic-multitalent",
+   "tier": 1
+  },
+  "lc-067": {
+   "title": "Who's who at the Synod of Dordt",
+   "publisher": "Meeter Center, Calvin University",
+   "url": "https://calvin.edu/centers-institutes/meeter-center/about-the-synod-of-dordt/whos-who",
+   "tier": 2
+  },
+  "lc-068": {
+   "title": "Desiderius Erasmus",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/erasmus/",
+   "tier": 2
+  },
+  "lc-069": {
+   "title": "Friedrich Nietzsche",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/nietzsche/",
+   "tier": 2
+  },
+  "lc-070": {
+   "title": "Joseph Plateau",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Plateau/",
+   "tier": 2
+  },
+  "lc-071": {
+   "title": "Willem Jacob 'sGravesande",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/SGravesande/",
+   "tier": 2
+  },
+  "lc-072": {
+   "title": "Pieter van Musschenbroek",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/399460",
+   "tier": 2
+  },
+  "lc-073": {
+   "title": "Vilfredo Pareto",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/443519",
+   "tier": 2
+  },
+  "lc-074": {
+   "title": "The collaboration of Mileva Marić and Albert Einstein (E. Asmodelle)",
+   "publisher": "arXiv",
+   "url": "https://arxiv.org/pdf/1503.08020v2",
+   "tier": 3
+  },
+  "lc-075": {
+   "title": "St. Robert Bellarmine",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/59745",
+   "tier": 2
+  },
+  "lc-076": {
+   "title": "Agassiz, Jean Louis Rodolphe",
+   "publisher": "Complete Dictionary of Scientific Biography (encyclopedia.com)",
+   "url": "https://www.encyclopedia.com/science/news-wires-white-papers-and-books/agassiz-louis",
+   "tier": 2
+  },
+  "lc-077": {
+   "title": "Petrus Camper (1722-1789) en Georges Cuvier (A. Schierbeek)",
+   "publisher": "De Levende Natuur (natuurtijdschriften.nl)",
+   "url": "https://natuurtijdschriften.nl/pub/489066/DLN0262252379.pdf",
+   "tier": 2
+  },
+  "lc-078": {
+   "title": "Theodor Kocher: biographical",
+   "publisher": "Nobel Prize",
+   "url": "https://www.nobelprize.org/prizes/medicine/1909/kocher/biographical/",
+   "tier": 2
+  },
+  "lc-079": {
+   "title": "Friedrich August Kekulé von Stradonitz",
+   "publisher": "Complete Dictionary of Scientific Biography (encyclopedia.com)",
+   "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/kekule-von-stradonitz-friedrich-august",
+   "tier": 2
+  },
+  "lc-080": {
+   "title": "Leo Hendrik Baekeland",
+   "publisher": "Encyclopedia.com (World of Chemistry)",
+   "url": "https://www.encyclopedia.com/people/science-and-technology/chemistry-biographies/leo-hendrik-baekeland",
+   "tier": 2
+  },
+  "lc-081": {
+   "title": "Oken, Lorenz",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz73296.html",
+   "tier": 2
+  },
+  "lc-082": {
+   "title": "Theodor Mommsen",
+   "publisher": "Universität Zürich",
+   "url": "https://www.uzh.ch/de/researchinnovation/excellence/nobelprize/mommsen.html",
+   "tier": 1
+  },
+  "lc-083": {
+   "title": "Rosa Luxemburg 1871-1919",
+   "publisher": "LeMO, Deutsches Historisches Museum",
+   "url": "https://www.dhm.de/lemo/biografie/rosa-luxemburg",
+   "tier": 2
+  },
+  "lc-084": {
+   "title": "Avenarius, Richard",
+   "publisher": "Deutsche Biographie (NDB)",
+   "url": "https://www.deutsche-biographie.de/sfz1650.html",
+   "tier": 2
+  },
+  "lc-085": {
+   "title": "Buxtorf, Johann der Ältere",
+   "publisher": "Deutsche Biographie (ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz7688.html",
+   "tier": 2
+  },
+  "lc-086": {
+   "title": "Bullinger, Heinrich",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/sfz23420.html",
+   "tier": 2
+  },
+  "lc-087": {
+   "title": "Gesner, Konrad",
+   "publisher": "Deutsche Biographie (NDB/ADB)",
+   "url": "https://www.deutsche-biographie.de/118694413.html",
+   "tier": 2
+  },
+  "lc-088": {
+   "title": "Semper, Gottfried",
+   "publisher": "Austria-Forum (AEIOU Österreich-Lexikon)",
+   "url": "https://austria-forum.org/af/AEIOU/Semper%2C_Gottfried/Semper%2C_Gottfried_english",
+   "tier": 2
+  },
+  "lc-089": {
+   "title": "Theodore Beza",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/63792",
+   "tier": 2
+  },
+  "lc-090": {
+   "title": "Historique de la Faculté de théologie",
+   "publisher": "Université de Genève",
+   "url": "https://www.unige.ch/theologie/faculte/historique",
+   "tier": 1
+  },
+  "lc-091": {
+   "title": "Melville, Andrew",
+   "publisher": "Biographical Register, University of St Andrews",
+   "url": "https://arts.st-andrews.ac.uk/biographical-register/data/documents/c7fdc287243c53ace8b3e0ea97906048",
+   "tier": 2
+  },
+  "lc-092": {
+   "title": "Nadeschda Suslowa",
+   "publisher": "UZH News, Universität Zürich",
+   "url": "https://www.news.uzh.ch/en/articles/2017/Nadeschda-Suslowa.html",
+   "tier": 1
+  },
+  "lc-093": {
+   "title": "Committed throughout its history",
+   "publisher": "Université libre de Bruxelles",
+   "url": "https://www.ulb.be/en/ulb-gets-involved/committed-throughout-its-history",
+   "tier": 1
+  },
+  "lc-094": {
+   "title": "Gedenkdagen, Jaarboek Technische Hoogeschool Delft (1934)",
+   "publisher": "TU Delft Library",
+   "url": "https://lib.tudelft.nl/mscans/mscans0053",
+   "tier": 1
+  },
+  "lc-095": {
+   "title": "Hendrik A. Lorentz: biographical",
+   "publisher": "Nobel Prize",
+   "url": "https://www.nobelprize.org/prizes/physics/1902/lorentz/biographical/",
+   "tier": 2
+  },
+  "lc-096": {
+   "title": "University of Groningen: history",
+   "publisher": "University Museum, Rijksuniversiteit Groningen",
+   "url": "https://rug.nl/museum/history/university-of-groningen/?lang=en",
+   "tier": 1
+  }
+ },
+ "institutions": {
+  "u-leuven": {
+   "src": [
+    "lc-008",
+    "lc-063",
+    "lc-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-basel": {
+   "src": [
+    "lc-006",
+    "lc-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-zurich": {
+   "src": [
+    "lc-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-bern": {
+   "src": [
+    "lc-001",
+    "lc-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-geneva": {
+   "src": [
+    "lc-004",
+    "lc-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leiden": {
+   "src": [
+    "lc-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-franeker": {
+   "src": [
+    "lc-012",
+    "lc-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-groningen": {
+   "src": [
+    "lc-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-utrecht": {
+   "src": [
+    "lc-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zurich": {
+   "src": [
+    "lc-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bern": {
+   "src": [
+    "lc-001",
+    "lc-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-ghent": {
+   "src": [
+    "lc-048",
+    "lc-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-amsterdam": {
+   "src": [
+    "lc-034",
+    "lc-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vu-amsterdam": {
+   "src": [
+    "lc-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-brussels": {
+   "src": [
+    "lc-049",
+    "lc-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-liege": {
+   "src": [
+    "lc-050",
+    "lc-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-delft": {
+   "src": [
+    "lc-052"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-eth": {
+   "src": [
+    "lc-053"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fribourg": {
+   "src": [
+    "lc-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-lausanne": {
+   "src": [
+    "lc-055",
+    "lc-064",
+    "lc-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-neuchatel": {
+   "src": [
+    "lc-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-harderwijk": {
+   "src": [
+    "lc-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-brussels-nouvelle": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "u-leuven-1425-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-008",
+    "lc-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leuven-1519-confessional": {
+   "status": "confirmed",
+   "src": [
+    "lc-061",
+    "lc-007"
+   ],
+   "fix": {},
+   "note": "The faculty's censure of Luther is dated 7 November 1519."
+  },
+  "u-leuven-1797-suppression": {
+   "status": "confirmed",
+   "src": [
+    "lc-008",
+    "lc-007"
+   ],
+   "fix": {},
+   "note": "Abolished by decree of the Dyle department, 25 October 1797."
+  },
+  "u-leuven-1834-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "lc-008",
+    "lc-063"
+   ],
+   "fix": {},
+   "note": "Founded at Mechelen on 8 November 1834 under a papal brief of 1833."
+  },
+  "u-basel-1460-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-006",
+    "lc-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-basel-1529-confessional": {
+   "status": "confirmed",
+   "src": [
+    "lc-006",
+    "lc-005"
+   ],
+   "fix": {},
+   "note": "The council suspended the university in June 1529; many teachers left for Freiburg im Breisgau."
+  },
+  "u-basel-1532-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "lc-006",
+    "lc-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-basel-1818-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-006",
+    "lc-005"
+   ],
+   "fix": {},
+   "note": "University Act of 17 June 1818."
+  },
+  "u-basel-1890-access": {
+   "status": "confirmed",
+   "src": [
+    "lc-006",
+    "lc-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-zurich-1525-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-bern-1528-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-bern-1805-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-001",
+    "lc-002"
+   ],
+   "fix": {},
+   "note": "Became an Academy with four faculties."
+  },
+  "u-bern-1834-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-001",
+    "lc-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bern-1834-merger": {
+   "status": "confirmed",
+   "src": [
+    "lc-001",
+    "lc-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bern-1874-access": {
+   "status": "doubtful",
+   "src": [
+    "lc-001",
+    "lc-002"
+   ],
+   "fix": {},
+   "note": "Sources say women, mostly from Russia, began studying around 1870; no specific 1874 regulation found."
+  },
+  "a-geneva-1559-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-003",
+    "lc-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-geneva-1872-access": {
+   "status": "corrected",
+   "src": [
+    "lc-003"
+   ],
+   "fix": {
+    "year": 1871,
+    "approx": false
+   },
+   "note": "Women were admitted in 1871."
+  },
+  "a-geneva-1873-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-003",
+    "lc-004"
+   ],
+   "fix": {},
+   "note": "Decreed in 1873; the university opened in 1876."
+  },
+  "u-leiden-1575-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leiden-1876-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-groningen-1614-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-010"
+   ],
+   "fix": {},
+   "note": "Founded 23 August 1614."
+  },
+  "u-utrecht-1636-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-utrecht-1815-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-groningen-1815-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leiden-1815-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-franeker-1585-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-franeker-1811-suppression": {
+   "status": "confirmed",
+   "src": [
+    "lc-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-franeker-1815-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "lc-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-franeker-1843-suppression": {
+   "status": "confirmed",
+   "src": [
+    "lc-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zurich-1833-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zurich-1833-merger": {
+   "status": "confirmed",
+   "src": [
+    "lc-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zurich-1864-access": {
+   "status": "confirmed",
+   "src": [
+    "lc-013"
+   ],
+   "fix": {},
+   "note": "Women admitted as students in 1864; Suslova matriculated in 1866."
+  },
+  "u-ghent-1817-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-048",
+    "lc-038"
+   ],
+   "fix": {},
+   "note": "Inaugurated 9 October 1817; teaching was in Latin."
+  },
+  "u-groningen-1871-access": {
+   "status": "confirmed",
+   "src": [
+    "lc-032"
+   ],
+   "fix": {},
+   "note": "Admitted as a medical student in April 1871."
+  },
+  "a-amsterdam-1632-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-034"
+   ],
+   "fix": {},
+   "note": "Vossius left Leiden in 1632 for the newly founded Athenaeum."
+  },
+  "a-amsterdam-1877-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-045"
+   ],
+   "fix": {},
+   "note": "Raised to university status under the 1876 Higher Education Act."
+  },
+  "u-vu-amsterdam-1880-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-harderwijk-1648-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zurich-1867-access": {
+   "status": "confirmed",
+   "src": [
+    "lc-092"
+   ],
+   "fix": {},
+   "note": "Suslova was the first woman awarded a doctorate by the University of Zurich (1867)."
+  },
+  "u-ghent-1835-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-048",
+    "lc-050"
+   ],
+   "fix": {},
+   "note": "Law of 25 September 1835."
+  },
+  "u-liege-1817-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-050",
+    "lc-051"
+   ],
+   "fix": {},
+   "note": "Official inauguration 25 September 1817."
+  },
+  "u-liege-1835-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-050",
+    "lc-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-brussels-1834-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-brussels-1842-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-brussels-1894-split": {
+   "status": "confirmed",
+   "src": [
+    "lc-058"
+   ],
+   "fix": {},
+   "note": "The administrative council postponed Reclus's course in December 1893."
+  },
+  "u-brussels-nouvelle-1894-migration": {
+   "status": "confirmed",
+   "src": [
+    "lc-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-brussels-nouvelle-1894-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-delft-1842-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-052"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-eth-1855-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-053"
+   ],
+   "fix": {},
+   "note": "Opened in autumn 1855."
+  },
+  "u-fribourg-1889-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-054"
+   ],
+   "fix": {},
+   "note": "First faculties opened in November 1889."
+  },
+  "a-lausanne-1537-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-055",
+    "lc-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-lausanne-1890-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-055",
+    "lc-065"
+   ],
+   "fix": {},
+   "note": "Act of 10 May 1890."
+  },
+  "a-neuchatel-1838-founding": {
+   "status": "confirmed",
+   "src": [
+    "lc-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-neuchatel-1848-suppression": {
+   "status": "confirmed",
+   "src": [
+    "lc-056"
+   ],
+   "fix": {},
+   "note": "Closed by the new republic on 17 June 1848."
+  },
+  "a-neuchatel-1866-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "lc-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leuven-1517-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-059"
+   ],
+   "fix": {},
+   "note": "Funded from the bequest of Hieronymus Busleyden, who died in 1517."
+  },
+  "u-leuven-1788-reform": {
+   "status": "doubtful",
+   "src": [
+    "lc-057"
+   ],
+   "fix": {},
+   "note": "Joseph II founded the General Seminary at Leuven in 1786; the 1788 move of faculties to Brussels was not confirmed."
+  },
+  "u-harderwijk-1811-suppression": {
+   "status": "confirmed",
+   "src": [
+    "lc-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leuven-1432-charter": {
+   "status": "confirmed",
+   "src": [
+    "lc-061"
+   ],
+   "fix": {},
+   "note": "Eugene IV allowed theological degrees on 7 March 1432."
+  },
+  "u-leiden-1590-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-062"
+   ],
+   "fix": {},
+   "note": "The city approved a hortus medicus in 1590; Clusius was its first director."
+  },
+  "u-leiden-1619-confessional": {
+   "status": "confirmed",
+   "src": [
+    "lc-067"
+   ],
+   "fix": {},
+   "note": "Episcopius and his Remonstrant colleagues were dismissed after the Synod."
+  },
+  "u-utrecht-1636-access": {
+   "status": "confirmed",
+   "src": [
+    "lc-066"
+   ],
+   "fix": {
+    "approx": true
+   },
+   "note": "She followed lectures hidden behind a curtain; the exact year is not given."
+  },
+  "u-leuven-1817-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "lc-063"
+   ],
+   "fix": {},
+   "note": "Sometimes dated to 1816 (founding decree); teaching began in 1817."
+  },
+  "u-leuven-1835-relocation": {
+   "status": "confirmed",
+   "src": [
+    "lc-063"
+   ],
+   "fix": {},
+   "note": "Moved to Leuven on 1 December 1835."
+  },
+  "a-geneva-1559-migration": {
+   "status": "confirmed",
+   "src": [
+    "lc-064",
+    "lc-065"
+   ],
+   "fix": {},
+   "note": "Beza left Lausanne for Geneva in 1558; Viret was dismissed in 1559 and his colleagues left."
+  },
+  "u-brussels-1880-access": {
+   "status": "confirmed",
+   "src": [
+    "lc-093"
+   ],
+   "fix": {},
+   "note": "The first three women to enrol at a Belgian university were ULB students in 1880."
+  },
+  "t-delft-1864-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-094"
+   ],
+   "fix": {},
+   "note": "Royal decree of 20 June 1864 (effective 1 July) under the law of 2 May 1863."
+  },
+  "u-groningen-1876-reform": {
+   "status": "confirmed",
+   "src": [
+    "lc-096",
+    "lc-009"
+   ],
+   "fix": {},
+   "note": "The university museum dates the change from State College to State University to 1877, following the 1876 Act."
+  }
+ },
+ "thinkers": {
+  "th342": {
+   "status": "confirmed",
+   "src": [
+    "lc-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th373": {
+   "status": "confirmed",
+   "src": [
+    "lc-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th311": {
+   "status": "corrected",
+   "src": [
+    "lc-068"
+   ],
+   "fix": {
+    "role": "lived in Leuven, linked to the university"
+   },
+   "note": "Settled in Leuven in 1517 and left for Basel in 1521; he was associated with the Collegium Trilingue but held no chair."
+  },
+  "th312": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Britannica confirms he was professor of theology, chancellor and rector at Leuven, without dates."
+  },
+  "th313": {
+   "status": "corrected",
+   "src": [
+    "lc-022"
+   ],
+   "fix": {
+    "from": 1517,
+    "to": 1521,
+    "approx": false
+   },
+   "note": "Taught at Leuven, at the Collegium Trilingue, 1517-1521."
+  },
+  "th315": {
+   "status": "confirmed",
+   "src": [
+    "lc-021"
+   ],
+   "fix": {},
+   "note": "Matriculated 29 August 1530, MA 1532; returned in 1534 to study mathematics under Gemma Frisius."
+  },
+  "th316": {
+   "status": "confirmed",
+   "src": [
+    "lc-020"
+   ],
+   "fix": {},
+   "note": "Entered Leuven 1526, later professor of medicine and mathematics; died there 1555."
+  },
+  "th319": {
+   "status": "confirmed",
+   "src": [
+    "lc-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th321": {
+   "status": "confirmed",
+   "src": [
+    "lc-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th322": {
+   "status": "confirmed",
+   "src": [
+    "lc-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th323": {
+   "status": "confirmed",
+   "src": [
+    "lc-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th325": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Appointment at Leiden in 1594 confirmed; the end year was not checked."
+  },
+  "th326": {
+   "status": "confirmed",
+   "src": [
+    "lc-026"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th327": {
+   "status": "confirmed",
+   "src": [
+    "lc-027"
+   ],
+   "fix": {},
+   "note": "Entered Leiden aged about eleven (1594); the end year is approximate."
+  },
+  "th328": {
+   "status": "confirmed",
+   "src": [
+    "lc-018"
+   ],
+   "fix": {},
+   "note": "Succeeded his father as professor of mathematics in 1613; died 1626."
+  },
+  "th330": {
+   "status": "confirmed",
+   "src": [
+    "lc-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th336": {
+   "status": "confirmed",
+   "src": [
+    "lc-030"
+   ],
+   "fix": {},
+   "note": "Registered at Franeker in April 1629."
+  },
+  "th337": {
+   "status": "confirmed",
+   "src": [
+    "lc-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th338": {
+   "status": "corrected",
+   "src": [
+    "lc-046"
+   ],
+   "fix": {
+    "from": 1720,
+    "to": 1740,
+    "approx": false
+   },
+   "note": "Professor of Greek and history at Franeker 1720-1740; before that he taught at Amsterdam."
+  },
+  "th340": {
+   "status": "confirmed",
+   "src": [
+    "lc-010"
+   ],
+   "fix": {},
+   "note": "First rector; he died in 1625."
+  },
+  "th343": {
+   "status": "confirmed",
+   "src": [
+    "lc-077"
+   ],
+   "fix": {},
+   "note": "Appointed 13 September 1763; resigned 1773."
+  },
+  "th344": {
+   "status": "confirmed",
+   "src": [
+    "lc-032"
+   ],
+   "fix": {},
+   "note": "Admitted April 1871; doctoral thesis defended 8 March 1879."
+  },
+  "th345": {
+   "status": "confirmed",
+   "src": [
+    "lc-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th350": {
+   "status": "confirmed",
+   "src": [
+    "lc-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th352": {
+   "status": "confirmed",
+   "src": [
+    "lc-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th355": {
+   "status": "confirmed",
+   "src": [
+    "lc-035"
+   ],
+   "fix": {},
+   "note": "Lecturer from 1877, professor from 1878 for 18 years."
+  },
+  "th356": {
+   "status": "confirmed",
+   "src": [
+    "lc-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th357": {
+   "status": "confirmed",
+   "src": [
+    "lc-037"
+   ],
+   "fix": {},
+   "note": "Founded the university in 1880; became prime minister in 1901."
+  },
+  "th358": {
+   "status": "confirmed",
+   "src": [
+    "lc-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th359": {
+   "status": "confirmed",
+   "src": [
+    "lc-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th363": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Moved to Liège in 1848 and stayed for the rest of his career; the 1880 end date was not checked."
+  },
+  "th366": {
+   "status": "confirmed",
+   "src": [
+    "lc-006"
+   ],
+   "fix": {},
+   "note": "Appointed professor of theology by the city council in 1523; died 1531."
+  },
+  "th372": {
+   "status": "confirmed",
+   "src": [
+    "lc-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th374": {
+   "status": "corrected",
+   "src": [
+    "lc-017"
+   ],
+   "fix": {
+    "to": 1726
+   },
+   "note": "Studied at Basel 1720-1726 and left for St Petersburg in April 1727."
+  },
+  "th375": {
+   "status": "corrected",
+   "src": [
+    "lc-016"
+   ],
+   "fix": {
+    "from": 1734,
+    "to": 1776
+   },
+   "note": "Taught at Basel from 1734 (botany, then physiology); held the physics chair from 1750 to 1776."
+  },
+  "th382": {
+   "status": "confirmed",
+   "src": [
+    "lc-026"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th393": {
+   "status": "confirmed",
+   "src": [
+    "lc-013"
+   ],
+   "fix": {},
+   "note": "Zwingli turned the Latin school into the Prophezey in 1525; he died in 1531."
+  },
+  "th395": {
+   "status": "confirmed",
+   "src": [
+    "lc-087"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Taught at the Carolinum from 1541 until his death in December 1565."
+  },
+  "th398": {
+   "status": "confirmed",
+   "src": [
+    "lc-013"
+   ],
+   "fix": {},
+   "note": "Women were admitted as students from 1864; Suslova matriculated in 1866."
+  },
+  "th405": {
+   "status": "confirmed",
+   "src": [
+    "lc-043"
+   ],
+   "fix": {},
+   "note": "Appointed 29 August 1855; left for Würzburg in 1867."
+  },
+  "th408": {
+   "status": "confirmed",
+   "src": [
+    "lc-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th409": {
+   "status": "confirmed",
+   "src": [
+    "lc-041"
+   ],
+   "fix": {},
+   "note": "Appointed 1862; left for Berlin 1 April 1869."
+  },
+  "th410": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Studied mechanical engineering at the Zurich Polytechnic and took a doctorate at the University of Zurich in 1869; entry year not confirmed."
+  },
+  "th411": {
+   "status": "confirmed",
+   "src": [
+    "lc-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th412": {
+   "status": "confirmed",
+   "src": [
+    "lc-044"
+   ],
+   "fix": {},
+   "note": "Graduated in 1900 as a teacher of mathematics and physics."
+  },
+  "th335": {
+   "status": "confirmed",
+   "src": [
+    "lc-029",
+    "lc-095"
+   ],
+   "fix": {},
+   "note": "Professor from 1878; from 1912 extraordinary professor while at Haarlem."
+  },
+  "th317": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th390": {
+   "status": "confirmed",
+   "src": [
+    "lc-089",
+    "lc-064",
+    "lc-065"
+   ],
+   "fix": {},
+   "note": "Professor of Greek at Lausanne from about 1549, rector from 1552; left for Geneva in 1558."
+  },
+  "th387": {
+   "status": "confirmed",
+   "src": [
+    "lc-064",
+    "lc-065"
+   ],
+   "fix": {},
+   "note": "Dismissed by Bern in 1559."
+  },
+  "th346": {
+   "status": "confirmed",
+   "src": [
+    "lc-066"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th367": {
+   "status": "confirmed",
+   "src": [
+    "lc-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th377": {
+   "status": "confirmed",
+   "src": [
+    "lc-069"
+   ],
+   "fix": {},
+   "note": "Called to the chair of classical philology in May 1869; resigned in 1879."
+  },
+  "th360": {
+   "status": "confirmed",
+   "src": [
+    "lc-070"
+   ],
+   "fix": {},
+   "note": "Extraordinary professor of physics from 1835, full professor from 1844; the end year was not checked."
+  },
+  "th333": {
+   "status": "confirmed",
+   "src": [
+    "lc-071"
+   ],
+   "fix": {},
+   "note": "Professor from 1717; died in Leiden in 1742."
+  },
+  "th334": {
+   "status": "confirmed",
+   "src": [
+    "lc-072"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th392": {
+   "status": "confirmed",
+   "src": [
+    "lc-073"
+   ],
+   "fix": {},
+   "note": "Succeeded Walras in 1893; the end year was not checked."
+  },
+  "th413": {
+   "status": "corrected",
+   "src": [
+    "lc-074"
+   ],
+   "fix": {
+    "to": 1901
+   },
+   "note": "Entered in autumn 1896; failed the diploma examination in 1900 and again in July 1901."
+  },
+  "th318": {
+   "status": "confirmed",
+   "src": [
+    "lc-075"
+   ],
+   "fix": {},
+   "note": "Ordained at Leuven in 1570, where he began teaching theology."
+  },
+  "th414": {
+   "status": "corrected",
+   "src": [
+    "lc-076"
+   ],
+   "fix": {
+    "from": 1832,
+    "approx": false
+   },
+   "note": "Professor at Neuchâtel from 1832, before the Academy was founded in 1838; left for America in 1846."
+  },
+  "th339": {
+   "status": "confirmed",
+   "src": [
+    "lc-077"
+   ],
+   "fix": {},
+   "note": "Appointed at Franeker 18 September 1749; moved to Amsterdam in 1755."
+  },
+  "th331": {
+   "status": "confirmed",
+   "src": [
+    "lc-028"
+   ],
+   "fix": {
+    "approx": true
+   },
+   "note": "Philosophy degree at Leiden 1684; he continued studying there before his 1693 MD at Harderwijk."
+  },
+  "th332": {
+   "status": "confirmed",
+   "src": [
+    "lc-028"
+   ],
+   "fix": {},
+   "note": "Lecturer from 1701; spent his whole career at Leiden until his death in 1738."
+  },
+  "th351": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Britannica's summary gives Harderwijk 1735, but the article text could not be read."
+  },
+  "th402": {
+   "status": "confirmed",
+   "src": [
+    "lc-078"
+   ],
+   "fix": {},
+   "note": "Professor of surgery from 1872 and stayed in the post until his death in 1917."
+  },
+  "th361": {
+   "status": "confirmed",
+   "src": [
+    "lc-079"
+   ],
+   "fix": {},
+   "note": "At Ghent 1858-1867; resigned in September 1867 and moved to Bonn."
+  },
+  "th362": {
+   "status": "confirmed",
+   "src": [
+    "lc-080"
+   ],
+   "fix": {
+    "approx": true
+   },
+   "note": "Bachelor's 1882, doctorate 1884; taught at Ghent 1882-1889 before emigrating. Entry year not given."
+  },
+  "th396": {
+   "status": "confirmed",
+   "src": [
+    "lc-081"
+   ],
+   "fix": {
+    "role": "taught, rector"
+   },
+   "note": "Professor of natural history and first rector from 1833; worked there until his death in 1851."
+  },
+  "th397": {
+   "status": "confirmed",
+   "src": [
+    "lc-082"
+   ],
+   "fix": {},
+   "note": "Professor of Roman law at Zurich 1852-1854."
+  },
+  "th400": {
+   "status": "corrected",
+   "src": [
+    "lc-083"
+   ],
+   "fix": {
+    "from": 1890,
+    "approx": true
+   },
+   "note": "Arrived in Switzerland in 1889 and enrolled at Zurich in 1890/91; doctorate 1897."
+  },
+  "th399": {
+   "status": "confirmed",
+   "src": [
+    "lc-084"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th371": {
+   "status": "confirmed",
+   "src": [
+    "lc-085"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th369": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th394": {
+   "status": "confirmed",
+   "src": [
+    "lc-086"
+   ],
+   "fix": {},
+   "note": "Elected Zwingli's successor 9 December 1531; led the Zurich church and its school until his death in 1575."
+  },
+  "th388": {
+   "status": "confirmed",
+   "src": [
+    "lc-087"
+   ],
+   "fix": {},
+   "note": "Taught Greek at Lausanne about 1537-1540."
+  },
+  "th404": {
+   "status": "confirmed",
+   "src": [
+    "lc-088"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th379": {
+   "status": "confirmed",
+   "src": [
+    "lc-089",
+    "lc-090"
+   ],
+   "fix": {
+    "role": "rector, taught"
+   },
+   "note": "First rector in 1559 and Calvin's successor in 1564; the end of his rectorship is not dated in these sources."
+  },
+  "th378": {
+   "status": "confirmed",
+   "src": [
+    "lc-090",
+    "lc-089"
+   ],
+   "fix": {},
+   "note": "Calvin and Beza shared the theology teaching from 1559; Calvin died in 1564."
+  },
+  "th380": {
+   "status": "unverified",
+   "src": [
+    "lc-091"
+   ],
+   "fix": {},
+   "note": "Recorded as professor of humanity at Geneva, without dates; he was in Glasgow from 1574."
+  },
+  "th354": {
+   "status": "confirmed",
+   "src": [
+    "lc-045"
+   ],
+   "fix": {
+    "approx": true
+   },
+   "note": "First professor of physics after the Athenaeum became a university; his retirement fell around 1908."
+  },
+  "th314": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th320": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th324": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th329": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th341": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th347": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th348": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th349": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th353": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th364": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th365": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th368": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th370": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th376": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th381": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th383": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th384": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th385": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th386": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th389": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th391": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th401": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th403": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th406": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th407": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th415": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  }
+ }
+}

@@ -1,0 +1,2809 @@
+[
+{
+"id": "george-berkeley",
+"name": "George Berkeley",
+"first": 1700,
+"stints": [
+{
+"k": "th766",
+"inst": "u-dublin",
+"inst_name": "Trinity College Dublin",
+"city": "Dublin",
+"from": 1700,
+"to": 1724,
+"role": "studied; fellow"
+}
+],
+"era": "d"
+},
+{
+"id": "leonty-magnitsky",
+"name": "Leonty Magnitsky",
+"first": 1701,
+"stints": [
+{
+"k": "th824",
+"inst": "t-moscow-navigation",
+"inst_name": "School of Mathematics and Navigation",
+"city": "Moscow",
+"from": 1701,
+"to": 1739,
+"role": "taught mathematics"
+}
+],
+"era": "d"
+},
+{
+"id": "george-frideric-handel",
+"name": "George Frideric Handel",
+"first": 1702,
+"stints": [
+{
+"k": "th581",
+"inst": "u-halle",
+"inst_name": "University of Halle",
+"city": "Halle",
+"from": 1702,
+"to": 1703,
+"role": "studied law"
+}
+],
+"era": "d"
+},
+{
+"id": "ludvig-holberg",
+"name": "Ludvig Holberg",
+"first": 1702,
+"stints": [
+{
+"k": "th795",
+"inst": "u-copenhagen",
+"inst_name": "University of Copenhagen",
+"city": "Copenhagen",
+"from": 1702,
+"to": 1754,
+"role": "studied; professor"
+}
+],
+"era": "d"
+},
+{
+"id": "voltaire",
+"name": "Voltaire",
+"first": 1704,
+"stints": [
+{
+"k": "th252",
+"inst": "j-paris-clermont",
+"inst_name": "Collège de Clermont / Louis-le-Grand",
+"city": "Paris",
+"from": 1704,
+"to": 1711,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "tiberius-hemsterhuis",
+"name": "Tiberius Hemsterhuis",
+"first": 1704,
+"stints": [
+{
+"k": "th338",
+"inst": "u-franeker",
+"inst_name": "University of Franeker",
+"city": "Franeker",
+"from": 1704,
+"to": 1740,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "edmond-halley",
+"name": "Edmond Halley",
+"first": 1704,
+"stints": [
+{
+"k": "th682",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1704,
+"to": 1742,
+"role": "Savilian professor of geometry"
+}
+],
+"era": "d"
+},
+{
+"id": "christian-wolff",
+"name": "Christian Wolff",
+"first": 1706,
+"stints": [
+{
+"k": "th513",
+"inst": "u-marburg",
+"inst_name": "University of Marburg",
+"city": "Marburg",
+"from": 1723,
+"to": 1740,
+"role": "taught philosophy and mathematics"
+},
+{
+"k": "th580",
+"inst": "u-halle",
+"inst_name": "University of Halle",
+"city": "Halle",
+"from": 1706,
+"to": 1723,
+"role": "taught mathematics and philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "benito-jeronimo-feijoo",
+"name": "Benito Jerónimo Feijoo",
+"first": 1709,
+"stints": [
+{
+"k": "th112",
+"inst": "u-oviedo",
+"inst_name": "University of Oviedo",
+"city": "Oviedo",
+"from": 1709,
+"to": 1739,
+"role": "taught theology"
+}
+],
+"era": "d"
+},
+{
+"id": "giovanni-battista-morgagni",
+"name": "Giovanni Battista Morgagni",
+"first": 1711,
+"stints": [
+{
+"k": "th28",
+"inst": "u-padua",
+"inst_name": "University of Padua",
+"city": "Padua",
+"from": 1711,
+"to": 1771,
+"role": "taught anatomy"
+}
+],
+"era": "d"
+},
+{
+"id": "francis-hutcheson",
+"name": "Francis Hutcheson",
+"first": 1711,
+"stints": [
+{
+"k": "th733",
+"inst": "u-glasgow",
+"inst_name": "University of Glasgow",
+"city": "Glasgow",
+"from": 1711,
+"to": 1746,
+"role": "studied; professor of moral philosophy 1729-46"
+}
+],
+"era": "d"
+},
+{
+"id": "makarios-kalogeras",
+"name": "Makarios Kalogeras",
+"first": 1713,
+"stints": [
+{
+"k": "th962",
+"inst": "b-patmos",
+"inst_name": "Patmian School",
+"city": "Patmos",
+"from": 1713,
+"to": 1737,
+"role": "founded; taught"
+}
+],
+"era": "d"
+},
+{
+"id": "willem-s-gravesande",
+"name": "Willem 's Gravesande",
+"first": 1717,
+"stints": [
+{
+"k": "th333",
+"inst": "u-leiden",
+"inst_name": "Leiden University",
+"city": "Leiden",
+"from": 1717,
+"to": 1742,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "colin-maclaurin",
+"name": "Colin Maclaurin",
+"first": 1717,
+"stints": [
+{
+"k": "th742",
+"inst": "u-aberdeen-marischal",
+"inst_name": "Marischal College",
+"city": "Aberdeen",
+"from": 1717,
+"to": 1725,
+"role": "professor of mathematics"
+},
+{
+"k": "th747",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1725,
+"to": 1746,
+"role": "professor of mathematics"
+}
+],
+"era": "d"
+},
+{
+"id": "leonhard-euler",
+"name": "Leonhard Euler",
+"first": 1720,
+"stints": [
+{
+"k": "th374",
+"inst": "u-basel",
+"inst_name": "University of Basel",
+"city": "Basel",
+"from": 1720,
+"to": 1727,
+"role": "studied"
+},
+{
+"k": "th827",
+"inst": "u-st-petersburg-academic",
+"inst_name": "Academic University of St Petersburg",
+"city": "St Petersburg",
+"from": 1727,
+"to": 1741,
+"role": "academician/taught"
+}
+],
+"era": "d"
+},
+{
+"id": "alexander-monro-primus",
+"name": "Alexander Monro primus",
+"first": 1720,
+"stints": [
+{
+"k": "th748",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1720,
+"to": 1758,
+"role": "professor of anatomy"
+}
+],
+"era": "d"
+},
+{
+"id": "gregorio-mayans",
+"name": "Gregorio Mayans",
+"first": 1723,
+"stints": [
+{
+"k": "th123",
+"inst": "u-valencia",
+"inst_name": "University of Valencia",
+"city": "Valencia",
+"from": 1723,
+"to": 1730,
+"role": "taught law"
+}
+],
+"era": "d"
+},
+{
+"id": "johann-lorenz-von-mosheim",
+"name": "Johann Lorenz von Mosheim",
+"first": 1723,
+"stints": [
+{
+"k": "th547",
+"inst": "u-helmstedt",
+"inst_name": "University of Helmstedt",
+"city": "Helmstedt",
+"from": 1723,
+"to": 1747,
+"role": "taught theology"
+}
+],
+"era": "d"
+},
+{
+"id": "david-hume",
+"name": "David Hume",
+"first": 1723,
+"stints": [
+{
+"k": "th746",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1723,
+"to": 1725,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "vasily-trediakovsky",
+"name": "Vasily Trediakovsky",
+"first": 1723,
+"stints": [
+{
+"k": "th822",
+"inst": "b-moscow-academy",
+"inst_name": "Slavic-Greek-Latin Academy",
+"city": "Moscow",
+"from": 1723,
+"to": 1725,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "diego-de-torres-villarroel",
+"name": "Diego de Torres Villarroel",
+"first": 1726,
+"stints": [
+{
+"k": "th143",
+"inst": "u-salamanca",
+"inst_name": "University of Salamanca",
+"city": "Salamanca",
+"from": 1726,
+"to": 1751,
+"role": "taught mathematics"
+}
+],
+"era": "d"
+},
+{
+"id": "carl-linnaeus",
+"name": "Carl Linnaeus",
+"first": 1727,
+"stints": [
+{
+"k": "th351",
+"inst": "u-harderwijk",
+"inst_name": "University of Harderwijk",
+"city": "Harderwijk",
+"from": 1735,
+"to": 1735,
+"role": "doctorate"
+},
+{
+"k": "th778",
+"inst": "u-uppsala",
+"inst_name": "Uppsala University",
+"city": "Uppsala",
+"from": 1728,
+"to": 1778,
+"role": "studied; professor of medicine and botany 1741-78"
+},
+{
+"k": "th785",
+"inst": "u-lund",
+"inst_name": "Lund University",
+"city": "Lund",
+"from": 1727,
+"to": 1728,
+"role": "studied medicine"
+}
+],
+"era": "d"
+},
+{
+"id": "hermann-samuel-reimarus",
+"name": "Hermann Samuel Reimarus",
+"first": 1727,
+"stints": [
+{
+"k": "th644",
+"inst": "a-hamburg",
+"inst_name": "Akademisches Gymnasium Hamburg",
+"city": "Hamburg",
+"from": 1727,
+"to": 1768,
+"role": "taught oriental languages"
+}
+],
+"era": "d"
+},
+{
+"id": "jorge-juan",
+"name": "Jorge Juan",
+"first": 1729,
+"stints": [
+{
+"k": "th181",
+"inst": "t-cadiz-navy",
+"inst_name": "Royal Academy of Naval Guards",
+"city": "Cádiz",
+"from": 1729,
+"to": 1734,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "philip-doddridge",
+"name": "Philip Doddridge",
+"first": 1729,
+"stints": [
+{
+"k": "th702",
+"inst": "a-northampton",
+"inst_name": "Northampton Academy",
+"city": "Northampton",
+"from": 1729,
+"to": 1751,
+"role": "founded and taught"
+}
+],
+"era": "d"
+},
+{
+"id": "anders-celsius",
+"name": "Anders Celsius",
+"first": 1730,
+"stints": [
+{
+"k": "th779",
+"inst": "u-uppsala",
+"inst_name": "Uppsala University",
+"city": "Uppsala",
+"from": 1730,
+"to": 1744,
+"role": "professor of astronomy"
+}
+],
+"era": "d"
+},
+{
+"id": "mikhail-lomonosov",
+"name": "Mikhail Lomonosov",
+"first": 1731,
+"stints": [
+{
+"k": "th823",
+"inst": "b-moscow-academy",
+"inst_name": "Slavic-Greek-Latin Academy",
+"city": "Moscow",
+"from": 1731,
+"to": 1735,
+"role": "studied"
+},
+{
+"k": "th825",
+"inst": "u-st-petersburg-academic",
+"inst_name": "Academic University of St Petersburg",
+"city": "St Petersburg",
+"from": 1736,
+"to": 1736,
+"role": "studied"
+},
+{
+"k": "th826",
+"inst": "u-st-petersburg-academic",
+"inst_name": "Academic University of St Petersburg",
+"city": "St Petersburg",
+"from": 1758,
+"to": 1765,
+"role": "rector"
+}
+],
+"era": "d"
+},
+{
+"id": "laura-bassi",
+"name": "Laura Bassi",
+"first": 1732,
+"stints": [
+{
+"k": "th13",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1732,
+"to": 1778,
+"role": "taught physics"
+}
+],
+"era": "d"
+},
+{
+"id": "daniel-bernoulli",
+"name": "Daniel Bernoulli",
+"first": 1733,
+"stints": [
+{
+"k": "th375",
+"inst": "u-basel",
+"inst_name": "University of Basel",
+"city": "Basel",
+"from": 1733,
+"to": 1782,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "josep-finestres",
+"name": "Josep Finestres",
+"first": 1734,
+"stints": [
+{
+"k": "th118",
+"inst": "u-cervera",
+"inst_name": "University of Cervera",
+"city": "Cervera",
+"from": 1734,
+"to": 1777,
+"role": "taught law"
+}
+],
+"era": "d"
+},
+{
+"id": "carl-philipp-emanuel-bach",
+"name": "Carl Philipp Emanuel Bach",
+"first": 1734,
+"stints": [
+{
+"k": "th507",
+"inst": "u-frankfurt-oder",
+"inst_name": "University of Frankfurt (Oder)",
+"city": "Frankfurt (Oder)",
+"from": 1734,
+"to": 1738,
+"role": "studied law"
+}
+],
+"era": "d"
+},
+{
+"id": "hryhorii-skovoroda",
+"name": "Hryhorii Skovoroda",
+"first": 1734,
+"stints": [
+{
+"k": "th859",
+"inst": "b-kharkiv-collegium",
+"inst_name": "Kharkiv Collegium",
+"city": "Kharkiv",
+"from": 1759,
+"to": 1769,
+"role": "taught poetics, ethics"
+},
+{
+"k": "th863",
+"inst": "b-kyiv-mohyla",
+"inst_name": "Kyiv-Mohyla Academy",
+"city": "Kyiv",
+"from": 1734,
+"to": 1753,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "alexander-gottlieb-baumgarten",
+"name": "Alexander Gottlieb Baumgarten",
+"first": 1735,
+"stints": [
+{
+"k": "th582",
+"inst": "u-halle",
+"inst_name": "University of Halle",
+"city": "Halle",
+"from": 1735,
+"to": 1740,
+"role": "taught philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "albrecht-von-haller",
+"name": "Albrecht von Haller",
+"first": 1736,
+"stints": [
+{
+"k": "th593",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1736,
+"to": 1753,
+"role": "taught medicine, anatomy and botany"
+}
+],
+"era": "d"
+},
+{
+"id": "adam-smith",
+"name": "Adam Smith",
+"first": 1737,
+"stints": [
+{
+"k": "th683",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1740,
+"to": 1746,
+"role": "Snell exhibitioner at Balliol"
+},
+{
+"k": "th734",
+"inst": "u-glasgow",
+"inst_name": "University of Glasgow",
+"city": "Glasgow",
+"from": 1737,
+"to": 1764,
+"role": "studied; professor of logic and moral philosophy 1751-64"
+}
+],
+"era": "d"
+},
+{
+"id": "buffon",
+"name": "Buffon",
+"first": 1739,
+"stints": [
+{
+"k": "th272",
+"inst": "m-paris-jardin-du-roi",
+"inst_name": "Jardin du roi / Muséum national d'histoire naturelle",
+"city": "Paris",
+"from": 1739,
+"to": 1788,
+"role": "intendant"
+}
+],
+"era": "d"
+},
+{
+"id": "pieter-van-musschenbroek",
+"name": "Pieter van Musschenbroek",
+"first": 1740,
+"stints": [
+{
+"k": "th334",
+"inst": "u-leiden",
+"inst_name": "Leiden University",
+"city": "Leiden",
+"from": 1740,
+"to": 1761,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "immanuel-kant",
+"name": "Immanuel Kant",
+"first": 1740,
+"stints": [
+{
+"k": "th521",
+"inst": "u-konigsberg",
+"inst_name": "University of Königsberg",
+"city": "Königsberg",
+"from": 1740,
+"to": 1796,
+"role": "studied, then taught philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "eugenios-voulgaris",
+"name": "Eugenios Voulgaris",
+"first": 1742,
+"stints": [
+{
+"k": "th955",
+"inst": "b-patriarchal-academy",
+"inst_name": "Patriarchal Academy of Constantinople",
+"city": "Constantinople",
+"from": 1759,
+"to": 1761,
+"role": "director"
+},
+{
+"k": "th964",
+"inst": "b-athonite-academy",
+"inst_name": "Athonite Academy",
+"city": "Mount Athos (Vatopedi)",
+"from": 1753,
+"to": 1759,
+"role": "director"
+},
+{
+"k": "th967",
+"inst": "b-ioannina-maroutsaia",
+"inst_name": "Maroutsaia School, Ioannina",
+"city": "Ioannina",
+"from": 1742,
+"to": 1753,
+"role": "taught; headmaster"
+}
+],
+"era": "d"
+},
+{
+"id": "edmund-burke",
+"name": "Edmund Burke",
+"first": 1744,
+"stints": [
+{
+"k": "th767",
+"inst": "u-dublin",
+"inst_name": "Trinity College Dublin",
+"city": "Dublin",
+"from": 1744,
+"to": 1748,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "oliver-goldsmith",
+"name": "Oliver Goldsmith",
+"first": 1745,
+"stints": [
+{
+"k": "th768",
+"inst": "u-dublin",
+"inst_name": "Trinity College Dublin",
+"city": "Dublin",
+"from": 1745,
+"to": 1749,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "anders-chydenius",
+"name": "Anders Chydenius",
+"first": 1745,
+"stints": [
+{
+"k": "th810",
+"inst": "u-turku-helsinki",
+"inst_name": "Royal Academy of Turku / Imperial Alexander University",
+"city": "Turku",
+"from": 1745,
+"to": 1753,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "gotthold-ephraim-lessing",
+"name": "Gotthold Ephraim Lessing",
+"first": 1746,
+"stints": [
+{
+"k": "th456",
+"inst": "u-leipzig",
+"inst_name": "University of Leipzig",
+"city": "Leipzig",
+"from": 1746,
+"to": 1748,
+"role": "studied theology and medicine"
+}
+],
+"era": "d"
+},
+{
+"id": "johann-georg-hamann",
+"name": "Johann Georg Hamann",
+"first": 1746,
+"stints": [
+{
+"k": "th522",
+"inst": "u-konigsberg",
+"inst_name": "University of Königsberg",
+"city": "Königsberg",
+"from": 1746,
+"to": 1752,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "joseph-black",
+"name": "Joseph Black",
+"first": 1746,
+"stints": [
+{
+"k": "th735",
+"inst": "u-glasgow",
+"inst_name": "University of Glasgow",
+"city": "Glasgow",
+"from": 1746,
+"to": 1766,
+"role": "studied; professor of medicine and chemistry 1756-66"
+},
+{
+"k": "th750",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1766,
+"to": 1799,
+"role": "professor of chemistry"
+}
+],
+"era": "d"
+},
+{
+"id": "jean-rodolphe-perronet",
+"name": "Jean-Rodolphe Perronet",
+"first": 1747,
+"stints": [
+{
+"k": "th276",
+"inst": "t-ponts-chaussees",
+"inst_name": "École des ponts et chaussées",
+"city": "Paris",
+"from": 1747,
+"to": 1794,
+"role": "founded"
+}
+],
+"era": "d"
+},
+{
+"id": "pehr-kalm",
+"name": "Pehr Kalm",
+"first": 1747,
+"stints": [
+{
+"k": "th809",
+"inst": "u-turku-helsinki",
+"inst_name": "Royal Academy of Turku / Imperial Alexander University",
+"city": "Turku",
+"from": 1747,
+"to": 1779,
+"role": "professor of economics and natural history"
+}
+],
+"era": "d"
+},
+{
+"id": "pedro-virgili",
+"name": "Pedro Virgili",
+"first": 1748,
+"stints": [
+{
+"k": "th183",
+"inst": "m-cadiz-surgery",
+"inst_name": "Royal College of Surgery of Cádiz",
+"city": "Cádiz",
+"from": 1748,
+"to": 1758,
+"role": "founded and directed"
+},
+{
+"k": "th184",
+"inst": "m-barcelona-surgery",
+"inst_name": "Royal College of Surgery of Barcelona",
+"city": "Barcelona",
+"from": 1760,
+"to": 1764,
+"role": "founded"
+}
+],
+"era": "d"
+},
+{
+"id": "petrus-camper",
+"name": "Petrus Camper",
+"first": 1749,
+"stints": [
+{
+"k": "th339",
+"inst": "u-franeker",
+"inst_name": "University of Franeker",
+"city": "Franeker",
+"from": 1749,
+"to": 1755,
+"role": "taught"
+},
+{
+"k": "th343",
+"inst": "u-groningen",
+"inst_name": "University of Groningen",
+"city": "Groningen",
+"from": 1763,
+"to": 1773,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "gerard-van-swieten",
+"name": "Gerard van Swieten",
+"first": 1749,
+"stints": [
+{
+"k": "th420",
+"inst": "u-vienna",
+"inst_name": "University of Vienna",
+"city": "Vienna",
+"from": 1749,
+"to": 1772,
+"role": "director of medical studies"
+}
+],
+"era": "d"
+},
+{
+"id": "neophytos-kafsokalyvitis",
+"name": "Neophytos Kafsokalyvitis",
+"first": 1749,
+"stints": [
+{
+"k": "th963",
+"inst": "b-athonite-academy",
+"inst_name": "Athonite Academy",
+"city": "Mount Athos (Vatopedi)",
+"from": 1749,
+"to": 1753,
+"role": "first director"
+}
+],
+"era": "d"
+},
+{
+"id": "robert-joseph-pothier",
+"name": "Robert-Joseph Pothier",
+"first": 1750,
+"stints": [
+{
+"k": "th225",
+"inst": "u-orleans",
+"inst_name": "University of Orléans",
+"city": "Orléans",
+"from": 1750,
+"to": 1772,
+"role": "taught law"
+}
+],
+"era": "d"
+},
+{
+"id": "thomas-reid",
+"name": "Thomas Reid",
+"first": 1751,
+"stints": [
+{
+"k": "th737",
+"inst": "u-glasgow",
+"inst_name": "University of Glasgow",
+"city": "Glasgow",
+"from": 1764,
+"to": 1780,
+"role": "professor of moral philosophy"
+},
+{
+"k": "th741",
+"inst": "u-aberdeen-kings",
+"inst_name": "King's College, Aberdeen",
+"city": "Old Aberdeen",
+"from": 1751,
+"to": 1764,
+"role": "regent"
+}
+],
+"era": "d"
+},
+{
+"id": "joseph-priestley",
+"name": "Joseph Priestley",
+"first": 1752,
+"stints": [
+{
+"k": "th703",
+"inst": "a-northampton",
+"inst_name": "Northampton Academy",
+"city": "Northampton",
+"from": 1752,
+"to": 1755,
+"role": "studied at Daventry"
+},
+{
+"k": "th704",
+"inst": "a-warrington",
+"inst_name": "Warrington Academy",
+"city": "Warrington",
+"from": 1761,
+"to": 1767,
+"role": "tutor in languages and belles lettres"
+},
+{
+"k": "th705",
+"inst": "a-hackney",
+"inst_name": "New College, Hackney",
+"city": "Hackney",
+"from": 1791,
+"to": 1794,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "kosmas-the-aetolian",
+"name": "Kosmas the Aetolian",
+"first": 1753,
+"stints": [
+{
+"k": "th965",
+"inst": "b-athonite-academy",
+"inst_name": "Athonite Academy",
+"city": "Mount Athos (Vatopedi)",
+"from": 1753,
+"to": 1759,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "antonio-genovesi",
+"name": "Antonio Genovesi",
+"first": 1754,
+"stints": [
+{
+"k": "th36",
+"inst": "u-naples",
+"inst_name": "University of Naples",
+"city": "Naples",
+"from": 1754,
+"to": 1769,
+"role": "taught political economy"
+}
+],
+"era": "d"
+},
+{
+"id": "joseph-louis-lagrange",
+"name": "Joseph-Louis Lagrange",
+"first": 1755,
+"stints": [
+{
+"k": "th93",
+"inst": "t-turin-artillery",
+"inst_name": "Royal Schools of Artillery and Fortification",
+"city": "Turin",
+"from": 1755,
+"to": 1766,
+"role": "taught mathematics"
+},
+{
+"k": "th286",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1794,
+"to": 1799,
+"role": "taught"
+},
+{
+"k": "th297",
+"inst": "t-ens",
+"inst_name": "École normale supérieure",
+"city": "Paris",
+"from": 1795,
+"to": 1795,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "henrik-gabriel-porthan",
+"name": "Henrik Gabriel Porthan",
+"first": 1755,
+"stints": [
+{
+"k": "th811",
+"inst": "u-turku-helsinki",
+"inst_name": "Royal Academy of Turku / Imperial Alexander University",
+"city": "Turku",
+"from": 1755,
+"to": 1804,
+"role": "studied; professor of eloquence"
+}
+],
+"era": "d"
+},
+{
+"id": "james-watt",
+"name": "James Watt",
+"first": 1757,
+"stints": [
+{
+"k": "th736",
+"inst": "u-glasgow",
+"inst_name": "University of Glasgow",
+"city": "Glasgow",
+"from": 1757,
+"to": 1763,
+"role": "mathematical instrument maker"
+}
+],
+"era": "d"
+},
+{
+"id": "adam-ferguson",
+"name": "Adam Ferguson",
+"first": 1759,
+"stints": [
+{
+"k": "th749",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1759,
+"to": 1785,
+"role": "professor of natural and moral philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "gaspar-melchor-de-jovellanos",
+"name": "Gaspar Melchor de Jovellanos",
+"first": 1760,
+"stints": [
+{
+"k": "th121",
+"inst": "u-osma",
+"inst_name": "University of Santa Catalina (El Burgo de Osma)",
+"city": "El Burgo de Osma",
+"from": 1760,
+"to": 1761,
+"role": "studied canon law"
+},
+{
+"k": "th156",
+"inst": "u-alcala-madrid",
+"inst_name": "University of Alcalá / Central University of Madrid",
+"city": "Alcalá de Henares",
+"from": 1764,
+"to": 1766,
+"role": "studied canon law"
+}
+],
+"era": "d"
+},
+{
+"id": "charles-augustin-de-coulomb",
+"name": "Charles-Augustin de Coulomb",
+"first": 1760,
+"stints": [
+{
+"k": "th281",
+"inst": "t-mezieres",
+"inst_name": "École royale du génie de Mézières",
+"city": "Mézières",
+"from": 1760,
+"to": 1761,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "james-beattie",
+"name": "James Beattie",
+"first": 1760,
+"stints": [
+{
+"k": "th743",
+"inst": "u-aberdeen-marischal",
+"inst_name": "Marischal College",
+"city": "Aberdeen",
+"from": 1760,
+"to": 1797,
+"role": "professor of moral philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "adamantios-korais",
+"name": "Adamantios Korais",
+"first": 1760,
+"stints": [
+{
+"k": "th969",
+"inst": "b-smyrna-evangelical",
+"inst_name": "Evangelical School of Smyrna",
+"city": "Smyrna",
+"from": 1760,
+"to": 1771,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "luigi-galvani",
+"name": "Luigi Galvani",
+"first": 1762,
+"stints": [
+{
+"k": "th14",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1762,
+"to": 1798,
+"role": "taught anatomy"
+}
+],
+"era": "d"
+},
+{
+"id": "horace-benedict-de-saussure",
+"name": "Horace-Bénédict de Saussure",
+"first": 1762,
+"stints": [
+{
+"k": "th385",
+"inst": "a-geneva",
+"inst_name": "Academy of Geneva / University of Geneva",
+"city": "Geneva",
+"from": 1762,
+"to": 1786,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "johann-gottfried-herder",
+"name": "Johann Gottfried Herder",
+"first": 1762,
+"stints": [
+{
+"k": "th523",
+"inst": "u-konigsberg",
+"inst_name": "University of Königsberg",
+"city": "Königsberg",
+"from": 1762,
+"to": 1764,
+"role": "studied under Kant"
+}
+],
+"era": "d"
+},
+{
+"id": "lazzaro-spallanzani",
+"name": "Lazzaro Spallanzani",
+"first": 1763,
+"stints": [
+{
+"k": "th76",
+"inst": "u-pavia",
+"inst_name": "University of Pavia",
+"city": "Pavia",
+"from": 1769,
+"to": 1799,
+"role": "taught natural history"
+},
+{
+"k": "th82",
+"inst": "u-modena",
+"inst_name": "University of Modena",
+"city": "Modena",
+"from": 1763,
+"to": 1769,
+"role": "taught physics"
+}
+],
+"era": "d"
+},
+{
+"id": "georg-christoph-lichtenberg",
+"name": "Georg Christoph Lichtenberg",
+"first": 1763,
+"stints": [
+{
+"k": "th594",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1763,
+"to": 1799,
+"role": "studied and taught experimental physics"
+}
+],
+"era": "d"
+},
+{
+"id": "christian-gottlob-heyne",
+"name": "Christian Gottlob Heyne",
+"first": 1763,
+"stints": [
+{
+"k": "th595",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1763,
+"to": 1812,
+"role": "taught classical philology"
+}
+],
+"era": "d"
+},
+{
+"id": "nikolaus-joseph-von-jacquin",
+"name": "Nikolaus Joseph von Jacquin",
+"first": 1763,
+"stints": [
+{
+"k": "th878",
+"inst": "t-banska-stiavnica",
+"inst_name": "Selmecbánya Mining Academy",
+"city": "Banská Štiavnica",
+"from": 1763,
+"to": 1768,
+"role": "taught chemistry and mineralogy"
+}
+],
+"era": "d"
+},
+{
+"id": "ruggero-giuseppe-boscovich",
+"name": "Ruggero Giuseppe Boscovich",
+"first": 1764,
+"stints": [
+{
+"k": "th96",
+"inst": "j-milan-brera",
+"inst_name": "Jesuit College of Brera",
+"city": "Milan",
+"from": 1764,
+"to": 1773,
+"role": "taught mathematics and founded the observatory"
+}
+],
+"era": "d"
+},
+{
+"id": "gaspard-monge",
+"name": "Gaspard Monge",
+"first": 1765,
+"stints": [
+{
+"k": "th280",
+"inst": "t-mezieres",
+"inst_name": "École royale du génie de Mézières",
+"city": "Mézières",
+"from": 1765,
+"to": 1784,
+"role": "taught"
+},
+{
+"k": "th285",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1794,
+"to": 1809,
+"role": "founded"
+}
+],
+"era": "d"
+},
+{
+"id": "johann-wolfgang-von-goethe",
+"name": "Johann Wolfgang von Goethe",
+"first": 1765,
+"stints": [
+{
+"k": "th457",
+"inst": "u-leipzig",
+"inst_name": "University of Leipzig",
+"city": "Leipzig",
+"from": 1765,
+"to": 1768,
+"role": "studied law"
+},
+{
+"k": "th568",
+"inst": "u-strasbourg",
+"inst_name": "University of Strasbourg",
+"city": "Strasbourg",
+"from": 1770,
+"to": 1771,
+"role": "studied law"
+}
+],
+"era": "d"
+},
+{
+"id": "iosipos-moisiodax",
+"name": "Iosipos Moisiodax",
+"first": 1765,
+"stints": [
+{
+"k": "th886",
+"inst": "b-iasi-academy",
+"inst_name": "Princely Academy of Iași",
+"city": "Iași",
+"from": 1765,
+"to": 1777,
+"role": "taught, director"
+}
+],
+"era": "d"
+},
+{
+"id": "pierre-simon-laplace",
+"name": "Pierre-Simon Laplace",
+"first": 1766,
+"stints": [
+{
+"k": "th238",
+"inst": "u-caen",
+"inst_name": "University of Caen",
+"city": "Caen",
+"from": 1766,
+"to": 1768,
+"role": "studied"
+},
+{
+"k": "th298",
+"inst": "t-ens",
+"inst_name": "École normale supérieure",
+"city": "Paris",
+"from": 1795,
+"to": 1795,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "antoine-laurent-de-jussieu",
+"name": "Antoine-Laurent de Jussieu",
+"first": 1770,
+"stints": [
+{
+"k": "th273",
+"inst": "m-paris-jardin-du-roi",
+"inst_name": "Jardin du roi / Muséum national d'histoire naturelle",
+"city": "Paris",
+"from": 1770,
+"to": 1826,
+"role": "taught botany"
+}
+],
+"era": "d"
+},
+{
+"id": "christoph-traugott-delius",
+"name": "Christoph Traugott Delius",
+"first": 1770,
+"stints": [
+{
+"k": "th879",
+"inst": "t-banska-stiavnica",
+"inst_name": "Selmecbánya Mining Academy",
+"city": "Banská Štiavnica",
+"from": 1770,
+"to": 1772,
+"role": "taught mining"
+}
+],
+"era": "d"
+},
+{
+"id": "lazare-carnot",
+"name": "Lazare Carnot",
+"first": 1771,
+"stints": [
+{
+"k": "th282",
+"inst": "t-mezieres",
+"inst_name": "École royale du génie de Mézières",
+"city": "Mézières",
+"from": 1771,
+"to": 1773,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "domenico-vandelli",
+"name": "Domenico Vandelli",
+"first": 1772,
+"stints": [
+{
+"k": "th169",
+"inst": "u-lisbon-coimbra",
+"inst_name": "University of Coimbra",
+"city": "Lisbon",
+"from": 1772,
+"to": 1791,
+"role": "taught natural history and chemistry"
+}
+],
+"era": "d"
+},
+{
+"id": "adam-weishaupt",
+"name": "Adam Weishaupt",
+"first": 1773,
+"stints": [
+{
+"k": "th479",
+"inst": "u-ingolstadt-munich",
+"inst_name": "Ludwig Maximilian University (Ingolstadt–Landshut–Munich)",
+"city": "Ingolstadt",
+"from": 1773,
+"to": 1785,
+"role": "taught canon law"
+}
+],
+"era": "d"
+},
+{
+"id": "friedrich-schiller",
+"name": "Friedrich Schiller",
+"first": 1773,
+"stints": [
+{
+"k": "th534",
+"inst": "u-jena",
+"inst_name": "University of Jena",
+"city": "Jena",
+"from": 1789,
+"to": 1799,
+"role": "taught history"
+},
+{
+"k": "th641",
+"inst": "u-stuttgart-karlsschule",
+"inst_name": "Hohe Karlsschule",
+"city": "Solitude (Stuttgart)",
+"from": 1773,
+"to": 1780,
+"role": "studied law and medicine"
+}
+],
+"era": "d"
+},
+{
+"id": "charles-hutton",
+"name": "Charles Hutton",
+"first": 1773,
+"stints": [
+{
+"k": "th709",
+"inst": "t-woolwich",
+"inst_name": "Royal Military Academy, Woolwich",
+"city": "Woolwich",
+"from": 1773,
+"to": 1807,
+"role": "professor of mathematics"
+}
+],
+"era": "d"
+},
+{
+"id": "abraham-gottlob-werner",
+"name": "Abraham Gottlob Werner",
+"first": 1775,
+"stints": [
+{
+"k": "th649",
+"inst": "t-freiberg",
+"inst_name": "Freiberg Mining Academy",
+"city": "Freiberg",
+"from": 1775,
+"to": 1817,
+"role": "taught mineralogy and geology"
+}
+],
+"era": "d"
+},
+{
+"id": "hugo-koataj",
+"name": "Hugo Kołłątaj",
+"first": 1777,
+"stints": [
+{
+"k": "th913",
+"inst": "u-krakow",
+"inst_name": "University of Kraków (Jagiellonian University)",
+"city": "Kraków",
+"from": 1777,
+"to": 1786,
+"role": "reformer, rector"
+}
+],
+"era": "d"
+},
+{
+"id": "louis-proust",
+"name": "Louis Proust",
+"first": 1778,
+"stints": [
+{
+"k": "th176",
+"inst": "t-vergara",
+"inst_name": "Royal Patriotic Seminary of Vergara",
+"city": "Bergara",
+"from": 1778,
+"to": 1780,
+"role": "taught chemistry"
+},
+{
+"k": "th180",
+"inst": "t-segovia",
+"inst_name": "Royal College of Artillery of Segovia",
+"city": "Segovia",
+"from": 1786,
+"to": 1799,
+"role": "taught chemistry"
+}
+],
+"era": "d"
+},
+{
+"id": "alessandro-volta",
+"name": "Alessandro Volta",
+"first": 1779,
+"stints": [
+{
+"k": "th77",
+"inst": "u-pavia",
+"inst_name": "University of Pavia",
+"city": "Pavia",
+"from": 1779,
+"to": 1819,
+"role": "taught physics"
+}
+],
+"era": "d"
+},
+{
+"id": "franz-von-furstenberg",
+"name": "Franz von Fürstenberg",
+"first": 1780,
+"stints": [
+{
+"k": "th612",
+"inst": "u-munster",
+"inst_name": "University of Münster",
+"city": "Münster",
+"from": 1780,
+"to": 1810,
+"role": "founded; curator"
+}
+],
+"era": "d"
+},
+{
+"id": "mihaly-csokonai-vitez",
+"name": "Mihály Csokonai Vitéz",
+"first": 1780,
+"stints": [
+{
+"k": "th880",
+"inst": "a-debrecen",
+"inst_name": "Reformed College of Debrecen",
+"city": "Debrecen",
+"from": 1780,
+"to": 1795,
+"role": "studied, taught poetics"
+}
+],
+"era": "d"
+},
+{
+"id": "marcin-poczobutt",
+"name": "Marcin Poczobutt",
+"first": 1780,
+"stints": [
+{
+"k": "th916",
+"inst": "u-vilnius",
+"inst_name": "University of Vilnius",
+"city": "Vilnius",
+"from": 1780,
+"to": 1799,
+"role": "rector"
+}
+],
+"era": "d"
+},
+{
+"id": "giuseppe-piazzi",
+"name": "Giuseppe Piazzi",
+"first": 1781,
+"stints": [
+{
+"k": "th103",
+"inst": "u-palermo",
+"inst_name": "University of Palermo",
+"city": "Palermo",
+"from": 1781,
+"to": 1826,
+"role": "taught mathematics and astronomy"
+}
+],
+"era": "d"
+},
+{
+"id": "fausto-elhuyar",
+"name": "Fausto Elhuyar",
+"first": 1781,
+"stints": [
+{
+"k": "th177",
+"inst": "t-vergara",
+"inst_name": "Royal Patriotic Seminary of Vergara",
+"city": "Bergara",
+"from": 1781,
+"to": 1785,
+"role": "taught mineralogy"
+}
+],
+"era": "d"
+},
+{
+"id": "johann-gottlieb-fichte",
+"name": "Johann Gottlieb Fichte",
+"first": 1781,
+"stints": [
+{
+"k": "th458",
+"inst": "u-leipzig",
+"inst_name": "University of Leipzig",
+"city": "Leipzig",
+"from": 1781,
+"to": 1784,
+"role": "studied theology"
+},
+{
+"k": "th532",
+"inst": "u-jena",
+"inst_name": "University of Jena",
+"city": "Jena",
+"from": 1794,
+"to": 1799,
+"role": "taught philosophy"
+},
+{
+"k": "th607",
+"inst": "u-erlangen",
+"inst_name": "University of Erlangen",
+"city": "Erlangen",
+"from": 1805,
+"to": 1805,
+"role": "taught philosophy (summer semester)"
+},
+{
+"k": "th626",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1810,
+"to": 1814,
+"role": "taught philosophy; first elected rector"
+}
+],
+"era": "d"
+},
+{
+"id": "jan-sniadecki",
+"name": "Jan Śniadecki",
+"first": 1781,
+"stints": [
+{
+"k": "th914",
+"inst": "u-krakow",
+"inst_name": "University of Kraków (Jagiellonian University)",
+"city": "Kraków",
+"from": 1781,
+"to": 1803,
+"role": "taught astronomy"
+},
+{
+"k": "th917",
+"inst": "u-vilnius",
+"inst_name": "University of Vilnius",
+"city": "Vilnius",
+"from": 1807,
+"to": 1814,
+"role": "rector"
+}
+],
+"era": "d"
+},
+{
+"id": "jose-bonifacio-de-andrada-e-silva",
+"name": "José Bonifácio de Andrada e Silva",
+"first": 1783,
+"stints": [
+{
+"k": "th170",
+"inst": "u-lisbon-coimbra",
+"inst_name": "University of Coimbra",
+"city": "Lisbon",
+"from": 1783,
+"to": 1788,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "friedrich-august-wolf",
+"name": "Friedrich August Wolf",
+"first": 1783,
+"stints": [
+{
+"k": "th583",
+"inst": "u-halle",
+"inst_name": "University of Halle",
+"city": "Halle",
+"from": 1783,
+"to": 1807,
+"role": "taught classical philology"
+}
+],
+"era": "d"
+},
+{
+"id": "walter-scott",
+"name": "Walter Scott",
+"first": 1783,
+"stints": [
+{
+"k": "th752",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1783,
+"to": 1792,
+"role": "studied arts and law"
+}
+],
+"era": "d"
+},
+{
+"id": "georges-cuvier",
+"name": "Georges Cuvier",
+"first": 1784,
+"stints": [
+{
+"k": "th265",
+"inst": "m-paris-college-de-france",
+"inst_name": "Collège de France",
+"city": "Paris",
+"from": 1800,
+"to": 1832,
+"role": "taught"
+},
+{
+"k": "th275",
+"inst": "m-paris-jardin-du-roi",
+"inst_name": "Jardin du roi / Muséum national d'histoire naturelle",
+"city": "Paris",
+"from": 1795,
+"to": 1832,
+"role": "taught"
+},
+{
+"k": "th642",
+"inst": "u-stuttgart-karlsschule",
+"inst_name": "Hohe Karlsschule",
+"city": "Solitude (Stuttgart)",
+"from": 1784,
+"to": 1788,
+"role": "studied cameral sciences"
+}
+],
+"era": "d"
+},
+{
+"id": "samuel-thomas-soemmerring",
+"name": "Samuel Thomas Soemmerring",
+"first": 1784,
+"stints": [
+{
+"k": "th485",
+"inst": "u-mainz",
+"inst_name": "University of Mainz (old)",
+"city": "Mainz",
+"from": 1784,
+"to": 1797,
+"role": "taught anatomy"
+}
+],
+"era": "d"
+},
+{
+"id": "johann-michael-sailer",
+"name": "Johann Michael Sailer",
+"first": 1784,
+"stints": [
+{
+"k": "th543",
+"inst": "u-dillingen",
+"inst_name": "University of Dillingen",
+"city": "Dillingen an der Donau",
+"from": 1784,
+"to": 1794,
+"role": "taught pastoral theology and ethics"
+}
+],
+"era": "d"
+},
+{
+"id": "dugald-stewart",
+"name": "Dugald Stewart",
+"first": 1785,
+"stints": [
+{
+"k": "th751",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1785,
+"to": 1810,
+"role": "professor of moral philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "lorenzo-mascheroni",
+"name": "Lorenzo Mascheroni",
+"first": 1786,
+"stints": [
+{
+"k": "th78",
+"inst": "u-pavia",
+"inst_name": "University of Pavia",
+"city": "Pavia",
+"from": 1786,
+"to": 1797,
+"role": "taught mathematics"
+}
+],
+"era": "d"
+},
+{
+"id": "richard-price",
+"name": "Richard Price",
+"first": 1786,
+"stints": [
+{
+"k": "th706",
+"inst": "a-hackney",
+"inst_name": "New College, Hackney",
+"city": "Hackney",
+"from": 1786,
+"to": 1791,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "antonio-de-gimbernat",
+"name": "Antonio de Gimbernat",
+"first": 1787,
+"stints": [
+{
+"k": "th185",
+"inst": "m-madrid-san-carlos",
+"inst_name": "Royal College of Surgery of San Carlos",
+"city": "Madrid",
+"from": 1787,
+"to": 1801,
+"role": "founded and taught anatomy"
+}
+],
+"era": "d"
+},
+{
+"id": "wilhelm-von-humboldt",
+"name": "Wilhelm von Humboldt",
+"first": 1787,
+"stints": [
+{
+"k": "th508",
+"inst": "u-frankfurt-oder",
+"inst_name": "University of Frankfurt (Oder)",
+"city": "Frankfurt (Oder)",
+"from": 1787,
+"to": 1788,
+"role": "studied law"
+},
+{
+"k": "th596",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1788,
+"to": 1789,
+"role": "studied law and philology"
+}
+],
+"era": "d"
+},
+{
+"id": "alexander-von-humboldt",
+"name": "Alexander von Humboldt",
+"first": 1787,
+"stints": [
+{
+"k": "th509",
+"inst": "u-frankfurt-oder",
+"inst_name": "University of Frankfurt (Oder)",
+"city": "Frankfurt (Oder)",
+"from": 1787,
+"to": 1788,
+"role": "studied cameralism"
+},
+{
+"k": "th597",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1789,
+"to": 1790,
+"role": "studied natural sciences"
+},
+{
+"k": "th650",
+"inst": "t-freiberg",
+"inst_name": "Freiberg Mining Academy",
+"city": "Freiberg",
+"from": 1791,
+"to": 1792,
+"role": "studied mining"
+}
+],
+"era": "d"
+},
+{
+"id": "karl-leonhard-reinhold",
+"name": "Karl Leonhard Reinhold",
+"first": 1787,
+"stints": [
+{
+"k": "th533",
+"inst": "u-jena",
+"inst_name": "University of Jena",
+"city": "Jena",
+"from": 1787,
+"to": 1794,
+"role": "taught philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "friedrich-schleiermacher",
+"name": "Friedrich Schleiermacher",
+"first": 1787,
+"stints": [
+{
+"k": "th584",
+"inst": "u-halle",
+"inst_name": "University of Halle",
+"city": "Halle",
+"from": 1787,
+"to": 1789,
+"role": "studied theology"
+},
+{
+"k": "th627",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1810,
+"to": 1834,
+"role": "taught theology"
+}
+],
+"era": "d"
+},
+{
+"id": "paolo-ruffini",
+"name": "Paolo Ruffini",
+"first": 1788,
+"stints": [
+{
+"k": "th83",
+"inst": "u-modena",
+"inst_name": "University of Modena",
+"city": "Modena",
+"from": 1788,
+"to": 1822,
+"role": "taught mathematics"
+}
+],
+"era": "d"
+},
+{
+"id": "g-w-f-hegel",
+"name": "G. W. F. Hegel",
+"first": 1788,
+"stints": [
+{
+"k": "th433",
+"inst": "u-heidelberg",
+"inst_name": "University of Heidelberg",
+"city": "Heidelberg",
+"from": 1816,
+"to": 1818,
+"role": "taught philosophy"
+},
+{
+"k": "th492",
+"inst": "u-tubingen",
+"inst_name": "University of Tübingen",
+"city": "Tübingen",
+"from": 1788,
+"to": 1793,
+"role": "studied theology (Stift)"
+},
+{
+"k": "th538",
+"inst": "u-jena",
+"inst_name": "University of Jena",
+"city": "Jena",
+"from": 1801,
+"to": 1807,
+"role": "taught philosophy"
+},
+{
+"k": "th629",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1818,
+"to": 1831,
+"role": "taught philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "friedrich-holderlin",
+"name": "Friedrich Hölderlin",
+"first": 1788,
+"stints": [
+{
+"k": "th493",
+"inst": "u-tubingen",
+"inst_name": "University of Tübingen",
+"city": "Tübingen",
+"from": 1788,
+"to": 1793,
+"role": "studied theology (Stift)"
+},
+{
+"k": "th535",
+"inst": "u-jena",
+"inst_name": "University of Jena",
+"city": "Jena",
+"from": 1794,
+"to": 1795,
+"role": "attended Fichte's lectures"
+}
+],
+"era": "d"
+},
+{
+"id": "klemens-von-metternich",
+"name": "Klemens von Metternich",
+"first": 1788,
+"stints": [
+{
+"k": "th569",
+"inst": "u-strasbourg",
+"inst_name": "University of Strasbourg",
+"city": "Strasbourg",
+"from": 1788,
+"to": 1790,
+"role": "studied law"
+}
+],
+"era": "d"
+},
+{
+"id": "joseph-von-hammer-purgstall",
+"name": "Joseph von Hammer-Purgstall",
+"first": 1788,
+"stints": [
+{
+"k": "th668",
+"inst": "t-vienna-oriental",
+"inst_name": "Oriental Academy (Vienna)",
+"city": "Vienna",
+"from": 1788,
+"to": 1799,
+"role": "studied oriental languages"
+}
+],
+"era": "d"
+},
+{
+"id": "athanasios-parios",
+"name": "Athanasios Parios",
+"first": 1788,
+"stints": [
+{
+"k": "th970",
+"inst": "b-chios",
+"inst_name": "School of Chios",
+"city": "Chios",
+"from": 1788,
+"to": 1811,
+"role": "principal"
+}
+],
+"era": "d"
+},
+{
+"id": "ludwig-van-beethoven",
+"name": "Ludwig van Beethoven",
+"first": 1789,
+"stints": [
+{
+"k": "th613",
+"inst": "u-bonn-electoral",
+"inst_name": "Electoral University of Bonn",
+"city": "Bonn",
+"from": 1789,
+"to": 1789,
+"role": "matriculated in philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "eulogius-schneider",
+"name": "Eulogius Schneider",
+"first": 1789,
+"stints": [
+{
+"k": "th614",
+"inst": "u-bonn-electoral",
+"inst_name": "Electoral University of Bonn",
+"city": "Bonn",
+"from": 1789,
+"to": 1791,
+"role": "taught Greek and fine arts"
+}
+],
+"era": "d"
+},
+{
+"id": "jose-maria-blanco-white",
+"name": "José María Blanco White",
+"first": 1790,
+"stints": [
+{
+"k": "th107",
+"inst": "u-seville",
+"inst_name": "University of Seville",
+"city": "Seville",
+"from": 1790,
+"to": 1799,
+"role": "studied theology"
+}
+],
+"era": "d"
+},
+{
+"id": "f-w-j-schelling",
+"name": "F. W. J. Schelling",
+"first": 1790,
+"stints": [
+{
+"k": "th449",
+"inst": "u-wurzburg",
+"inst_name": "University of Würzburg",
+"city": "Würzburg",
+"from": 1803,
+"to": 1806,
+"role": "taught philosophy"
+},
+{
+"k": "th481",
+"inst": "u-ingolstadt-munich",
+"inst_name": "Ludwig Maximilian University (Ingolstadt–Landshut–Munich)",
+"city": "Ingolstadt",
+"from": 1827,
+"to": 1841,
+"role": "taught philosophy (Munich)"
+},
+{
+"k": "th494",
+"inst": "u-tubingen",
+"inst_name": "University of Tübingen",
+"city": "Tübingen",
+"from": 1790,
+"to": 1795,
+"role": "studied theology (Stift)"
+},
+{
+"k": "th537",
+"inst": "u-jena",
+"inst_name": "University of Jena",
+"city": "Jena",
+"from": 1798,
+"to": 1803,
+"role": "taught philosophy"
+},
+{
+"k": "th609",
+"inst": "u-erlangen",
+"inst_name": "University of Erlangen",
+"city": "Erlangen",
+"from": 1820,
+"to": 1827,
+"role": "taught philosophy"
+},
+{
+"k": "th633",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1841,
+"to": 1846,
+"role": "taught philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "thomas-chalmers",
+"name": "Thomas Chalmers",
+"first": 1791,
+"stints": [
+{
+"k": "th731",
+"inst": "u-st-andrews",
+"inst_name": "University of St Andrews",
+"city": "St Andrews",
+"from": 1791,
+"to": 1828,
+"role": "studied; professor of moral philosophy 1823-28"
+},
+{
+"k": "th763",
+"inst": "a-edinburgh-newcollege",
+"inst_name": "New College, Edinburgh",
+"city": "Edinburgh",
+"from": 1843,
+"to": 1847,
+"role": "first principal"
+}
+],
+"era": "d"
+},
+{
+"id": "carl-friedrich-gauss",
+"name": "Carl Friedrich Gauss",
+"first": 1792,
+"stints": [
+{
+"k": "th598",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1795,
+"to": 1855,
+"role": "studied, then directed the observatory"
+},
+{
+"k": "th664",
+"inst": "t-braunschweig",
+"inst_name": "Collegium Carolinum Braunschweig",
+"city": "Braunschweig",
+"from": 1792,
+"to": 1795,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "lamarck",
+"name": "Lamarck",
+"first": 1793,
+"stints": [
+{
+"k": "th274",
+"inst": "m-paris-jardin-du-roi",
+"inst_name": "Jardin du roi / Muséum national d'histoire naturelle",
+"city": "Paris",
+"from": 1793,
+"to": 1829,
+"role": "taught"
+}
+],
+"era": "d"
+},
+{
+"id": "novalis",
+"name": "Novalis",
+"first": 1793,
+"stints": [
+{
+"k": "th505",
+"inst": "u-wittenberg",
+"inst_name": "University of Wittenberg",
+"city": "Wittenberg",
+"from": 1793,
+"to": 1794,
+"role": "studied law"
+},
+{
+"k": "th651",
+"inst": "t-freiberg",
+"inst_name": "Freiberg Mining Academy",
+"city": "Freiberg",
+"from": 1797,
+"to": 1799,
+"role": "studied mining"
+}
+],
+"era": "d"
+},
+{
+"id": "william-hazlitt",
+"name": "William Hazlitt",
+"first": 1793,
+"stints": [
+{
+"k": "th707",
+"inst": "a-hackney",
+"inst_name": "New College, Hackney",
+"city": "Hackney",
+"from": 1793,
+"to": 1795,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "john-dalton",
+"name": "John Dalton",
+"first": 1793,
+"stints": [
+{
+"k": "th708",
+"inst": "a-manchester",
+"inst_name": "Manchester Academy",
+"city": "Manchester",
+"from": 1793,
+"to": 1800,
+"role": "tutor in mathematics and natural philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "hans-christian-rsted",
+"name": "Hans Christian Ørsted",
+"first": 1794,
+"stints": [
+{
+"k": "th798",
+"inst": "u-copenhagen",
+"inst_name": "University of Copenhagen",
+"city": "Copenhagen",
+"from": 1794,
+"to": 1851,
+"role": "studied; professor of physics"
+},
+{
+"k": "th800",
+"inst": "t-copenhagen-polytechnic",
+"inst_name": "Polytechnic College",
+"city": "Copenhagen",
+"from": 1829,
+"to": 1850,
+"role": "founder and director"
+}
+],
+"era": "d"
+},
+{
+"id": "joseph-fourier",
+"name": "Joseph Fourier",
+"first": 1795,
+"stints": [
+{
+"k": "th287",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1795,
+"to": 1798,
+"role": "taught"
+},
+{
+"k": "th299",
+"inst": "t-ens",
+"inst_name": "École normale supérieure",
+"city": "Paris",
+"from": 1795,
+"to": 1795,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "friedrich-carl-von-savigny",
+"name": "Friedrich Carl von Savigny",
+"first": 1795,
+"stints": [
+{
+"k": "th480",
+"inst": "u-ingolstadt-munich",
+"inst_name": "Ludwig Maximilian University (Ingolstadt–Landshut–Munich)",
+"city": "Ingolstadt",
+"from": 1808,
+"to": 1810,
+"role": "taught law (Landshut)"
+},
+{
+"k": "th514",
+"inst": "u-marburg",
+"inst_name": "University of Marburg",
+"city": "Marburg",
+"from": 1795,
+"to": 1804,
+"role": "studied and taught law"
+},
+{
+"k": "th628",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1810,
+"to": 1842,
+"role": "taught law"
+}
+],
+"era": "d"
+},
+{
+"id": "august-wilhelm-schlegel",
+"name": "August Wilhelm Schlegel",
+"first": 1796,
+"stints": [
+{
+"k": "th536",
+"inst": "u-jena",
+"inst_name": "University of Jena",
+"city": "Jena",
+"from": 1796,
+"to": 1801,
+"role": "taught literature"
+},
+{
+"k": "th616",
+"inst": "u-bonn",
+"inst_name": "University of Bonn",
+"city": "Bonn",
+"from": 1818,
+"to": 1845,
+"role": "taught literature and Sanskrit"
+}
+],
+"era": "d"
+},
+{
+"id": "jons-jacob-berzelius",
+"name": "Jöns Jacob Berzelius",
+"first": 1796,
+"stints": [
+{
+"k": "th780",
+"inst": "u-uppsala",
+"inst_name": "Uppsala University",
+"city": "Uppsala",
+"from": 1796,
+"to": 1802,
+"role": "studied medicine"
+},
+{
+"k": "th787",
+"inst": "m-stockholm-karolinska",
+"inst_name": "Karolinska Institute",
+"city": "Stockholm",
+"from": 1810,
+"to": 1832,
+"role": "professor of chemistry and pharmacy"
+}
+],
+"era": "d"
+},
+{
+"id": "joseph-louis-gay-lussac",
+"name": "Joseph Louis Gay-Lussac",
+"first": 1797,
+"stints": [
+{
+"k": "th203",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1808,
+"to": 1832,
+"role": "taught physics"
+},
+{
+"k": "th288",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1797,
+"to": 1800,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "athanasios-psalidas",
+"name": "Athanasios Psalidas",
+"first": 1797,
+"stints": [
+{
+"k": "th968",
+"inst": "b-ioannina-kaplaneios",
+"inst_name": "Kaplaneios School, Ioannina",
+"city": "Ioannina",
+"from": 1797,
+"to": 1820,
+"role": "director"
+}
+],
+"era": "d"
+},
+{
+"id": "simeon-denis-poisson",
+"name": "Siméon Denis Poisson",
+"first": 1798,
+"stints": [
+{
+"k": "th289",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1798,
+"to": 1815,
+"role": "studied, taught"
+}
+],
+"era": "d"
+},
+{
+"id": "heinrich-von-kleist",
+"name": "Heinrich von Kleist",
+"first": 1799,
+"stints": [
+{
+"k": "th510",
+"inst": "u-frankfurt-oder",
+"inst_name": "University of Frankfurt (Oder)",
+"city": "Frankfurt (Oder)",
+"from": 1799,
+"to": 1800,
+"role": "studied"
+}
+],
+"era": "d"
+},
+{
+"id": "karl-friedrich-schinkel",
+"name": "Karl Friedrich Schinkel",
+"first": 1799,
+"stints": [
+{
+"k": "th653",
+"inst": "t-berlin-bauakademie",
+"inst_name": "Berlin Building Academy",
+"city": "Berlin",
+"from": 1799,
+"to": 1800,
+"role": "studied architecture"
+}
+],
+"era": "d"
+},
+{
+"id": "george-birkbeck",
+"name": "George Birkbeck",
+"first": 1799,
+"stints": [
+{
+"k": "th760",
+"inst": "t-glasgow-anderson",
+"inst_name": "Anderson's Institution",
+"city": "Glasgow",
+"from": 1799,
+"to": 1804,
+"role": "professor of natural philosophy"
+}
+],
+"era": "d"
+},
+{
+"id": "esaias-tegner",
+"name": "Esaias Tegnér",
+"first": 1799,
+"stints": [
+{
+"k": "th786",
+"inst": "u-lund",
+"inst_name": "Lund University",
+"city": "Lund",
+"from": 1799,
+"to": 1826,
+"role": "studied; professor of Greek"
+}
+],
+"era": "d"
+}
+]

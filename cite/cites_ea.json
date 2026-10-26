@@ -1,0 +1,4423 @@
+{
+ "group": "ea",
+ "sources": {
+  "ea-001": {
+   "title": "Milestones in the history of Charles University",
+   "publisher": "Charles University",
+   "url": "https://cuni.cz/UKEN-115.html",
+   "tier": 1
+  },
+  "ea-002": {
+   "title": "Charles University",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://britannica.com/print/article/107459",
+   "tier": 2
+  },
+  "ea-003": {
+   "title": "History of the Jagiellonian University",
+   "publisher": "Jagiellonian University (student government site)",
+   "url": "https://info.samorzad.uj.edu.pl/en/university/history/",
+   "tier": 1
+  },
+  "ea-004": {
+   "title": "Institutional organisers of the Jagiellonian University (A. Pelczar, 2nd ICESHS proceedings)",
+   "publisher": "Jagiellonian University / ICESHS",
+   "url": "https://home.cyf-kr.edu.pl/~n1kokows/2nd_ICESHS/2ICESHS_Proceedings/Chapter_1/Appendix/Pelczar_Institutional_Organisers_JU.pdf",
+   "tier": 2
+  },
+  "ea-005": {
+   "title": "Universities in Hungary from the Middle Ages to the Enlightened Absolutism",
+   "publisher": "University of Szeged Library",
+   "url": "https://staticweb.bibl.u-szeged.hu/users/ficzko/barc1/huuniv.htm",
+   "tier": 2
+  },
+  "ea-006": {
+   "title": "National Library's history (Klementinum)",
+   "publisher": "National Library of the Czech Republic",
+   "url": "https://www.en.nkp.cz/about-us/about-nl/national-library-s-history",
+   "tier": 1
+  },
+  "ea-007": {
+   "title": "Johann Müller Regiomontanus",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Regiomontanus.html",
+   "tier": 2
+  },
+  "ea-008": {
+   "title": "First university on Slovak territory was 550 years ago",
+   "publisher": "The Slovak Spectator",
+   "url": "https://spectator.sme.sk/culture-and-lifestyle/c/first-university-on-slovak-territory-was-550-years-ago",
+   "tier": 3
+  },
+  "ea-009": {
+   "title": "History",
+   "publisher": "Vilnius University",
+   "url": "https://vu.lt/en/about-vu/history",
+   "tier": 1
+  },
+  "ea-010": {
+   "title": "Vilnius University 1579-2004",
+   "publisher": "Vilnius University",
+   "url": "https://www.vu.lt/site_files/InfS/Leidiniai/Vilnius_University_1579_2004.pdf",
+   "tier": 1
+  },
+  "ea-011": {
+   "title": "History of the University of Tartu",
+   "publisher": "University of Tartu",
+   "url": "https://ut.ee/en/content/history-university-tartu",
+   "tier": 1
+  },
+  "ea-012": {
+   "title": "University History",
+   "publisher": "Palacký University Olomouc Archive",
+   "url": "https://archiv.upol.cz/en/university-history",
+   "tier": 1
+  },
+  "ea-013": {
+   "title": "Charles University",
+   "publisher": "Encyclopedia.com (International Dictionary of University Histories)",
+   "url": "https://www.encyclopedia.com/social-sciences-and-law/education/colleges-international/charles-university",
+   "tier": 2
+  },
+  "ea-014": {
+   "title": "Nikolai Ivanovich Lobachevsky",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lobachevsky/",
+   "tier": 2
+  },
+  "ea-015": {
+   "title": "Pafnuty Lvovich Chebyshev",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Chebyshev/",
+   "tier": 2
+  },
+  "ea-016": {
+   "title": "Leonhard Euler",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Euler/",
+   "tier": 2
+  },
+  "ea-017": {
+   "title": "Aleksandr Mikhailovich Lyapunov",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lyapunov/",
+   "tier": 2
+  },
+  "ea-018": {
+   "title": "Mikhail Vasilevich Ostrogradski",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ostrogradski/",
+   "tier": 2
+  },
+  "ea-019": {
+   "title": "Farkas Wolfgang Bolyai",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bolyai_Farkas/",
+   "tier": 2
+  },
+  "ea-020": {
+   "title": "János Bolyai",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Bolyai/",
+   "tier": 2
+  },
+  "ea-021": {
+   "title": "Ivan Pavlov - Biographical",
+   "publisher": "NobelPrize.org",
+   "url": "https://www.nobelprize.org/prizes/medicine/1904/pavlov/biographical/",
+   "tier": 2
+  },
+  "ea-022": {
+   "title": "Ilya Mechnikov - Biographical",
+   "publisher": "NobelPrize.org",
+   "url": "https://www.nobelprize.org/prizes/medicine/1908/mechnikov/biographical/",
+   "tier": 2
+  },
+  "ea-023": {
+   "title": "Wilhelm Ostwald - Biographical",
+   "publisher": "NobelPrize.org",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1909/ostwald/biographical/",
+   "tier": 2
+  },
+  "ea-024": {
+   "title": "Ernst Mach",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/ernst-mach/",
+   "tier": 2
+  },
+  "ea-025": {
+   "title": "Bernard Bolzano",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/bolzano/",
+   "tier": 2
+  },
+  "ea-026": {
+   "title": "John Hus",
+   "publisher": "Catholic Encyclopedia (1913)",
+   "url": "https://www.newadvent.org/cathen/07584b.htm",
+   "tier": 2
+  },
+  "ea-027": {
+   "title": "Nicolaus Copernicus",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/",
+   "tier": 2
+  },
+  "ea-028": {
+   "title": "Christian Andreas Doppler",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Doppler/",
+   "tier": 2
+  },
+  "ea-029": {
+   "title": "Leonty Filippovich Magnitsky",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Magnitsky/",
+   "tier": 2
+  },
+  "ea-030": {
+   "title": "Loránd Eötvös",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Eotvos/",
+   "tier": 2
+  },
+  "ea-031": {
+   "title": "Kyivan Mohyla Academy",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CK%5CY%5CKyivanMohylaAcademy.htm",
+   "tier": 2
+  },
+  "ea-032": {
+   "title": "History",
+   "publisher": "Saint Petersburg Mining University",
+   "url": "https://en.spmi.ru/university/history",
+   "tier": 1
+  },
+  "ea-033": {
+   "title": "History of the Museum. XVIII Century",
+   "publisher": "Mining Museum, Saint Petersburg Mining University",
+   "url": "https://museum.spmi.ru/en/node/184",
+   "tier": 1
+  },
+  "ea-034": {
+   "title": "Joannicus and Sophronius Likhud",
+   "publisher": "OrthodoxWiki",
+   "url": "https://en.orthodoxwiki.org/Joannicus_and_Sophronius_Likhud",
+   "tier": 3
+  },
+  "ea-035": {
+   "title": "University of Iași",
+   "publisher": "Romanian Centenary (infocons.ro)",
+   "url": "https://centenar.infocons.ro/en/tablouri/university-of-iasi/",
+   "tier": 3
+  },
+  "ea-036": {
+   "title": "Ostroh Academy",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CO%5CS%5COstrohAcademy.htm",
+   "tier": 2
+  },
+  "ea-037": {
+   "title": "Kyiv National University",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CK%5CY%5CKyivNationalUniversity.htm",
+   "tier": 2
+  },
+  "ea-038": {
+   "title": "Kharkiv National University",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CK%5CH%5CKharkivNationalUniversity.htm",
+   "tier": 2
+  },
+  "ea-039": {
+   "title": "Lviv National University",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CL%5CV%5CLvivNationalUniversity.htm",
+   "tier": 2
+  },
+  "ea-040": {
+   "title": "Nizhyn Lyceum",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CN%5CI%5CNizhynLyceum.htm",
+   "tier": 2
+  },
+  "ea-041": {
+   "title": "Kremenets Lyceum",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CK%5CR%5CKremenetsLyceum.htm",
+   "tier": 2
+  },
+  "ea-042": {
+   "title": "Skovoroda, Hryhorii",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CS%5CK%5CSkovorodaHryhorii.htm",
+   "tier": 2
+  },
+  "ea-043": {
+   "title": "Odesa National University",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CO%5CD%5COdesaNationalUniversity.htm",
+   "tier": 2
+  },
+  "ea-044": {
+   "title": "Chernivtsi National University",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CC%5CH%5CChernivtsiNationalUniversity.htm",
+   "tier": 2
+  },
+  "ea-045": {
+   "title": "Lviv Polytechnic National University",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CL%5CV%5CLvivPolytechnicNationalUniversity.htm",
+   "tier": 2
+  },
+  "ea-046": {
+   "title": "The Founding of Moscow University",
+   "publisher": "Moscow State University, Faculty of History",
+   "url": "https://hist.msu.ru/English/Admin/founding1.htm",
+   "tier": 1
+  },
+  "ea-047": {
+   "title": "History and honors",
+   "publisher": "Kazan Federal University",
+   "url": "https://eng.kpfu.ru/history-honors/",
+   "tier": 1
+  },
+  "ea-048": {
+   "title": "History",
+   "publisher": "Saint Petersburg State University",
+   "url": "https://english.spbu.ru/history-0",
+   "tier": 1
+  },
+  "ea-049": {
+   "title": "Military Medical Academy named after S.M. Kirov - 220 years old (Bulletin of the Russian Military Medical Academy)",
+   "publisher": "Military Medical Academy",
+   "url": "https://journals.rcsi.science/1682-7392/article/view/12234",
+   "tier": 2
+  },
+  "ea-050": {
+   "title": "History",
+   "publisher": "Czech Technical University in Prague",
+   "url": "https://www.cvut.cz/en/history",
+   "tier": 1
+  },
+  "ea-051": {
+   "title": "History",
+   "publisher": "Budapest University of Technology and Economics",
+   "url": "https://www.bme.hu/en/history",
+   "tier": 1
+  },
+  "ea-052": {
+   "title": "Restoration works reveal vestiges of Princely Academy founded by St Constantine Brâncoveanu",
+   "publisher": "Basilica.ro (Romanian Patriarchate news agency)",
+   "url": "https://arhiva.basilica.ro/en/?p=413463",
+   "tier": 3
+  },
+  "ea-053": {
+   "title": "History of the Faculty of Mechanical Engineering",
+   "publisher": "Czech Technical University in Prague",
+   "url": "https://www.fs.cvut.cz/en-historie",
+   "tier": 1
+  },
+  "ea-054": {
+   "title": "From 1862 to 1896",
+   "publisher": "Riga Technical University Museum",
+   "url": "https://www.rtu.lv/en/museum/rtu-history/periods-of-rtu-history/from-1862-to1896",
+   "tier": 1
+  },
+  "ea-055": {
+   "title": "History",
+   "publisher": "Riga Technical University",
+   "url": "https://rtu.lv/en/university/history",
+   "tier": 1
+  },
+  "ea-056": {
+   "title": "Foundation and Historical Development",
+   "publisher": "Brno University of Technology, Faculty of Civil Engineering",
+   "url": "https://fce.vut.cz/en/faculty/history",
+   "tier": 1
+  },
+  "ea-057": {
+   "title": "Establishing the University",
+   "publisher": "Peter the Great St Petersburg Polytechnic University",
+   "url": "https://english.spbstu.ru/university/about-the-university/history/establishment-university/",
+   "tier": 1
+  },
+  "ea-058": {
+   "title": "Opening the Institute",
+   "publisher": "Peter the Great St Petersburg Polytechnic University",
+   "url": "https://english.spbstu.ru/university/about-the-university/history/opening_institute/",
+   "tier": 1
+  },
+  "ea-059": {
+   "title": "History",
+   "publisher": "Warsaw University of Technology Museum",
+   "url": "https://muzeum.pw.edu.pl/muzeum_en/History",
+   "tier": 1
+  },
+  "ea-060": {
+   "title": "Alma mater",
+   "publisher": "Igor Sikorsky Kyiv Polytechnic Institute",
+   "url": "https://kpi.ua/en/almamater",
+   "tier": 1
+  },
+  "ea-061": {
+   "title": "History of Georgikon Campus",
+   "publisher": "Hungarian University of Agriculture and Life Sciences",
+   "url": "https://gc.uni-mate.hu/en/campus/history-of-georgikon-campus",
+   "tier": 1
+  },
+  "ea-062": {
+   "title": "Banská Štiavnica (Selmecbánya), Slovakia - EuChemS Historical Landmark",
+   "publisher": "European Chemical Society",
+   "url": "https://www.euchems.eu/awards/euchems-historical-landmarks/banska-stiavnica-selmecbanya-slovakia/",
+   "tier": 2
+  },
+  "ea-063": {
+   "title": "History",
+   "publisher": "Technical University in Zvolen, Faculty of Forestry",
+   "url": "https://lf.tuzvo.sk/en/history",
+   "tier": 1
+  },
+  "ea-064": {
+   "title": "History",
+   "publisher": "University of Warsaw",
+   "url": "https://en.uw.edu.pl/about-university/history/",
+   "tier": 1
+  },
+  "ea-065": {
+   "title": "History",
+   "publisher": "University of Zagreb",
+   "url": "https://www.unizg.hr/homepage/about-university/history/",
+   "tier": 1
+  },
+  "ea-066": {
+   "title": "Our history",
+   "publisher": "Peter the Great St Petersburg Polytechnic University",
+   "url": "https://english.spbstu.ru/university/about-the-university/history/",
+   "tier": 1
+  },
+  "ea-067": {
+   "title": "History",
+   "publisher": "Babeș-Bolyai University",
+   "url": "https://www.ubbcluj.ro/en/despre/prezentare/istoric",
+   "tier": 1
+  },
+  "ea-068": {
+   "title": "History",
+   "publisher": "Charles University",
+   "url": "https://www.cuni.cz/UKEN-106.html",
+   "tier": 1
+  },
+  "ea-069": {
+   "title": "Aleksandr Borodin",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Aleksandr-Borodin",
+   "tier": 2
+  },
+  "ea-070": {
+   "title": "Vissarion Grigoryevich Belinsky",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Vissarion-Grigoryevich-Belinsky",
+   "tier": 2
+  },
+  "ea-071": {
+   "title": "Vasily Osipovich Klyuchevsky",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Vasily-Osipovich-Klyuchevsky",
+   "tier": 2
+  },
+  "ea-072": {
+   "title": "Johann Heinrich Alsted",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Johann-Heinrich-Alsted",
+   "tier": 2
+  },
+  "ea-073": {
+   "title": "Friedrich Georg Wilhelm von Struve",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Friedrich-Georg-Wilhelm-von-Struve",
+   "tier": 2
+  },
+  "ea-074": {
+   "title": "Emil Kraepelin",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Emil-Kraepelin",
+   "tier": 2
+  },
+  "ea-075": {
+   "title": "Sergey Mikhaylovich Solovyov",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Sergey-Mikhaylovich-Solovyov",
+   "tier": 2
+  },
+  "ea-076": {
+   "title": "Jan Evangelista Purkinje",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Jan-Evangelista-Purkinje",
+   "tier": 2
+  },
+  "ea-077": {
+   "title": "Antonovych, Volodymyr",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CA%5CN%5CAntonovychVolodymyr.htm",
+   "tier": 2
+  },
+  "ea-078": {
+   "title": "Kostomarov, Mykola",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CK%5CO%5CKostomarovMykola.htm",
+   "tier": 2
+  },
+  "ea-079": {
+   "title": "Prokopovych, Teofan",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CP%5CR%5CProkopovychTeofan.htm",
+   "tier": 2
+  },
+  "ea-080": {
+   "title": "Franko, Ivan",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CF%5CR%5CFrankoIvan.htm",
+   "tier": 2
+  },
+  "ea-081": {
+   "title": "Hrushevsky, Mykhailo",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CH%5CR%5CHrushevskyMykhailo.htm",
+   "tier": 2
+  },
+  "ea-082": {
+   "title": "Potebnia, Oleksander",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CP%5CO%5CPotebniaOleksander.htm",
+   "tier": 2
+  },
+  "ea-083": {
+   "title": "Yavorsky, Stefan",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CY%5CA%5CYavorskyStefan.htm",
+   "tier": 2
+  },
+  "ea-084": {
+   "title": "Maksymovych, Mykhailo",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CM%5CA%5CMaksymovychMykhailo.htm",
+   "tier": 2
+  },
+  "ea-085": {
+   "title": "Drahomanov, Mykhailo",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CD%5CR%5CDrahomanovMykhailo.htm",
+   "tier": 2
+  },
+  "ea-086": {
+   "title": "History of the Reformed Church College in Sárospatak (D. Dienes, 2013)",
+   "publisher": "Sárospatak Reformed College (via Hungaricana)",
+   "url": "https://library.hungaricana.hu/hu/view/SarospatakiSKkiadvanyok_2013_HistRefChurchCollSarospatak/?pg=10",
+   "tier": 1
+  },
+  "ea-087": {
+   "title": "Bethlen Gábor Kollégium",
+   "publisher": "Hungarian American Coalition / HACUSA",
+   "url": "https://hacusa.org/bethlen-gabor-kollegium/",
+   "tier": 3
+  },
+  "ea-088": {
+   "title": "Day of Reformed Unity in Nagyenyed and Gyulafehérvár",
+   "publisher": "Reformed Church in Hungary",
+   "url": "https://reformatus.hu/english/news/reformed-unity-day-in-nagyenyed-and-gyulafehervar/",
+   "tier": 2
+  },
+  "ea-089": {
+   "title": "Zamostia Academy",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CZ%5CA%5CZamostiaAcademy.htm",
+   "tier": 2
+  },
+  "ea-090": {
+   "title": "Scholars and Literati at the University of Zamość (1594-1784)",
+   "publisher": "Repertorium eruditorum totius Europae",
+   "url": "https://ojs.uclouvain.be/index.php/RETE/article/view/80013",
+   "tier": 2
+  },
+  "ea-091": {
+   "title": "Debrecen Reformed Theological University: general information",
+   "publisher": "Debrecen Reformed Theological University",
+   "url": "https://www.drhe.hu/cd2021/hatteranyag/1_Altalanos_informaciok/01/02.pdf",
+   "tier": 1
+  },
+  "ea-092": {
+   "title": "Socinians",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/Socinians",
+   "tier": 2
+  },
+  "ea-093": {
+   "title": "Reading the Collections, Week 50: A Socinian Sammelband in St Andrews",
+   "publisher": "University of St Andrews Special Collections",
+   "url": "https://special-collections.wp.st-andrews.ac.uk/?p=9480",
+   "tier": 2
+  },
+  "ea-094": {
+   "title": "Science in the Danzig Academic Gymnasium (Studia Historiae Scientiarum)",
+   "publisher": "Polish Academy of Arts and Sciences",
+   "url": "https://ojs.ejournals.eu/SHS/article/download/8009/7282/15121",
+   "tier": 2
+  },
+  "ea-095": {
+   "title": "PGUPS History",
+   "publisher": "Emperor Alexander I St Petersburg State Transport University",
+   "url": "https://pgups.ru/en/university-life/pgups-history/",
+   "tier": 1
+  },
+  "ea-096": {
+   "title": "1828-1862",
+   "publisher": "Saint Petersburg State Institute of Technology",
+   "url": "https://spbti.ru/history_of_university",
+   "tier": 1
+  },
+  "ea-097": {
+   "title": "History of Bauman Moscow State Technical University (Herald of BMSTU)",
+   "publisher": "Bauman Moscow State Technical University",
+   "url": "https://hmbul.bmstu.ru/eng/catalog/hum/histarch/729.html",
+   "tier": 1
+  },
+  "ea-098": {
+   "title": "The Historical Park of the Russian State Agricultural Academy named after K.A. Timiryazev",
+   "publisher": "Moscow city cultural heritage (gbumac.ru)",
+   "url": "https://qr.gbumac.ru/en/culture-en/the-historical-park-of-the-russian-state-agricultural-academy-named-after-k-a-timiryazev",
+   "tier": 3
+  },
+  "ea-099": {
+   "title": "Polotsk Jesuit Academy (1812-1820)",
+   "publisher": "Euphrosyne Polotskaya State University of Polotsk",
+   "url": "https://www.psu.by/en/university/the-heritage-of-polotsk-land/polotsk-jesuit-academy-in-1812-1820",
+   "tier": 1
+  },
+  "ea-100": {
+   "title": "History collections",
+   "publisher": "VŠB - Technical University of Ostrava, Faculty of Mining and Geology",
+   "url": "https://www.hgf.vsb.cz/513/en/collections/History-/",
+   "tier": 1
+  },
+  "ea-101": {
+   "title": "Smotrytsky, Herasym",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CS%5CM%5CSmotrytskyHerasym.htm",
+   "tier": 2
+  },
+  "ea-102": {
+   "title": "Smotrytsky, Meletii",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CS%5CM%5CSmotrytskyMeletii.htm",
+   "tier": 2
+  },
+  "ea-103": {
+   "title": "Mohyla, Petro",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CM%5CO%5CMohylaPetro.htm",
+   "tier": 2
+  },
+  "ea-104": {
+   "title": "Kharkiv College",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CK%5CH%5CKharkivCollege.htm",
+   "tier": 2
+  },
+  "ea-105": {
+   "title": "Ostroh Bible",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CO%5CS%5COstrohBible.htm",
+   "tier": 2
+  },
+  "ea-106": {
+   "title": "Nicolae Iorga",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Nicolae-Iorga",
+   "tier": 2
+  },
+  "ea-107": {
+   "title": "Jan Kochanowski",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Jan-Kochanowski",
+   "tier": 2
+  },
+  "ea-108": {
+   "title": "Outstanding teachers",
+   "publisher": "First Faculty of Medicine, Charles University",
+   "url": "https://en.lf1.cuni.cz/outstanding-teachers",
+   "tier": 1
+  },
+  "ea-109": {
+   "title": "Female enrolment",
+   "publisher": "University of Vienna, 650 plus History",
+   "url": "https://geschichte.univie.ac.at/en/print/31374",
+   "tier": 1
+  },
+  "ea-110": {
+   "title": "Moscow State University",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/393517",
+   "tier": 2
+  },
+  "ea-111": {
+   "title": "History",
+   "publisher": "University of Zadar",
+   "url": "https://www.unizd.hr/eng/about-us/history",
+   "tier": 1
+  },
+  "ea-112": {
+   "title": "History of the Lyceum",
+   "publisher": "P.G. Demidov Yaroslavl State University",
+   "url": "https://uniyar.ac.ru/en/about/history/lyceum",
+   "tier": 1
+  },
+  "ea-113": {
+   "title": "History",
+   "publisher": "University of Ljubljana, Faculty of Law",
+   "url": "https://arhiv.pf.uni-lj.si/en/faculty/basic-facts-about-the-faculty-of-law/history/",
+   "tier": 1
+  },
+  "ea-114": {
+   "title": "History of the university",
+   "publisher": "P.G. Demidov Yaroslavl State University",
+   "url": "https://uniyar.ac.ru/en/about/history",
+   "tier": 1
+  },
+  "ea-115": {
+   "title": "History of the Faculty of Humanities",
+   "publisher": "Eötvös Loránd University",
+   "url": "https://www.btk.elte.hu/en/history",
+   "tier": 1
+  },
+  "ea-116": {
+   "title": "Inaugurating the celebration of the 200th anniversary",
+   "publisher": "Warsaw University of Life Sciences",
+   "url": "https://media.sggw.edu.pl/en/news/296996/innaugurating-the-celebration-of-the-200th-anniversary",
+   "tier": 1
+  },
+  "ea-117": {
+   "title": "History of the university (museum)",
+   "publisher": "Warsaw University of Life Sciences Museum",
+   "url": "https://muzeum.sggw.edu.pl/?p=4127",
+   "tier": 1
+  },
+  "ea-118": {
+   "title": "Alexander Pushkin",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://britannica.com/print/article/484289",
+   "tier": 2
+  },
+  "ea-119": {
+   "title": "Tsarskoe Selo Lyceum",
+   "publisher": "Encyclopaedia of Saint Petersburg",
+   "url": "https://www.encspb.ru/object/2804012006?lc=en",
+   "tier": 2
+  },
+  "ea-120": {
+   "title": "Lupu, Vasile",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://encyclopediaofukraine.com/pages%5CL%5CU%5CLupuVasile.htm",
+   "tier": 2
+  },
+  "ea-121": {
+   "title": "Academiile Domnești și începuturile învățământului filosofic românesc modern (D. Popescu, Revista de filosofie 2016)",
+   "publisher": "Romanian Academy, Institute of Philosophy",
+   "url": "https://institutuldefilosofie.ro/e107_files/downloads/Revista%20de%20filosofie/2016/Rev.%20filos.,%20LXIII,%201,%202016/DRAGOS%20POPESCU,%20Academiile%20Domnesti%20si%20%C3%AEnceputurile%20%C3%AEnvatamantului%20filosofic%20romanesc%20modern.pdf",
+   "tier": 2
+  },
+  "ea-122": {
+   "title": "University",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://encyclopediaofukraine.com/pages%5CU%5CN%5CUniversity.htm",
+   "tier": 2
+  },
+  "ea-123": {
+   "title": "The Life and Work of János Bolyai (G. Alexits)",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Extras/Alexits_Bolyai/",
+   "tier": 2
+  },
+  "ea-124": {
+   "title": "History of the Reformed Church College in Sárospatak (D. Dienes, 2013), Comenius chapter",
+   "publisher": "Sárospatak Reformed College (via Hungaricana)",
+   "url": "https://library.hungaricana.hu/en/view/SarospatakiSKkiadvanyok_2013_HistRefChurchCollSarospatak/?pg=42",
+   "tier": 1
+  },
+  "ea-125": {
+   "title": "History of the Reformed Church College in Sárospatak (D. Dienes, 2013), contents",
+   "publisher": "Sárospatak Reformed College (via Hungaricana)",
+   "url": "https://library.hungaricana.hu/en/view/SarospatakiSKkiadvanyok_2013_HistRefChurchCollSarospatak/?pg=229",
+   "tier": 1
+  },
+  "ea-126": {
+   "title": "Kráľovská právnická akadémia v Košiciach (archival inventory)",
+   "publisher": "State Archive in Košice, Ministry of Interior of the Slovak Republic",
+   "url": "https://www.minv.sk/swift_data/source/verejna_sprava/statny_archiv_v_kosiciach_sake/sluzby/inventare/i/Kralovska pravnicka akademia v Kosiciach.pdf",
+   "tier": 1
+  },
+  "ea-127": {
+   "title": "Joachim Lelewel",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/335600",
+   "tier": 2
+  },
+  "ea-128": {
+   "title": "Ignaz Semmelweis",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.Britannica.com/print/article/534198",
+   "tier": 2
+  },
+  "ea-129": {
+   "title": "Pirogov, Nikolay Ivanovich (Complete Dictionary of Scientific Biography)",
+   "publisher": "Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/topic/Nikolai_Ivanovich_Pirogov.aspx",
+   "tier": 2
+  },
+  "ea-130": {
+   "title": "Dmitri Mendeleev",
+   "publisher": "New World Encyclopedia",
+   "url": "https://www.newworldencyclopedia.org/entry/Dmitri_Mendeleev",
+   "tier": 3
+  },
+  "ea-131": {
+   "title": "Zinin N. N.",
+   "publisher": "Encyclopaedia of Saint Petersburg",
+   "url": "https://www.encspb.ru/object/2804013207?lc=en",
+   "tier": 2
+  },
+  "ea-132": {
+   "title": "Butlerov A. M.",
+   "publisher": "Encyclopaedia of Saint Petersburg",
+   "url": "https://www.encspb.ru/object/2855730622?lc=en",
+   "tier": 2
+  },
+  "ea-133": {
+   "title": "Sechenov I. M.",
+   "publisher": "Encyclopaedia of Saint Petersburg",
+   "url": "https://www.encspb.ru/object/2804014173?lc=en",
+   "tier": 2
+  },
+  "ea-134": {
+   "title": "Gregor Johann Mendel",
+   "publisher": "Mendel Museum, Masaryk University",
+   "url": "https://mendelmuseum.muni.cz/en/about-the-museum/gregor-johann-mendel",
+   "tier": 1
+  },
+  "ea-135": {
+   "title": "From War to Revolution: Moscow University in the 19th Century",
+   "publisher": "Moscow State University, Faculty of History",
+   "url": "https://hist.msu.ru/English/Admin/founding2.htm",
+   "tier": 1
+  },
+  "ea-136": {
+   "title": "Voluntary University",
+   "publisher": "Encyclopaedia of Saint Petersburg",
+   "url": "https://www.encspb.ru/object/2804011781?lc=en",
+   "tier": 2
+  },
+  "ea-137": {
+   "title": "Titu Maiorescu (1840-1917)",
+   "publisher": "Radio Romania International, RRI Encyclopaedia",
+   "url": "https://rri.ro/en/features-and-reports/rri-encyclopaedia/titu-maiorescu-1840-1917-id832234.html",
+   "tier": 3
+  },
+  "ea-138": {
+   "title": "Transylvanian intellectual history (G. Kármán, Hungarian Historical Review 2023)",
+   "publisher": "Hungarian Historical Review",
+   "url": "https://hunghist.org/83-articles/858-2023-2-karman",
+   "tier": 2
+  },
+  "ea-139": {
+   "title": "500 Lei 2004: University of Bucharest commemorative coin",
+   "publisher": "romaniancoins.org (National Bank of Romania issue description)",
+   "url": "https://romaniancoins.org/500lei04ub.html",
+   "tier": 3
+  },
+  "ea-140": {
+   "title": "Johannes Hevelius",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hevelius_Johannes/",
+   "tier": 2
+  },
+  "ea-141": {
+   "title": "Lomonosov Mikhail Vasilievich",
+   "publisher": "Lomonosov Moscow State University, Skobeltsyn Institute of Nuclear Physics",
+   "url": "https://lomonosov.sinp.msu.ru/en/project/lomonosov-mihail-vasilevich",
+   "tier": 1
+  },
+  "ea-142": {
+   "title": "The Heritage of the University",
+   "publisher": "Chopin University of Music",
+   "url": "https://chopin.edu.pl/lang_change/2/1757",
+   "tier": 1
+  },
+  "ea-143": {
+   "title": "Army Medical Academy",
+   "publisher": "Encyclopaedia of Saint Petersburg",
+   "url": "https://encspb.ru/object/2855732460?lc=en",
+   "tier": 2
+  },
+  "ea-144": {
+   "title": "A Quick Guide to Knowing Everything About Adam Mickiewicz",
+   "publisher": "Culture.pl (Adam Mickiewicz Institute)",
+   "url": "https://culture.pl/en/article/a-quick-guide-to-knowing-everything-about-adam-mickiewicz",
+   "tier": 2
+  },
+  "ea-145": {
+   "title": "Jedlik Ányos",
+   "publisher": "Hungarian Intellectual Property Office",
+   "url": "https://www.sztnh.gov.hu/en/print/2829",
+   "tier": 1
+  },
+  "ea-146": {
+   "title": "Karl Ernst, Ritter von Baer",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/48635",
+   "tier": 2
+  },
+  "ea-147": {
+   "title": "Csokonai Vitéz Mihály: biography",
+   "publisher": "Visegrad Literature (Petőfi Literary Museum)",
+   "url": "https://www.visegradliterature.net/works/all-de/Csokonai_Vit%C3%A9z_Mih%C3%A1ly-1773/biography",
+   "tier": 2
+  },
+  "ea-148": {
+   "title": "Richelieu Lyceum",
+   "publisher": "Internet Encyclopedia of Ukraine",
+   "url": "https://www.encyclopediaofukraine.com/pages%5CR%5CI%5CRichelieuLyceum.htm",
+   "tier": 2
+  },
+  "ea-149": {
+   "title": "The Academy of Selmecbánya",
+   "publisher": "Hungarian National Treasury in Slovakia (Hunektár)",
+   "url": "https://hunektar.sk/en/records/a-selmecbanyai-akademia",
+   "tier": 2
+  },
+  "ea-150": {
+   "title": "Moscow Theological Academy and Seminary",
+   "publisher": "OrthodoxWiki",
+   "url": "https://en.orthodoxwiki.org/Moscow_Theological_Academy_and_Seminary",
+   "tier": 3
+  }
+ },
+ "institutions": {
+  "u-prague": {
+   "src": [
+    "ea-001",
+    "ea-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-krakow": {
+   "src": [
+    "ea-003",
+    "ea-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pecs": {
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-obuda": {
+   "src": [
+    "ea-005"
+   ],
+   "fix": {
+    "end": 1419,
+    "end_approx": true
+   },
+   "note": "No records after 1419."
+  },
+  "u-pozsony": {
+   "src": [
+    "ea-005",
+    "ea-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-prague-clementinum": {
+   "src": [
+    "ea-006",
+    "ea-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vilnius": {
+   "src": [
+    "ea-009",
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-vilnius": {
+   "src": [
+    "ea-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dorpat": {
+   "src": [
+    "ea-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-olomouc": {
+   "src": [
+    "ea-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-moscow-navigation": {
+   "src": [
+    "ea-029"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kazan": {
+   "src": [
+    "ea-014",
+    "ea-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest": {
+   "src": [
+    "ea-005",
+    "ea-115"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kosice": {
+   "src": [
+    "ea-005",
+    "ea-126"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-cluj": {
+   "src": [
+    "ea-005",
+    "ea-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-prague": {
+   "src": [
+    "ea-050",
+    "ea-053",
+    "ea-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-kyiv-mohyla": {
+   "src": [
+    "ea-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-mining": {
+   "src": [
+    "ea-032",
+    "ea-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-moscow-academy": {
+   "src": [
+    "ea-034",
+    "ea-150"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-iasi": {
+   "src": [
+    "ea-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-ostroh": {
+   "src": [
+    "ea-036",
+    "ea-105"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kyiv": {
+   "src": [
+    "ea-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kharkiv": {
+   "src": [
+    "ea-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lviv": {
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-nizhyn": {
+   "src": [
+    "ea-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-kremenets": {
+   "src": [
+    "ea-041"
+   ],
+   "fix": {
+    "end": 1832
+   },
+   "note": "Closed after the 1830-31 insurrection; transfer to Kyiv in 1832."
+  },
+  "u-odessa": {
+   "src": [
+    "ea-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-odessa-richelieu": {
+   "src": [
+    "ea-043",
+    "ea-148"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-chernivtsi": {
+   "src": [
+    "ea-044"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-lviv": {
+   "src": [
+    "ea-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-moscow": {
+   "src": [
+    "ea-046",
+    "ea-110"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-academic": {
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg": {
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-st-petersburg-medical": {
+   "src": [
+    "ea-049",
+    "ea-021",
+    "ea-143"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-prague-czech": {
+   "src": [
+    "ea-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-prague-german": {
+   "src": [
+    "ea-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-budapest": {
+   "src": [
+    "ea-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-bucharest-academy": {
+   "src": [
+    "ea-052",
+    "ea-121"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-riga": {
+   "src": [
+    "ea-054",
+    "ea-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-brno-czech": {
+   "src": [
+    "ea-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-brno": {
+   "src": [
+    "ea-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-polytechnic": {
+   "src": [
+    "ea-066",
+    "ea-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-warsaw": {
+   "src": [
+    "ea-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-kyiv": {
+   "src": [
+    "ea-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-keszthely": {
+   "src": [
+    "ea-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-banska-stiavnica": {
+   "src": [
+    "ea-062",
+    "ea-063",
+    "ea-149"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-warsaw": {
+   "src": [
+    "ea-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zagreb": {
+   "src": [
+    "ea-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cluj": {
+   "src": [
+    "ea-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-prague-czech": {
+   "src": [
+    "ea-068",
+    "ea-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-prague-german": {
+   "src": [
+    "ea-001",
+    "ea-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-sarospatak": {
+   "src": [
+    "ea-086",
+    "ea-124",
+    "ea-125"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-alba-iulia": {
+   "src": [
+    "ea-087",
+    "ea-088"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zamosc": {
+   "src": [
+    "ea-089",
+    "ea-090"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-debrecen": {
+   "src": [
+    "ea-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-rakow": {
+   "src": [
+    "ea-093",
+    "ea-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-gdansk": {
+   "src": [
+    "ea-094"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-railways": {
+   "src": [
+    "ea-095"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-technological": {
+   "src": [
+    "ea-096"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-moscow-technical": {
+   "src": [
+    "ea-097"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-moscow-petrovskaya": {
+   "src": [
+    "ea-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-polotsk": {
+   "src": [
+    "ea-099"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-pribram": {
+   "src": [
+    "ea-100"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-kharkiv-collegium": {
+   "src": [
+    "ea-104"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-zadar": {
+   "src": [
+    "ea-111"
+   ],
+   "fix": {},
+   "note": "Granted the status of a privileged university with the right to confer doctorates in 1553."
+  },
+  "m-yaroslavl": {
+   "src": [
+    "ea-112",
+    "ea-114"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-ljubljana": {
+   "src": [
+    "ea-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-marymont": {
+   "src": [
+    "ea-116",
+    "ea-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-tsarskoye-selo": {
+   "src": [
+    "ea-119",
+    "ea-118"
+   ],
+   "fix": {
+    "locations": [
+     {
+      "from": 1811,
+      "city": "Tsarskoye Selo",
+      "lat": 59.718,
+      "lon": 30.395
+     },
+     {
+      "from": 1844,
+      "city": "St Petersburg",
+      "lat": 59.959,
+      "lon": 30.308
+     }
+    ]
+   },
+   "note": ""
+  },
+  "b-iasi-vasiliana": {
+   "src": [
+    "ea-120"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-iasi-academy": {
+   "src": [
+    "ea-121"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bucharest": {
+   "src": [
+    "ea-139"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "u-prague-1348-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-001",
+    "ea-002"
+   ],
+   "fix": {},
+   "note": "Clement VI's privilege 1347; Charles IV's charter 7 April 1348."
+  },
+  "u-prague-1366-charter": {
+   "status": "confirmed",
+   "src": [
+    "ea-001"
+   ],
+   "fix": {},
+   "note": "College for twelve masters (Collegium Caroli) founded 1366."
+  },
+  "u-prague-1372-split": {
+   "status": "confirmed",
+   "src": [
+    "ea-001"
+   ],
+   "fix": {},
+   "note": "Separate jurists' university existed until 1418/19."
+  },
+  "u-prague-1409-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-001",
+    "ea-013"
+   ],
+   "fix": {},
+   "note": "Decree issued 18 January 1409; departing Germans founded Leipzig."
+  },
+  "u-prague-1417-confessional": {
+   "status": "confirmed",
+   "src": [
+    "ea-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-prague-1419-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-001"
+   ],
+   "fix": {},
+   "note": "Only the arts faculty continued until the early 17th century."
+  },
+  "u-prague-1622-confessional": {
+   "status": "confirmed",
+   "src": [
+    "ea-001",
+    "ea-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-prague-1654-merger": {
+   "status": "confirmed",
+   "src": [
+    "ea-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-prague-1773-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-001",
+    "ea-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-prague-1784-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-001"
+   ],
+   "fix": {},
+   "note": "Some sources date German instruction to 1774."
+  },
+  "u-prague-1882-split": {
+   "status": "confirmed",
+   "src": [
+    "ea-001",
+    "ea-002",
+    "ea-013"
+   ],
+   "fix": {},
+   "note": "Imperial decree of 28 February 1882."
+  },
+  "c-prague-1348-merger": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-krakow-1364-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-003",
+    "ea-004"
+   ],
+   "fix": {},
+   "note": "Act dated 12 May 1364."
+  },
+  "u-krakow-1370-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-003"
+   ],
+   "fix": {},
+   "note": "Ceased after the king's death; teaching resumed 1391 through Jadwiga's efforts."
+  },
+  "u-krakow-1397-charter": {
+   "status": "confirmed",
+   "src": [
+    "ea-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-krakow-1400-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-003",
+    "ea-004"
+   ],
+   "fix": {},
+   "note": "Act of 26 July 1400."
+  },
+  "u-krakow-1780-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-003",
+    "ea-004"
+   ],
+   "fix": {},
+   "note": "Kołłątaj's reform spanned 1776-1785."
+  },
+  "u-krakow-1817-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-krakow-1853-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-003"
+   ],
+   "fix": {},
+   "note": "German became the language of instruction after Kraków's incorporation into Austria in 1846."
+  },
+  "u-krakow-1870-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-003"
+   ],
+   "fix": {},
+   "note": "Source confirms Polish restored under autonomy without exact year."
+  },
+  "u-krakow-1897-access": {
+   "status": "confirmed",
+   "src": [
+    "ea-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pecs-1367-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": "Bull of 1 September 1367, issued at Viterbo."
+  },
+  "u-pecs-1390-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": "Declined after Louis I's death (1382); may have lingered into the early 15th century."
+  },
+  "u-obuda-1395-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-obuda-1410-refoundation": {
+   "status": "corrected",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {
+    "desc": "Pope John XXIII signed the deed of re-establishment on 1 August 1410 at Sigismund's request."
+   },
+   "note": "Probably closed after the 1403 revolt; refounded 1 August 1410."
+  },
+  "u-pozsony-1465-founding": {
+   "status": "corrected",
+   "src": [
+    "ea-005",
+    "ea-008"
+   ],
+   "fix": {
+    "desc": "Pope Paul II authorised the university on 29 May 1465; it opened on 20 July 1467."
+   },
+   "note": "Bull dated 29 May 1465 (some give 19 May); opened 20 July 1467."
+  },
+  "u-pozsony-1490-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-008",
+    "ea-005"
+   ],
+   "fix": {},
+   "note": "Activity ceased after Matthias's death in 1490; decline earlier."
+  },
+  "j-prague-clementinum-1556-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-prague-clementinum-1562-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-vilnius-1579-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-009",
+    "ea-010"
+   ],
+   "fix": {},
+   "note": "Báthory's privilege 1 April 1579; papal approval 30 October 1579."
+  },
+  "j-vilnius-1570-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-009",
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-vilnius-1579-reform": {
+   "status": "remove",
+   "src": [
+    "ea-009"
+   ],
+   "fix": {},
+   "note": "Duplicate of the university's 1579 foundation."
+  },
+  "u-vilnius-1641-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vilnius-1781-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-009",
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vilnius-1803-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-009",
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vilnius-1832-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-009",
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dorpat-1632-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dorpat-1656-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ea-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dorpat-1690-refoundation": {
+   "status": "corrected",
+   "src": [
+    "ea-011"
+   ],
+   "fix": {
+    "desc": "Charles XI reopened the university in Dorpat in 1690."
+   },
+   "note": "The name Academia Gustavo-Carolina is attached to the 1699 reopening in Pärnu."
+  },
+  "u-dorpat-1699-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ea-011"
+   ],
+   "fix": {},
+   "note": "Reopened in Pärnu on 28 August 1699 as Academia Gustavo-Carolina."
+  },
+  "u-dorpat-1710-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dorpat-1802-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-011"
+   ],
+   "fix": {},
+   "note": "Reopened April 1802; act of foundation confirmed 12 December 1802."
+  },
+  "u-dorpat-1889-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-011"
+   ],
+   "fix": {},
+   "note": "Russian became the language of instruction in 1895."
+  },
+  "u-olomouc-1573-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-olomouc-1642-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-012"
+   ],
+   "fix": {},
+   "note": "Swedish occupation under Torstensson lasted eight years."
+  },
+  "u-olomouc-1773-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-olomouc-1778-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ea-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-olomouc-1782-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ea-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-olomouc-1827-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-olomouc-1855-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-012"
+   ],
+   "fix": {},
+   "note": "Philosophy closed 1851, law 1855; university closed in 1860 except theology."
+  },
+  "t-moscow-navigation-1701-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-029"
+   ],
+   "fix": {},
+   "note": "Founding declaration of 14 January 1701; Magnitsky appointed February 1701."
+  },
+  "u-kazan-1804-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kazan-1819-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-014"
+   ],
+   "fix": {},
+   "note": "Curator Magnitsky's period 1819-1826 saw dismissals and departures."
+  },
+  "u-kazan-1842-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest-1635-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest-1769-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest-1777-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kosice-1657-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kosice-1660-charter": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": "Leopold I's permission 1660; opened that year with two faculties."
+  },
+  "j-cluj-1581-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-cluj-1603-destruction": {
+   "status": "doubtful",
+   "src": [
+    "ea-005",
+    "ea-067"
+   ],
+   "fix": {},
+   "note": "Sources record the Jesuits' expulsion by the Transylvanian diet in 1588 and a final ban around 1607; a townspeople's expulsion in 1603 is not confirmed by these sources."
+  },
+  "b-kyiv-mohyla-1615-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-031"
+   ],
+   "fix": {},
+   "note": "Brotherhood school established 1615-16."
+  },
+  "b-kyiv-mohyla-1632-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-kyiv-mohyla-1694-charter": {
+   "status": "confirmed",
+   "src": [
+    "ea-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-kyiv-mohyla-1701-charter": {
+   "status": "confirmed",
+   "src": [
+    "ea-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-kyiv-mohyla-1817-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-mining-1773-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-033",
+    "ea-032"
+   ],
+   "fix": {},
+   "note": "Founded 21 October (1 November) 1773; first students enrolled June 1774."
+  },
+  "t-st-petersburg-mining-1804-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-mining-1833-reform": {
+   "status": "corrected",
+   "src": [
+    "ea-032"
+   ],
+   "fix": {
+    "year": 1834
+   },
+   "note": "Called Institute of the Corps of Mining Engineers from 1834."
+  },
+  "t-st-petersburg-mining-1866-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-moscow-academy-1687-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-034"
+   ],
+   "fix": {},
+   "note": "The brothers arrived in 1685 and founded the academy; 1687 is the conventional opening date."
+  },
+  "b-moscow-academy-1694-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-iasi-1860-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-ostroh-1576-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-036"
+   ],
+   "fix": {},
+   "note": "Founded c.1576."
+  },
+  "b-ostroh-1624-confessional": {
+   "status": "confirmed",
+   "src": [
+    "ea-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-ostroh-1636-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-036"
+   ],
+   "fix": {},
+   "note": "Had ceased to exist by 1636."
+  },
+  "u-kyiv-1834-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-037"
+   ],
+   "fix": {},
+   "note": "Opened 1834; library built on the Kremenets Lyceum collection."
+  },
+  "u-kyiv-1839-suppression": {
+   "status": "corrected",
+   "src": [
+    "ea-037"
+   ],
+   "fix": {
+    "year": 1838,
+    "desc": "After the discovery of a student society linked to Polish conspirators the university was closed for about half a year."
+   },
+   "note": "Closure followed the discovery of a Polish-linked student society in 1838."
+  },
+  "u-kyiv-1847-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-037"
+   ],
+   "fix": {},
+   "note": "The Brotherhood was founded in late 1845 and crushed in 1847."
+  },
+  "u-kyiv-1863-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kyiv-1884-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kharkiv-1804-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-038"
+   ],
+   "fix": {},
+   "note": "Founded on Karazin's initiative; opened 1805."
+  },
+  "u-kharkiv-1835-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kharkiv-1863-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kharkiv-1884-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lviv-1661-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": "Jesuit Academy operated 1661-1773."
+  },
+  "u-lviv-1773-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lviv-1784-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": "Studium Ruthenum operated 1787-1809."
+  },
+  "u-lviv-1805-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lviv-1817-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lviv-1848-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": "Shelled in November 1848; most of the library destroyed."
+  },
+  "u-lviv-1871-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": "Polish became the administrative language in 1871 and main language of instruction in 1879."
+  },
+  "u-lviv-1897-access": {
+   "status": "confirmed",
+   "src": [
+    "ea-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-nizhyn-1820-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-040"
+   ],
+   "fix": {},
+   "note": "Endowment of 210,000 rubles from Count Illia Bezborodko."
+  },
+  "m-nizhyn-1875-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-kremenets-1805-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-kremenets-1819-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-kremenets-1833-suppression": {
+   "status": "corrected",
+   "src": [
+    "ea-041"
+   ],
+   "fix": {
+    "year": 1832
+   },
+   "note": "Closed after the 1830-31 insurrection; library, collections and staff transferred to Kyiv in 1832."
+  },
+  "u-odessa-1865-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-odessa-richelieu-1865-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-chernivtsi-1875-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-044"
+   ],
+   "fix": {},
+   "note": "Opened in October 1875."
+  },
+  "u-chernivtsi-1897-access": {
+   "status": "confirmed",
+   "src": [
+    "ea-109"
+   ],
+   "fix": {},
+   "note": "Austrian philosophical faculties opened to women in 1897/98."
+  },
+  "t-lviv-1844-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-lviv-1871-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-lviv-1877-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-moscow-1755-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-046"
+   ],
+   "fix": {},
+   "note": "Decree of 12 (23) January 1755; inaugural ceremony 26 April 1755."
+  },
+  "u-moscow-1804-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kazan-1887-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-academic-1724-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-academic-1758-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-1819-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-st-petersburg-medical-1798-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-049"
+   ],
+   "fix": {},
+   "note": "Paul I's decree of 18 December 1798; built on surgical schools dating from 1733 and 1786."
+  },
+  "m-st-petersburg-medical-1872-access": {
+   "status": "confirmed",
+   "src": [
+    "ea-049"
+   ],
+   "fix": {},
+   "note": "Women's course for learned midwives established 1872; Women's Medical Courses from 1876."
+  },
+  "t-prague-1707-founding": {
+   "status": "corrected",
+   "src": [
+    "ea-050"
+   ],
+   "fix": {
+    "desc": "Joseph I's rescript of 18 January 1707, at the petition of the Bohemian Estates, approved Willenberg's proposal for public engineering instruction in Prague; Willenberg was appointed the first professor in 1717."
+   },
+   "note": "Rescript 18 January 1707; Willenberg appointed professor in 1717."
+  },
+  "t-prague-1806-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-050",
+    "ea-053"
+   ],
+   "fix": {},
+   "note": "Classes opened 10 November 1806."
+  },
+  "t-prague-1863-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-050"
+   ],
+   "fix": {},
+   "note": "Organic Statute approved 23 November 1863."
+  },
+  "t-prague-1869-split": {
+   "status": "confirmed",
+   "src": [
+    "ea-050"
+   ],
+   "fix": {},
+   "note": "Approved 18 April 1869."
+  },
+  "t-prague-czech-1869-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-prague-german-1869-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-prague-czech-1879-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-budapest-1782-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-051"
+   ],
+   "fix": {},
+   "note": "Institutum Geometrico-Hydrotechnicum founded 1782."
+  },
+  "t-budapest-1846-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-051"
+   ],
+   "fix": {},
+   "note": "Joseph College of Technology opened 1846; named Joseph Industrial School after an 1850 merger."
+  },
+  "t-budapest-1871-reform": {
+   "status": "corrected",
+   "src": [
+    "ea-051"
+   ],
+   "fix": {
+    "desc": "Raised to university rank as the Royal Joseph University of Technology (Királyi József Műegyetem)."
+   },
+   "note": "The name Joseph Polytechnicum dates from 1856; in 1871 it became the Royal Joseph University of Technology."
+  },
+  "b-bucharest-academy-1694-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-052"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-riga-1862-founding": {
+   "status": "corrected",
+   "src": [
+    "ea-054",
+    "ea-055"
+   ],
+   "fix": {
+    "desc": "Opened on 14 October 1862 as a private German-language polytechnic, approved by Alexander II in 1861."
+   },
+   "note": "Opening date given as 14 October 1862 (probably the New Style equivalent of 2 October)."
+  },
+  "t-riga-1896-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-055"
+   ],
+   "fix": {},
+   "note": "Change of language of instruction not covered in source."
+  },
+  "t-brno-czech-1899-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-brno-1849-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-brno-1873-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-polytechnic-1899-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-066",
+    "ea-058"
+   ],
+   "fix": {},
+   "note": "Decree of 19 February 1899; formal opening 1 October 1902."
+  },
+  "t-warsaw-1898-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-059"
+   ],
+   "fix": {},
+   "note": "Three faculties: mechanics, chemistry, engineering and construction."
+  },
+  "t-kyiv-1898-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-keszthely-1797-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-061"
+   ],
+   "fix": {},
+   "note": "Established 1 July 1797."
+  },
+  "t-keszthely-1848-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-061"
+   ],
+   "fix": {},
+   "note": "Work was interrupted after the 1848-49 revolution."
+  },
+  "t-keszthely-1865-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-banska-stiavnica-1762-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-062",
+    "ea-063"
+   ],
+   "fix": {},
+   "note": "Maria Theresa's decision of 13 December 1762; school opened 1763."
+  },
+  "t-banska-stiavnica-1770-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-062",
+    "ea-063"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-banska-stiavnica-1807-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-063"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-warsaw-1816-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-warsaw-1831-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-064"
+   ],
+   "fix": {},
+   "note": "Ceased fifteen years after its creation, following the defeat of the November Uprising."
+  },
+  "u-warsaw-1862-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-064"
+   ],
+   "fix": {},
+   "note": "Main School inaugurated 15 November 1862."
+  },
+  "u-warsaw-1869-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zagreb-1669-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zagreb-1773-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zagreb-1776-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zagreb-1874-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-065"
+   ],
+   "fix": {},
+   "note": "Founding act ratified 5 January 1874; inaugural ceremony 19 October 1874."
+  },
+  "u-cluj-1872-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-067"
+   ],
+   "fix": {},
+   "note": "Founding laws ratified 12 October 1872; the name Franz Joseph was adopted in 1881."
+  },
+  "u-cluj-1895-access": {
+   "status": "confirmed",
+   "src": [
+    "ea-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-prague-czech-1882-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-001",
+    "ea-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-prague-german-1882-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-001",
+    "ea-002"
+   ],
+   "fix": {},
+   "note": "Retention of the insignia and Carolinum not covered by these sources."
+  },
+  "a-sarospatak-1531-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-086"
+   ],
+   "fix": {},
+   "note": "1531 is the traditional date of the school's beginnings."
+  },
+  "a-alba-iulia-1622-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-087",
+    "ea-088"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-alba-iulia-1658-destruction": {
+   "status": "corrected",
+   "src": [
+    "ea-087",
+    "ea-088"
+   ],
+   "fix": {
+    "desc": "Ottoman forces sacked Gyulafehérvár and the college; the students fled to Kolozsvár."
+   },
+   "note": "Sources describe Ottoman (Turkish) forces."
+  },
+  "a-alba-iulia-1662-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ea-087",
+    "ea-088"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-alba-iulia-1704-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-087"
+   ],
+   "fix": {},
+   "note": "Devastated during the Rákóczi uprising."
+  },
+  "a-alba-iulia-1849-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-087"
+   ],
+   "fix": {},
+   "note": "Destroyed during the 1848-49 revolution."
+  },
+  "u-zamosc-1594-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-090",
+    "ea-089"
+   ],
+   "fix": {},
+   "note": "Some sources date the founding to 1595, the year teaching opened."
+  },
+  "u-zamosc-1784-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-089",
+    "ea-090"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-debrecen-1538-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-rakow-1602-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-093"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-rakow-1638-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-092",
+    "ea-093"
+   ],
+   "fix": {},
+   "note": "The crucifix incident is not covered in these sources."
+  },
+  "a-gdansk-1558-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-094"
+   ],
+   "fix": {},
+   "note": "Exact day not given in source."
+  },
+  "a-gdansk-1580-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-094"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-gdansk-1817-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-094"
+   ],
+   "fix": {},
+   "note": "Closed 10 November 1817 and incorporated into St Mary's school."
+  },
+  "t-st-petersburg-railways-1809-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-095"
+   ],
+   "fix": {},
+   "note": "First students began classes in November 1810."
+  },
+  "t-st-petersburg-technological-1828-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-096"
+   ],
+   "fix": {},
+   "note": "Regulations approved 28 November 1828; opened 11 October 1831."
+  },
+  "t-moscow-technical-1830-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-097"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-moscow-technical-1868-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-097"
+   ],
+   "fix": {},
+   "note": "Charter of 1 June 1868."
+  },
+  "t-moscow-petrovskaya-1865-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-polotsk-1812-charter": {
+   "status": "confirmed",
+   "src": [
+    "ea-099"
+   ],
+   "fix": {},
+   "note": "Decree of 12 January 1812."
+  },
+  "j-polotsk-1820-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-099"
+   ],
+   "fix": {},
+   "note": "Decree of 13 March 1820."
+  },
+  "t-pribram-1849-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-100"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-kharkiv-collegium-1726-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-104"
+   ],
+   "fix": {},
+   "note": "Founded in Belgorod in 1722 and moved to Kharkiv in 1726."
+  },
+  "b-kharkiv-collegium-1817-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-104"
+   ],
+   "fix": {},
+   "note": "New statute in 1817; the name 'college' was kept until 1841."
+  },
+  "u-prague-czech-1897-access": {
+   "status": "confirmed",
+   "src": [
+    "ea-109",
+    "ea-003"
+   ],
+   "fix": {},
+   "note": "Austrian philosophical faculties opened to women in 1897/98; medicine followed in 1900."
+  },
+  "u-prague-german-1897-access": {
+   "status": "confirmed",
+   "src": [
+    "ea-109"
+   ],
+   "fix": {},
+   "note": "Austrian philosophical faculties opened to women in 1897/98."
+  },
+  "m-zadar-1396-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-111"
+   ],
+   "fix": {},
+   "note": "Founded 14 June 1396."
+  },
+  "j-polotsk-1580-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-debrecen-1588-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-iasi-vasiliana-1640-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-120"
+   ],
+   "fix": {},
+   "note": "Founded 1640 by professors from the Kyiv-Mohyla Academy under Sofronii Pochasky."
+  },
+  "u-zamosc-1648-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-sarospatak-1650-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-124"
+   ],
+   "fix": {},
+   "note": "Comenius accepted the invitation to Patak and stayed until summer 1654."
+  },
+  "b-iasi-vasiliana-1653-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-vilnius-1655-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest-1667-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-115"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-sarospatak-1671-confessional": {
+   "status": "confirmed",
+   "src": [
+    "ea-125"
+   ],
+   "fix": {},
+   "note": "The college's exile is dated 1672-1703 in the college's own history."
+  },
+  "b-moscow-academy-1701-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-150"
+   ],
+   "fix": {},
+   "note": "Peter I made it a state academy under Palladius Rogovsky."
+  },
+  "a-sarospatak-1703-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-125"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-iasi-academy-1707-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-121"
+   ],
+   "fix": {},
+   "note": "Founded 1707 under Antioh Cantemir; re-established 1714 by Nicolae Mavrocordat."
+  },
+  "t-moscow-navigation-1715-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-targu-mures-1718-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-moscow-navigation-1752-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-academic-1766-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-iasi-academy-1766-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "j-polotsk-1773-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest-1773-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "b-bucharest-academy-1776-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-kosice-1777-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-126"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest-1780-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest-1784-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ea-115"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-budapest-1784-relocation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "m-yaroslavl-1803-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-114"
+   ],
+   "fix": {},
+   "note": "Decree of 18 June 1803 approving Pavel Demidov's endowment."
+  },
+  "m-zadar-1807-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-111"
+   ],
+   "fix": {},
+   "note": "Abolished by the French government on 8 January 1807."
+  },
+  "u-ljubljana-1810-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-tsarskoye-selo-1811-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-119"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-moscow-1812-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-135"
+   ],
+   "fix": {},
+   "note": "Classes resumed 1 September 1813."
+  },
+  "u-ljubljana-1813-suppression": {
+   "status": "corrected",
+   "src": [
+    "ea-113"
+   ],
+   "fix": {
+    "title": "Closed on the French departure",
+    "desc": "The écoles centrales ended with the departure of the French in 1813, and the earlier lyceum system was restored."
+   },
+   "note": "The schools ended with the French withdrawal in 1813."
+  },
+  "b-moscow-academy-1814-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-150"
+   ],
+   "fix": {},
+   "note": "Became the Ecclesiastical Academy at the Trinity-Sergius Lavra in 1814."
+  },
+  "t-marymont-1816-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-116",
+    "ea-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-odessa-richelieu-1817-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-148"
+   ],
+   "fix": {},
+   "note": "Origin in the Noble Institute not covered in source."
+  },
+  "b-iasi-academy-1821-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-121"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "b-bucharest-academy-1821-destruction": {
+   "status": "confirmed",
+   "src": [
+    "ea-121"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-1821-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-vilnius-1823-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-144",
+    "ea-127"
+   ],
+   "fix": {},
+   "note": "Novosiltsev's investigation of the Philomaths and Philarets; Mickiewicz arrested 1823 and deported 1824; Lelewel deprived of his chair in 1824."
+  },
+  "t-marymont-1831-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-117",
+    "ea-116"
+   ],
+   "fix": {},
+   "note": "Closed after the November Uprising; one source gives activity 1816-1830."
+  },
+  "u-st-petersburg-1835-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1835 statute applied to all universities of the empire and strengthened central control."
+  },
+  "u-moscow-1835-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1835 statute applied to all universities of the empire and strengthened central control."
+  },
+  "u-kazan-1835-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1835 statute applied to all universities of the empire and strengthened central control."
+  },
+  "t-marymont-1840-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "ea-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-tsarskoye-selo-1843-relocation": {
+   "status": "corrected",
+   "src": [
+    "ea-119"
+   ],
+   "fix": {
+    "year": 1844,
+    "desc": "Renamed the Alexander Lyceum in 1843 and transferred to St Petersburg on 1 January 1844."
+   },
+   "note": "Renamed 1843; moved to St Petersburg on 1 January 1844."
+  },
+  "u-trnava-budapest-1844-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-115"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-kosice-1850-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-126"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-zagreb-1850-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-1861-suppression": {
+   "status": "confirmed",
+   "src": [
+    "ea-136"
+   ],
+   "fix": {},
+   "note": "Closed after student disturbances in autumn 1861."
+  },
+  "t-marymont-1862-relocation": {
+   "status": "confirmed",
+   "src": [
+    "ea-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-technological-1862-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-1863-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1863 statute restored election of rectors, deans and professors at all imperial universities."
+  },
+  "u-moscow-1863-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1863 statute restored election of rectors, deans and professors at all imperial universities."
+  },
+  "u-bucharest-1864-founding": {
+   "status": "confirmed",
+   "src": [
+    "ea-139"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-st-petersburg-railways-1864-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-pribram-1865-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-banska-stiavnica-1867-reform": {
+   "status": "corrected",
+   "src": [
+    "ea-149"
+   ],
+   "fix": {
+    "year": 1868,
+    "approx": false
+   },
+   "note": "Became a Hungarian state institution after the 1867 Compromise; Hungarian became the language of instruction in 1868."
+  },
+  "m-yaroslavl-1868-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-112"
+   ],
+   "fix": {},
+   "note": "Interim statute of the Demidov Juridical Lyceum signed 15 July 1868."
+  },
+  "t-marymont-1869-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "m-st-petersburg-medical-1881-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-143"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-1884-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1884 statute returned appointments to the minister and banned student organisations across the empire."
+  },
+  "u-moscow-1884-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1884 statute returned appointments to the minister and banned student organisations across the empire."
+  },
+  "u-kazan-1884-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1884 statute returned appointments to the minister and banned student organisations across the empire."
+  },
+  "u-odessa-1884-reform": {
+   "status": "confirmed",
+   "src": [
+    "ea-122"
+   ],
+   "fix": {},
+   "note": "The 1884 statute returned appointments to the minister and banned student organisations across the empire."
+  },
+  "t-pribram-1894-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-moscow-petrovskaya-1894-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-trnava-budapest-1895-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-petersburg-1899-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "thinkers": {
+  "th908": {
+   "status": "confirmed",
+   "src": [
+    "ea-027",
+    "ea-004"
+   ],
+   "fix": {},
+   "note": "Matriculated 1491; about four years of study."
+  },
+  "th872": {
+   "status": "confirmed",
+   "src": [
+    "ea-008",
+    "ea-007"
+   ],
+   "fix": {},
+   "note": "Lectured at the Istropolitana 1467-1471."
+  },
+  "th873": {
+   "status": "confirmed",
+   "src": [
+    "ea-008",
+    "ea-007"
+   ],
+   "fix": {},
+   "note": "Professor at the Istropolitana; worked with Regiomontanus from 1467."
+  },
+  "th918": {
+   "status": "confirmed",
+   "src": [
+    "ea-010",
+    "ea-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th920": {
+   "status": "confirmed",
+   "src": [
+    "ea-010",
+    "ea-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th847": {
+   "status": "confirmed",
+   "src": [
+    "ea-014"
+   ],
+   "fix": {},
+   "note": "Entered 1807; lecturer 1814, professor 1816, rector 1827-1846."
+  },
+  "th935": {
+   "status": "confirmed",
+   "src": [
+    "ea-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th827": {
+   "status": "confirmed",
+   "src": [
+    "ea-016"
+   ],
+   "fix": {},
+   "note": "At the St Petersburg Academy 1727-1741 as academician; teaching at the attached university not documented in this source."
+  },
+  "th858": {
+   "status": "confirmed",
+   "src": [
+    "ea-017",
+    "ea-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th854": {
+   "status": "confirmed",
+   "src": [
+    "ea-018"
+   ],
+   "fix": {},
+   "note": "Degree examinations 1820, but the degree was not confirmed."
+  },
+  "th884": {
+   "status": "confirmed",
+   "src": [
+    "ea-123",
+    "ea-019"
+   ],
+   "fix": {},
+   "note": "Invited to teach at the college in 1804; retired 1851."
+  },
+  "th885": {
+   "status": "confirmed",
+   "src": [
+    "ea-020"
+   ],
+   "fix": {},
+   "note": "Graduated 30 June 1817 and stayed one more year."
+  },
+  "th831": {
+   "status": "confirmed",
+   "src": [
+    "ea-021"
+   ],
+   "fix": {},
+   "note": "Studied at the academy from 1875; professor of pharmacology 1890, chair of physiology 1895-1925."
+  },
+  "th940": {
+   "status": "confirmed",
+   "src": [
+    "ea-021"
+   ],
+   "fix": {},
+   "note": "Physics and mathematics faculty 1870-1875."
+  },
+  "th869": {
+   "status": "confirmed",
+   "src": [
+    "ea-022",
+    "ea-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th932": {
+   "status": "confirmed",
+   "src": [
+    "ea-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th934": {
+   "status": "confirmed",
+   "src": [
+    "ea-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th901": {
+   "status": "confirmed",
+   "src": [
+    "ea-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th902": {
+   "status": "confirmed",
+   "src": [
+    "ea-024"
+   ],
+   "fix": {},
+   "note": "Rector of the German university 1883-84; moved to Vienna 1895."
+  },
+  "th899": {
+   "status": "corrected",
+   "src": [
+    "ea-025"
+   ],
+   "fix": {
+    "to": 1820,
+    "role": "taught religious doctrine"
+   },
+   "note": "Held the chair of religious doctrine from April 1805 until his removal in January 1820."
+  },
+  "th894": {
+   "status": "confirmed",
+   "src": [
+    "ea-026"
+   ],
+   "fix": {},
+   "note": "BA 1393, MA 1396, rector 1402-03 and again later."
+  },
+  "th906": {
+   "status": "confirmed",
+   "src": [
+    "ea-028"
+   ],
+   "fix": {},
+   "note": "Taught there 1836-38 and as professor from 1841 before leaving for Banská Štiavnica."
+  },
+  "th824": {
+   "status": "confirmed",
+   "src": [
+    "ea-029"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th877": {
+   "status": "corrected",
+   "src": [
+    "ea-030"
+   ],
+   "fix": {
+    "from": 1871
+   },
+   "note": "Privatdozent at Budapest from 1871 until his death in 1919."
+  },
+  "th914": {
+   "status": "confirmed",
+   "src": [
+    "ea-003"
+   ],
+   "fix": {},
+   "note": "Named among the professors of the Kołłątaj reform period."
+  },
+  "th913": {
+   "status": "confirmed",
+   "src": [
+    "ea-003"
+   ],
+   "fix": {},
+   "note": "Carried out the reform of the university 1776-1785."
+  },
+  "th915": {
+   "status": "confirmed",
+   "src": [
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th916": {
+   "status": "confirmed",
+   "src": [
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th917": {
+   "status": "confirmed",
+   "src": [
+    "ea-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th860": {
+   "status": "confirmed",
+   "src": [
+    "ea-103",
+    "ea-031"
+   ],
+   "fix": {},
+   "note": "Merged his Lavra school with the brotherhood school in 1632; metropolitan 1633 until his death in 1647."
+  },
+  "th861": {
+   "status": "confirmed",
+   "src": [
+    "ea-079"
+   ],
+   "fix": {},
+   "note": "Graduated 1696 (study began earlier); taught from 1704, prefect 1708, rector 1711-1716."
+  },
+  "th862": {
+   "status": "confirmed",
+   "src": [
+    "ea-083"
+   ],
+   "fix": {},
+   "note": "Graduated c.1684; taught 1690-1698."
+  },
+  "th820": {
+   "status": "confirmed",
+   "src": [
+    "ea-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th821": {
+   "status": "confirmed",
+   "src": [
+    "ea-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th924": {
+   "status": "corrected",
+   "src": [
+    "ea-101",
+    "ea-036"
+   ],
+   "fix": {
+    "from": 1580
+   },
+   "note": "Became first rector in 1580; died October 1594."
+  },
+  "th925": {
+   "status": "confirmed",
+   "src": [
+    "ea-102",
+    "ea-036"
+   ],
+   "fix": {},
+   "note": "Studied at Ostroh before the Vilnius Jesuit college and, from 1605, in Germany; exact years not given."
+  },
+  "th864": {
+   "status": "confirmed",
+   "src": [
+    "ea-084"
+   ],
+   "fix": {},
+   "note": "Rector 1834-35; professor until retirement in 1845."
+  },
+  "th865": {
+   "status": "confirmed",
+   "src": [
+    "ea-078",
+    "ea-037"
+   ],
+   "fix": {},
+   "note": "Appointed 1846; arrested 1847."
+  },
+  "th866": {
+   "status": "confirmed",
+   "src": [
+    "ea-085",
+    "ea-037"
+   ],
+   "fix": {},
+   "note": "Privat docent from 1864, dismissed 1875."
+  },
+  "th856": {
+   "status": "confirmed",
+   "src": [
+    "ea-038"
+   ],
+   "fix": {},
+   "note": "Studied at Kharkiv; completed the course in two years."
+  },
+  "th857": {
+   "status": "confirmed",
+   "src": [
+    "ea-082",
+    "ea-038"
+   ],
+   "fix": {},
+   "note": "Studied at Kharkiv; professor there from 1874."
+  },
+  "th922": {
+   "status": "confirmed",
+   "src": [
+    "ea-080",
+    "ea-039"
+   ],
+   "fix": {},
+   "note": "Began 1875; studies broken off after his 1880 arrest."
+  },
+  "th923": {
+   "status": "confirmed",
+   "src": [
+    "ea-081",
+    "ea-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th868": {
+   "status": "confirmed",
+   "src": [
+    "ea-040"
+   ],
+   "fix": {},
+   "note": "Graduated from the gymnasium; exact years not given in source."
+  },
+  "th863": {
+   "status": "confirmed",
+   "src": [
+    "ea-042"
+   ],
+   "fix": {},
+   "note": "1734-1753 with two interruptions."
+  },
+  "th859": {
+   "status": "confirmed",
+   "src": [
+    "ea-042"
+   ],
+   "fix": {},
+   "note": "Taught in stints: 1759-60, 1762-64, 1768-69."
+  },
+  "th893": {
+   "status": "confirmed",
+   "src": [
+    "ea-044"
+   ],
+   "fix": {},
+   "note": "Named among the university's scholars; years not given in source."
+  },
+  "th850": {
+   "status": "confirmed",
+   "src": [
+    "ea-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th853": {
+   "status": "confirmed",
+   "src": [
+    "ea-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th852": {
+   "status": "confirmed",
+   "src": [
+    "ea-047"
+   ],
+   "fix": {},
+   "note": "Founder of the Kazan linguistic school; years not given in source."
+  },
+  "th849": {
+   "status": "confirmed",
+   "src": [
+    "ea-047"
+   ],
+   "fix": {},
+   "note": "Discovered ruthenium at Kazan in 1844."
+  },
+  "th826": {
+   "status": "confirmed",
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th941": {
+   "status": "confirmed",
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": "Associated with the university; years of study not given in source."
+  },
+  "th936": {
+   "status": "confirmed",
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": "Named as alumnus; years not given in source."
+  },
+  "th939": {
+   "status": "confirmed",
+   "src": [
+    "ea-048"
+   ],
+   "fix": {},
+   "note": "Named among the university's scholars; years not given in source."
+  },
+  "th878": {
+   "status": "confirmed",
+   "src": [
+    "ea-062"
+   ],
+   "fix": {},
+   "note": "First professor from 1763; end year not given in source."
+  },
+  "th903": {
+   "status": "confirmed",
+   "src": [
+    "ea-068"
+   ],
+   "fix": {},
+   "note": "Professor at the Czech university; years not given in source."
+  },
+  "th828": {
+   "status": "confirmed",
+   "src": [
+    "ea-069"
+   ],
+   "fix": {},
+   "note": "Studied 1850-56; adjunct professor c.1862, full professor 1864; taught until his death in 1887."
+  },
+  "th830": {
+   "status": "confirmed",
+   "src": [
+    "ea-021"
+   ],
+   "fix": {},
+   "note": "Pavlov worked in Botkin's clinic laboratory in the 1870s-80s; exact years of Botkin's chair not given in source."
+  },
+  "th838": {
+   "status": "confirmed",
+   "src": [
+    "ea-070"
+   ],
+   "fix": {},
+   "note": "Expelled from Moscow University in 1832."
+  },
+  "th843": {
+   "status": "corrected",
+   "src": [
+    "ea-071"
+   ],
+   "fix": {
+    "to": 1910
+   },
+   "note": "Professor of history at Moscow 1879-1910."
+  },
+  "th882": {
+   "status": "confirmed",
+   "src": [
+    "ea-072"
+   ],
+   "fix": {},
+   "note": "Died 1638; start year of teaching not given in source."
+  },
+  "th929": {
+   "status": "confirmed",
+   "src": [
+    "ea-073"
+   ],
+   "fix": {},
+   "note": "Professor from 1813 and observatory director from 1817; from 1835 also supervised construction of Pulkovo, which opened in 1839."
+  },
+  "th933": {
+   "status": "corrected",
+   "src": [
+    "ea-074"
+   ],
+   "fix": {
+    "from": 1885
+   },
+   "note": "Appointed professor at Dorpat in 1885; moved to Heidelberg six years later."
+  },
+  "th841": {
+   "status": "corrected",
+   "src": [
+    "ea-075"
+   ],
+   "fix": {
+    "to": 1877
+   },
+   "note": "Taught 1845-1877, full professor from 1850."
+  },
+  "th900": {
+   "status": "confirmed",
+   "src": [
+    "ea-076"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th867": {
+   "status": "confirmed",
+   "src": [
+    "ea-077"
+   ],
+   "fix": {},
+   "note": "Professor of history from 1878."
+  },
+  "th855": {
+   "status": "corrected",
+   "src": [
+    "ea-078"
+   ],
+   "fix": {
+    "to": 1837
+   },
+   "note": "Graduated from Kharkiv University in 1837; master's degree not covered in source."
+  },
+  "th927": {
+   "status": "confirmed",
+   "src": [
+    "ea-094"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th892": {
+   "status": "corrected",
+   "src": [
+    "ea-106"
+   ],
+   "fix": {
+    "from": 1895
+   },
+   "note": "Appointed professor of universal history at Bucharest in 1895."
+  },
+  "th912": {
+   "status": "confirmed",
+   "src": [
+    "ea-107"
+   ],
+   "fix": {},
+   "note": "Studied at Kraków before going to Padua (1552-59); exact years not given in source."
+  },
+  "th897": {
+   "status": "confirmed",
+   "src": [
+    "ea-108"
+   ],
+   "fix": {},
+   "note": "Rector and chancellor 1617-1620; executed 1621."
+  },
+  "th816": {
+   "status": "confirmed",
+   "src": [
+    "ea-142"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th817": {
+   "status": "unverified",
+   "src": [
+    "ea-127"
+   ],
+   "fix": {},
+   "note": "Source confirms a move to Warsaw after Vilnius but gives no teaching dates there."
+  },
+  "th818": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th819": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th822": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th823": {
+   "status": "confirmed",
+   "src": [
+    "ea-141"
+   ],
+   "fix": {},
+   "note": "Admitted to the Zaikonospassky (Spassky) school in 1731; sent to St Petersburg in 1736 among its twelve best students."
+  },
+  "th825": {
+   "status": "confirmed",
+   "src": [
+    "ea-141"
+   ],
+   "fix": {},
+   "note": "Went to the Academy of Sciences in St Petersburg in 1736, leaving for Marburg in September 1736."
+  },
+  "th829": {
+   "status": "confirmed",
+   "src": [
+    "ea-133"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th832": {
+   "status": "confirmed",
+   "src": [
+    "ea-118"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th833": {
+   "status": "confirmed",
+   "src": [
+    "ea-112"
+   ],
+   "fix": {},
+   "note": "Listed among the lyceum's professors; years not given in source."
+  },
+  "th834": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th835": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th836": {
+   "status": "confirmed",
+   "src": [
+    "ea-129"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th837": {
+   "status": "confirmed",
+   "src": [
+    "ea-110"
+   ],
+   "fix": {},
+   "note": "Named among the university's alumni; years not given in source."
+  },
+  "th839": {
+   "status": "confirmed",
+   "src": [
+    "ea-110"
+   ],
+   "fix": {},
+   "note": "Named among the university's alumni; years not given in source."
+  },
+  "th840": {
+   "status": "confirmed",
+   "src": [
+    "ea-135"
+   ],
+   "fix": {},
+   "note": "His public lectures of the 1840s are noted; exact dates not given in source."
+  },
+  "th842": {
+   "status": "confirmed",
+   "src": [
+    "ea-110"
+   ],
+   "fix": {},
+   "note": "Named among the university's alumni; years not given in source."
+  },
+  "th844": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th845": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th846": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th848": {
+   "status": "confirmed",
+   "src": [
+    "ea-131"
+   ],
+   "fix": {},
+   "note": "Graduated from Kazan in 1833; professor at the St Petersburg Medical-Surgical Academy from 1848, so the Kazan period ended in 1847."
+  },
+  "th851": {
+   "status": "confirmed",
+   "src": [
+    "ea-132"
+   ],
+   "fix": {},
+   "note": "Graduated from Kazan in 1849; professor at St Petersburg from 1868."
+  },
+  "th870": {
+   "status": "confirmed",
+   "src": [
+    "ea-133"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th871": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th874": {
+   "status": "confirmed",
+   "src": [
+    "ea-005",
+    "ea-115"
+   ],
+   "fix": {},
+   "note": "Signed the foundation deed of 12 May 1635; teaching began 13 November 1635; he died in 1637."
+  },
+  "th875": {
+   "status": "confirmed",
+   "src": [
+    "ea-145"
+   ],
+   "fix": {},
+   "note": "Lectures began March 1840; retired 1878 and was succeeded by Loránd Eötvös."
+  },
+  "th876": {
+   "status": "confirmed",
+   "src": [
+    "ea-128"
+   ],
+   "fix": {},
+   "note": "Appointed professor of obstetrics at Pest in 1855; died 1865."
+  },
+  "th879": {
+   "status": "confirmed",
+   "src": [
+    "ea-149"
+   ],
+   "fix": {},
+   "note": "Headed practical mining until called to Vienna in 1772."
+  },
+  "th880": {
+   "status": "confirmed",
+   "src": [
+    "ea-147"
+   ],
+   "fix": {},
+   "note": "Studied 1780-1795; taught the poetry class in 1794; dismissed in 1795."
+  },
+  "th881": {
+   "status": "confirmed",
+   "src": [
+    "ea-124"
+   ],
+   "fix": {},
+   "note": "Left for Leszno in summer 1654."
+  },
+  "th883": {
+   "status": "corrected",
+   "src": [
+    "ea-138"
+   ],
+   "fix": {
+    "from": 1629
+   },
+   "note": "Became professor at Gyulafehérvár at the end of 1629; died 1655."
+  },
+  "th886": {
+   "status": "confirmed",
+   "src": [
+    "ea-121"
+   ],
+   "fix": {},
+   "note": "Director at Iași by January 1765; forced to resign after repeated conflicts."
+  },
+  "th887": {
+   "status": "confirmed",
+   "src": [
+    "ea-121"
+   ],
+   "fix": {},
+   "note": "Taught in Bucharest until his death in 1702."
+  },
+  "th888": {
+   "status": "confirmed",
+   "src": [
+    "ea-137"
+   ],
+   "fix": {},
+   "note": "Professor at Iași from 1862; rectorship not covered in source."
+  },
+  "th889": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th890": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th891": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th895": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th896": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th898": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th904": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th905": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th907": {
+   "status": "confirmed",
+   "src": [
+    "ea-134"
+   ],
+   "fix": {},
+   "note": "Enrolled at the Philosophical Institute in 1840."
+  },
+  "th909": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th910": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th911": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th919": {
+   "status": "confirmed",
+   "src": [
+    "ea-127"
+   ],
+   "fix": {},
+   "note": "Assistant professor 1815-24, full professor of European history 1822-24."
+  },
+  "th921": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th926": {
+   "status": "confirmed",
+   "src": [
+    "ea-041"
+   ],
+   "fix": {},
+   "note": "Member of the lyceum's faculty and researcher on the region's flora; exact years not given in source."
+  },
+  "th928": {
+   "status": "confirmed",
+   "src": [
+    "ea-140"
+   ],
+   "fix": {},
+   "note": "First attended the gymnasium c.1618-1624; returned in 1627 to study under Peter Crüger."
+  },
+  "th930": {
+   "status": "confirmed",
+   "src": [
+    "ea-146"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th931": {
+   "status": "confirmed",
+   "src": [
+    "ea-129"
+   ],
+   "fix": {},
+   "note": "Studied at Dorpat from 1828; professor of surgery there from 1836."
+  },
+  "th937": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th938": {
+   "status": "confirmed",
+   "src": [
+    "ea-130"
+   ],
+   "fix": {},
+   "note": "Professor from 1863; resigned 17 August 1890. Earlier teaching from 1857 not covered in source."
+  }
+ }
+}

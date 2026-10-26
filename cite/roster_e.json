@@ -1,0 +1,2924 @@
+[
+{
+"id": "ernst-moritz-arndt",
+"name": "Ernst Moritz Arndt",
+"first": 1800,
+"stints": [
+{
+"k": "th466",
+"inst": "u-greifswald",
+"inst_name": "University of Greifswald",
+"city": "Greifswald",
+"from": 1800,
+"to": 1811,
+"role": "taught history"
+},
+{
+"k": "th615",
+"inst": "u-bonn",
+"inst_name": "University of Bonn",
+"city": "Bonn",
+"from": 1818,
+"to": 1820,
+"role": "taught history"
+}
+],
+"era": "e"
+},
+{
+"id": "n-f-s-grundtvig",
+"name": "N. F. S. Grundtvig",
+"first": 1800,
+"stints": [
+{
+"k": "th796",
+"inst": "u-copenhagen",
+"inst_name": "University of Copenhagen",
+"city": "Copenhagen",
+"from": 1800,
+"to": 1803,
+"role": "studied theology"
+}
+],
+"era": "e"
+},
+{
+"id": "benjamin-of-lesbos",
+"name": "Benjamin of Lesbos",
+"first": 1800,
+"stints": [
+{
+"k": "th972",
+"inst": "b-kydonies",
+"inst_name": "Academy of Kydonies",
+"city": "Kydonies (Ayvalik)",
+"from": 1800,
+"to": 1812,
+"role": "director"
+}
+],
+"era": "e"
+},
+{
+"id": "agustin-de-betancourt",
+"name": "Agustín de Betancourt",
+"first": 1802,
+"stints": [
+{
+"k": "th178",
+"inst": "t-caminos-madrid",
+"inst_name": "School of Civil Engineering of Madrid",
+"city": "Madrid",
+"from": 1802,
+"to": 1807,
+"role": "founded and directed"
+}
+],
+"era": "e"
+},
+{
+"id": "jacob-grimm",
+"name": "Jacob Grimm",
+"first": 1802,
+"stints": [
+{
+"k": "th515",
+"inst": "u-marburg",
+"inst_name": "University of Marburg",
+"city": "Marburg",
+"from": 1802,
+"to": 1805,
+"role": "studied law under Savigny"
+},
+{
+"k": "th601",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1830,
+"to": 1837,
+"role": "taught German philology"
+},
+{
+"k": "th634",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1841,
+"to": 1863,
+"role": "taught as academician"
+}
+],
+"era": "e"
+},
+{
+"id": "wilhelm-grimm",
+"name": "Wilhelm Grimm",
+"first": 1803,
+"stints": [
+{
+"k": "th516",
+"inst": "u-marburg",
+"inst_name": "University of Marburg",
+"city": "Marburg",
+"from": 1803,
+"to": 1806,
+"role": "studied law"
+}
+],
+"era": "e"
+},
+{
+"id": "andre-marie-ampere",
+"name": "André-Marie Ampère",
+"first": 1804,
+"stints": [
+{
+"k": "th267",
+"inst": "m-paris-college-de-france",
+"inst_name": "Collège de France",
+"city": "Paris",
+"from": 1824,
+"to": 1836,
+"role": "taught"
+},
+{
+"k": "th290",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1804,
+"to": 1828,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "augustin-fresnel",
+"name": "Augustin Fresnel",
+"first": 1804,
+"stints": [
+{
+"k": "th277",
+"inst": "t-ponts-chaussees",
+"inst_name": "École des ponts et chaussées",
+"city": "Paris",
+"from": 1806,
+"to": 1809,
+"role": "studied"
+},
+{
+"k": "th291",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1804,
+"to": 1806,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "farkas-bolyai",
+"name": "Farkas Bolyai",
+"first": 1804,
+"stints": [
+{
+"k": "th884",
+"inst": "a-targu-mures",
+"inst_name": "Reformed College of Marosvásárhely",
+"city": "Târgu Mureș",
+"from": 1804,
+"to": 1851,
+"role": "taught mathematics"
+}
+],
+"era": "e"
+},
+{
+"id": "dorotheos-proios",
+"name": "Dorotheos Proios",
+"first": 1804,
+"stints": [
+{
+"k": "th956",
+"inst": "b-patriarchal-academy",
+"inst_name": "Patriarchal Academy of Constantinople",
+"city": "Constantinople",
+"from": 1804,
+"to": 1821,
+"role": "director"
+}
+],
+"era": "e"
+},
+{
+"id": "augustin-louis-cauchy",
+"name": "Augustin-Louis Cauchy",
+"first": 1805,
+"stints": [
+{
+"k": "th278",
+"inst": "t-ponts-chaussees",
+"inst_name": "École des ponts et chaussées",
+"city": "Paris",
+"from": 1807,
+"to": 1810,
+"role": "studied"
+},
+{
+"k": "th292",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1805,
+"to": 1807,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "georg-simon-ohm",
+"name": "Georg Simon Ohm",
+"first": 1805,
+"stints": [
+{
+"k": "th608",
+"inst": "u-erlangen",
+"inst_name": "University of Erlangen",
+"city": "Erlangen",
+"from": 1805,
+"to": 1806,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "sergey-aksakov",
+"name": "Sergey Aksakov",
+"first": 1805,
+"stints": [
+{
+"k": "th846",
+"inst": "u-kazan",
+"inst_name": "Imperial Kazan University",
+"city": "Kazan",
+"from": 1805,
+"to": 1807,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "bernard-bolzano",
+"name": "Bernard Bolzano",
+"first": 1805,
+"stints": [
+{
+"k": "th899",
+"inst": "u-prague",
+"inst_name": "University of Prague (Charles University)",
+"city": "Prague",
+"from": 1805,
+"to": 1819,
+"role": "taught philosophy of religion"
+}
+],
+"era": "e"
+},
+{
+"id": "albrecht-thaer",
+"name": "Albrecht Thaer",
+"first": 1806,
+"stints": [
+{
+"k": "th666",
+"inst": "t-moglin",
+"inst_name": "Möglin Agricultural Academy",
+"city": "Möglin",
+"from": 1806,
+"to": 1828,
+"role": "founded; taught agriculture"
+}
+],
+"era": "e"
+},
+{
+"id": "alexander-griboyedov",
+"name": "Alexander Griboyedov",
+"first": 1806,
+"stints": [
+{
+"k": "th834",
+"inst": "u-moscow",
+"inst_name": "Imperial Moscow University",
+"city": "Moscow",
+"from": 1806,
+"to": 1812,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "rasmus-rask",
+"name": "Rasmus Rask",
+"first": 1807,
+"stints": [
+{
+"k": "th797",
+"inst": "u-copenhagen",
+"inst_name": "University of Copenhagen",
+"city": "Copenhagen",
+"from": 1807,
+"to": 1832,
+"role": "studied; professor"
+}
+],
+"era": "e"
+},
+{
+"id": "nikolai-lobachevsky",
+"name": "Nikolai Lobachevsky",
+"first": 1807,
+"stints": [
+{
+"k": "th847",
+"inst": "u-kazan",
+"inst_name": "Imperial Kazan University",
+"city": "Kazan",
+"from": 1807,
+"to": 1846,
+"role": "studied, taught, rector"
+}
+],
+"era": "e"
+},
+{
+"id": "gaspard-gustave-coriolis",
+"name": "Gaspard-Gustave Coriolis",
+"first": 1808,
+"stints": [
+{
+"k": "th293",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1808,
+"to": 1810,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "pyotr-chaadaev",
+"name": "Pyotr Chaadaev",
+"first": 1808,
+"stints": [
+{
+"k": "th835",
+"inst": "u-moscow",
+"inst_name": "Imperial Moscow University",
+"city": "Moscow",
+"from": 1808,
+"to": 1811,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "friedrich-georg-wilhelm-struve",
+"name": "Friedrich Georg Wilhelm Struve",
+"first": 1808,
+"stints": [
+{
+"k": "th929",
+"inst": "u-dorpat",
+"inst_name": "University of Dorpat (Tartu)",
+"city": "Tartu",
+"from": 1808,
+"to": 1839,
+"role": "studied, taught astronomy"
+}
+],
+"era": "e"
+},
+{
+"id": "dositej-obradovic",
+"name": "Dositej Obradović",
+"first": 1808,
+"stints": [
+{
+"k": "th981",
+"inst": "b-belgrade-velika-skola",
+"inst_name": "Belgrade Higher School (1808)",
+"city": "Belgrade",
+"from": 1808,
+"to": 1811,
+"role": "founded; patron"
+}
+],
+"era": "e"
+},
+{
+"id": "ugo-foscolo",
+"name": "Ugo Foscolo",
+"first": 1809,
+"stints": [
+{
+"k": "th79",
+"inst": "u-pavia",
+"inst_name": "University of Pavia",
+"city": "Pavia",
+"from": 1809,
+"to": 1809,
+"role": "taught eloquence"
+}
+],
+"era": "e"
+},
+{
+"id": "arthur-schopenhauer",
+"name": "Arthur Schopenhauer",
+"first": 1809,
+"stints": [
+{
+"k": "th599",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1809,
+"to": 1811,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "willibald-besser",
+"name": "Willibald Besser",
+"first": 1809,
+"stints": [
+{
+"k": "th926",
+"inst": "m-kremenets",
+"inst_name": "Kremenets Lyceum",
+"city": "Kremenets",
+"from": 1809,
+"to": 1831,
+"role": "taught botany"
+}
+],
+"era": "e"
+},
+{
+"id": "jean-francois-champollion",
+"name": "Jean-François Champollion",
+"first": 1810,
+"stints": [
+{
+"k": "th240",
+"inst": "u-grenoble",
+"inst_name": "University of Grenoble",
+"city": "Grenoble",
+"from": 1810,
+"to": 1816,
+"role": "taught history"
+},
+{
+"k": "th268",
+"inst": "m-paris-college-de-france",
+"inst_name": "Collège de France",
+"city": "Paris",
+"from": 1831,
+"to": 1832,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "friedrich-wilhelm-bessel",
+"name": "Friedrich Wilhelm Bessel",
+"first": 1810,
+"stints": [
+{
+"k": "th524",
+"inst": "u-konigsberg",
+"inst_name": "University of Königsberg",
+"city": "Königsberg",
+"from": 1810,
+"to": 1846,
+"role": "taught astronomy"
+}
+],
+"era": "e"
+},
+{
+"id": "charles-babbage",
+"name": "Charles Babbage",
+"first": 1810,
+"stints": [
+{
+"k": "th691",
+"inst": "u-cambridge",
+"inst_name": "University of Cambridge",
+"city": "Cambridge",
+"from": 1810,
+"to": 1839,
+"role": "studied; Lucasian professor 1828-39"
+}
+],
+"era": "e"
+},
+{
+"id": "karl-ernst-von-baer",
+"name": "Karl Ernst von Baer",
+"first": 1810,
+"stints": [
+{
+"k": "th930",
+"inst": "u-dorpat",
+"inst_name": "University of Dorpat (Tartu)",
+"city": "Tartu",
+"from": 1810,
+"to": 1814,
+"role": "studied medicine"
+}
+],
+"era": "e"
+},
+{
+"id": "heinrich-cotta",
+"name": "Heinrich Cotta",
+"first": 1811,
+"stints": [
+{
+"k": "th665",
+"inst": "t-tharandt",
+"inst_name": "Tharandt Forestry Academy",
+"city": "Tharandt",
+"from": 1811,
+"to": 1844,
+"role": "founded; director"
+}
+],
+"era": "e"
+},
+{
+"id": "alexander-pushkin",
+"name": "Alexander Pushkin",
+"first": 1811,
+"stints": [
+{
+"k": "th832",
+"inst": "m-tsarskoye-selo",
+"inst_name": "Imperial Lyceum of Tsarskoye Selo",
+"city": "Tsarskoye Selo",
+"from": 1811,
+"to": 1817,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "sadi-carnot",
+"name": "Sadi Carnot",
+"first": 1812,
+"stints": [
+{
+"k": "th294",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1812,
+"to": 1814,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "theophilos-kairis",
+"name": "Theophilos Kairis",
+"first": 1812,
+"stints": [
+{
+"k": "th973",
+"inst": "b-kydonies",
+"inst_name": "Academy of Kydonies",
+"city": "Kydonies (Ayvalik)",
+"from": 1812,
+"to": 1821,
+"role": "taught; director"
+}
+],
+"era": "e"
+},
+{
+"id": "auguste-comte",
+"name": "Auguste Comte",
+"first": 1814,
+"stints": [
+{
+"k": "th295",
+"inst": "t-polytechnique",
+"inst_name": "École polytechnique",
+"city": "Paris",
+"from": 1814,
+"to": 1816,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "jeremias-gotthelf",
+"name": "Jeremias Gotthelf",
+"first": 1814,
+"stints": [
+{
+"k": "th401",
+"inst": "a-bern",
+"inst_name": "Hohe Schule / Academy of Bern",
+"city": "Bern",
+"from": 1814,
+"to": 1820,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "leopold-von-ranke",
+"name": "Leopold von Ranke",
+"first": 1814,
+"stints": [
+{
+"k": "th459",
+"inst": "u-leipzig",
+"inst_name": "University of Leipzig",
+"city": "Leipzig",
+"from": 1814,
+"to": 1817,
+"role": "studied theology and philology"
+},
+{
+"k": "th630",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1825,
+"to": 1871,
+"role": "taught history"
+}
+],
+"era": "e"
+},
+{
+"id": "christopher-hansteen",
+"name": "Christopher Hansteen",
+"first": 1814,
+"stints": [
+{
+"k": "th802",
+"inst": "u-christiania",
+"inst_name": "Royal Frederick University",
+"city": "Christiania",
+"from": 1814,
+"to": 1861,
+"role": "professor of astronomy"
+}
+],
+"era": "e"
+},
+{
+"id": "janos-bolyai",
+"name": "János Bolyai",
+"first": 1814,
+"stints": [
+{
+"k": "th885",
+"inst": "a-targu-mures",
+"inst_name": "Reformed College of Marosvásárhely",
+"city": "Târgu Mureș",
+"from": 1814,
+"to": 1817,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "johann-joseph-von-prechtl",
+"name": "Johann Joseph von Prechtl",
+"first": 1815,
+"stints": [
+{
+"k": "th667",
+"inst": "t-vienna",
+"inst_name": "Vienna Polytechnic Institute",
+"city": "Vienna",
+"from": 1815,
+"to": 1849,
+"role": "founding director"
+}
+],
+"era": "e"
+},
+{
+"id": "joachim-lelewel",
+"name": "Joachim Lelewel",
+"first": 1815,
+"stints": [
+{
+"k": "th817",
+"inst": "u-warsaw",
+"inst_name": "University of Warsaw",
+"city": "Warsaw",
+"from": 1818,
+"to": 1821,
+"role": "taught history"
+},
+{
+"k": "th919",
+"inst": "u-vilnius",
+"inst_name": "University of Vilnius",
+"city": "Vilnius",
+"from": 1815,
+"to": 1824,
+"role": "taught history"
+}
+],
+"era": "e"
+},
+{
+"id": "adam-mickiewicz",
+"name": "Adam Mickiewicz",
+"first": 1815,
+"stints": [
+{
+"k": "th918",
+"inst": "u-vilnius",
+"inst_name": "University of Vilnius",
+"city": "Vilnius",
+"from": 1815,
+"to": 1819,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "neophytos-vamvas",
+"name": "Neophytos Vamvas",
+"first": 1815,
+"stints": [
+{
+"k": "th971",
+"inst": "b-chios",
+"inst_name": "School of Chios",
+"city": "Chios",
+"from": 1815,
+"to": 1821,
+"role": "director"
+},
+{
+"k": "th976",
+"inst": "b-ionian-academy",
+"inst_name": "Ionian Academy",
+"city": "Corfu",
+"from": 1828,
+"to": 1836,
+"role": "taught"
+},
+{
+"k": "th977",
+"inst": "u-athens",
+"inst_name": "University of Athens",
+"city": "Athens",
+"from": 1837,
+"to": 1854,
+"role": "professor of philosophy; dean"
+}
+],
+"era": "e"
+},
+{
+"id": "almeida-garrett",
+"name": "Almeida Garrett",
+"first": 1816,
+"stints": [
+{
+"k": "th171",
+"inst": "u-lisbon-coimbra",
+"inst_name": "University of Coimbra",
+"city": "Lisbon",
+"from": 1816,
+"to": 1821,
+"role": "studied law"
+}
+],
+"era": "e"
+},
+{
+"id": "mikhail-ostrogradsky",
+"name": "Mikhail Ostrogradsky",
+"first": 1816,
+"stints": [
+{
+"k": "th854",
+"inst": "u-kharkiv",
+"inst_name": "Imperial Kharkiv University",
+"city": "Kharkiv",
+"from": 1816,
+"to": 1820,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "john-henry-newman",
+"name": "John Henry Newman",
+"first": 1817,
+"stints": [
+{
+"k": "th684",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1817,
+"to": 1845,
+"role": "studied; fellow of Oriel"
+},
+{
+"k": "th773",
+"inst": "u-catholic-ireland",
+"inst_name": "Catholic University of Ireland",
+"city": "Dublin",
+"from": 1854,
+"to": 1858,
+"role": "founding rector"
+}
+],
+"era": "e"
+},
+{
+"id": "erik-gustaf-geijer",
+"name": "Erik Gustaf Geijer",
+"first": 1817,
+"stints": [
+{
+"k": "th781",
+"inst": "u-uppsala",
+"inst_name": "Uppsala University",
+"city": "Uppsala",
+"from": 1817,
+"to": 1846,
+"role": "professor of history"
+}
+],
+"era": "e"
+},
+{
+"id": "carl-von-clausewitz",
+"name": "Carl von Clausewitz",
+"first": 1818,
+"stints": [
+{
+"k": "th655",
+"inst": "t-berlin-kriegsakademie",
+"inst_name": "Prussian War Academy",
+"city": "Berlin",
+"from": 1818,
+"to": 1830,
+"role": "director"
+}
+],
+"era": "e"
+},
+{
+"id": "claude-louis-navier",
+"name": "Claude-Louis Navier",
+"first": 1819,
+"stints": [
+{
+"k": "th279",
+"inst": "t-ponts-chaussees",
+"inst_name": "École des ponts et chaussées",
+"city": "Paris",
+"from": 1819,
+"to": 1836,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "jean-baptiste-say",
+"name": "Jean-Baptiste Say",
+"first": 1819,
+"stints": [
+{
+"k": "th306",
+"inst": "t-cnam",
+"inst_name": "Conservatoire national des arts et métiers",
+"city": "Paris",
+"from": 1819,
+"to": 1830,
+"role": "taught economics"
+}
+],
+"era": "e"
+},
+{
+"id": "adolphe-quetelet",
+"name": "Adolphe Quetelet",
+"first": 1819,
+"stints": [
+{
+"k": "th359",
+"inst": "u-ghent",
+"inst_name": "Ghent University",
+"city": "Ghent",
+"from": 1819,
+"to": 1819,
+"role": "doctorate"
+}
+],
+"era": "e"
+},
+{
+"id": "heinrich-heine",
+"name": "Heinrich Heine",
+"first": 1819,
+"stints": [
+{
+"k": "th600",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1820,
+"to": 1825,
+"role": "studied law"
+},
+{
+"k": "th617",
+"inst": "u-bonn",
+"inst_name": "University of Bonn",
+"city": "Bonn",
+"from": 1819,
+"to": 1820,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "sveinbjorn-egilsson",
+"name": "Sveinbjörn Egilsson",
+"first": 1819,
+"stints": [
+{
+"k": "th806",
+"inst": "a-bessastadir",
+"inst_name": "Bessastaðir School",
+"city": "Bessastaðir",
+"from": 1819,
+"to": 1851,
+"role": "teacher; rector at Reykjavík"
+}
+],
+"era": "e"
+},
+{
+"id": "amedeo-avogadro",
+"name": "Amedeo Avogadro",
+"first": 1820,
+"stints": [
+{
+"k": "th90",
+"inst": "u-turin",
+"inst_name": "University of Turin",
+"city": "Turin",
+"from": 1820,
+"to": 1850,
+"role": "taught mathematical physics"
+}
+],
+"era": "e"
+},
+{
+"id": "justus-von-liebig",
+"name": "Justus von Liebig",
+"first": 1820,
+"stints": [
+{
+"k": "th482",
+"inst": "u-ingolstadt-munich",
+"inst_name": "Ludwig Maximilian University (Ingolstadt–Landshut–Munich)",
+"city": "Ingolstadt",
+"from": 1852,
+"to": 1873,
+"role": "taught chemistry (Munich)"
+},
+{
+"k": "th561",
+"inst": "u-giessen",
+"inst_name": "University of Giessen",
+"city": "Giessen",
+"from": 1824,
+"to": 1852,
+"role": "taught chemistry"
+},
+{
+"k": "th618",
+"inst": "u-bonn",
+"inst_name": "University of Bonn",
+"city": "Bonn",
+"from": 1820,
+"to": 1821,
+"role": "studied chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "niels-henrik-abel",
+"name": "Niels Henrik Abel",
+"first": 1821,
+"stints": [
+{
+"k": "th803",
+"inst": "u-christiania",
+"inst_name": "Royal Frederick University",
+"city": "Christiania",
+"from": 1821,
+"to": 1825,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "nikolai-gogol",
+"name": "Nikolai Gogol",
+"first": 1821,
+"stints": [
+{
+"k": "th868",
+"inst": "m-nizhyn",
+"inst_name": "Nizhyn Gymnasium of Higher Sciences",
+"city": "Nizhyn",
+"from": 1821,
+"to": 1828,
+"role": "studied"
+},
+{
+"k": "th937",
+"inst": "u-st-petersburg",
+"inst_name": "St Petersburg Imperial University",
+"city": "St Petersburg",
+"from": 1834,
+"to": 1835,
+"role": "taught history"
+}
+],
+"era": "e"
+},
+{
+"id": "giuseppe-mazzini",
+"name": "Giuseppe Mazzini",
+"first": 1822,
+"stints": [
+{
+"k": "th95",
+"inst": "u-genoa",
+"inst_name": "University of Genoa",
+"city": "Genoa",
+"from": 1822,
+"to": 1827,
+"role": "studied law"
+}
+],
+"era": "e"
+},
+{
+"id": "rene-laennec",
+"name": "René Laennec",
+"first": 1822,
+"stints": [
+{
+"k": "th266",
+"inst": "m-paris-college-de-france",
+"inst_name": "Collège de France",
+"city": "Paris",
+"from": 1822,
+"to": 1826,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "b-s-ingemann",
+"name": "B. S. Ingemann",
+"first": 1822,
+"stints": [
+{
+"k": "th801",
+"inst": "a-soro",
+"inst_name": "Sorø Academy",
+"city": "Sorø",
+"from": 1822,
+"to": 1862,
+"role": "lecturer"
+}
+],
+"era": "e"
+},
+{
+"id": "elias-lonnrot",
+"name": "Elias Lönnrot",
+"first": 1822,
+"stints": [
+{
+"k": "th812",
+"inst": "u-turku-helsinki",
+"inst_name": "Royal Academy of Turku / Imperial Alexander University",
+"city": "Turku",
+"from": 1822,
+"to": 1862,
+"role": "studied; professor of Finnish 1853-62"
+}
+],
+"era": "e"
+},
+{
+"id": "johan-ludvig-runeberg",
+"name": "Johan Ludvig Runeberg",
+"first": 1822,
+"stints": [
+{
+"k": "th813",
+"inst": "u-turku-helsinki",
+"inst_name": "Royal Academy of Turku / Imperial Alexander University",
+"city": "Turku",
+"from": 1822,
+"to": 1837,
+"role": "studied; docent"
+}
+],
+"era": "e"
+},
+{
+"id": "johan-vilhelm-snellman",
+"name": "Johan Vilhelm Snellman",
+"first": 1822,
+"stints": [
+{
+"k": "th814",
+"inst": "u-turku-helsinki",
+"inst_name": "Royal Academy of Turku / Imperial Alexander University",
+"city": "Turku",
+"from": 1822,
+"to": 1863,
+"role": "studied; professor of philosophy 1856-63"
+}
+],
+"era": "e"
+},
+{
+"id": "jan-evangelista-purkyne",
+"name": "Jan Evangelista Purkyně",
+"first": 1823,
+"stints": [
+{
+"k": "th587",
+"inst": "u-breslau",
+"inst_name": "University of Breslau",
+"city": "Breslau",
+"from": 1823,
+"to": 1850,
+"role": "taught physiology"
+},
+{
+"k": "th900",
+"inst": "u-prague",
+"inst_name": "University of Prague (Charles University)",
+"city": "Prague",
+"from": 1850,
+"to": 1869,
+"role": "taught physiology"
+}
+],
+"era": "e"
+},
+{
+"id": "barthold-georg-niebuhr",
+"name": "Barthold Georg Niebuhr",
+"first": 1823,
+"stints": [
+{
+"k": "th619",
+"inst": "u-bonn",
+"inst_name": "University of Bonn",
+"city": "Bonn",
+"from": 1823,
+"to": 1831,
+"role": "taught Roman history"
+}
+],
+"era": "e"
+},
+{
+"id": "william-rowan-hamilton",
+"name": "William Rowan Hamilton",
+"first": 1823,
+"stints": [
+{
+"k": "th769",
+"inst": "u-dublin",
+"inst_name": "Trinity College Dublin",
+"city": "Dublin",
+"from": 1823,
+"to": 1865,
+"role": "studied; Andrews professor of astronomy 1827-65"
+}
+],
+"era": "e"
+},
+{
+"id": "jonas-hallgrimsson",
+"name": "Jónas Hallgrímsson",
+"first": 1823,
+"stints": [
+{
+"k": "th807",
+"inst": "a-bessastadir",
+"inst_name": "Bessastaðir School",
+"city": "Bessastaðir",
+"from": 1823,
+"to": 1829,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "nikolay-pirogov",
+"name": "Nikolay Pirogov",
+"first": 1824,
+"stints": [
+{
+"k": "th836",
+"inst": "u-moscow",
+"inst_name": "Imperial Moscow University",
+"city": "Moscow",
+"from": 1824,
+"to": 1828,
+"role": "studied medicine"
+},
+{
+"k": "th931",
+"inst": "u-dorpat",
+"inst_name": "University of Dorpat (Tartu)",
+"city": "Tartu",
+"from": 1828,
+"to": 1840,
+"role": "studied, taught surgery"
+}
+],
+"era": "e"
+},
+{
+"id": "frederick-north-earl-of-guilford",
+"name": "Frederick North, Earl of Guilford",
+"first": 1824,
+"stints": [
+{
+"k": "th974",
+"inst": "b-ionian-academy",
+"inst_name": "Ionian Academy",
+"city": "Corfu",
+"from": 1824,
+"to": 1827,
+"role": "founded; chancellor"
+}
+],
+"era": "e"
+},
+{
+"id": "david-friedrich-strauss",
+"name": "David Friedrich Strauss",
+"first": 1825,
+"stints": [
+{
+"k": "th496",
+"inst": "u-tubingen",
+"inst_name": "University of Tübingen",
+"city": "Tübingen",
+"from": 1825,
+"to": 1835,
+"role": "studied, then tutor (Repetent)"
+}
+],
+"era": "e"
+},
+{
+"id": "charles-darwin",
+"name": "Charles Darwin",
+"first": 1825,
+"stints": [
+{
+"k": "th692",
+"inst": "u-cambridge",
+"inst_name": "University of Cambridge",
+"city": "Cambridge",
+"from": 1828,
+"to": 1831,
+"role": "studied at Christ's"
+},
+{
+"k": "th753",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1825,
+"to": 1827,
+"role": "studied medicine"
+}
+],
+"era": "e"
+},
+{
+"id": "juliusz-sowacki",
+"name": "Juliusz Słowacki",
+"first": 1825,
+"stints": [
+{
+"k": "th920",
+"inst": "u-vilnius",
+"inst_name": "University of Vilnius",
+"city": "Vilnius",
+"from": 1825,
+"to": 1828,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "jaume-balmes",
+"name": "Jaume Balmes",
+"first": 1826,
+"stints": [
+{
+"k": "th119",
+"inst": "u-cervera",
+"inst_name": "University of Cervera",
+"city": "Cervera",
+"from": 1826,
+"to": 1835,
+"role": "studied theology"
+}
+],
+"era": "e"
+},
+{
+"id": "ferdinand-christian-baur",
+"name": "Ferdinand Christian Baur",
+"first": 1826,
+"stints": [
+{
+"k": "th495",
+"inst": "u-tubingen",
+"inst_name": "University of Tübingen",
+"city": "Tübingen",
+"from": 1826,
+"to": 1860,
+"role": "taught theology"
+}
+],
+"era": "e"
+},
+{
+"id": "carl-gustav-jacob-jacobi",
+"name": "Carl Gustav Jacob Jacobi",
+"first": 1826,
+"stints": [
+{
+"k": "th525",
+"inst": "u-konigsberg",
+"inst_name": "University of Königsberg",
+"city": "Königsberg",
+"from": 1826,
+"to": 1844,
+"role": "taught mathematics"
+}
+],
+"era": "e"
+},
+{
+"id": "franz-ernst-neumann",
+"name": "Franz Ernst Neumann",
+"first": 1826,
+"stints": [
+{
+"k": "th526",
+"inst": "u-konigsberg",
+"inst_name": "University of Königsberg",
+"city": "Königsberg",
+"from": 1826,
+"to": 1876,
+"role": "taught physics"
+}
+],
+"era": "e"
+},
+{
+"id": "fryderyk-chopin",
+"name": "Fryderyk Chopin",
+"first": 1826,
+"stints": [
+{
+"k": "th816",
+"inst": "u-warsaw",
+"inst_name": "University of Warsaw",
+"city": "Warsaw",
+"from": 1826,
+"to": 1829,
+"role": "studied music"
+}
+],
+"era": "e"
+},
+{
+"id": "andreas-kalvos",
+"name": "Andreas Kalvos",
+"first": 1826,
+"stints": [
+{
+"k": "th975",
+"inst": "b-ionian-academy",
+"inst_name": "Ionian Academy",
+"city": "Corfu",
+"from": 1826,
+"to": 1827,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "ludwig-feuerbach",
+"name": "Ludwig Feuerbach",
+"first": 1828,
+"stints": [
+{
+"k": "th610",
+"inst": "u-erlangen",
+"inst_name": "University of Erlangen",
+"city": "Erlangen",
+"from": 1828,
+"to": 1832,
+"role": "Privatdozent in philosophy"
+}
+],
+"era": "e"
+},
+{
+"id": "augustus-de-morgan",
+"name": "Augustus De Morgan",
+"first": 1828,
+"stints": [
+{
+"k": "th711",
+"inst": "u-london-ucl",
+"inst_name": "University College London",
+"city": "London",
+"from": 1828,
+"to": 1866,
+"role": "professor of mathematics"
+}
+],
+"era": "e"
+},
+{
+"id": "evariste-galois",
+"name": "Évariste Galois",
+"first": 1829,
+"stints": [
+{
+"k": "th300",
+"inst": "t-ens",
+"inst_name": "École normale supérieure",
+"city": "Paris",
+"from": 1829,
+"to": 1830,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "jean-baptiste-dumas",
+"name": "Jean-Baptiste Dumas",
+"first": 1829,
+"stints": [
+{
+"k": "th307",
+"inst": "t-centrale",
+"inst_name": "École centrale des arts et manufactures",
+"city": "Paris",
+"from": 1829,
+"to": 1852,
+"role": "founded, taught"
+}
+],
+"era": "e"
+},
+{
+"id": "michael-faraday",
+"name": "Michael Faraday",
+"first": 1829,
+"stints": [
+{
+"k": "th710",
+"inst": "t-woolwich",
+"inst_name": "Royal Military Academy, Woolwich",
+"city": "Woolwich",
+"from": 1829,
+"to": 1852,
+"role": "professor of chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "alexander-herzen",
+"name": "Alexander Herzen",
+"first": 1829,
+"stints": [
+{
+"k": "th837",
+"inst": "u-moscow",
+"inst_name": "Imperial Moscow University",
+"city": "Moscow",
+"from": 1829,
+"to": 1833,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "vissarion-belinsky",
+"name": "Vissarion Belinsky",
+"first": 1829,
+"stints": [
+{
+"k": "th838",
+"inst": "u-moscow",
+"inst_name": "Imperial Moscow University",
+"city": "Moscow",
+"from": 1829,
+"to": 1832,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "august-heinrich-hoffmann-von-fallersleben",
+"name": "August Heinrich Hoffmann von Fallersleben",
+"first": 1830,
+"stints": [
+{
+"k": "th588",
+"inst": "u-breslau",
+"inst_name": "University of Breslau",
+"city": "Breslau",
+"from": 1830,
+"to": 1842,
+"role": "taught German philology"
+}
+],
+"era": "e"
+},
+{
+"id": "sren-kierkegaard",
+"name": "Søren Kierkegaard",
+"first": 1830,
+"stints": [
+{
+"k": "th632",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1841,
+"to": 1842,
+"role": "attended Schelling's lectures"
+},
+{
+"k": "th799",
+"inst": "u-copenhagen",
+"inst_name": "University of Copenhagen",
+"city": "Copenhagen",
+"from": 1830,
+"to": 1841,
+"role": "studied theology"
+}
+],
+"era": "e"
+},
+{
+"id": "thomas-graham",
+"name": "Thomas Graham",
+"first": 1830,
+"stints": [
+{
+"k": "th761",
+"inst": "t-glasgow-anderson",
+"inst_name": "Anderson's Institution",
+"city": "Glasgow",
+"from": 1830,
+"to": 1837,
+"role": "professor of chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "mikhail-lermontov",
+"name": "Mikhail Lermontov",
+"first": 1830,
+"stints": [
+{
+"k": "th839",
+"inst": "u-moscow",
+"inst_name": "Imperial Moscow University",
+"city": "Moscow",
+"from": 1830,
+"to": 1832,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "wilhelm-weber",
+"name": "Wilhelm Weber",
+"first": 1831,
+"stints": [
+{
+"k": "th602",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1831,
+"to": 1837,
+"role": "taught physics"
+}
+],
+"era": "e"
+},
+{
+"id": "karl-karmarsch",
+"name": "Karl Karmarsch",
+"first": 1831,
+"stints": [
+{
+"k": "th663",
+"inst": "t-hanover",
+"inst_name": "Hanover Technical University",
+"city": "Hanover",
+"from": 1831,
+"to": 1875,
+"role": "founded; director"
+}
+],
+"era": "e"
+},
+{
+"id": "otto-von-bismarck",
+"name": "Otto von Bismarck",
+"first": 1832,
+"stints": [
+{
+"k": "th603",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1832,
+"to": 1833,
+"role": "studied law"
+}
+],
+"era": "e"
+},
+{
+"id": "jose-zorrilla",
+"name": "José Zorrilla",
+"first": 1833,
+"stints": [
+{
+"k": "th146",
+"inst": "u-valladolid",
+"inst_name": "University of Valladolid",
+"city": "Valladolid",
+"from": 1833,
+"to": 1836,
+"role": "studied law"
+}
+],
+"era": "e"
+},
+{
+"id": "lorenz-oken",
+"name": "Lorenz Oken",
+"first": 1833,
+"stints": [
+{
+"k": "th396",
+"inst": "u-zurich",
+"inst_name": "University of Zurich",
+"city": "Zurich",
+"from": 1833,
+"to": 1851,
+"role": "rector"
+}
+],
+"era": "e"
+},
+{
+"id": "georg-buchner",
+"name": "Georg Büchner",
+"first": 1833,
+"stints": [
+{
+"k": "th562",
+"inst": "u-giessen",
+"inst_name": "University of Giessen",
+"city": "Giessen",
+"from": 1833,
+"to": 1834,
+"role": "studied medicine"
+}
+],
+"era": "e"
+},
+{
+"id": "anders-jonas-angstrom",
+"name": "Anders Jonas Ångström",
+"first": 1833,
+"stints": [
+{
+"k": "th782",
+"inst": "u-uppsala",
+"inst_name": "Uppsala University",
+"city": "Uppsala",
+"from": 1833,
+"to": 1874,
+"role": "studied; professor of physics"
+}
+],
+"era": "e"
+},
+{
+"id": "zachris-topelius",
+"name": "Zachris Topelius",
+"first": 1833,
+"stints": [
+{
+"k": "th815",
+"inst": "u-turku-helsinki",
+"inst_name": "Royal Academy of Turku / Imperial Alexander University",
+"city": "Turku",
+"from": 1833,
+"to": 1878,
+"role": "studied; professor of history"
+}
+],
+"era": "e"
+},
+{
+"id": "mykola-kostomarov",
+"name": "Mykola Kostomarov",
+"first": 1833,
+"stints": [
+{
+"k": "th855",
+"inst": "u-kharkiv",
+"inst_name": "Imperial Kharkiv University",
+"city": "Kharkiv",
+"from": 1833,
+"to": 1844,
+"role": "studied, master's degree"
+},
+{
+"k": "th865",
+"inst": "u-kyiv",
+"inst_name": "Imperial University of St Vladimir",
+"city": "Kyiv",
+"from": 1846,
+"to": 1847,
+"role": "taught history"
+}
+],
+"era": "e"
+},
+{
+"id": "theodore-verhaegen",
+"name": "Théodore Verhaegen",
+"first": 1834,
+"stints": [
+{
+"k": "th364",
+"inst": "u-brussels",
+"inst_name": "Free University of Brussels",
+"city": "Brussels",
+"from": 1834,
+"to": 1862,
+"role": "founded"
+}
+],
+"era": "e"
+},
+{
+"id": "william-thomson-lord-kelvin",
+"name": "William Thomson (Lord Kelvin)",
+"first": 1834,
+"stints": [
+{
+"k": "th693",
+"inst": "u-cambridge",
+"inst_name": "University of Cambridge",
+"city": "Cambridge",
+"from": 1841,
+"to": 1845,
+"role": "studied at Peterhouse"
+},
+{
+"k": "th739",
+"inst": "u-glasgow",
+"inst_name": "University of Glasgow",
+"city": "Glasgow",
+"from": 1834,
+"to": 1899,
+"role": "studied; professor of natural philosophy 1846-99"
+}
+],
+"era": "e"
+},
+{
+"id": "charles-wheatstone",
+"name": "Charles Wheatstone",
+"first": 1834,
+"stints": [
+{
+"k": "th714",
+"inst": "u-london-kings",
+"inst_name": "King's College London",
+"city": "London",
+"from": 1834,
+"to": 1875,
+"role": "professor of experimental philosophy"
+}
+],
+"era": "e"
+},
+{
+"id": "mykhailo-maksymovych",
+"name": "Mykhailo Maksymovych",
+"first": 1834,
+"stints": [
+{
+"k": "th864",
+"inst": "u-kyiv",
+"inst_name": "Imperial University of St Vladimir",
+"city": "Kyiv",
+"from": 1834,
+"to": 1845,
+"role": "rector, taught literature"
+}
+],
+"era": "e"
+},
+{
+"id": "ivan-turgenev",
+"name": "Ivan Turgenev",
+"first": 1834,
+"stints": [
+{
+"k": "th936",
+"inst": "u-st-petersburg",
+"inst_name": "St Petersburg Imperial University",
+"city": "St Petersburg",
+"from": 1834,
+"to": 1837,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "joseph-plateau",
+"name": "Joseph Plateau",
+"first": 1835,
+"stints": [
+{
+"k": "th360",
+"inst": "u-ghent",
+"inst_name": "Ghent University",
+"city": "Ghent",
+"from": 1835,
+"to": 1872,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "christian-doppler",
+"name": "Christian Doppler",
+"first": 1835,
+"stints": [
+{
+"k": "th421",
+"inst": "u-vienna",
+"inst_name": "University of Vienna",
+"city": "Vienna",
+"from": 1850,
+"to": 1852,
+"role": "directed the Physics Institute"
+},
+{
+"k": "th906",
+"inst": "t-prague",
+"inst_name": "Prague Polytechnic",
+"city": "Prague",
+"from": 1835,
+"to": 1847,
+"role": "taught mathematics"
+}
+],
+"era": "e"
+},
+{
+"id": "karl-marx",
+"name": "Karl Marx",
+"first": 1835,
+"stints": [
+{
+"k": "th539",
+"inst": "u-jena",
+"inst_name": "University of Jena",
+"city": "Jena",
+"from": 1841,
+"to": 1841,
+"role": "received doctorate (in absentia)"
+},
+{
+"k": "th620",
+"inst": "u-bonn",
+"inst_name": "University of Bonn",
+"city": "Bonn",
+"from": 1835,
+"to": 1836,
+"role": "studied law"
+},
+{
+"k": "th631",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1836,
+"to": 1841,
+"role": "studied law and philosophy"
+}
+],
+"era": "e"
+},
+{
+"id": "friedrich-argelander",
+"name": "Friedrich Argelander",
+"first": 1836,
+"stints": [
+{
+"k": "th621",
+"inst": "u-bonn",
+"inst_name": "University of Bonn",
+"city": "Bonn",
+"from": 1836,
+"to": 1875,
+"role": "taught astronomy"
+}
+],
+"era": "e"
+},
+{
+"id": "sir-william-hamilton",
+"name": "Sir William Hamilton",
+"first": 1836,
+"stints": [
+{
+"k": "th754",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1836,
+"to": 1856,
+"role": "professor of logic and metaphysics"
+}
+],
+"era": "e"
+},
+{
+"id": "david-livingstone",
+"name": "David Livingstone",
+"first": 1836,
+"stints": [
+{
+"k": "th762",
+"inst": "t-glasgow-anderson",
+"inst_name": "Anderson's Institution",
+"city": "Glasgow",
+"from": 1836,
+"to": 1838,
+"role": "studied medicine and chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "nikolay-zinin",
+"name": "Nikolay Zinin",
+"first": 1837,
+"stints": [
+{
+"k": "th848",
+"inst": "u-kazan",
+"inst_name": "Imperial Kazan University",
+"city": "Kazan",
+"from": 1837,
+"to": 1847,
+"role": "taught chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "karl-ernst-claus",
+"name": "Karl Ernst Claus",
+"first": 1837,
+"stints": [
+{
+"k": "th849",
+"inst": "u-kazan",
+"inst_name": "Imperial Kazan University",
+"city": "Kazan",
+"from": 1837,
+"to": 1852,
+"role": "taught chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "konstantinos-schinas",
+"name": "Konstantinos Schinas",
+"first": 1837,
+"stints": [
+{
+"k": "th978",
+"inst": "u-athens",
+"inst_name": "University of Athens",
+"city": "Athens",
+"from": 1837,
+"to": 1837,
+"role": "first rector"
+}
+],
+"era": "e"
+},
+{
+"id": "jules-michelet",
+"name": "Jules Michelet",
+"first": 1838,
+"stints": [
+{
+"k": "th269",
+"inst": "m-paris-college-de-france",
+"inst_name": "Collège de France",
+"city": "Paris",
+"from": 1838,
+"to": 1852,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "theodor-mommsen",
+"name": "Theodor Mommsen",
+"first": 1838,
+"stints": [
+{
+"k": "th397",
+"inst": "u-zurich",
+"inst_name": "University of Zurich",
+"city": "Zurich",
+"from": 1852,
+"to": 1854,
+"role": "taught"
+},
+{
+"k": "th575",
+"inst": "u-kiel",
+"inst_name": "University of Kiel",
+"city": "Kiel",
+"from": 1838,
+"to": 1843,
+"role": "studied law"
+},
+{
+"k": "th637",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1861,
+"to": 1903,
+"role": "taught Roman history"
+}
+],
+"era": "e"
+},
+{
+"id": "louis-agassiz",
+"name": "Louis Agassiz",
+"first": 1838,
+"stints": [
+{
+"k": "th414",
+"inst": "a-neuchatel",
+"inst_name": "Academy of Neuchâtel",
+"city": "Neuchâtel",
+"from": 1838,
+"to": 1846,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "hermann-von-helmholtz",
+"name": "Hermann von Helmholtz",
+"first": 1838,
+"stints": [
+{
+"k": "th436",
+"inst": "u-heidelberg",
+"inst_name": "University of Heidelberg",
+"city": "Heidelberg",
+"from": 1858,
+"to": 1871,
+"role": "taught physiology"
+},
+{
+"k": "th527",
+"inst": "u-konigsberg",
+"inst_name": "University of Königsberg",
+"city": "Königsberg",
+"from": 1849,
+"to": 1855,
+"role": "taught physiology"
+},
+{
+"k": "th622",
+"inst": "u-bonn",
+"inst_name": "University of Bonn",
+"city": "Bonn",
+"from": 1855,
+"to": 1858,
+"role": "taught anatomy and physiology"
+},
+{
+"k": "th638",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1871,
+"to": 1894,
+"role": "taught physics"
+},
+{
+"k": "th656",
+"inst": "t-berlin-pepiniere",
+"inst_name": "Pépinière (Friedrich-Wilhelms-Institut)",
+"city": "Berlin",
+"from": 1838,
+"to": 1842,
+"role": "studied medicine"
+}
+],
+"era": "e"
+},
+{
+"id": "theodor-schwann",
+"name": "Theodor Schwann",
+"first": 1839,
+"stints": [
+{
+"k": "th321",
+"inst": "u-leuven",
+"inst_name": "University of Leuven",
+"city": "Leuven",
+"from": 1839,
+"to": 1848,
+"role": "taught"
+},
+{
+"k": "th363",
+"inst": "u-liege",
+"inst_name": "University of Liège",
+"city": "Liège",
+"from": 1848,
+"to": 1880,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "arnold-guyot",
+"name": "Arnold Guyot",
+"first": 1839,
+"stints": [
+{
+"k": "th415",
+"inst": "a-neuchatel",
+"inst_name": "Academy of Neuchâtel",
+"city": "Neuchâtel",
+"from": 1839,
+"to": 1848,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "robert-bunsen",
+"name": "Robert Bunsen",
+"first": 1839,
+"stints": [
+{
+"k": "th434",
+"inst": "u-heidelberg",
+"inst_name": "University of Heidelberg",
+"city": "Heidelberg",
+"from": 1852,
+"to": 1889,
+"role": "taught chemistry"
+},
+{
+"k": "th517",
+"inst": "u-marburg",
+"inst_name": "University of Marburg",
+"city": "Marburg",
+"from": 1839,
+"to": 1851,
+"role": "taught chemistry"
+},
+{
+"k": "th591",
+"inst": "u-breslau",
+"inst_name": "University of Breslau",
+"city": "Breslau",
+"from": 1851,
+"to": 1852,
+"role": "taught chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "rudolf-virchow",
+"name": "Rudolf Virchow",
+"first": 1839,
+"stints": [
+{
+"k": "th451",
+"inst": "u-wurzburg",
+"inst_name": "University of Würzburg",
+"city": "Würzburg",
+"from": 1849,
+"to": 1856,
+"role": "taught pathological anatomy"
+},
+{
+"k": "th636",
+"inst": "u-berlin",
+"inst_name": "University of Berlin",
+"city": "Berlin",
+"from": 1856,
+"to": 1902,
+"role": "taught pathology"
+},
+{
+"k": "th657",
+"inst": "t-berlin-pepiniere",
+"inst_name": "Pépinière (Friedrich-Wilhelms-Institut)",
+"city": "Berlin",
+"from": 1839,
+"to": 1843,
+"role": "studied medicine"
+}
+],
+"era": "e"
+},
+{
+"id": "timofey-granovsky",
+"name": "Timofey Granovsky",
+"first": 1839,
+"stints": [
+{
+"k": "th840",
+"inst": "u-moscow",
+"inst_name": "Imperial Moscow University",
+"city": "Moscow",
+"from": 1839,
+"to": 1855,
+"role": "taught history"
+}
+],
+"era": "e"
+},
+{
+"id": "carlo-matteucci",
+"name": "Carlo Matteucci",
+"first": 1840,
+"stints": [
+{
+"k": "th62",
+"inst": "u-pisa",
+"inst_name": "University of Pisa",
+"city": "Pisa",
+"from": 1840,
+"to": 1868,
+"role": "taught physics"
+}
+],
+"era": "e"
+},
+{
+"id": "frederic-le-play",
+"name": "Frédéric Le Play",
+"first": 1840,
+"stints": [
+{
+"k": "th283",
+"inst": "t-mines",
+"inst_name": "École des mines de Paris",
+"city": "Paris",
+"from": 1840,
+"to": 1856,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "gregor-mendel",
+"name": "Gregor Mendel",
+"first": 1840,
+"stints": [
+{
+"k": "th422",
+"inst": "u-vienna",
+"inst_name": "University of Vienna",
+"city": "Vienna",
+"from": 1851,
+"to": 1853,
+"role": "studied natural sciences"
+},
+{
+"k": "th907",
+"inst": "u-olomouc",
+"inst_name": "University of Olomouc",
+"city": "Olomouc",
+"from": 1840,
+"to": 1843,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "peter-tunner",
+"name": "Peter Tunner",
+"first": 1840,
+"stints": [
+{
+"k": "th669",
+"inst": "t-leoben",
+"inst_name": "Leoben Mining Academy",
+"city": "Vordernberg",
+"from": 1840,
+"to": 1874,
+"role": "founding director"
+}
+],
+"era": "e"
+},
+{
+"id": "anyos-jedlik",
+"name": "Ányos Jedlik",
+"first": 1840,
+"stints": [
+{
+"k": "th875",
+"inst": "u-trnava-budapest",
+"inst_name": "University of Nagyszombat-Buda-Pest",
+"city": "Trnava",
+"from": 1840,
+"to": 1878,
+"role": "taught physics"
+}
+],
+"era": "e"
+},
+{
+"id": "ferdinand-redtenbacher",
+"name": "Ferdinand Redtenbacher",
+"first": 1841,
+"stints": [
+{
+"k": "th658",
+"inst": "t-karlsruhe",
+"inst_name": "Karlsruhe Polytechnic",
+"city": "Karlsruhe",
+"from": 1841,
+"to": 1863,
+"role": "taught mechanical engineering"
+}
+],
+"era": "e"
+},
+{
+"id": "louis-pasteur",
+"name": "Louis Pasteur",
+"first": 1843,
+"stints": [
+{
+"k": "th204",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1867,
+"to": 1874,
+"role": "taught chemistry"
+},
+{
+"k": "th244",
+"inst": "u-douai",
+"inst_name": "University of Douai",
+"city": "Douai",
+"from": 1854,
+"to": 1857,
+"role": "dean of sciences"
+},
+{
+"k": "th301",
+"inst": "t-ens",
+"inst_name": "École normale supérieure",
+"city": "Paris",
+"from": 1843,
+"to": 1846,
+"role": "studied"
+},
+{
+"k": "th302",
+"inst": "t-ens",
+"inst_name": "École normale supérieure",
+"city": "Paris",
+"from": 1857,
+"to": 1867,
+"role": "administrator"
+},
+{
+"k": "th570",
+"inst": "u-strasbourg",
+"inst_name": "University of Strasbourg",
+"city": "Strasbourg",
+"from": 1849,
+"to": 1854,
+"role": "taught chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "ferdinand-lassalle",
+"name": "Ferdinand Lassalle",
+"first": 1843,
+"stints": [
+{
+"k": "th589",
+"inst": "u-breslau",
+"inst_name": "University of Breslau",
+"city": "Breslau",
+"from": 1843,
+"to": 1846,
+"role": "studied philosophy"
+}
+],
+"era": "e"
+},
+{
+"id": "joseph-lister",
+"name": "Joseph Lister",
+"first": 1844,
+"stints": [
+{
+"k": "th712",
+"inst": "u-london-ucl",
+"inst_name": "University College London",
+"city": "London",
+"from": 1844,
+"to": 1852,
+"role": "studied arts and medicine"
+},
+{
+"k": "th756",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1869,
+"to": 1877,
+"role": "professor of clinical surgery"
+}
+],
+"era": "e"
+},
+{
+"id": "leo-tolstoy",
+"name": "Leo Tolstoy",
+"first": 1844,
+"stints": [
+{
+"k": "th850",
+"inst": "u-kazan",
+"inst_name": "Imperial Kazan University",
+"city": "Kazan",
+"from": 1844,
+"to": 1847,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "alexander-butlerov",
+"name": "Alexander Butlerov",
+"first": 1844,
+"stints": [
+{
+"k": "th851",
+"inst": "u-kazan",
+"inst_name": "Imperial Kazan University",
+"city": "Kazan",
+"from": 1844,
+"to": 1868,
+"role": "studied, taught chemistry"
+},
+{
+"k": "th939",
+"inst": "u-st-petersburg",
+"inst_name": "St Petersburg Imperial University",
+"city": "St Petersburg",
+"from": 1868,
+"to": 1885,
+"role": "taught chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "august-wilhelm-von-hofmann",
+"name": "August Wilhelm von Hofmann",
+"first": 1845,
+"stints": [
+{
+"k": "th716",
+"inst": "t-london-rcs",
+"inst_name": "Royal College of Science",
+"city": "London",
+"from": 1845,
+"to": 1865,
+"role": "first director"
+}
+],
+"era": "e"
+},
+{
+"id": "thomas-andrews",
+"name": "Thomas Andrews",
+"first": 1845,
+"stints": [
+{
+"k": "th772",
+"inst": "u-belfast-queens",
+"inst_name": "Queen's College, Belfast",
+"city": "Belfast",
+"from": 1845,
+"to": 1879,
+"role": "vice-president and professor of chemistry"
+}
+],
+"era": "e"
+},
+{
+"id": "sergey-solovyov",
+"name": "Sergey Solovyov",
+"first": 1845,
+"stints": [
+{
+"k": "th841",
+"inst": "u-moscow",
+"inst_name": "Imperial Moscow University",
+"city": "Moscow",
+"from": 1845,
+"to": 1879,
+"role": "taught history"
+}
+],
+"era": "e"
+},
+{
+"id": "manuel-mila-i-fontanals",
+"name": "Manuel Milà i Fontanals",
+"first": 1846,
+"stints": [
+{
+"k": "th126",
+"inst": "u-barcelona",
+"inst_name": "University of Barcelona",
+"city": "Barcelona",
+"from": 1846,
+"to": 1884,
+"role": "taught literature"
+}
+],
+"era": "e"
+},
+{
+"id": "bernhard-riemann",
+"name": "Bernhard Riemann",
+"first": 1846,
+"stints": [
+{
+"k": "th604",
+"inst": "u-gottingen",
+"inst_name": "University of Göttingen",
+"city": "Göttingen",
+"from": 1846,
+"to": 1866,
+"role": "studied and taught mathematics"
+}
+],
+"era": "e"
+},
+{
+"id": "konstantin-ushinsky",
+"name": "Konstantin Ushinsky",
+"first": 1846,
+"stints": [
+{
+"k": "th833",
+"inst": "m-yaroslavl",
+"inst_name": "Demidov Lyceum",
+"city": "Yaroslavl",
+"from": 1846,
+"to": 1849,
+"role": "taught cameral sciences"
+}
+],
+"era": "e"
+},
+{
+"id": "buys-ballot",
+"name": "Buys Ballot",
+"first": 1847,
+"stints": [
+{
+"k": "th348",
+"inst": "u-utrecht",
+"inst_name": "Utrecht University",
+"city": "Utrecht",
+"from": 1847,
+"to": 1888,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "franciscus-donders",
+"name": "Franciscus Donders",
+"first": 1847,
+"stints": [
+{
+"k": "th349",
+"inst": "u-utrecht",
+"inst_name": "Utrecht University",
+"city": "Utrecht",
+"from": 1847,
+"to": 1889,
+"role": "taught"
+}
+],
+"era": "e"
+},
+{
+"id": "albert-von-kolliker",
+"name": "Albert von Kölliker",
+"first": 1847,
+"stints": [
+{
+"k": "th450",
+"inst": "u-wurzburg",
+"inst_name": "University of Würzburg",
+"city": "Würzburg",
+"from": 1847,
+"to": 1902,
+"role": "taught anatomy"
+}
+],
+"era": "e"
+},
+{
+"id": "james-clerk-maxwell",
+"name": "James Clerk Maxwell",
+"first": 1847,
+"stints": [
+{
+"k": "th694",
+"inst": "u-cambridge",
+"inst_name": "University of Cambridge",
+"city": "Cambridge",
+"from": 1850,
+"to": 1879,
+"role": "studied; first Cavendish professor 1871-79"
+},
+{
+"k": "th715",
+"inst": "u-london-kings",
+"inst_name": "King's College London",
+"city": "London",
+"from": 1860,
+"to": 1865,
+"role": "professor of natural philosophy"
+},
+{
+"k": "th744",
+"inst": "u-aberdeen-marischal",
+"inst_name": "Marischal College",
+"city": "Aberdeen",
+"from": 1856,
+"to": 1860,
+"role": "professor of natural philosophy"
+},
+{
+"k": "th755",
+"inst": "u-edinburgh",
+"inst_name": "University of Edinburgh",
+"city": "Edinburgh",
+"from": 1847,
+"to": 1850,
+"role": "studied"
+}
+],
+"era": "e"
+},
+{
+"id": "petur-petursson",
+"name": "Pétur Pétursson",
+"first": 1847,
+"stints": [
+{
+"k": "th808",
+"inst": "m-reykjavik-prestaskolinn",
+"inst_name": "Pastoral Seminary of Reykjavík",
+"city": "Reykjavík",
+"from": 1847,
+"to": 1866,
+"role": "first head"
+}
+],
+"era": "e"
+},
+{
+"id": "pafnuty-chebyshev",
+"name": "Pafnuty Chebyshev",
+"first": 1847,
+"stints": [
+{
+"k": "th935",
+"inst": "u-st-petersburg",
+"inst_name": "St Petersburg Imperial University",
+"city": "St Petersburg",
+"from": 1847,
+"to": 1882,
+"role": "taught mathematics"
+}
+],
+"era": "e"
+},
+{
+"id": "theodor-billroth",
+"name": "Theodor Billroth",
+"first": 1848,
+"stints": [
+{
+"k": "th424",
+"inst": "u-vienna",
+"inst_name": "University of Vienna",
+"city": "Vienna",
+"from": 1867,
+"to": 1894,
+"role": "taught surgery"
+},
+{
+"k": "th467",
+"inst": "u-greifswald",
+"inst_name": "University of Greifswald",
+"city": "Greifswald",
+"from": 1848,
+"to": 1849,
+"role": "studied medicine"
+}
+],
+"era": "e"
+},
+{
+"id": "angelo-secchi",
+"name": "Angelo Secchi",
+"first": 1849,
+"stints": [
+{
+"k": "th52",
+"inst": "j-collegio-romano",
+"inst_name": "Collegio Romano",
+"city": "Rome",
+"from": 1849,
+"to": 1878,
+"role": "directed the observatory"
+}
+],
+"era": "e"
+},
+{
+"id": "ferdinand-cohn",
+"name": "Ferdinand Cohn",
+"first": 1849,
+"stints": [
+{
+"k": "th592",
+"inst": "u-breslau",
+"inst_name": "University of Breslau",
+"city": "Breslau",
+"from": 1849,
+"to": 1898,
+"role": "taught botany; founded bacteriology"
+}
+],
+"era": "e"
+},
+{
+"id": "george-boole",
+"name": "George Boole",
+"first": 1849,
+"stints": [
+{
+"k": "th771",
+"inst": "u-cork-queens",
+"inst_name": "Queen's College, Cork",
+"city": "Cork",
+"from": 1849,
+"to": 1864,
+"role": "professor of mathematics"
+}
+],
+"era": "e"
+}
+]

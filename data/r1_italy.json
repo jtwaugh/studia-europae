@@ -1,0 +1,4344 @@
+{
+ "region": "Italy & Malta",
+ "institutions": [
+  {
+   "id": "u-bologna",
+   "name": "University of Bologna",
+   "alt": [
+    "Studium of Bologna",
+    "Alma Mater Studiorum"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1088,
+     "city": "Bologna",
+     "lat": 44.4938,
+     "lon": 11.343
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1088,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "The oldest university of the Latin West, grown from the law teaching of Irnerius and the glossators around 1100. Its student-run 'universitates' of jurists became the model for southern European universities, and it remained a leading centre of Roman and canon law, medicine and natural philosophy.",
+   "notes": "1088 is a conventional date fixed by an 1888 commission (Carducci); law teaching is securely attested only from c. 1100–1120."
+  },
+  {
+   "id": "u-vicenza",
+   "name": "Studium of Vicenza",
+   "alt": [
+    "Studio di Vicenza"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1204,
+     "city": "Vicenza",
+     "lat": 45.5467,
+     "lon": 11.5475
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1204,
+   "start_approx": false,
+   "end": 1209,
+   "end_approx": true,
+   "founding_mode": "secession",
+   "summary": "Short-lived studium formed by masters and students who left Bologna in 1204. It is the first documented Bolognese secession and illustrates how mobile the early law schools were.",
+   "notes": "Ceased within a few years, by c. 1209–1210; masters largely returned to Bologna."
+  },
+  {
+   "id": "u-arezzo",
+   "name": "Studium of Arezzo",
+   "alt": [
+    "Studio aretino"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1215,
+     "city": "Arezzo",
+     "lat": 43.4633,
+     "lon": 11.8796
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1215,
+   "start_approx": true,
+   "end": 1384,
+   "end_approx": true,
+   "founding_mode": "secession",
+   "summary": "Studium begun when the jurist Roffredo of Benevento and others left Bologna for Arezzo around 1215. It received statutes in 1255 and an imperial charter in 1355 but faded in the later 14th century.",
+   "notes": "End date conventional: the studium had effectively ceased by the time Florence acquired Arezzo in 1384."
+  },
+  {
+   "id": "u-padua",
+   "name": "University of Padua",
+   "alt": [
+    "Studium Patavinum",
+    "Università di Padova"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1222,
+     "city": "Padua",
+     "lat": 45.4064,
+     "lon": 11.8768
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1222,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "secession",
+   "summary": "Founded by students and masters who left Bologna in 1222, Padua became the university of the Venetian Republic and a magnet for foreign students. Its tolerance and medical school (Vesalius, Fabricius, Harvey, Galileo) made it a leading centre of the Scientific Revolution.",
+   "notes": ""
+  },
+  {
+   "id": "u-vercelli",
+   "name": "Studium of Vercelli",
+   "alt": [
+    "Studio di Vercelli"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1228,
+     "city": "Vercelli",
+     "lat": 45.3203,
+     "lon": 8.4185
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1228,
+   "start_approx": false,
+   "end": 1350,
+   "end_approx": true,
+   "founding_mode": "secession",
+   "summary": "Studium set up in 1228 under a contract between the commune of Vercelli and students seceding from Padua. It taught law and arts intermittently and faded in the 14th century.",
+   "notes": "The 1228 contract survives; the end is uncertain, with the studium inactive by the mid-14th century."
+  },
+  {
+   "id": "u-siena",
+   "name": "University of Siena",
+   "alt": [
+    "Studium Senense",
+    "Studio senese"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1240,
+     "city": "Siena",
+     "lat": 43.3186,
+     "lon": 11.3307
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1240,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Municipal studium documented from 1240, strengthened by a Bolognese secession in 1321 and an imperial charter of 1357. It remained a mid-sized law and medicine university under Siena and later the Medici grand dukes.",
+   "notes": ""
+  },
+  {
+   "id": "u-naples",
+   "name": "University of Naples",
+   "alt": [
+    "Studium of Naples",
+    "Università di Napoli Federico II"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1224,
+     "city": "Naples",
+     "lat": 40.8518,
+     "lon": 14.2681
+    },
+    {
+     "from": 1252,
+     "city": "Salerno",
+     "lat": 40.6824,
+     "lon": 14.7681
+    },
+    {
+     "from": 1258,
+     "city": "Naples",
+     "lat": 40.8518,
+     "lon": 14.2681
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1224,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded by Frederick II in 1224 as the first state university, to train jurists and officials for the Kingdom of Sicily independently of the papacy. It remained the only university of the mainland Kingdom of Naples until the 19th century.",
+   "notes": "The move to Salerno under Conrad IV and return under Manfred is commonly reported but poorly documented."
+  },
+  {
+   "id": "m-salerno",
+   "name": "Schola Medica Salernitana",
+   "alt": [
+    "Medical School of Salerno"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 950,
+     "city": "Salerno",
+     "lat": 40.6824,
+     "lon": 14.7681
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 950,
+   "start_approx": true,
+   "end": 1811,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "The earliest medical school of medieval Europe, flourishing from the 10th–12th centuries and transmitting Greek and Arabic medicine through Constantine the African's translations. It remained a medical faculty with degree-granting rights until Murat suppressed it in 1811.",
+   "notes": "Origins are legendary; physicians of Salerno are attested from the mid-10th century."
+  },
+  {
+   "id": "u-rome",
+   "name": "Studium Urbis (La Sapienza)",
+   "alt": [
+    "University of Rome",
+    "La Sapienza"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1303,
+     "city": "Rome",
+     "lat": 41.8955,
+     "lon": 12.4823
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1303,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by Boniface VIII in 1303 as the city's university, distinct from the Studium Curiae. Reorganised by Eugenius IV and housed in the Sapienza palace, it became the Italian state's university of the capital after 1870.",
+   "notes": ""
+  },
+  {
+   "id": "u-rome-curia",
+   "name": "Studium Curiae",
+   "alt": [
+    "Studium Romanae Curiae",
+    "Studium of the Papal Curia"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1245,
+     "city": "Lyon",
+     "lat": 45.764,
+     "lon": 4.8357
+    },
+    {
+     "from": 1251,
+     "city": "Rome",
+     "lat": 41.8955,
+     "lon": 12.4823
+    },
+    {
+     "from": 1309,
+     "city": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055
+    },
+    {
+     "from": 1377,
+     "city": "Rome",
+     "lat": 41.8955,
+     "lon": 12.4823
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1245,
+   "start_approx": false,
+   "end": 1431,
+   "end_approx": true,
+   "founding_mode": "papal",
+   "summary": "Studium generale attached to the papal court, created by Innocent IV and following the curia on its travels. It taught theology and law to curial clergy and was later merged into the city university of Rome.",
+   "notes": "The curia was itinerant in central Italy after 1251 (Perugia, Viterbo, Orvieto, Anagni); 'Rome' stands for that phase. The date of its absorption by the Studium Urbis is uncertain."
+  },
+  {
+   "id": "j-collegio-romano",
+   "name": "Collegio Romano",
+   "alt": [
+    "Roman College",
+    "Pontifical Gregorian University"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1551,
+     "city": "Rome",
+     "lat": 41.8984,
+     "lon": 12.481
+    },
+    {
+     "from": 1873,
+     "city": "Rome",
+     "lat": 41.8996,
+     "lon": 12.482
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1551,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded by Ignatius of Loyola in 1551 as the flagship Jesuit college, it set the curriculum of the Ratio Studiorum and was a centre of mathematics and astronomy (Clavius, Kircher, Secchi). Expelled from its building by the Italian state in 1873, it continued as the Pontifical Gregorian University.",
+   "notes": "Received degree-granting powers from the papacy in 1556; classed here as Jesuit college."
+  },
+  {
+   "id": "m-rome-propaganda",
+   "name": "Collegio Urbano de Propaganda Fide",
+   "alt": [
+    "Pontifical Urban College"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1627,
+     "city": "Rome",
+     "lat": 41.9046,
+     "lon": 12.4829
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1627,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Missionary seminary-college founded by Urban VIII to train clergy for the missions, with degree-granting rights in philosophy and theology.",
+   "notes": ""
+  },
+  {
+   "id": "u-perugia",
+   "name": "University of Perugia",
+   "alt": [
+    "Studium Perusinum"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1308,
+     "city": "Perugia",
+     "lat": 43.1122,
+     "lon": 12.3888
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1308,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "A communal law school raised to studium generale by Clement V in 1308. In the 14th century it was the seat of Bartolus and Baldus, the most influential commentators on Roman law.",
+   "notes": "The commune had paid teachers since c. 1276."
+  },
+  {
+   "id": "u-treviso",
+   "name": "Studium of Treviso",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1318,
+     "city": "Treviso",
+     "lat": 45.6669,
+     "lon": 12.243
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1318,
+   "start_approx": false,
+   "end": 1350,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "Studium generale chartered by Frederick the Fair in 1318 at the request of the commune. It had little sustained activity.",
+   "notes": "Largely a paper foundation; end date conventional."
+  },
+  {
+   "id": "u-pisa",
+   "name": "University of Pisa",
+   "alt": [
+    "Studium Pisanum",
+    "Studio pisano"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1343,
+     "city": "Pisa",
+     "lat": 43.7167,
+     "lon": 10.3966
+    },
+    {
+     "from": 1497,
+     "city": "Prato",
+     "lat": 43.8805,
+     "lon": 11.0966
+    },
+    {
+     "from": 1515,
+     "city": "Pisa",
+     "lat": 43.7167,
+     "lon": 10.3966
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1343,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by papal bull in 1343, Pisa became the university of the Florentine state after Lorenzo de' Medici's refoundation in 1473 and Cosimo I's in 1543. Galileo studied and taught there, and it was a major scientific centre in the 19th century.",
+   "notes": "During the Pisan revolt (1494–1509) the studio moved among Florence, Prato and Pistoia; dates of the moves are approximate."
+  },
+  {
+   "id": "u-florence",
+   "name": "Studio Fiorentino",
+   "alt": [
+    "Studium of Florence",
+    "Florentine Studio"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1321,
+     "city": "Florence",
+     "lat": 43.7696,
+     "lon": 11.2558
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1321,
+   "start_approx": false,
+   "end": 1473,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "The commune of Florence's studium, chartered by the pope and emperor in the 14th century. It became the leading centre of Greek studies and humanism (Chrysoloras, Argyropoulos) before Lorenzo de' Medici transferred it to Pisa.",
+   "notes": "After 1473 some humanities chairs (e.g. Poliziano's) remained in Florence."
+  },
+  {
+   "id": "u-florence-istituto",
+   "name": "Istituto di Studi Superiori Pratici e di Perfezionamento",
+   "alt": [
+    "Istituto di Studi Superiori, Florence"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1859,
+     "city": "Florence",
+     "lat": 43.7696,
+     "lon": 11.2558
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1859,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Advanced institute created by the Tuscan provisional government, with sections of letters/philosophy, medicine and natural sciences. It awarded degrees and became the University of Florence in 1924.",
+   "notes": ""
+  },
+  {
+   "id": "t-pisa-sns",
+   "name": "Scuola Normale Superiore",
+   "alt": [
+    "Scuola Normale di Pisa"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1810,
+     "city": "Pisa",
+     "lat": 43.7198,
+     "lon": 10.4005
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1810,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded by Napoleon as a Pisan branch of the École normale of Paris to train teachers. Refounded by Leopold II in 1846, it became the elite teacher-training school of united Italy.",
+   "notes": "Opened 1813; closed 1814; refounded 1846, reopened 1847."
+  },
+  {
+   "id": "u-pavia",
+   "name": "University of Pavia",
+   "alt": [
+    "Studium Ticinense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1361,
+     "city": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582
+    },
+    {
+     "from": 1398,
+     "city": "Piacenza",
+     "lat": 45.0526,
+     "lon": 9.693
+    },
+    {
+     "from": 1412,
+     "city": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1361,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Founded with an imperial charter for Galeazzo II Visconti in 1361, Pavia was the university of the Duchy of Milan. Its Theresian reform made it a model Enlightenment university with Volta and Spallanzani.",
+   "notes": "The transfer to Piacenza (1398–c.1412) was partial; dates approximate."
+  },
+  {
+   "id": "u-piacenza",
+   "name": "Studium of Piacenza",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1248,
+     "city": "Piacenza",
+     "lat": 45.0526,
+     "lon": 9.693
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1248,
+   "start_approx": false,
+   "end": 1260,
+   "end_approx": true,
+   "founding_mode": "papal",
+   "summary": "Paper studium generale granted to Piacenza by Innocent IV in 1248. It saw little activity, though the Visconti later moved the Pavia studium there (1398–1412).",
+   "notes": "End date conventional."
+  },
+  {
+   "id": "u-reggio",
+   "name": "Studium of Reggio Emilia",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1188,
+     "city": "Reggio Emilia",
+     "lat": 44.6989,
+     "lon": 10.6297
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1188,
+   "start_approx": true,
+   "end": 1306,
+   "end_approx": true,
+   "founding_mode": "spontaneous",
+   "summary": "Law studium active in Reggio from the late 12th century, staffed partly by Bolognese masters. It flourished in the 13th century before disappearing.",
+   "notes": "Both start and end are approximate."
+  },
+  {
+   "id": "u-modena",
+   "name": "University of Modena",
+   "alt": [
+    "Studium Mutinense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1182,
+     "city": "Modena",
+     "lat": 44.6471,
+     "lon": 10.9252
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1182,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "Law studium begun when Pillius of Medicina left Bologna for Modena in the 1180s. Revived by the Este dukes as a public university in 1682 and reformed in 1772.",
+   "notes": "Continuity between the medieval studium and the 1682 foundation is disputed."
+  },
+  {
+   "id": "u-parma",
+   "name": "University of Parma",
+   "alt": [
+    "Studium Parmense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1412,
+     "city": "Parma",
+     "lat": 44.8015,
+     "lon": 10.3279
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1412,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Studium generale established by Niccolò III d'Este in 1412, refounded by Ranuccio I Farnese in 1601 and reformed by the Bourbon minister Du Tillot in 1768.",
+   "notes": "Episcopal and law schools existed in Parma from the 10th–13th centuries; the University claims 962."
+  },
+  {
+   "id": "u-ferrara",
+   "name": "University of Ferrara",
+   "alt": [
+    "Studium Ferrariense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1391,
+     "city": "Ferrara",
+     "lat": 44.8381,
+     "lon": 11.6198
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1391,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by bull of Boniface IX in 1391 at the request of Alberto V d'Este and revived in 1442. A humanist and medical centre where Copernicus took his doctorate.",
+   "notes": ""
+  },
+  {
+   "id": "u-verona",
+   "name": "Studium of Verona",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1339,
+     "city": "Verona",
+     "lat": 45.4384,
+     "lon": 10.9916
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1339,
+   "start_approx": false,
+   "end": 1340,
+   "end_approx": true,
+   "founding_mode": "papal",
+   "summary": "Paper studium generale granted to Verona by Benedict XII in 1339; little evidence of activity.",
+   "notes": ""
+  },
+  {
+   "id": "u-cividale",
+   "name": "Studium of Cividale",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1353,
+     "city": "Cividale del Friuli",
+     "lat": 46.0937,
+     "lon": 13.433
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1353,
+   "start_approx": false,
+   "end": 1360,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "Imperial paper foundation for Cividale del Friuli by Charles IV; it never functioned as a university.",
+   "notes": ""
+  },
+  {
+   "id": "u-lucca",
+   "name": "Studium of Lucca",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1369,
+     "city": "Lucca",
+     "lat": 43.8429,
+     "lon": 10.5027
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1369,
+   "start_approx": false,
+   "end": 1370,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "Imperial charter for a studium generale granted to Lucca by Charles IV in 1369; it remained essentially a paper foundation.",
+   "notes": ""
+  },
+  {
+   "id": "u-turin",
+   "name": "University of Turin",
+   "alt": [
+    "Studium Taurinense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1404,
+     "city": "Turin",
+     "lat": 45.0703,
+     "lon": 7.6869
+    },
+    {
+     "from": 1427,
+     "city": "Chieri",
+     "lat": 45.0126,
+     "lon": 7.8247
+    },
+    {
+     "from": 1434,
+     "city": "Savigliano",
+     "lat": 44.648,
+     "lon": 7.657
+    },
+    {
+     "from": 1436,
+     "city": "Turin",
+     "lat": 45.0703,
+     "lon": 7.6869
+    },
+    {
+     "from": 1560,
+     "city": "Mondovì",
+     "lat": 44.3906,
+     "lon": 7.8188
+    },
+    {
+     "from": 1566,
+     "city": "Turin",
+     "lat": 45.0703,
+     "lon": 7.6869
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1404,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded in 1404 for Louis of Savoy-Acaja by the Avignon pope Benedict XIII, it wandered between Turin, Chieri and Savigliano. Victor Amadeus II's reform of 1720 made it the centralised state university of Savoy-Piedmont.",
+   "notes": "Emmanuel Philibert's university at Mondovì (1560–66) is treated as a phase of Turin's."
+  },
+  {
+   "id": "t-turin-artillery",
+   "name": "Royal Schools of Artillery and Fortification",
+   "alt": [
+    "Regie Scuole Teoriche e Pratiche di Artiglieria e Fortificazione"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1739,
+     "city": "Turin",
+     "lat": 45.0703,
+     "lon": 7.6869
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1739,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Military engineering school of the Kingdom of Sardinia, one of the earliest in Europe. Lagrange taught mathematics there as a teenager.",
+   "notes": ""
+  },
+  {
+   "id": "t-venaria-vet",
+   "name": "Royal Veterinary School of Venaria",
+   "alt": [
+    "Scuola Veterinaria di Venaria Reale"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1769,
+     "city": "Venaria Reale",
+     "lat": 45.1366,
+     "lon": 7.629
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1769,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Early veterinary school founded at Venaria Reale under Charles Emmanuel III, directed by Carlo Giovanni Brugnone; ancestor of Turin's veterinary school.",
+   "notes": "Later moves to Turin are not recorded here."
+  },
+  {
+   "id": "t-turin-applicazione",
+   "name": "Scuola di Applicazione per gli Ingegneri di Torino",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1859,
+     "city": "Turin",
+     "lat": 45.0703,
+     "lon": 7.6869
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1859,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Engineering school created by the Casati law; it merged with the Museo Industriale to form the Politecnico di Torino in 1906.",
+   "notes": ""
+  },
+  {
+   "id": "t-turin-museo",
+   "name": "Regio Museo Industriale",
+   "alt": [
+    "Royal Industrial Museum, Turin"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1862,
+     "city": "Turin",
+     "lat": 45.0703,
+     "lon": 7.6869
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1862,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Technical institute teaching industrial engineering, where Galileo Ferraris taught electrotechnics; merged into the Politecnico in 1906.",
+   "notes": ""
+  },
+  {
+   "id": "u-genoa",
+   "name": "University of Genoa",
+   "alt": [
+    "Studium Genuense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1471,
+     "city": "Genoa",
+     "lat": 44.4072,
+     "lon": 8.934
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1471,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Degree-granting colleges of doctors authorised by the Genoese pope Sixtus IV in 1471, later joined by Jesuit teaching. After the 1773 suppression the Republic created a unified university in the former Jesuit college.",
+   "notes": "Status before 1773 was a set of colleges plus the Jesuit college rather than a full university."
+  },
+  {
+   "id": "t-genoa-navale",
+   "name": "Regia Scuola Superiore Navale",
+   "alt": [
+    "Royal Higher Naval School, Genoa"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1870,
+     "city": "Genoa",
+     "lat": 44.4072,
+     "lon": 8.934
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1870,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Higher school of naval architecture and marine engineering.",
+   "notes": ""
+  },
+  {
+   "id": "j-milan-brera",
+   "name": "Jesuit College of Brera",
+   "alt": [
+    "Collegio di Brera"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1572,
+     "city": "Milan",
+     "lat": 45.4719,
+     "lon": 9.188
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1572,
+   "start_approx": false,
+   "end": 1773,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit college given the Brera complex by Carlo Borromeo, teaching philosophy and theology at university level. Its observatory (1764) and buildings passed to the state after 1773.",
+   "notes": ""
+  },
+  {
+   "id": "t-milan-vet",
+   "name": "Veterinary School of Milan",
+   "alt": [
+    "Scuola Veterinaria di Milano"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1791,
+     "city": "Milan",
+     "lat": 45.4642,
+     "lon": 9.19
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1791,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Veterinary school established by the Austrian government in Lombardy.",
+   "notes": "Foundation date approximate."
+  },
+  {
+   "id": "t-milan-politecnico",
+   "name": "Politecnico di Milano",
+   "alt": [
+    "Istituto Tecnico Superiore"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1863,
+     "city": "Milan",
+     "lat": 45.4642,
+     "lon": 9.19
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1863,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded as the Istituto Tecnico Superiore by Francesco Brioschi to train engineers and architects for Italian industry.",
+   "notes": ""
+  },
+  {
+   "id": "t-venice-cafoscari",
+   "name": "Regia Scuola Superiore di Commercio",
+   "alt": [
+    "Ca' Foscari"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1868,
+     "city": "Venice",
+     "lat": 45.4408,
+     "lon": 12.3155
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1868,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The first Italian higher school of commerce, housed in Ca' Foscari.",
+   "notes": ""
+  },
+  {
+   "id": "u-macerata",
+   "name": "University of Macerata",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1290,
+     "city": "Macerata",
+     "lat": 43.3002,
+     "lon": 13.4533
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1290,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Communal law school from 1290, raised to studium generale by Paul III in 1540.",
+   "notes": ""
+  },
+  {
+   "id": "u-camerino",
+   "name": "University of Camerino",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1336,
+     "city": "Camerino",
+     "lat": 43.1355,
+     "lon": 13.0683
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1336,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Small studium of the Varano lords' town, granted papal privileges in 1377 and refounded by Benedict XIII in 1727.",
+   "notes": ""
+  },
+  {
+   "id": "u-urbino",
+   "name": "University of Urbino",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1506,
+     "city": "Urbino",
+     "lat": 43.7262,
+     "lon": 12.6366
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1506,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded as a degree-granting college of doctors under Guidobaldo da Montefeltro and recognised by Pius IV in 1564.",
+   "notes": ""
+  },
+  {
+   "id": "u-fermo",
+   "name": "University of Fermo",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1303,
+     "city": "Fermo",
+     "lat": 43.1607,
+     "lon": 13.7181
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1303,
+   "start_approx": false,
+   "end": 1826,
+   "end_approx": true,
+   "founding_mode": "papal",
+   "summary": "Granted a studium generale by Boniface VIII in 1303 and effectively refounded by Sixtus V in 1585; suppressed in the early 19th century.",
+   "notes": "The 1303 grant appears to have been largely unrealised; end date uncertain."
+  },
+  {
+   "id": "u-catania",
+   "name": "University of Catania",
+   "alt": [
+    "Siculorum Gymnasium"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1434,
+     "city": "Catania",
+     "lat": 37.5079,
+     "lon": 15.083
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1434,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The first university of Sicily, founded by Alfonso V of Aragon, confirmed by Eugenius IV in 1444 and opened in 1445.",
+   "notes": ""
+  },
+  {
+   "id": "u-messina",
+   "name": "University of Messina",
+   "alt": [
+    "Messanense Studium Generale"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1548,
+     "city": "Messina",
+     "lat": 38.1938,
+     "lon": 15.554
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1548,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Begun as the first Jesuit college with a papal bull of 1548, it became a municipal studium in 1596. Spain suppressed it after the revolt of 1674–78; it was restored in 1838.",
+   "notes": ""
+  },
+  {
+   "id": "j-palermo",
+   "name": "Jesuit College of Palermo",
+   "alt": [
+    "Collegio Massimo"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1549,
+     "city": "Palermo",
+     "lat": 38.1157,
+     "lon": 13.3615
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1549,
+   "start_approx": false,
+   "end": 1767,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit college offering higher teaching in philosophy and theology until the expulsion of 1767.",
+   "notes": ""
+  },
+  {
+   "id": "u-palermo",
+   "name": "University of Palermo",
+   "alt": [
+    "Accademia de' Regi Studi"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1779,
+     "city": "Palermo",
+     "lat": 38.1157,
+     "lon": 13.3615
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1779,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Created from the Jesuits' former schools as the Royal Academy of Studies and raised to a university in 1805.",
+   "notes": ""
+  },
+  {
+   "id": "u-cagliari",
+   "name": "University of Cagliari",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1606,
+     "city": "Cagliari",
+     "lat": 39.2238,
+     "lon": 9.1217
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1606,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded on the petition of the Sardinian parliament with Philip III's and Paul V's approval, opened in 1626 and refounded by Charles Emmanuel III of Savoy in 1764.",
+   "notes": ""
+  },
+  {
+   "id": "u-sassari",
+   "name": "University of Sassari",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1562,
+     "city": "Sassari",
+     "lat": 40.7259,
+     "lon": 8.5557
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1562,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Born from a Jesuit college endowed by Alessio Fontana, recognised as a university in the 17th century and refounded by Savoy in 1765.",
+   "notes": ""
+  },
+  {
+   "id": "u-corte",
+   "name": "University of Corsica (Corte)",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1765,
+     "city": "Corte",
+     "lat": 42.3062,
+     "lon": 9.1505
+    }
+   ],
+   "modern_country": "France",
+   "start": 1765,
+   "start_approx": false,
+   "end": 1769,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "University of Pasquale Paoli's independent Corsican Republic, closed after the French conquest.",
+   "notes": ""
+  },
+  {
+   "id": "j-malta",
+   "name": "Collegium Melitense",
+   "alt": [],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1592,
+     "city": "Valletta",
+     "lat": 35.8989,
+     "lon": 14.5146
+    }
+   ],
+   "modern_country": "Malta",
+   "start": 1592,
+   "start_approx": false,
+   "end": 1768,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit college in Valletta and precursor of the University of Malta.",
+   "notes": ""
+  },
+  {
+   "id": "u-malta",
+   "name": "University of Malta",
+   "alt": [
+    "Pubblica Università di Studi Generali"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1769,
+     "city": "Valletta",
+     "lat": 35.8989,
+     "lon": 14.5146
+    }
+   ],
+   "modern_country": "Malta",
+   "start": 1769,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded by Grand Master Pinto from the former Jesuit college.",
+   "notes": ""
+  },
+  {
+   "id": "t-naples-ingegneria",
+   "name": "Scuola di Applicazione di Ponti e Strade",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1811,
+     "city": "Naples",
+     "lat": 40.8518,
+     "lon": 14.2681
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1811,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Engineering school founded by Murat.",
+   "notes": ""
+  },
+  {
+   "id": "m-naples-orientale",
+   "name": "Collegio dei Cinesi",
+   "alt": [
+    "Istituto Orientale"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1732,
+     "city": "Naples",
+     "lat": 40.8518,
+     "lon": 14.2681
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1732,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded by Matteo Ripa to train Chinese missionaries; later the Istituto Orientale.",
+   "notes": ""
+  },
+  {
+   "id": "t-rome-ingegneri",
+   "name": "Scuola di Applicazione per gli Ingegneri di Roma",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1873,
+     "city": "Rome",
+     "lat": 41.8955,
+     "lon": 12.4823
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1873,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Engineering school founded in Rome.",
+   "notes": ""
+  }
+ ],
+ "events": [
+  {
+   "id": "u-bologna-1088-founding",
+   "inst": "u-bologna",
+   "year": 1088,
+   "approx": true,
+   "type": "founding",
+   "title": "Conventional beginning of law teaching",
+   "desc": "Teaching of Roman law by Pepo and Irnerius emerges spontaneously in Bologna; 1088 is the conventional date adopted in 1888.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bologna-1158-charter",
+   "inst": "u-bologna",
+   "year": 1158,
+   "approx": true,
+   "type": "charter",
+   "title": "Authentica Habita",
+   "desc": "Frederick I Barbarossa's privilege (Roncaglia, 1155/1158) grants travelling scholars imperial protection and special jurisdiction, the founding charter of scholarly privilege.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bologna-1219-charter",
+   "inst": "u-bologna",
+   "year": 1219,
+   "approx": false,
+   "type": "charter",
+   "title": "Honorius III and the archdeacon's licence",
+   "desc": "Pope Honorius III places the conferral of the licentia docendi under the archdeacon of Bologna, giving the doctorate an ecclesiastical sanction.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bologna-1291-charter",
+   "inst": "u-bologna",
+   "year": 1291,
+   "approx": false,
+   "type": "charter",
+   "title": "Ius ubique docendi",
+   "desc": "Nicholas IV grants Bologna graduates the right to teach everywhere (ius ubique docendi), formally confirming its status as a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bologna-1364-charter",
+   "inst": "u-bologna",
+   "year": 1364,
+   "approx": false,
+   "type": "charter",
+   "title": "Faculty of theology",
+   "desc": "Innocent VI authorises a theological faculty, completing the university's full complement of faculties; the same year Cardinal Albornoz's Collegio di Spagna opens.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bologna-1563-reform",
+   "inst": "u-bologna",
+   "year": 1563,
+   "approx": false,
+   "type": "reform",
+   "title": "Archiginnasio",
+   "desc": "Under Pius IV and the legate Carlo Borromeo the scattered schools are concentrated in the new Archiginnasio palace, a sign of tighter papal control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bologna-1732-access",
+   "inst": "u-bologna",
+   "year": 1732,
+   "approx": false,
+   "type": "access",
+   "title": "Laura Bassi graduates",
+   "desc": "Laura Bassi receives a doctorate in philosophy and a public lectureship, the first woman to hold a university chair in Europe.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bologna-1803-reform",
+   "inst": "u-bologna",
+   "year": 1803,
+   "approx": false,
+   "type": "reform",
+   "title": "Napoleonic national university",
+   "desc": "Under the Italian Republic/Kingdom of Italy Bologna becomes one of the national universities; it moves to Palazzo Poggi and absorbs Marsili's Istituto delle Scienze.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bologna-1860-reform",
+   "inst": "u-bologna",
+   "year": 1860,
+   "approx": false,
+   "type": "reform",
+   "title": "Incorporation into Italy",
+   "desc": "After the Papal Legations join Piedmont-Sardinia, the university is reorganised under the Casati law system of the new Italian state.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vicenza-1204-founding",
+   "inst": "u-vicenza",
+   "year": 1204,
+   "approx": false,
+   "type": "founding",
+   "title": "Secession from Bologna",
+   "desc": "Masters and students leaving Bologna, apparently including the canonist Pillius's circle and others, begin teaching in Vicenza.",
+   "from_inst": "u-bologna",
+   "related": [
+    "u-bologna"
+   ]
+  },
+  {
+   "id": "u-arezzo-1215-founding",
+   "inst": "u-arezzo",
+   "year": 1215,
+   "approx": true,
+   "type": "founding",
+   "title": "Roffredo leaves Bologna",
+   "desc": "Roffredo Epifanio of Benevento and other Bolognese teachers begin teaching law in Arezzo.",
+   "from_inst": "u-bologna",
+   "related": [
+    "u-bologna"
+   ]
+  },
+  {
+   "id": "u-arezzo-1255-charter",
+   "inst": "u-arezzo",
+   "year": 1255,
+   "approx": false,
+   "type": "charter",
+   "title": "Statutes of 1255",
+   "desc": "The studium adopts statutes, among the oldest surviving university statutes in Italy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-arezzo-1355-charter",
+   "inst": "u-arezzo",
+   "year": 1355,
+   "approx": false,
+   "type": "charter",
+   "title": "Charter of Charles IV",
+   "desc": "Emperor Charles IV confirms Arezzo as a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-padua-1222-founding",
+   "inst": "u-padua",
+   "year": 1222,
+   "approx": false,
+   "type": "founding",
+   "title": "Secession from Bologna",
+   "desc": "Bolognese students and masters migrate to Padua, founding a studium of law that soon adds arts and medicine.",
+   "from_inst": "u-bologna",
+   "related": [
+    "u-bologna"
+   ]
+  },
+  {
+   "id": "u-padua-1405-reform",
+   "inst": "u-padua",
+   "year": 1405,
+   "approx": false,
+   "type": "reform",
+   "title": "Venetian takeover",
+   "desc": "After Venice conquers Padua (1405) the Republic makes the studium its sole university and forbids subjects to study elsewhere (1407).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-padua-1509-suppression",
+   "inst": "u-padua",
+   "year": 1509,
+   "approx": false,
+   "type": "suppression",
+   "title": "War of the League of Cambrai",
+   "desc": "Teaching is suspended during the War of the League of Cambrai.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-padua-1517-refoundation",
+   "inst": "u-padua",
+   "year": 1517,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Reopening after Cambrai",
+   "desc": "The Venetian Senate reopens the studium after the war.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-padua-1545-reform",
+   "inst": "u-padua",
+   "year": 1545,
+   "approx": false,
+   "type": "reform",
+   "title": "Botanical garden",
+   "desc": "The Orto botanico, the first university botanical garden, is founded; the permanent anatomical theatre follows in 1594.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-padua-1678-access",
+   "inst": "u-padua",
+   "year": 1678,
+   "approx": false,
+   "type": "access",
+   "title": "Elena Cornaro Piscopia",
+   "desc": "Elena Lucrezia Cornaro Piscopia receives a doctorate in philosophy, the first woman known to earn a university doctorate.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-padua-1806-reform",
+   "inst": "u-padua",
+   "year": 1806,
+   "approx": false,
+   "type": "reform",
+   "title": "Napoleonic reorganisation",
+   "desc": "Padua becomes a national university of the Napoleonic Kingdom of Italy, with reorganised faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-padua-1848-suppression",
+   "inst": "u-padua",
+   "year": 1848,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure after 8 February 1848",
+   "desc": "After clashes between students and Austrian troops on 8 February 1848 the university is closed by the Austrian authorities; teaching resumed only gradually.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-padua-1866-reform",
+   "inst": "u-padua",
+   "year": 1866,
+   "approx": false,
+   "type": "reform",
+   "title": "Annexation to Italy",
+   "desc": "With Venetia's annexation the university passes into the Italian system.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vercelli-1228-founding",
+   "inst": "u-vercelli",
+   "year": 1228,
+   "approx": false,
+   "type": "founding",
+   "title": "Contract with Paduan students",
+   "desc": "The commune of Vercelli signs a contract with student rectors from Padua, promising lodgings, loans and salaried masters.",
+   "from_inst": "u-padua",
+   "related": [
+    "u-padua"
+   ]
+  },
+  {
+   "id": "u-siena-1240-founding",
+   "inst": "u-siena",
+   "year": 1240,
+   "approx": false,
+   "type": "founding",
+   "title": "Communal studium",
+   "desc": "A communal ordinance of 1240 records the commune paying masters and housing students, the first evidence of the studium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-siena-1252-charter",
+   "inst": "u-siena",
+   "year": 1252,
+   "approx": false,
+   "type": "charter",
+   "title": "Privileges of Innocent IV",
+   "desc": "Pope Innocent IV grants masters and students exemptions and privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-siena-1321-migration",
+   "inst": "u-siena",
+   "year": 1321,
+   "approx": false,
+   "type": "migration",
+   "title": "Bolognese secession",
+   "desc": "After a student is executed in Bologna, many masters and students move to Siena, which hires them and petitions for studium generale status.",
+   "from_inst": "u-bologna",
+   "related": [
+    "u-bologna"
+   ]
+  },
+  {
+   "id": "u-siena-1357-charter",
+   "inst": "u-siena",
+   "year": 1357,
+   "approx": false,
+   "type": "charter",
+   "title": "Charter of Charles IV",
+   "desc": "Emperor Charles IV recognises Siena as a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-siena-1808-suppression",
+   "inst": "u-siena",
+   "year": 1808,
+   "approx": true,
+   "type": "suppression",
+   "title": "French closure",
+   "desc": "Under French rule the university is closed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-siena-1815-refoundation",
+   "inst": "u-siena",
+   "year": 1815,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Restoration reopening",
+   "desc": "Grand Duke Ferdinand III reopens the university after the Restoration.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-siena-1851-reform",
+   "inst": "u-siena",
+   "year": 1851,
+   "approx": false,
+   "type": "reform",
+   "title": "Tuscan university",
+   "desc": "Leopold II unites Pisa and Siena into a single Tuscan university, leaving Siena mainly theology and law; autonomy is restored in 1859.",
+   "from_inst": null,
+   "related": [
+    "u-pisa"
+   ]
+  },
+  {
+   "id": "u-naples-1224-founding",
+   "inst": "u-naples",
+   "year": 1224,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation by Frederick II",
+   "desc": "Frederick II's letter of 5 June 1224 founds the studium and forbids his subjects to study elsewhere.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-naples-1252-relocation",
+   "inst": "u-naples",
+   "year": 1252,
+   "approx": true,
+   "type": "relocation",
+   "title": "Transfer to Salerno",
+   "desc": "Conrad IV transfers the studium to Salerno.",
+   "from_inst": null,
+   "related": [
+    "m-salerno"
+   ]
+  },
+  {
+   "id": "u-naples-1258-relocation",
+   "inst": "u-naples",
+   "year": 1258,
+   "approx": true,
+   "type": "relocation",
+   "title": "Return to Naples",
+   "desc": "Manfred restores the studium to Naples.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-naples-1266-charter",
+   "inst": "u-naples",
+   "year": 1266,
+   "approx": true,
+   "type": "charter",
+   "title": "Angevin re-establishment",
+   "desc": "Charles I of Anjou re-establishes and regulates the studium after his conquest.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-naples-1615-reform",
+   "inst": "u-naples",
+   "year": 1615,
+   "approx": false,
+   "type": "reform",
+   "title": "Palazzo degli Studi",
+   "desc": "Viceroy Lemos moves the university into the new Palazzo degli Studi.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-naples-1754-reform",
+   "inst": "u-naples",
+   "year": 1754,
+   "approx": false,
+   "type": "reform",
+   "title": "Chair of political economy",
+   "desc": "A chair of commerce and mechanics (political economy), funded by Bartolomeo Intieri, is created for Antonio Genovesi - the first of its kind in Europe.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-naples-1777-reform",
+   "inst": "u-naples",
+   "year": 1777,
+   "approx": false,
+   "type": "reform",
+   "title": "Move to the former Jesuit college",
+   "desc": "After the Jesuits' expulsion (1767) Ferdinand IV moves the university into the former Jesuit college of the Salvatore and reorganises studies.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-naples-1806-reform",
+   "inst": "u-naples",
+   "year": 1806,
+   "approx": false,
+   "type": "reform",
+   "title": "French reorganisation",
+   "desc": "Under Joseph Bonaparte and Murat the university is reorganised on French lines, with new chairs in sciences.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-naples-1849-reform",
+   "inst": "u-naples",
+   "year": 1849,
+   "approx": true,
+   "type": "reform",
+   "title": "Bourbon reaction",
+   "desc": "After the failed revolution of 1848 Ferdinand II purges liberal teachers and restricts university attendance in Naples.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-naples-1861-reform",
+   "inst": "u-naples",
+   "year": 1861,
+   "approx": false,
+   "type": "reform",
+   "title": "Unification reform",
+   "desc": "Francesco De Sanctis, as minister, reorganises the university, appointing new professors in the Italian system.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-salerno-950-founding",
+   "inst": "m-salerno",
+   "year": 950,
+   "approx": true,
+   "type": "founding",
+   "title": "Emergence of Salernitan medicine",
+   "desc": "Physicians of Salerno become renowned; no formal foundation act exists.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-salerno-1231-charter",
+   "inst": "m-salerno",
+   "year": 1231,
+   "approx": false,
+   "type": "charter",
+   "title": "Constitutions of Melfi",
+   "desc": "Frederick II requires that physicians in the Kingdom be examined by the masters of Salerno before licensing.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-salerno-1280-charter",
+   "inst": "m-salerno",
+   "year": 1280,
+   "approx": false,
+   "type": "charter",
+   "title": "Angevin statutes",
+   "desc": "Charles I of Anjou recognises Salerno as a studium generale of medicine.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-salerno-1811-suppression",
+   "inst": "m-salerno",
+   "year": 1811,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by Murat",
+   "desc": "Joachim Murat's reorganisation of public education closes the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-1303-founding",
+   "inst": "u-rome",
+   "year": 1303,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull In supremae praeeminentia dignitatis",
+   "desc": "Boniface VIII's bull of 20 April 1303 founds a studium generale for the city of Rome.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-1431-reform",
+   "inst": "u-rome",
+   "year": 1431,
+   "approx": false,
+   "type": "reform",
+   "title": "Eugenius IV",
+   "desc": "Eugenius IV reorganises the studium and funds it from a tax on imported wine.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-1431-merger",
+   "inst": "u-rome",
+   "year": 1431,
+   "approx": true,
+   "type": "merger",
+   "title": "Union with the Studium Curiae",
+   "desc": "The papal court's itinerant Studium Curiae is traditionally regarded as absorbed into the Studium Urbis in this period.",
+   "from_inst": null,
+   "related": [
+    "u-rome-curia"
+   ]
+  },
+  {
+   "id": "u-rome-1527-destruction",
+   "inst": "u-rome",
+   "year": 1527,
+   "approx": false,
+   "type": "destruction",
+   "title": "Sack of Rome",
+   "desc": "Imperial troops sack Rome and teaching collapses for several years.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-1660-reform",
+   "inst": "u-rome",
+   "year": 1660,
+   "approx": false,
+   "type": "reform",
+   "title": "Sant'Ivo and the Alessandrina",
+   "desc": "Alexander VII completes the Sapienza palace with Borromini's Sant'Ivo and founds the Biblioteca Alessandrina (1667).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-1824-reform",
+   "inst": "u-rome",
+   "year": 1824,
+   "approx": false,
+   "type": "reform",
+   "title": "Leo XII's reform",
+   "desc": "The bull Quod divina sapientia reorganises all universities of the Papal States, with Rome and Bologna as primary universities.",
+   "from_inst": null,
+   "related": [
+    "u-bologna",
+    "u-perugia",
+    "u-ferrara",
+    "u-camerino",
+    "u-macerata",
+    "u-fermo"
+   ]
+  },
+  {
+   "id": "u-rome-1870-reform",
+   "inst": "u-rome",
+   "year": 1870,
+   "approx": false,
+   "type": "reform",
+   "title": "Italian state takeover",
+   "desc": "After the capture of Rome the university becomes a royal Italian university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-1873-confessional",
+   "inst": "u-rome",
+   "year": 1873,
+   "approx": false,
+   "type": "confessional",
+   "title": "Theology faculty abolished",
+   "desc": "The Italian state abolishes faculties of theology in state universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-curia-1245-founding",
+   "inst": "u-rome-curia",
+   "year": 1245,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Innocent IV",
+   "desc": "Innocent IV, at the Council of Lyon, establishes a studium of theology and law at the papal court.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-curia-1251-relocation",
+   "inst": "u-rome-curia",
+   "year": 1251,
+   "approx": true,
+   "type": "relocation",
+   "title": "Curia returns to Italy",
+   "desc": "The studium returns with Innocent IV to Italy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-curia-1309-relocation",
+   "inst": "u-rome-curia",
+   "year": 1309,
+   "approx": true,
+   "type": "relocation",
+   "title": "Avignon papacy",
+   "desc": "The studium follows the papacy to Avignon.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rome-curia-1377-relocation",
+   "inst": "u-rome-curia",
+   "year": 1377,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Rome",
+   "desc": "The curia and its studium return to Rome under Gregory XI.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-collegio-romano-1551-founding",
+   "inst": "j-collegio-romano",
+   "year": 1551,
+   "approx": false,
+   "type": "founding",
+   "title": "School opens",
+   "desc": "Ignatius opens a free school of grammar, humanities and Christian doctrine near the Capitol on 22 February 1551.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-collegio-romano-1556-charter",
+   "inst": "j-collegio-romano",
+   "year": 1556,
+   "approx": false,
+   "type": "charter",
+   "title": "Degree-granting powers",
+   "desc": "Paul IV authorises the college to confer degrees in philosophy and theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-collegio-romano-1584-reform",
+   "inst": "j-collegio-romano",
+   "year": 1584,
+   "approx": false,
+   "type": "reform",
+   "title": "Gregory XIII's new college",
+   "desc": "Gregory XIII endows and builds a new college, inaugurated in 1584; hence the name 'Gregorian'.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-collegio-romano-1773-suppression",
+   "inst": "j-collegio-romano",
+   "year": 1773,
+   "approx": false,
+   "type": "suppression",
+   "title": "Suppression of the Jesuits",
+   "desc": "Clement XIV's brief Dominus ac Redemptor suppresses the Society; the college passes to secular clergy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-collegio-romano-1824-refoundation",
+   "inst": "j-collegio-romano",
+   "year": 1824,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Returned to the Jesuits",
+   "desc": "Leo XII restores the college to the re-established Society of Jesus.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-collegio-romano-1873-relocation",
+   "inst": "j-collegio-romano",
+   "year": 1873,
+   "approx": false,
+   "type": "relocation",
+   "title": "Expelled by the Italian state",
+   "desc": "The state confiscates the building; the college moves to Palazzo Borromeo and continues as the Pontifical Gregorian University.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-rome-propaganda-1627-founding",
+   "inst": "m-rome-propaganda",
+   "year": 1627,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull Immortalis Dei",
+   "desc": "Urban VIII founds the college under the Congregation de Propaganda Fide.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-perugia-1308-founding",
+   "inst": "u-perugia",
+   "year": 1308,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull Super specula",
+   "desc": "Clement V's bull of 8 September 1308 makes Perugia a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-perugia-1318-charter",
+   "inst": "u-perugia",
+   "year": 1318,
+   "approx": false,
+   "type": "charter",
+   "title": "Degrees in canon and civil law",
+   "desc": "John XXII authorises degrees in civil and canon law (later extended to medicine and arts, 1321).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-perugia-1355-charter",
+   "inst": "u-perugia",
+   "year": 1355,
+   "approx": false,
+   "type": "charter",
+   "title": "Charter of Charles IV",
+   "desc": "Emperor Charles IV confirms the studium's privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-perugia-1824-reform",
+   "inst": "u-perugia",
+   "year": 1824,
+   "approx": false,
+   "type": "reform",
+   "title": "Leo XII's reform",
+   "desc": "Under Quod divina sapientia Perugia becomes a secondary university of the Papal States.",
+   "from_inst": null,
+   "related": [
+    "u-rome"
+   ]
+  },
+  {
+   "id": "u-perugia-1860-reform",
+   "inst": "u-perugia",
+   "year": 1860,
+   "approx": true,
+   "type": "reform",
+   "title": "Free university",
+   "desc": "After annexation to Italy Perugia becomes a 'free' university financed by local bodies.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-treviso-1318-founding",
+   "inst": "u-treviso",
+   "year": 1318,
+   "approx": false,
+   "type": "founding",
+   "title": "Charter of Frederick the Fair",
+   "desc": "The German king Frederick the Fair grants Treviso the rights of a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pisa-1343-founding",
+   "inst": "u-pisa",
+   "year": 1343,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Clement VI",
+   "desc": "Clement VI's bull In supremae dignitatis (3 September 1343) grants Pisa a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pisa-1473-merger",
+   "inst": "u-pisa",
+   "year": 1473,
+   "approx": false,
+   "type": "merger",
+   "title": "Lorenzo's refoundation",
+   "desc": "Lorenzo de' Medici re-establishes the studium in Pisa as the university of the Florentine state, transferring most of the Studio Fiorentino there.",
+   "from_inst": null,
+   "related": [
+    "u-florence"
+   ]
+  },
+  {
+   "id": "u-pisa-1497-relocation",
+   "inst": "u-pisa",
+   "year": 1497,
+   "approx": true,
+   "type": "relocation",
+   "title": "Exile during the Pisan revolt",
+   "desc": "With Pisa in revolt against Florence, the studio moves to Prato (and also Florence and Pistoia).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pisa-1515-relocation",
+   "inst": "u-pisa",
+   "year": 1515,
+   "approx": true,
+   "type": "relocation",
+   "title": "Return to Pisa",
+   "desc": "Teaching resumes in Pisa after Florence reconquers the city.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pisa-1543-refoundation",
+   "inst": "u-pisa",
+   "year": 1543,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Cosimo I",
+   "desc": "Cosimo I restores the university with new chairs, the Sapienza building and the botanical garden (1544).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pisa-1810-reform",
+   "inst": "u-pisa",
+   "year": 1810,
+   "approx": false,
+   "type": "reform",
+   "title": "Napoleonic academy",
+   "desc": "Under French rule Pisa becomes an Académie of the Imperial University and the Scuola Normale is founded.",
+   "from_inst": null,
+   "related": [
+    "t-pisa-sns"
+   ]
+  },
+  {
+   "id": "u-pisa-1851-reform",
+   "inst": "u-pisa",
+   "year": 1851,
+   "approx": false,
+   "type": "reform",
+   "title": "Tuscan university",
+   "desc": "Leopold II merges Pisa and Siena into one Tuscan university, partly in reprisal for the students' role in 1848; separated again in 1859.",
+   "from_inst": null,
+   "related": [
+    "u-siena"
+   ]
+  },
+  {
+   "id": "u-florence-1321-founding",
+   "inst": "u-florence",
+   "year": 1321,
+   "approx": false,
+   "type": "founding",
+   "title": "Communal studium",
+   "desc": "The Florentine commune resolves to found a studium, profiting from the Bolognese crisis.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-florence-1349-charter",
+   "inst": "u-florence",
+   "year": 1349,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Clement VI",
+   "desc": "Clement VI grants studium generale status with a theology faculty.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-florence-1364-charter",
+   "inst": "u-florence",
+   "year": 1364,
+   "approx": false,
+   "type": "charter",
+   "title": "Charter of Charles IV",
+   "desc": "Emperor Charles IV confirms the studium with imperial privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-florence-istituto-1859-founding",
+   "inst": "u-florence-istituto",
+   "year": 1859,
+   "approx": false,
+   "type": "founding",
+   "title": "Decree of the provisional government",
+   "desc": "Bettino Ricasoli's government decrees the institute in December 1859.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-florence-istituto-1877-access",
+   "inst": "u-florence-istituto",
+   "year": 1877,
+   "approx": false,
+   "type": "access",
+   "title": "Ernestina Paper graduates",
+   "desc": "Ernestina Paper takes a medical degree, the first woman to graduate in united Italy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-pisa-sns-1810-founding",
+   "inst": "t-pisa-sns",
+   "year": 1810,
+   "approx": false,
+   "type": "founding",
+   "title": "Napoleonic decree",
+   "desc": "Imperial decree of 18 October 1810 creates the school as a branch of the Paris École normale.",
+   "from_inst": null,
+   "related": [
+    "t-ens"
+   ]
+  },
+  {
+   "id": "t-pisa-sns-1814-suppression",
+   "inst": "t-pisa-sns",
+   "year": 1814,
+   "approx": false,
+   "type": "suppression",
+   "title": "Fall of Napoleon",
+   "desc": "The school lapses with the end of French rule.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-pisa-sns-1846-refoundation",
+   "inst": "t-pisa-sns",
+   "year": 1846,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Scuola Normale Toscana",
+   "desc": "Grand Duke Leopold II re-establishes it as a Tuscan teacher-training school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-pisa-sns-1862-reform",
+   "inst": "t-pisa-sns",
+   "year": 1862,
+   "approx": false,
+   "type": "reform",
+   "title": "National Scuola Normale",
+   "desc": "The Matteucci regulations make it the Scuola Normale Superiore of the Kingdom of Italy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pavia-1361-founding",
+   "inst": "u-pavia",
+   "year": 1361,
+   "approx": false,
+   "type": "founding",
+   "title": "Charter of Charles IV",
+   "desc": "Emperor Charles IV's diploma of 13 April 1361 grants Pavia a studium generale at the request of Galeazzo II Visconti.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pavia-1389-charter",
+   "inst": "u-pavia",
+   "year": 1389,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Boniface IX",
+   "desc": "Boniface IX confirms the studium with papal privileges including theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pavia-1398-relocation",
+   "inst": "u-pavia",
+   "year": 1398,
+   "approx": false,
+   "type": "relocation",
+   "title": "Transfer to Piacenza",
+   "desc": "Gian Galeazzo Visconti transfers the studium to Piacenza.",
+   "from_inst": null,
+   "related": [
+    "u-piacenza"
+   ]
+  },
+  {
+   "id": "u-pavia-1412-relocation",
+   "inst": "u-pavia",
+   "year": 1412,
+   "approx": true,
+   "type": "relocation",
+   "title": "Return to Pavia",
+   "desc": "Filippo Maria Visconti restores the studium to Pavia.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pavia-1771-reform",
+   "inst": "u-pavia",
+   "year": 1771,
+   "approx": false,
+   "type": "reform",
+   "title": "Theresian reform",
+   "desc": "Maria Theresa's government reorganises the university with new statutes, buildings and chairs (1771–1773).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pavia-1799-suppression",
+   "inst": "u-pavia",
+   "year": 1799,
+   "approx": false,
+   "type": "suppression",
+   "title": "Austro-Russian closure",
+   "desc": "The returning Austrians close the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pavia-1800-refoundation",
+   "inst": "u-pavia",
+   "year": 1800,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Reopening after Marengo",
+   "desc": "Napoleon's victory leads to the university's reopening; it becomes a national university of the Kingdom of Italy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pavia-1859-reform",
+   "inst": "u-pavia",
+   "year": 1859,
+   "approx": false,
+   "type": "reform",
+   "title": "Casati law",
+   "desc": "Lombardy's annexation brings Pavia under the Casati law of the Kingdom of Sardinia.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-piacenza-1248-founding",
+   "inst": "u-piacenza",
+   "year": 1248,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Innocent IV",
+   "desc": "Innocent IV grants Piacenza the privileges of a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-reggio-1188-founding",
+   "inst": "u-reggio",
+   "year": 1188,
+   "approx": true,
+   "type": "founding",
+   "title": "Law teaching attested",
+   "desc": "Masters of law are attested teaching in Reggio.",
+   "from_inst": null,
+   "related": [
+    "u-bologna"
+   ]
+  },
+  {
+   "id": "u-modena-1182-founding",
+   "inst": "u-modena",
+   "year": 1182,
+   "approx": true,
+   "type": "founding",
+   "title": "Pillius in Modena",
+   "desc": "The jurist Pillius moves from Bologna to Modena and teaches law.",
+   "from_inst": null,
+   "related": [
+    "u-bologna"
+   ]
+  },
+  {
+   "id": "u-modena-1682-refoundation",
+   "inst": "u-modena",
+   "year": 1682,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Francesco II d'Este",
+   "desc": "Duke Francesco II d'Este establishes the public university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-modena-1772-reform",
+   "inst": "u-modena",
+   "year": 1772,
+   "approx": false,
+   "type": "reform",
+   "title": "Francesco III's constitutions",
+   "desc": "Francesco III reforms the university with new constitutions and buildings.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-modena-1859-reform",
+   "inst": "u-modena",
+   "year": 1859,
+   "approx": false,
+   "type": "reform",
+   "title": "Annexation to Italy",
+   "desc": "The university passes into the Italian system after the fall of the Este duchy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-parma-1412-founding",
+   "inst": "u-parma",
+   "year": 1412,
+   "approx": false,
+   "type": "founding",
+   "title": "Niccolò III d'Este",
+   "desc": "Niccolò III d'Este, then lord of Parma, founds a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-parma-1601-refoundation",
+   "inst": "u-parma",
+   "year": 1601,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Ranuccio I Farnese",
+   "desc": "Duke Ranuccio I Farnese re-establishes the university, entrusting part of it to the Jesuits.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-parma-1768-reform",
+   "inst": "u-parma",
+   "year": 1768,
+   "approx": false,
+   "type": "reform",
+   "title": "Du Tillot's reform",
+   "desc": "After the Jesuits' expulsion, Du Tillot reorganises the university as a state institution.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-ferrara-1391-founding",
+   "inst": "u-ferrara",
+   "year": 1391,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Boniface IX",
+   "desc": "Boniface IX's bull of 4 March 1391 founds the studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-ferrara-1442-refoundation",
+   "inst": "u-ferrara",
+   "year": 1442,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Leonello d'Este",
+   "desc": "Leonello d'Este re-establishes the studium after decades of decline.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-ferrara-1598-reform",
+   "inst": "u-ferrara",
+   "year": 1598,
+   "approx": false,
+   "type": "reform",
+   "title": "Papal devolution",
+   "desc": "With Ferrara's devolution to the Papal States the university passes under papal control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-ferrara-1824-reform",
+   "inst": "u-ferrara",
+   "year": 1824,
+   "approx": false,
+   "type": "reform",
+   "title": "Leo XII's reform",
+   "desc": "Ferrara is classed as a secondary university under Quod divina sapientia.",
+   "from_inst": null,
+   "related": [
+    "u-rome"
+   ]
+  },
+  {
+   "id": "u-ferrara-1860-reform",
+   "inst": "u-ferrara",
+   "year": 1860,
+   "approx": true,
+   "type": "reform",
+   "title": "Free university",
+   "desc": "After unification Ferrara continues as a 'free' university funded by local bodies.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-verona-1339-founding",
+   "inst": "u-verona",
+   "year": 1339,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Benedict XII",
+   "desc": "Benedict XII grants Verona the right to a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cividale-1353-founding",
+   "inst": "u-cividale",
+   "year": 1353,
+   "approx": false,
+   "type": "founding",
+   "title": "Charter of Charles IV",
+   "desc": "Emperor Charles IV grants Cividale the rights of a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lucca-1369-founding",
+   "inst": "u-lucca",
+   "year": 1369,
+   "approx": false,
+   "type": "founding",
+   "title": "Charter of Charles IV",
+   "desc": "Charles IV grants Lucca a studium generale on freeing the city from Pisan rule.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1404-founding",
+   "inst": "u-turin",
+   "year": 1404,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Benedict XIII",
+   "desc": "The Avignon pope Benedict XIII founds the studium (October 1404).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1412-charter",
+   "inst": "u-turin",
+   "year": 1412,
+   "approx": false,
+   "type": "charter",
+   "title": "Charter of Sigismund",
+   "desc": "Emperor Sigismund confirms the studium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1427-relocation",
+   "inst": "u-turin",
+   "year": 1427,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Chieri",
+   "desc": "The studium moves to Chieri.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1434-relocation",
+   "inst": "u-turin",
+   "year": 1434,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Savigliano",
+   "desc": "The studium moves to Savigliano.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1436-relocation",
+   "inst": "u-turin",
+   "year": 1436,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Turin",
+   "desc": "The studium returns to Turin.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1560-relocation",
+   "inst": "u-turin",
+   "year": 1560,
+   "approx": false,
+   "type": "relocation",
+   "title": "Mondovì",
+   "desc": "Emmanuel Philibert establishes the university at Mondovì while Turin is under French occupation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1566-relocation",
+   "inst": "u-turin",
+   "year": 1566,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Turin",
+   "desc": "The university returns to Turin.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1720-reform",
+   "inst": "u-turin",
+   "year": 1720,
+   "approx": false,
+   "type": "reform",
+   "title": "Victor Amadeus II",
+   "desc": "New constitutions and a new university palace centralise higher education under the crown, excluding the Jesuits.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1821-suppression",
+   "inst": "u-turin",
+   "year": 1821,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure after the 1821 revolt",
+   "desc": "After the student-supported constitutional rising the government closes the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1823-refoundation",
+   "inst": "u-turin",
+   "year": 1823,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Reopening",
+   "desc": "The university reopens under strict supervision.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turin-1859-reform",
+   "inst": "u-turin",
+   "year": 1859,
+   "approx": false,
+   "type": "reform",
+   "title": "Casati law",
+   "desc": "The Casati law reorganises Turin as a model university of the new Italian system.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-turin-artillery-1739-founding",
+   "inst": "t-turin-artillery",
+   "year": 1739,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal foundation",
+   "desc": "Charles Emmanuel III establishes the theoretical and practical schools of artillery and fortification.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-venaria-vet-1769-founding",
+   "inst": "t-venaria-vet",
+   "year": 1769,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal foundation",
+   "desc": "The veterinary school opens at the royal stables of Venaria Reale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-turin-applicazione-1859-founding",
+   "inst": "t-turin-applicazione",
+   "year": 1859,
+   "approx": false,
+   "type": "founding",
+   "title": "Casati law",
+   "desc": "The Casati law establishes the school of application for engineers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-turin-museo-1862-founding",
+   "inst": "t-turin-museo",
+   "year": 1862,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The state founds the industrial museum, which develops higher technical courses.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-genoa-1471-founding",
+   "inst": "u-genoa",
+   "year": 1471,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Sixtus IV",
+   "desc": "Sixtus IV authorises Genoa's colleges of doctors to confer degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-genoa-1773-reform",
+   "inst": "u-genoa",
+   "year": 1773,
+   "approx": false,
+   "type": "reform",
+   "title": "University in the Jesuit college",
+   "desc": "After the Jesuits' suppression the Republic organises a public university in their college on Via Balbi.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-genoa-1805-reform",
+   "inst": "u-genoa",
+   "year": 1805,
+   "approx": false,
+   "type": "reform",
+   "title": "Napoleonic academy",
+   "desc": "Genoa's annexation to France makes the university part of the Imperial University.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-genoa-1859-reform",
+   "inst": "u-genoa",
+   "year": 1859,
+   "approx": false,
+   "type": "reform",
+   "title": "Casati law",
+   "desc": "The university is reorganised under the Casati law.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-genoa-navale-1870-founding",
+   "inst": "t-genoa-navale",
+   "year": 1870,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The state founds the higher naval engineering school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-milan-brera-1572-founding",
+   "inst": "j-milan-brera",
+   "year": 1572,
+   "approx": false,
+   "type": "founding",
+   "title": "Borromeo gives Brera to the Jesuits",
+   "desc": "The Jesuits take over the Brera complex and open higher schools.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-milan-brera-1773-suppression",
+   "inst": "j-milan-brera",
+   "year": 1773,
+   "approx": false,
+   "type": "suppression",
+   "title": "Jesuit suppression",
+   "desc": "The college closes with the Society's suppression; Maria Theresa reassigns the buildings.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-milan-vet-1791-founding",
+   "inst": "t-milan-vet",
+   "year": 1791,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The Austrian government establishes the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-milan-politecnico-1863-founding",
+   "inst": "t-milan-politecnico",
+   "year": 1863,
+   "approx": false,
+   "type": "founding",
+   "title": "Istituto Tecnico Superiore",
+   "desc": "The institute opens on 29 November 1863 under Francesco Brioschi.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-venice-cafoscari-1868-founding",
+   "inst": "t-venice-cafoscari",
+   "year": 1868,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening",
+   "desc": "The school opens in December 1868 with Francesco Ferrara as director.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-macerata-1290-founding",
+   "inst": "u-macerata",
+   "year": 1290,
+   "approx": false,
+   "type": "founding",
+   "title": "Communal law school",
+   "desc": "The commune establishes a school of law.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-macerata-1540-charter",
+   "inst": "u-macerata",
+   "year": 1540,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Paul III",
+   "desc": "Paul III grants Macerata a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-macerata-1824-reform",
+   "inst": "u-macerata",
+   "year": 1824,
+   "approx": false,
+   "type": "reform",
+   "title": "Leo XII's reform",
+   "desc": "Classed as a secondary university of the Papal States.",
+   "from_inst": null,
+   "related": [
+    "u-rome"
+   ]
+  },
+  {
+   "id": "u-camerino-1336-founding",
+   "inst": "u-camerino",
+   "year": 1336,
+   "approx": true,
+   "type": "founding",
+   "title": "Law teaching",
+   "desc": "Teaching of law is attested.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-camerino-1377-charter",
+   "inst": "u-camerino",
+   "year": 1377,
+   "approx": false,
+   "type": "charter",
+   "title": "Gregory XI",
+   "desc": "Gregory XI grants degree-granting privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-camerino-1727-refoundation",
+   "inst": "u-camerino",
+   "year": 1727,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Benedict XIII",
+   "desc": "Benedict XIII re-establishes the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-camerino-1824-reform",
+   "inst": "u-camerino",
+   "year": 1824,
+   "approx": false,
+   "type": "reform",
+   "title": "Leo XII's reform",
+   "desc": "Classed as a secondary university of the Papal States.",
+   "from_inst": null,
+   "related": [
+    "u-rome"
+   ]
+  },
+  {
+   "id": "u-urbino-1506-founding",
+   "inst": "u-urbino",
+   "year": 1506,
+   "approx": false,
+   "type": "founding",
+   "title": "Collegio dei Dottori",
+   "desc": "Guidobaldo da Montefeltro establishes the college of doctors.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-urbino-1564-charter",
+   "inst": "u-urbino",
+   "year": 1564,
+   "approx": false,
+   "type": "charter",
+   "title": "Pius IV",
+   "desc": "Pius IV grants university privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-urbino-1862-reform",
+   "inst": "u-urbino",
+   "year": 1862,
+   "approx": true,
+   "type": "reform",
+   "title": "Free university",
+   "desc": "After unification Urbino becomes a free university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-fermo-1303-founding",
+   "inst": "u-fermo",
+   "year": 1303,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Boniface VIII",
+   "desc": "Boniface VIII grants Fermo a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-fermo-1585-refoundation",
+   "inst": "u-fermo",
+   "year": 1585,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Sixtus V",
+   "desc": "Sixtus V re-establishes the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-fermo-1826-suppression",
+   "inst": "u-fermo",
+   "year": 1826,
+   "approx": true,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "The university is closed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-catania-1434-founding",
+   "inst": "u-catania",
+   "year": 1434,
+   "approx": false,
+   "type": "founding",
+   "title": "Privilege of Alfonso V",
+   "desc": "Alfonso V's privilege of 19 October 1434 founds the studium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-catania-1444-charter",
+   "inst": "u-catania",
+   "year": 1444,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Eugenius IV",
+   "desc": "Eugenius IV confirms the foundation; teaching begins in 1445.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-catania-1693-destruction",
+   "inst": "u-catania",
+   "year": 1693,
+   "approx": false,
+   "type": "destruction",
+   "title": "Earthquake",
+   "desc": "The 1693 earthquake destroys Catania and the university buildings.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-messina-1548-founding",
+   "inst": "u-messina",
+   "year": 1548,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Paul III",
+   "desc": "Paul III authorises a studium generale at the new Jesuit college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-messina-1596-reform",
+   "inst": "u-messina",
+   "year": 1596,
+   "approx": false,
+   "type": "reform",
+   "title": "Municipal studium",
+   "desc": "The Senate of Messina opens its own university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-messina-1678-suppression",
+   "inst": "u-messina",
+   "year": 1678,
+   "approx": false,
+   "type": "suppression",
+   "title": "Spanish reprisal",
+   "desc": "After the anti-Spanish revolt, the university is abolished.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-messina-1838-refoundation",
+   "inst": "u-messina",
+   "year": 1838,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University restored",
+   "desc": "Ferdinand II restores university status to Messina.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-palermo-1549-founding",
+   "inst": "j-palermo",
+   "year": 1549,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening",
+   "desc": "The Jesuits open their college in Palermo.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-palermo-1767-suppression",
+   "inst": "j-palermo",
+   "year": 1767,
+   "approx": false,
+   "type": "suppression",
+   "title": "Expulsion",
+   "desc": "The Jesuits are expelled from the Kingdom of Sicily.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-palermo-1779-founding",
+   "inst": "u-palermo",
+   "year": 1779,
+   "approx": false,
+   "type": "founding",
+   "title": "Accademia de' Regi Studi",
+   "desc": "Ferdinand IV establishes the academy.",
+   "from_inst": null,
+   "related": [
+    "j-palermo"
+   ]
+  },
+  {
+   "id": "u-palermo-1805-charter",
+   "inst": "u-palermo",
+   "year": 1805,
+   "approx": true,
+   "type": "charter",
+   "title": "University status",
+   "desc": "Ferdinand raises the academy to a university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cagliari-1606-founding",
+   "inst": "u-cagliari",
+   "year": 1606,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation decision",
+   "desc": "The Sardinian estates and Philip III resolve to found the university (conventional date).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cagliari-1620-charter",
+   "inst": "u-cagliari",
+   "year": 1620,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal charter",
+   "desc": "Philip III issues the royal charter of privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cagliari-1607-charter",
+   "inst": "u-cagliari",
+   "year": 1607,
+   "approx": false,
+   "type": "charter",
+   "title": "Bull of Paul V",
+   "desc": "Paul V confirms the foundation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cagliari-1626-reform",
+   "inst": "u-cagliari",
+   "year": 1626,
+   "approx": false,
+   "type": "reform",
+   "title": "Teaching begins",
+   "desc": "The university opens.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cagliari-1764-refoundation",
+   "inst": "u-cagliari",
+   "year": 1764,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Savoy refoundation",
+   "desc": "Charles Emmanuel III re-establishes the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-sassari-1562-founding",
+   "inst": "u-sassari",
+   "year": 1562,
+   "approx": false,
+   "type": "founding",
+   "title": "Jesuit college",
+   "desc": "The Jesuit college opens.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-sassari-1617-charter",
+   "inst": "u-sassari",
+   "year": 1617,
+   "approx": true,
+   "type": "charter",
+   "title": "Philip III's privilege",
+   "desc": "Philip III authorises degrees in philosophy and theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-sassari-1632-charter",
+   "inst": "u-sassari",
+   "year": 1632,
+   "approx": true,
+   "type": "charter",
+   "title": "Full university",
+   "desc": "Philip IV extends the privileges to law and medicine, making Sassari a full university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-sassari-1765-refoundation",
+   "inst": "u-sassari",
+   "year": 1765,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Savoy refoundation",
+   "desc": "Charles Emmanuel III re-establishes the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-corte-1765-founding",
+   "inst": "u-corte",
+   "year": 1765,
+   "approx": false,
+   "type": "founding",
+   "title": "Paoli's foundation",
+   "desc": "Paoli opens the university in January 1765.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-corte-1769-suppression",
+   "inst": "u-corte",
+   "year": 1769,
+   "approx": false,
+   "type": "suppression",
+   "title": "French conquest",
+   "desc": "The university closes after the French conquest.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-malta-1592-founding",
+   "inst": "j-malta",
+   "year": 1592,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The Jesuit college is founded.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-malta-1768-suppression",
+   "inst": "j-malta",
+   "year": 1768,
+   "approx": false,
+   "type": "suppression",
+   "title": "Expulsion",
+   "desc": "Grand Master Pinto expels the Jesuits.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-malta-1769-founding",
+   "inst": "u-malta",
+   "year": 1769,
+   "approx": false,
+   "type": "founding",
+   "title": "Pinto's decree",
+   "desc": "Grand Master Pinto founds the university.",
+   "from_inst": null,
+   "related": [
+    "j-malta"
+   ]
+  },
+  {
+   "id": "u-malta-1798-suppression",
+   "inst": "u-malta",
+   "year": 1798,
+   "approx": false,
+   "type": "suppression",
+   "title": "French abolition",
+   "desc": "Napoleon abolishes the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-malta-1800-refoundation",
+   "inst": "u-malta",
+   "year": 1800,
+   "approx": true,
+   "type": "refoundation",
+   "title": "British restoration",
+   "desc": "The university is restored under British rule.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-naples-ingegneria-1811-founding",
+   "inst": "t-naples-ingegneria",
+   "year": 1811,
+   "approx": false,
+   "type": "founding",
+   "title": "Murat's decree",
+   "desc": "Murat founds the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-naples-ingegneria-1863-reform",
+   "inst": "t-naples-ingegneria",
+   "year": 1863,
+   "approx": false,
+   "type": "reform",
+   "title": "School of application",
+   "desc": "Reorganised as a school of application for engineers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-naples-orientale-1732-founding",
+   "inst": "m-naples-orientale",
+   "year": 1732,
+   "approx": false,
+   "type": "founding",
+   "title": "Ripa's college",
+   "desc": "Matteo Ripa opens the college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-naples-orientale-1888-reform",
+   "inst": "m-naples-orientale",
+   "year": 1888,
+   "approx": false,
+   "type": "reform",
+   "title": "Istituto Orientale",
+   "desc": "Reorganised as the Royal Oriental Institute.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-rome-ingegneri-1873-founding",
+   "inst": "t-rome-ingegneri",
+   "year": 1873,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The engineering school is established.",
+   "from_inst": null,
+   "related": []
+  }
+ ],
+ "thinkers": [
+  {
+   "name": "Irnerius",
+   "inst": "u-bologna",
+   "from": 1088,
+   "to": 1125,
+   "approx": true,
+   "role": "taught Roman law",
+   "note": "Founder of the glossator school."
+  },
+  {
+   "name": "Gratian",
+   "inst": "u-bologna",
+   "from": 1130,
+   "to": 1150,
+   "approx": true,
+   "role": "taught canon law",
+   "note": "Compiled the Decretum, foundation of canon-law teaching."
+  },
+  {
+   "name": "Azo",
+   "inst": "u-bologna",
+   "from": 1190,
+   "to": 1220,
+   "approx": true,
+   "role": "taught Roman law",
+   "note": "Author of the Summa Codicis."
+  },
+  {
+   "name": "Accursius",
+   "inst": "u-bologna",
+   "from": 1220,
+   "to": 1263,
+   "approx": true,
+   "role": "taught Roman law",
+   "note": "Compiled the Glossa ordinaria."
+  },
+  {
+   "name": "Odofredus",
+   "inst": "u-bologna",
+   "from": 1228,
+   "to": 1265,
+   "approx": true,
+   "role": "taught Roman law",
+   "note": ""
+  },
+  {
+   "name": "Mondino de' Liuzzi",
+   "inst": "u-bologna",
+   "from": 1306,
+   "to": 1326,
+   "approx": true,
+   "role": "taught medicine",
+   "note": "Revived public human dissection; Anathomia 1316."
+  },
+  {
+   "name": "Johannes Andreae",
+   "inst": "u-bologna",
+   "from": 1301,
+   "to": 1348,
+   "approx": true,
+   "role": "taught canon law",
+   "note": ""
+  },
+  {
+   "name": "Francesco Petrarca",
+   "inst": "u-bologna",
+   "from": 1320,
+   "to": 1326,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Pico della Mirandola",
+   "inst": "u-bologna",
+   "from": 1477,
+   "to": 1478,
+   "approx": true,
+   "role": "studied canon law",
+   "note": ""
+  },
+  {
+   "name": "Nicolaus Copernicus",
+   "inst": "u-bologna",
+   "from": 1496,
+   "to": 1500,
+   "approx": false,
+   "role": "studied canon law",
+   "note": "Assisted astronomer Domenico Maria Novara."
+  },
+  {
+   "name": "Pietro Pomponazzi",
+   "inst": "u-bologna",
+   "from": 1512,
+   "to": 1525,
+   "approx": false,
+   "role": "taught philosophy",
+   "note": "Wrote De immortalitate animae (1516) here."
+  },
+  {
+   "name": "Ulisse Aldrovandi",
+   "inst": "u-bologna",
+   "from": 1561,
+   "to": 1600,
+   "approx": true,
+   "role": "taught natural history",
+   "note": ""
+  },
+  {
+   "name": "Marcello Malpighi",
+   "inst": "u-bologna",
+   "from": 1666,
+   "to": 1691,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Laura Bassi",
+   "inst": "u-bologna",
+   "from": 1732,
+   "to": 1778,
+   "approx": false,
+   "role": "taught physics",
+   "note": "First woman university professor in Europe."
+  },
+  {
+   "name": "Luigi Galvani",
+   "inst": "u-bologna",
+   "from": 1762,
+   "to": 1798,
+   "approx": true,
+   "role": "taught anatomy",
+   "note": "Dismissed 1798 for refusing the Cisalpine oath."
+  },
+  {
+   "name": "Giosuè Carducci",
+   "inst": "u-bologna",
+   "from": 1860,
+   "to": 1904,
+   "approx": false,
+   "role": "taught Italian literature",
+   "note": ""
+  },
+  {
+   "name": "Pietro d'Abano",
+   "inst": "u-padua",
+   "from": 1306,
+   "to": 1315,
+   "approx": true,
+   "role": "taught medicine and philosophy",
+   "note": ""
+  },
+  {
+   "name": "Nicholas of Cusa",
+   "inst": "u-padua",
+   "from": 1417,
+   "to": 1423,
+   "approx": false,
+   "role": "studied canon law",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Pico della Mirandola",
+   "inst": "u-padua",
+   "from": 1480,
+   "to": 1482,
+   "approx": true,
+   "role": "studied philosophy",
+   "note": ""
+  },
+  {
+   "name": "Pietro Pomponazzi",
+   "inst": "u-padua",
+   "from": 1488,
+   "to": 1509,
+   "approx": true,
+   "role": "taught philosophy",
+   "note": ""
+  },
+  {
+   "name": "Nicolaus Copernicus",
+   "inst": "u-padua",
+   "from": 1501,
+   "to": 1503,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Andreas Vesalius",
+   "inst": "u-padua",
+   "from": 1537,
+   "to": 1543,
+   "approx": false,
+   "role": "taught anatomy and surgery",
+   "note": "Wrote De humani corporis fabrica (1543)."
+  },
+  {
+   "name": "Gabriele Falloppio",
+   "inst": "u-padua",
+   "from": 1551,
+   "to": 1562,
+   "approx": false,
+   "role": "taught anatomy",
+   "note": ""
+  },
+  {
+   "name": "Hieronymus Fabricius ab Aquapendente",
+   "inst": "u-padua",
+   "from": 1565,
+   "to": 1613,
+   "approx": true,
+   "role": "taught anatomy",
+   "note": ""
+  },
+  {
+   "name": "Galileo Galilei",
+   "inst": "u-padua",
+   "from": 1592,
+   "to": 1610,
+   "approx": false,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "William Harvey",
+   "inst": "u-padua",
+   "from": 1599,
+   "to": 1602,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Elena Cornaro Piscopia",
+   "inst": "u-padua",
+   "from": 1678,
+   "to": 1678,
+   "approx": false,
+   "role": "doctorate in philosophy",
+   "note": "First woman to receive a university doctorate."
+  },
+  {
+   "name": "Bernardino Ramazzini",
+   "inst": "u-padua",
+   "from": 1700,
+   "to": 1714,
+   "approx": false,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Battista Morgagni",
+   "inst": "u-padua",
+   "from": 1711,
+   "to": 1771,
+   "approx": false,
+   "role": "taught anatomy",
+   "note": ""
+  },
+  {
+   "name": "Cino da Pistoia",
+   "inst": "u-siena",
+   "from": 1321,
+   "to": 1323,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Enea Silvio Piccolomini (Pius II)",
+   "inst": "u-siena",
+   "from": 1423,
+   "to": 1431,
+   "approx": true,
+   "role": "studied law and letters",
+   "note": ""
+  },
+  {
+   "name": "Mariano Sozzini",
+   "inst": "u-siena",
+   "from": 1441,
+   "to": 1467,
+   "approx": true,
+   "role": "taught canon law",
+   "note": ""
+  },
+  {
+   "name": "Thomas Aquinas",
+   "inst": "u-naples",
+   "from": 1239,
+   "to": 1244,
+   "approx": false,
+   "role": "studied arts",
+   "note": ""
+  },
+  {
+   "name": "Thomas Aquinas",
+   "inst": "u-naples",
+   "from": 1272,
+   "to": 1274,
+   "approx": false,
+   "role": "taught theology",
+   "note": "Established a Dominican studium attached to the university."
+  },
+  {
+   "name": "Cino da Pistoia",
+   "inst": "u-naples",
+   "from": 1330,
+   "to": 1331,
+   "approx": false,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Giambattista Vico",
+   "inst": "u-naples",
+   "from": 1699,
+   "to": 1741,
+   "approx": false,
+   "role": "taught rhetoric",
+   "note": ""
+  },
+  {
+   "name": "Antonio Genovesi",
+   "inst": "u-naples",
+   "from": 1754,
+   "to": 1769,
+   "approx": false,
+   "role": "taught political economy",
+   "note": ""
+  },
+  {
+   "name": "Luigi Settembrini",
+   "inst": "u-naples",
+   "from": 1861,
+   "to": 1876,
+   "approx": false,
+   "role": "taught Italian literature",
+   "note": ""
+  },
+  {
+   "name": "Francesco De Sanctis",
+   "inst": "u-naples",
+   "from": 1871,
+   "to": 1877,
+   "approx": true,
+   "role": "taught comparative literature",
+   "note": ""
+  },
+  {
+   "name": "Constantine the African",
+   "inst": "m-salerno",
+   "from": 1077,
+   "to": 1080,
+   "approx": true,
+   "role": "worked as physician-translator",
+   "note": "Then moved to Monte Cassino."
+  },
+  {
+   "name": "Trota of Salerno",
+   "inst": "m-salerno",
+   "from": 1100,
+   "to": 1150,
+   "approx": true,
+   "role": "practised and taught medicine",
+   "note": "Associated with the Trotula texts."
+  },
+  {
+   "name": "Roger Frugardi",
+   "inst": "m-salerno",
+   "from": 1170,
+   "to": 1180,
+   "approx": true,
+   "role": "taught surgery",
+   "note": ""
+  },
+  {
+   "name": "Pomponio Leto",
+   "inst": "u-rome",
+   "from": 1465,
+   "to": 1497,
+   "approx": true,
+   "role": "taught rhetoric",
+   "note": ""
+  },
+  {
+   "name": "Bartolomeo Eustachi",
+   "inst": "u-rome",
+   "from": 1549,
+   "to": 1574,
+   "approx": true,
+   "role": "taught anatomy",
+   "note": ""
+  },
+  {
+   "name": "Andrea Cesalpino",
+   "inst": "u-rome",
+   "from": 1592,
+   "to": 1603,
+   "approx": false,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Maria Lancisi",
+   "inst": "u-rome",
+   "from": 1684,
+   "to": 1697,
+   "approx": true,
+   "role": "taught anatomy",
+   "note": ""
+  },
+  {
+   "name": "Stanislao Cannizzaro",
+   "inst": "u-rome",
+   "from": 1871,
+   "to": 1910,
+   "approx": false,
+   "role": "taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Antonio Labriola",
+   "inst": "u-rome",
+   "from": 1874,
+   "to": 1904,
+   "approx": false,
+   "role": "taught philosophy",
+   "note": ""
+  },
+  {
+   "name": "Christopher Clavius",
+   "inst": "j-collegio-romano",
+   "from": 1563,
+   "to": 1612,
+   "approx": true,
+   "role": "taught mathematics",
+   "note": "Chief architect of the Gregorian calendar."
+  },
+  {
+   "name": "Robert Bellarmine",
+   "inst": "j-collegio-romano",
+   "from": 1576,
+   "to": 1588,
+   "approx": false,
+   "role": "taught controversial theology",
+   "note": ""
+  },
+  {
+   "name": "Francisco Suárez",
+   "inst": "j-collegio-romano",
+   "from": 1580,
+   "to": 1585,
+   "approx": false,
+   "role": "taught theology",
+   "note": ""
+  },
+  {
+   "name": "Athanasius Kircher",
+   "inst": "j-collegio-romano",
+   "from": 1638,
+   "to": 1680,
+   "approx": true,
+   "role": "taught mathematics",
+   "note": "Founded the Museum Kircherianum."
+  },
+  {
+   "name": "Angelo Secchi",
+   "inst": "j-collegio-romano",
+   "from": 1849,
+   "to": 1878,
+   "approx": false,
+   "role": "directed the observatory",
+   "note": ""
+  },
+  {
+   "name": "Cino da Pistoia",
+   "inst": "u-perugia",
+   "from": 1326,
+   "to": 1330,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Gentile da Foligno",
+   "inst": "u-perugia",
+   "from": 1322,
+   "to": 1337,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Bartolus de Saxoferrato",
+   "inst": "u-perugia",
+   "from": 1343,
+   "to": 1357,
+   "approx": false,
+   "role": "taught Roman law",
+   "note": "Leading post-glossator commentator."
+  },
+  {
+   "name": "Baldus de Ubaldis",
+   "inst": "u-perugia",
+   "from": 1351,
+   "to": 1390,
+   "approx": true,
+   "role": "studied and taught law",
+   "note": ""
+  },
+  {
+   "name": "Bartolus de Saxoferrato",
+   "inst": "u-pisa",
+   "from": 1339,
+   "to": 1343,
+   "approx": false,
+   "role": "taught Roman law",
+   "note": ""
+  },
+  {
+   "name": "Luca Ghini",
+   "inst": "u-pisa",
+   "from": 1544,
+   "to": 1555,
+   "approx": false,
+   "role": "taught botany",
+   "note": "Founded the botanical garden."
+  },
+  {
+   "name": "Andrea Cesalpino",
+   "inst": "u-pisa",
+   "from": 1555,
+   "to": 1592,
+   "approx": true,
+   "role": "taught medicine and botany",
+   "note": ""
+  },
+  {
+   "name": "Galileo Galilei",
+   "inst": "u-pisa",
+   "from": 1581,
+   "to": 1585,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Galileo Galilei",
+   "inst": "u-pisa",
+   "from": 1589,
+   "to": 1592,
+   "approx": false,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Carlo Matteucci",
+   "inst": "u-pisa",
+   "from": 1840,
+   "to": 1868,
+   "approx": true,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Vito Volterra",
+   "inst": "u-pisa",
+   "from": 1878,
+   "to": 1892,
+   "approx": false,
+   "role": "studied and taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Boccaccio",
+   "inst": "u-florence",
+   "from": 1373,
+   "to": 1374,
+   "approx": false,
+   "role": "lectured on Dante",
+   "note": ""
+  },
+  {
+   "name": "Manuel Chrysoloras",
+   "inst": "u-florence",
+   "from": 1397,
+   "to": 1400,
+   "approx": false,
+   "role": "taught Greek",
+   "note": "First public chair of Greek in the West."
+  },
+  {
+   "name": "Francesco Filelfo",
+   "inst": "u-florence",
+   "from": 1429,
+   "to": 1434,
+   "approx": false,
+   "role": "taught Greek and rhetoric",
+   "note": ""
+  },
+  {
+   "name": "John Argyropoulos",
+   "inst": "u-florence",
+   "from": 1456,
+   "to": 1471,
+   "approx": false,
+   "role": "taught Greek and philosophy",
+   "note": ""
+  },
+  {
+   "name": "Pasquale Villari",
+   "inst": "u-florence-istituto",
+   "from": 1865,
+   "to": 1913,
+   "approx": true,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Ernestina Paper",
+   "inst": "u-florence-istituto",
+   "from": 1872,
+   "to": 1877,
+   "approx": true,
+   "role": "studied medicine",
+   "note": "First woman graduate in united Italy."
+  },
+  {
+   "name": "Giosuè Carducci",
+   "inst": "t-pisa-sns",
+   "from": 1853,
+   "to": 1856,
+   "approx": false,
+   "role": "studied letters",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Gentile",
+   "inst": "t-pisa-sns",
+   "from": 1893,
+   "to": 1897,
+   "approx": false,
+   "role": "studied philosophy",
+   "note": ""
+  },
+  {
+   "name": "Baldus de Ubaldis",
+   "inst": "u-pavia",
+   "from": 1390,
+   "to": 1400,
+   "approx": false,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Lorenzo Valla",
+   "inst": "u-pavia",
+   "from": 1431,
+   "to": 1433,
+   "approx": false,
+   "role": "taught rhetoric",
+   "note": ""
+  },
+  {
+   "name": "Girolamo Cardano",
+   "inst": "u-pavia",
+   "from": 1543,
+   "to": 1560,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Andrea Alciato",
+   "inst": "u-pavia",
+   "from": 1533,
+   "to": 1537,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Lazzaro Spallanzani",
+   "inst": "u-pavia",
+   "from": 1769,
+   "to": 1799,
+   "approx": false,
+   "role": "taught natural history",
+   "note": ""
+  },
+  {
+   "name": "Alessandro Volta",
+   "inst": "u-pavia",
+   "from": 1779,
+   "to": 1819,
+   "approx": false,
+   "role": "taught physics",
+   "note": "Rector 1785."
+  },
+  {
+   "name": "Lorenzo Mascheroni",
+   "inst": "u-pavia",
+   "from": 1786,
+   "to": 1797,
+   "approx": true,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Ugo Foscolo",
+   "inst": "u-pavia",
+   "from": 1809,
+   "to": 1809,
+   "approx": false,
+   "role": "taught eloquence",
+   "note": ""
+  },
+  {
+   "name": "Camillo Golgi",
+   "inst": "u-pavia",
+   "from": 1865,
+   "to": 1918,
+   "approx": true,
+   "role": "studied and taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Bernardino Ramazzini",
+   "inst": "u-modena",
+   "from": 1682,
+   "to": 1700,
+   "approx": false,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Lazzaro Spallanzani",
+   "inst": "u-modena",
+   "from": 1763,
+   "to": 1769,
+   "approx": false,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Paolo Ruffini",
+   "inst": "u-modena",
+   "from": 1788,
+   "to": 1822,
+   "approx": true,
+   "role": "taught mathematics",
+   "note": "Rector from 1814."
+  },
+  {
+   "name": "Guarino da Verona",
+   "inst": "u-ferrara",
+   "from": 1436,
+   "to": 1460,
+   "approx": false,
+   "role": "taught rhetoric and Greek",
+   "note": ""
+  },
+  {
+   "name": "Niccolò Leoniceno",
+   "inst": "u-ferrara",
+   "from": 1464,
+   "to": 1524,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Pico della Mirandola",
+   "inst": "u-ferrara",
+   "from": 1479,
+   "to": 1480,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Nicolaus Copernicus",
+   "inst": "u-ferrara",
+   "from": 1503,
+   "to": 1503,
+   "approx": false,
+   "role": "doctorate in canon law",
+   "note": ""
+  },
+  {
+   "name": "Paracelsus",
+   "inst": "u-ferrara",
+   "from": 1515,
+   "to": 1516,
+   "approx": true,
+   "role": "claimed medical doctorate",
+   "note": "Doctorate unverified."
+  },
+  {
+   "name": "Erasmus of Rotterdam",
+   "inst": "u-turin",
+   "from": 1506,
+   "to": 1506,
+   "approx": false,
+   "role": "doctorate in theology",
+   "note": ""
+  },
+  {
+   "name": "Amedeo Avogadro",
+   "inst": "u-turin",
+   "from": 1820,
+   "to": 1850,
+   "approx": true,
+   "role": "taught mathematical physics",
+   "note": ""
+  },
+  {
+   "name": "Cesare Lombroso",
+   "inst": "u-turin",
+   "from": 1876,
+   "to": 1909,
+   "approx": false,
+   "role": "taught legal medicine",
+   "note": ""
+  },
+  {
+   "name": "Giuseppe Peano",
+   "inst": "u-turin",
+   "from": 1880,
+   "to": 1932,
+   "approx": false,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Joseph-Louis Lagrange",
+   "inst": "t-turin-artillery",
+   "from": 1755,
+   "to": 1766,
+   "approx": false,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Galileo Ferraris",
+   "inst": "t-turin-museo",
+   "from": 1869,
+   "to": 1897,
+   "approx": true,
+   "role": "taught technical physics and electrotechnics",
+   "note": ""
+  },
+  {
+   "name": "Giuseppe Mazzini",
+   "inst": "u-genoa",
+   "from": 1822,
+   "to": 1827,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Ruggero Giuseppe Boscovich",
+   "inst": "j-milan-brera",
+   "from": 1764,
+   "to": 1773,
+   "approx": true,
+   "role": "taught mathematics and founded the observatory",
+   "note": ""
+  },
+  {
+   "name": "Francesco Brioschi",
+   "inst": "t-milan-politecnico",
+   "from": 1863,
+   "to": 1897,
+   "approx": false,
+   "role": "founded and directed",
+   "note": ""
+  },
+  {
+   "name": "Giuseppe Colombo",
+   "inst": "t-milan-politecnico",
+   "from": 1863,
+   "to": 1921,
+   "approx": true,
+   "role": "taught mechanics",
+   "note": ""
+  },
+  {
+   "name": "Francesco Ferrara",
+   "inst": "t-venice-cafoscari",
+   "from": 1868,
+   "to": 1900,
+   "approx": false,
+   "role": "director",
+   "note": ""
+  },
+  {
+   "name": "Francesco Maurolico",
+   "inst": "u-messina",
+   "from": 1569,
+   "to": 1575,
+   "approx": true,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Alfonso Borelli",
+   "inst": "u-messina",
+   "from": 1635,
+   "to": 1656,
+   "approx": true,
+   "role": "taught mathematics",
+   "note": ""
+  },
+  {
+   "name": "Marcello Malpighi",
+   "inst": "u-messina",
+   "from": 1662,
+   "to": 1666,
+   "approx": false,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Giuseppe Piazzi",
+   "inst": "u-palermo",
+   "from": 1781,
+   "to": 1826,
+   "approx": true,
+   "role": "taught mathematics and astronomy",
+   "note": ""
+  },
+  {
+   "name": "Stanislao Cannizzaro",
+   "inst": "u-palermo",
+   "from": 1861,
+   "to": 1871,
+   "approx": false,
+   "role": "taught chemistry",
+   "note": ""
+  }
+ ]
+}

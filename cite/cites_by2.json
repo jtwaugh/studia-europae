@@ -1,0 +1,2211 @@
+{
+ "group": "by2",
+ "sources": {
+  "by2-001": {
+   "title": "Abbey of Monte Cassino",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/10526b.htm",
+   "tier": 2
+  },
+  "by2-002": {
+   "title": "Monte Cassino",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Monte-Cassino",
+   "tier": 2
+  },
+  "by2-003": {
+   "title": "Abbey and School of Clonmacnoise",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/04065a.htm",
+   "tier": 2
+  },
+  "by2-004": {
+   "title": "School of Iona",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/08090a.htm",
+   "tier": 2
+  },
+  "by2-005": {
+   "title": "St. Columba",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/04136a.htm",
+   "tier": 2
+  },
+  "by2-006": {
+   "title": "Abbey and Diocese of Bobbio",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/02605b.htm",
+   "tier": 2
+  },
+  "by2-007": {
+   "title": "The School of Armagh",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01734a.htm",
+   "tier": 2
+  },
+  "by2-008": {
+   "title": "Monastery of Corbie",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/04355d.htm",
+   "tier": 2
+  },
+  "by2-009": {
+   "title": "Carolingian Schools",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/03349c.htm",
+   "tier": 2
+  },
+  "by2-010": {
+   "title": "Alcuin",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01276a.htm",
+   "tier": 2
+  },
+  "by2-011": {
+   "title": "Reichenau",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/12723a.htm",
+   "tier": 2
+  },
+  "by2-012": {
+   "title": "Fulda",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06313b.htm",
+   "tier": 2
+  },
+  "by2-013": {
+   "title": "Blessed Maurus Magnentius Rabanus",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/12617a.htm",
+   "tier": 2
+  },
+  "by2-014": {
+   "title": "Dungal",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/05192b.htm",
+   "tier": 2
+  },
+  "by2-015": {
+   "title": "Paul the Deacon",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/11591b.htm",
+   "tier": 2
+  },
+  "by2-016": {
+   "title": "Walafrid Strabo",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/15526a.htm",
+   "tier": 2
+  },
+  "by2-017": {
+   "title": "Lupus Servatus",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/09436b.htm",
+   "tier": 2
+  },
+  "by2-018": {
+   "title": "John Scottus Eriugena",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/scottus-eriugena/",
+   "tier": 2
+  },
+  "by2-019": {
+   "title": "Timeline of the Abbey of St Gall",
+   "publisher": "Stiftsbezirk St. Gallen",
+   "url": "https://www.stiftsbezirk.ch/userdata/Stiftsbezirk/Eintauchen/Geschichte/zeitstrahl-en.pdf",
+   "tier": 1
+  },
+  "by2-020": {
+   "title": "Saint Theodore of Canterbury",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Saint-Theodore-of-Canterbury",
+   "tier": 2
+  },
+  "by2-021": {
+   "title": "Dungal (Dizionario Biografico degli Italiani)",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/dungal_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "by2-022": {
+   "title": "Scuola (Enciclopedia Italiana)",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/scuola_(Enciclopedia-Italiana)/",
+   "tier": 2
+  },
+  "by2-023": {
+   "title": "Alcuin",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Alcuin",
+   "tier": 2
+  },
+  "by2-024": {
+   "title": "Egbert, Archbishop of York",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/05326a.htm",
+   "tier": 2
+  },
+  "by2-025": {
+   "title": "Einhard",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Einhard",
+   "tier": 2
+  },
+  "by2-026": {
+   "title": "Peter of Pisa (New Catholic Encyclopedia)",
+   "publisher": "Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/peter-pisa",
+   "tier": 2
+  },
+  "by2-027": {
+   "title": "Pope Sylvester II",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/14371a.htm",
+   "tier": 2
+  },
+  "by2-028": {
+   "title": "Lanfranc",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Lanfranc",
+   "tier": 2
+  },
+  "by2-029": {
+   "title": "Saint Anselm",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/anselm/",
+   "tier": 2
+  },
+  "by2-030": {
+   "title": "Peter Abelard",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/abelard/",
+   "tier": 2
+  },
+  "by2-031": {
+   "title": "Diocese of Chartres",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/03635a.htm",
+   "tier": 2
+  },
+  "by2-032": {
+   "title": "Canterbury",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/03299b.htm",
+   "tier": 2
+  },
+  "by2-033": {
+   "title": "Abbey of Bec",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/02379b.htm",
+   "tier": 2
+  },
+  "by2-034": {
+   "title": "St. Bernward",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/02513a.htm",
+   "tier": 2
+  },
+  "by2-035": {
+   "title": "Archdiocese of Bamberg",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/02242c.htm",
+   "tier": 2
+  },
+  "by2-036": {
+   "title": "Hugh of St. Victor",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/07521c.htm",
+   "tier": 2
+  },
+  "by2-037": {
+   "title": "Hucbald",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/07510b.htm",
+   "tier": 2
+  },
+  "by2-038": {
+   "title": "St. Adalbert",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01127c.htm",
+   "tier": 2
+  },
+  "by2-039": {
+   "title": "Aelfric, Abbot of Eynsham",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01171b.htm",
+   "tier": 2
+  },
+  "by2-040": {
+   "title": "Hermann Contractus",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/07266a.htm",
+   "tier": 2
+  },
+  "by2-041": {
+   "title": "St. Benedict of Aniane",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/02467a.htm",
+   "tier": 2
+  },
+  "by2-042": {
+   "title": "Schools",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/13554b.htm",
+   "tier": 2
+  },
+  "by2-043": {
+   "title": "Archdiocese of Reims",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/12725a.htm",
+   "tier": 2
+  },
+  "by2-044": {
+   "title": "Remigius of Auxerre",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/12764a.htm",
+   "tier": 2
+  },
+  "by2-045": {
+   "title": "Diocese of Liège",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/09236a.htm",
+   "tier": 2
+  },
+  "by2-046": {
+   "title": "Sedulius Scottus",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/13680b.htm",
+   "tier": 2
+  },
+  "by2-047": {
+   "title": "St. Gregory of Utrecht",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/07021a.htm",
+   "tier": 2
+  },
+  "by2-048": {
+   "title": "Ramsey Abbey",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/12638a.htm",
+   "tier": 2
+  },
+  "by2-049": {
+   "title": "St. Ethelwold",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/05555b.htm",
+   "tier": 2
+  },
+  "by2-050": {
+   "title": "Gerard of Cremona",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06468a.htm",
+   "tier": 2
+  },
+  "by2-051": {
+   "title": "Roskilde, Ancient See of",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/16071c.htm",
+   "tier": 2
+  },
+  "by2-052": {
+   "title": "Ribe, Ancient See of",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/16070b.htm",
+   "tier": 2
+  },
+  "by2-053": {
+   "title": "Trondhjem, Ancient See of",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/15064a.htm",
+   "tier": 2
+  },
+  "by2-054": {
+   "title": "Archdiocese of Gran",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06721b.htm",
+   "tier": 2
+  },
+  "by2-055": {
+   "title": "Archdiocese of Gnesen-Posen",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06590b.htm",
+   "tier": 2
+  },
+  "by2-056": {
+   "title": "Third Lateran Council (1179)",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/09017b.htm",
+   "tier": 2
+  },
+  "by2-057": {
+   "title": "Fourth Lateran Council (1215)",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/09018a.htm",
+   "tier": 2
+  },
+  "by2-058": {
+   "title": "Abbey of Saint-Victor",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/13388a.htm",
+   "tier": 2
+  },
+  "by2-059": {
+   "title": "Theodulf",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/14579b.htm",
+   "tier": 2
+  },
+  "by2-060": {
+   "title": "St. Theodore of Canterbury",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/14571a.htm",
+   "tier": 2
+  },
+  "by2-061": {
+   "title": "John Scotus Eriugena",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/05519a.htm",
+   "tier": 2
+  },
+  "by2-062": {
+   "title": "Einhard",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/05366b.htm",
+   "tier": 2
+  },
+  "by2-063": {
+   "title": "Ekkehard",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/05370a.htm",
+   "tier": 2
+  },
+  "by2-064": {
+   "title": "Theodoric (Thierry) of Chartres",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/14575a.htm",
+   "tier": 2
+  },
+  "by2-065": {
+   "title": "Berengarius of Tours",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/02487a.htm",
+   "tier": 2
+  },
+  "by2-066": {
+   "title": "Archdiocese of Tours",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/15002a.htm",
+   "tier": 2
+  },
+  "by2-067": {
+   "title": "Walafrid Strabo",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Walafrid-Strabo",
+   "tier": 2
+  },
+  "by2-068": {
+   "title": "Gottschalk of Orbais",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Gottschalk-of-Orbais",
+   "tier": 2
+  },
+  "by2-069": {
+   "title": "Trondheim katedralskole",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Trondheim_katedralskole",
+   "tier": 2
+  },
+  "by2-070": {
+   "title": "Katedralskole",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/katedralskole",
+   "tier": 2
+  },
+  "by2-071": {
+   "title": "Árpád-kori székesegyházi iskola, Veszprém (local heritage register proposal)",
+   "publisher": "Veszprémi Szemle Várostörténeti Alapítvány / City of Veszprém",
+   "url": "https://veszprem.hu/wp-content/uploads/2023/11/3_2015_Arpad-kori_szekesegyhazi_iskola.pdf",
+   "tier": 2
+  },
+  "by2-072": {
+   "title": "Skálholt",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Skálholt",
+   "tier": 2
+  },
+  "by2-073": {
+   "title": "Hólar",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Hólar",
+   "tier": 2
+  },
+  "by2-074": {
+   "title": "Millenary Benedictine Abbey of Pannonhalma",
+   "publisher": "UNESCO World Heritage Centre",
+   "url": "https://whc.unesco.org/en/list/758",
+   "tier": 2
+  },
+  "by2-075": {
+   "title": "Adalbert von Prag (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz165.html",
+   "tier": 2
+  },
+  "by2-077": {
+   "title": "Monestir de Ripoll",
+   "publisher": "Gran Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/monestir-de-ripoll",
+   "tier": 2
+  },
+  "by2-078": {
+   "title": "Ató",
+   "publisher": "Gran Enciclopèdia Catalana",
+   "url": "https://www.enciclopedia.cat/gran-enciclopedia-catalana/ato",
+   "tier": 2
+  },
+  "by2-079": {
+   "title": "Leidrad (NDB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz49987.html",
+   "tier": 2
+  },
+  "by2-080": {
+   "title": "Saint Bruno the Great",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/82275",
+   "tier": 2
+  },
+  "by2-081": {
+   "title": "Asser",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01798a.htm",
+   "tier": 2
+  },
+  "by2-082": {
+   "title": "Asser",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Asser",
+   "tier": 2
+  },
+  "by2-083": {
+   "title": "Notker",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/11125b.htm",
+   "tier": 2
+  },
+  "by2-084": {
+   "title": "St. Abbo of Fleury",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01015b.htm",
+   "tier": 2
+  },
+  "by2-085": {
+   "title": "Peter Lombard",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/11768d.htm",
+   "tier": 2
+  },
+  "by2-086": {
+   "title": "Anselm of Laon",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01550b.htm",
+   "tier": 2
+  },
+  "by2-087": {
+   "title": "William of Conches",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/15632b.htm",
+   "tier": 2
+  },
+  "by2-088": {
+   "title": "Ivar the Boneless",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/2112772",
+   "tier": 2
+  },
+  "by2-089": {
+   "title": "Lunds domkyrka: historisk översikt",
+   "publisher": "Svenska kyrkan, Lunds domkyrka",
+   "url": "https://www.svenskakyrkan.se/lund/lundsdomkyrka/historisk-oversikt",
+   "tier": 1
+  },
+  "by2-090": {
+   "title": "Jón Arason",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Jón_Arason",
+   "tier": 2
+  },
+  "by2-091": {
+   "title": "Menntaskólinn í Reykjavík",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Menntask%C3%B3linn_%C3%AD_Reykjav%C3%ADk",
+   "tier": 3
+  },
+  "by2-092": {
+   "title": "Siege of Esztergom (1242)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Siege_of_Esztergom_(1242)",
+   "tier": 3
+  },
+  "by2-093": {
+   "title": "Břetislav I",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Bretislav-I",
+   "tier": 2
+  }
+ },
+ "institutions": {
+  "c-monte-cassino": {
+   "src": [
+    "by2-001",
+    "by2-002"
+   ],
+   "fix": {},
+   "note": "The Saracen sack was in 884; the community returned in 949."
+  },
+  "c-clonmacnoise": {
+   "src": [
+    "by2-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-iona": {
+   "src": [
+    "by2-004",
+    "by2-005"
+   ],
+   "fix": {},
+   "note": "The primacy and Columba's relics moved to Kells about 814."
+  },
+  "c-bobbio": {
+   "src": [
+    "by2-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-armagh": {
+   "src": [
+    "by2-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-corbie": {
+   "src": [
+    "by2-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-canterbury": {
+   "src": [
+    "by2-020",
+    "by2-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-st-gall": {
+   "src": [
+    "by2-019",
+    "by2-063"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-reichenau": {
+   "src": [
+    "by2-011",
+    "by2-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-york": {
+   "src": [
+    "by2-024",
+    "by2-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-fulda": {
+   "src": [
+    "by2-012",
+    "by2-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-utrecht": {
+   "src": [
+    "by2-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "p-aachen": {
+   "src": [
+    "by2-009",
+    "by2-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-tours": {
+   "src": [
+    "by2-066",
+    "by2-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-lyon": {
+   "src": [
+    "by2-079"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-orleans": {
+   "src": [
+    "by2-059",
+    "by2-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-corvey": {
+   "src": [
+    "by2-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-pavia": {
+   "src": [
+    "by2-021",
+    "by2-022",
+    "by2-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-ivrea": {
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-turin": {
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-cremona": {
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-florence": {
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-verona": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-vicenza": {
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-cividale": {
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-fermo": {
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-ferrieres": {
+   "src": [
+    "by2-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-auxerre": {
+   "src": [
+    "by2-044"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "p-compiegne": {
+   "src": [
+    "by2-009",
+    "by2-061",
+    "by2-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-laon": {
+   "src": [
+    "by2-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-liege": {
+   "src": [
+    "by2-045",
+    "by2-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-ripoll": {
+   "src": [
+    "by2-077"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "p-winchester": {
+   "src": [
+    "by2-082",
+    "by2-081"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-reims": {
+   "src": [
+    "by2-027",
+    "by2-037",
+    "by2-044",
+    "by2-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-fleury": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "p-aachen-ottonian": {
+   "src": [
+    "by2-080"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-cologne": {
+   "src": [
+    "by2-080"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-winchester": {
+   "src": [
+    "by2-049",
+    "by2-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-vic": {
+   "src": [
+    "by2-027",
+    "by2-078"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-magdeburg": {
+   "src": [
+    "by2-038",
+    "by2-075"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-ramsey": {
+   "src": [
+    "by2-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-hildesheim": {
+   "src": [
+    "by2-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-chartres": {
+   "src": [
+    "by2-031",
+    "by2-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-pannonhalma": {
+   "src": [
+    "by2-074"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-wurzburg": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-esztergom": {
+   "src": [
+    "by2-054",
+    "by2-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-gniezno": {
+   "src": [
+    "by2-055",
+    "by2-093"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-prague": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-bamberg": {
+   "src": [
+    "by2-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-roskilde": {
+   "src": [
+    "by2-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-bec": {
+   "src": [
+    "by2-033",
+    "by2-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-skalholt": {
+   "src": [
+    "by2-072",
+    "by2-091"
+   ],
+   "fix": {},
+   "note": "The school moved to Reykjavík, where it reopened in 1786."
+  },
+  "c-lund": {
+   "src": [
+    "by2-089"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-paris-notre-dame": {
+   "src": [
+    "by2-058",
+    "by2-030"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-santiago": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-krakow": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-holar": {
+   "src": [
+    "by2-073"
+   ],
+   "fix": {
+    "end": 1801
+   },
+   "note": "The Latin school and the see of Hólar were abolished in 1801."
+  },
+  "c-paris-st-victor": {
+   "src": [
+    "by2-058",
+    "by2-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-paris-ste-genevieve": {
+   "src": [
+    "by2-030"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-toledo": {
+   "src": [
+    "by2-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-ribe": {
+   "src": [
+    "by2-052"
+   ],
+   "fix": {
+    "start_approx": false
+   },
+   "note": "The Catholic Encyclopedia gives 1145 as the founding year."
+  },
+  "c-nidaros": {
+   "src": [
+    "by2-053",
+    "by2-069",
+    "by2-070"
+   ],
+   "fix": {},
+   "note": "Founded about 1153 by Nicholas Breakspear."
+  },
+  "c-veszprem": {
+   "src": [
+    "by2-071"
+   ],
+   "fix": {},
+   "note": "Probably active from the 11th century; documented continuously only up to its destruction in 1276."
+  }
+ },
+ "events": {
+  "c-monte-cassino-529-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-001",
+    "by2-002"
+   ],
+   "fix": {},
+   "note": "Britannica gives 529; the Catholic Encyclopedia says Benedict left Subiaco about 529."
+  },
+  "c-clonmacnoise-544-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-003"
+   ],
+   "fix": {},
+   "note": "Founded 23 January 544 according to the Catholic Encyclopedia."
+  },
+  "c-iona-563-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-004",
+    "by2-005"
+   ],
+   "fix": {},
+   "note": "Columba landed on Iona on 12 May 563."
+  },
+  "c-bobbio-614-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-armagh-650-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-007"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia traces the school back to the founding of the see (probably 457), so 650 is a conservative date."
+  },
+  "c-corbie-657-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-canterbury-669-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-020",
+    "by2-060"
+   ],
+   "fix": {},
+   "note": "Theodore and Hadrian reached Canterbury in 669."
+  },
+  "c-st-gall-719-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-reichenau-724-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-011"
+   ],
+   "fix": {},
+   "note": "Pirmin is confirmed as the founder; the year 724 was not confirmed in the sources consulted."
+  },
+  "c-york-735-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-024",
+    "by2-010"
+   ],
+   "fix": {},
+   "note": "Egbert received the pallium in 735 and founded the school and library; no exact year is given."
+  },
+  "c-fulda-744-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-012"
+   ],
+   "fix": {},
+   "note": "Sturm took possession of the site on 12 March 744."
+  },
+  "c-utrecht-750-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-047"
+   ],
+   "fix": {},
+   "note": "Gregory became abbot of St Martin's, Utrecht, about 750, and his abbey school served as a missionary seminary."
+  },
+  "p-aachen-782-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-009",
+    "by2-010"
+   ],
+   "fix": {},
+   "note": "Alcuin met Charlemagne at Parma in 781 and joined the court in 782."
+  },
+  "c-tours-796-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-010",
+    "by2-023",
+    "by2-066"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-lyon-798-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-079"
+   ],
+   "fix": {},
+   "note": "Leidrad was bishop of Lyon from 799 to 813 and founded schools and libraries to train the clergy. He was already destined for the see in 798."
+  },
+  "c-orleans-798-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-059",
+    "by2-009"
+   ],
+   "fix": {},
+   "note": "Theodulf became bishop about 798. The Catholic Encyclopedia dates his decree on schools in every town and village to 797."
+  },
+  "c-iona-806-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by2-004"
+   ],
+   "fix": {},
+   "note": "Sixty-eight monks were killed in 806. The primacy and Columba's relics were moved to Kells about 814."
+  },
+  "p-aachen-817-reform": {
+   "status": "unverified",
+   "src": [
+    "by2-041",
+    "by2-042"
+   ],
+   "fix": {},
+   "note": "The Aachen synods of 816–817 are confirmed, and separate inner schools for novices are attested at St Gall, Fulda and Reichenau. The rule limiting schools to oblates was not checked against a source."
+  },
+  "c-corvey-822-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-008"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia confirms Corvey was founded from Corbie but gives no year."
+  },
+  "c-fulda-822-reform": {
+   "status": "confirmed",
+   "src": [
+    "by2-012",
+    "by2-013"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-corbie-822-reform": {
+   "status": "unverified",
+   "src": [
+    "by2-008"
+   ],
+   "fix": {},
+   "note": "Corvey's founding from Corbie is confirmed; the year was not given in the source."
+  },
+  "c-pavia-825-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-021",
+    "by2-022",
+    "by2-014"
+   ],
+   "fix": {},
+   "note": "Treccani lists the school seats as Turin, Ivrea, Pavia, Cremona, Florence, Fermo, Vicenza and Cividale; Verona is not in that list."
+  },
+  "c-ivrea-825-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-turin-825-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-cremona-825-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-florence-825-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-verona-825-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": "Verona is missing from Treccani's list of the 825 capitulary's school seats; not independently confirmed."
+  },
+  "c-vicenza-825-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-cividale-825-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-fermo-825-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-fulda-829-confessional": {
+   "status": "confirmed",
+   "src": [
+    "by2-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-armagh-832-destruction": {
+   "status": "unverified",
+   "src": [
+    "by2-007"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia records nine plunderings, mostly by Danes, in the 9th and 10th centuries, but not this specific raid."
+  },
+  "c-reichenau-838-reform": {
+   "status": "confirmed",
+   "src": [
+    "by2-016",
+    "by2-067"
+   ],
+   "fix": {},
+   "note": "The Reichenau article gives his abbacy as 839–849. He was expelled in 839 and restored in 842."
+  },
+  "c-ferrieres-840-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-017"
+   ],
+   "fix": {},
+   "note": "Named abbot on 22 November 840."
+  },
+  "c-auxerre-840-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "p-aachen-840-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "p-compiegne-843-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-009",
+    "by2-061"
+   ],
+   "fix": {},
+   "note": "Eriugena arrived at the court of Charles the Bald about 847 and headed the palace school."
+  },
+  "c-clonmacnoise-845-destruction": {
+   "status": "unverified",
+   "src": [
+    "by2-003"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia mentions Danish attacks in the 9th and 10th centuries but not Turgesius or 845."
+  },
+  "c-laon-850-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-009"
+   ],
+   "fix": {},
+   "note": "Irish masters (Elias) are recorded at Laon under Charles the Bald; Martin Hiberniensis was not checked."
+  },
+  "c-liege-850-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-046",
+    "by2-009"
+   ],
+   "fix": {},
+   "note": "Sedulius was at Liège under Lothair I (840–855) and flourished 840–860."
+  },
+  "c-tours-853-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by2-066"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia records Viking inroads from 853 and the removal of St Martin's relics to Auxerre that year."
+  },
+  "c-utrecht-857-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-york-866-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by2-088"
+   ],
+   "fix": {},
+   "note": "The Vikings captured York in 866."
+  },
+  "p-compiegne-877-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-ripoll-879-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-077"
+   ],
+   "fix": {},
+   "note": "Founded about 879; the first church was consecrated in 888."
+  },
+  "c-monte-cassino-883-destruction": {
+   "status": "corrected",
+   "src": [
+    "by2-001",
+    "by2-002"
+   ],
+   "fix": {
+    "year": 884
+   },
+   "note": "The Saracens sacked the abbey in 884; the community returned from Teano in 949."
+  },
+  "p-winchester-886-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-082",
+    "by2-081"
+   ],
+   "fix": {},
+   "note": "Alfred summoned Asser in about 885–886; Grimbald and John the Old Saxon were not checked."
+  },
+  "p-winchester-890-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-reims-893-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-037",
+    "by2-044"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia says that in 892 Hucbald and Remigius re-established the old church schools of the diocese of Reims."
+  },
+  "c-st-gall-926-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by2-019"
+   ],
+   "fix": {},
+   "note": "The Magyar raid of 926 is confirmed; the evacuation of the library to Reichenau was not checked."
+  },
+  "c-fleury-930-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Odo of Cluny's reforms date from 931 onwards; his work at Fleury was not dated in the sources checked."
+  },
+  "c-st-gall-937-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by2-019",
+    "by2-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "p-aachen-ottonian-940-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-080"
+   ],
+   "fix": {},
+   "note": "Bruno became his brother's chancellor in 940. He had himself been educated at Otto's court school."
+  },
+  "c-cologne-953-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-080"
+   ],
+   "fix": {},
+   "note": "Bruno was elected to the see of Cologne in 953."
+  },
+  "c-winchester-963-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-049"
+   ],
+   "fix": {},
+   "note": "Consecrated 29 November 963; he replaced the secular clergy with monks."
+  },
+  "c-vic-967-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-027"
+   ],
+   "fix": {},
+   "note": "Gerbert was taken to Spain by a count and taught chiefly by Bishop Hatto; the source gives no year."
+  },
+  "c-magdeburg-968-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-075"
+   ],
+   "fix": {},
+   "note": "Adalbert of Prague studied at the Magdeburg cathedral school from 969/972, so the school existed by then."
+  },
+  "c-ramsey-969-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-048"
+   ],
+   "fix": {},
+   "note": "Founded in 969 by Æthelwine with Oswald's encouragement."
+  },
+  "c-hildesheim-970-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-034"
+   ],
+   "fix": {},
+   "note": "Bernward was taught by Thangmar; the Catholic Encyclopedia places the school elsewhere, which is probably an error."
+  },
+  "c-reims-972-reform": {
+   "status": "confirmed",
+   "src": [
+    "by2-027"
+   ],
+   "fix": {},
+   "note": "Archbishop Adalbero made Gerbert a teacher in the cathedral school. The details of his teaching methods were not checked."
+  },
+  "c-liege-972-reform": {
+   "status": "confirmed",
+   "src": [
+    "by2-045"
+   ],
+   "fix": {},
+   "note": "Notger was bishop from 972 to 1008."
+  },
+  "c-chartres-990-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-031"
+   ],
+   "fix": {},
+   "note": "Fulbert is confirmed as teacher and bishop (1007–1029); the start date of c. 990 was not checked."
+  },
+  "c-pannonhalma-996-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-074"
+   ],
+   "fix": {},
+   "note": "UNESCO credits the monks with founding the country's first school."
+  },
+  "c-wurzburg-1000-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-esztergom-1000-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-054"
+   ],
+   "fix": {},
+   "note": "Stephen I raised Gran (Esztergom) to a metropolitan see about 1000."
+  },
+  "c-gniezno-1000-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-prague-1000-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-bamberg-1007-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-035"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia confirms Henry II founded the see, with papal confirmation in 1008, but it does not mention a cathedral school."
+  },
+  "c-canterbury-1011-destruction": {
+   "status": "unverified",
+   "src": [
+    "by2-032"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia records that the Danes murdered Ælfheah in 1012; the sack of 1011 was not checked."
+  },
+  "c-roskilde-1020-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-051"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia mentions only schools founded by Bishop Jacob Erlandsen (1249–1254)."
+  },
+  "c-gniezno-1038-destruction": {
+   "status": "unverified",
+   "src": [
+    "by2-093"
+   ],
+   "fix": {},
+   "note": "Britannica confirms Břetislav captured Gniezno but gives no year."
+  },
+  "c-bec-1045-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-033",
+    "by2-028"
+   ],
+   "fix": {},
+   "note": "Lanfranc came to Bec about 1042 and opened a school there within a few years."
+  },
+  "c-tours-1050-confessional": {
+   "status": "confirmed",
+   "src": [
+    "by2-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-skalholt-1056-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-072",
+    "by2-091"
+   ],
+   "fix": {},
+   "note": "Ísleifur became Iceland's first bishop with his seat at Skálholt in 1056; the school there traces its origin to that year."
+  },
+  "c-reims-1079-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-lund-1085-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-089"
+   ],
+   "fix": {},
+   "note": "Canute IV's gift charter to Lund cathedral is dated 21 May 1085; whether it mentions a school was not confirmed."
+  },
+  "c-paris-notre-dame-1100-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-058",
+    "by2-030"
+   ],
+   "fix": {},
+   "note": "William of Champeaux, archdeacon of Notre-Dame, was teaching in Paris before he withdrew in 1108."
+  },
+  "c-santiago-1100-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-krakow-1100-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-holar-1106-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-073"
+   ],
+   "fix": {},
+   "note": "The see was founded in 1106 with Jón Ögmundsson as its first bishop, and Hólar became a centre of learning."
+  },
+  "c-paris-st-victor-1108-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-paris-ste-genevieve-1110-founding": {
+   "status": "unverified",
+   "src": [
+    "by2-030"
+   ],
+   "fix": {},
+   "note": "The Stanford Encyclopedia confirms Abelard taught on the Mont only in the mid-1130s."
+  },
+  "c-laon-1112-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-paris-st-victor-1113-charter": {
+   "status": "unverified",
+   "src": [
+    "by2-058"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia says the abbey was richly endowed by kings but does not date a foundation by Louis VI."
+  },
+  "c-toledo-1130-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-050"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia says translators at Toledo worked under the direction of Raymond."
+  },
+  "c-ribe-1145-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-052"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia states the school was founded in 1145."
+  },
+  "c-nidaros-1152-founding": {
+   "status": "confirmed",
+   "src": [
+    "by2-069",
+    "by2-070"
+   ],
+   "fix": {},
+   "note": "Founded about 1153 by Cardinal Nicholas Breakspear; first mentioned in writing 1211–1217."
+  },
+  "c-armagh-1169-charter": {
+   "status": "confirmed",
+   "src": [
+    "by2-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-chartres-1179-reform": {
+   "status": "confirmed",
+   "src": [
+    "by2-056",
+    "by2-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-chartres-1194-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by2-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-veszprem-1200-founding": {
+   "status": "doubtful",
+   "src": [
+    "by2-071"
+   ],
+   "fix": {},
+   "note": "The school probably already existed in the 11th century, but it is documented only by scattered references before 1276."
+  },
+  "c-krakow-1215-reform": {
+   "status": "confirmed",
+   "src": [
+    "by2-057"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-esztergom-1241-destruction": {
+   "status": "corrected",
+   "src": [
+    "by2-092"
+   ],
+   "fix": {
+    "year": 1242
+   },
+   "note": "The Mongols assaulted Esztergom in January 1242. They plundered the town, but the citadel held."
+  },
+  "c-veszprem-1276-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by2-071"
+   ],
+   "fix": {},
+   "note": "A royal charter of 18 November 1276 records that the liberal arts had been taught there with distinction until then."
+  },
+  "c-lund-1536-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "c-roskilde-1536-confessional": {
+   "status": "unverified",
+   "src": [
+    "by2-051"
+   ],
+   "fix": {},
+   "note": "The bishop was imprisoned in 1536; the fate of the school is not covered."
+  },
+  "c-ribe-1536-confessional": {
+   "status": "unverified",
+   "src": [
+    "by2-052"
+   ],
+   "fix": {},
+   "note": "The bishop was imprisoned in August 1536; the fate of the school is not covered."
+  },
+  "c-nidaros-1537-confessional": {
+   "status": "confirmed",
+   "src": [
+    "by2-070"
+   ],
+   "fix": {},
+   "note": "After the Reformation of 1536/1537 the cathedral schools gradually lost their clerical character."
+  },
+  "c-holar-1551-confessional": {
+   "status": "unverified",
+   "src": [
+    "by2-090"
+   ],
+   "fix": {},
+   "note": "Jón Arason, the last Catholic bishop, was executed in 1550; the year Hólar turned Lutheran was not given."
+  },
+  "c-skalholt-1552-confessional": {
+   "status": "doubtful",
+   "src": [
+    "by2-090"
+   ],
+   "fix": {},
+   "note": "Skálholt received a Lutheran bishop a few years after the 1537 church ordinance. Resistance ended with Jón Arason's execution in 1550."
+  },
+  "c-skalholt-1784-destruction": {
+   "status": "confirmed",
+   "src": [
+    "by2-072"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-skalholt-1785-suppression": {
+   "status": "doubtful",
+   "src": [
+    "by2-072",
+    "by2-091"
+   ],
+   "fix": {},
+   "note": "The school reopened in Reykjavík in 1786, and the Skálholt see was formally discontinued in 1796."
+  },
+  "c-holar-1802-suppression": {
+   "status": "corrected",
+   "src": [
+    "by2-073"
+   ],
+   "fix": {
+    "year": 1801
+   },
+   "note": "Store norske leksikon dates the end of the Hólar Latin school, and the abolition of the see, to 1801."
+  }
+ },
+ "thinkers": {
+  "th990": {
+   "status": "confirmed",
+   "src": [
+    "by2-010"
+   ],
+   "fix": {},
+   "note": "Educated in the school as a child; directed it from 767."
+  },
+  "th991": {
+   "status": "confirmed",
+   "src": [
+    "by2-010",
+    "by2-009",
+    "by2-023"
+   ],
+   "fix": {},
+   "note": "Joined the court in 782, with visits to England in 786 and 790."
+  },
+  "th992": {
+   "status": "confirmed",
+   "src": [
+    "by2-010",
+    "by2-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th993": {
+   "status": "confirmed",
+   "src": [
+    "by2-025",
+    "by2-062"
+   ],
+   "fix": {},
+   "note": "Sent to the palace school in 791; withdrew to Seligenstadt in 830."
+  },
+  "th994": {
+   "status": "confirmed",
+   "src": [
+    "by2-026"
+   ],
+   "fix": {},
+   "note": "Came to court probably after 774; died before 799."
+  },
+  "th995": {
+   "status": "confirmed",
+   "src": [
+    "by2-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th996": {
+   "status": "confirmed",
+   "src": [
+    "by2-015"
+   ],
+   "fix": {},
+   "note": "At Monte Cassino after 787; died probably in 799."
+  },
+  "th997": {
+   "status": "confirmed",
+   "src": [
+    "by2-059"
+   ],
+   "fix": {},
+   "note": "Bishop from about 798; deposed in 818."
+  },
+  "th998": {
+   "status": "confirmed",
+   "src": [
+    "by2-013"
+   ],
+   "fix": {},
+   "note": "Studied for about a year at Tours after his ordination as deacon in 801."
+  },
+  "th999": {
+   "status": "confirmed",
+   "src": [
+    "by2-013",
+    "by2-012"
+   ],
+   "fix": {},
+   "note": "Teacher and then head of the school (start date approximate); abbot from 822 to 842."
+  },
+  "th1000": {
+   "status": "confirmed",
+   "src": [
+    "by2-067",
+    "by2-016"
+   ],
+   "fix": {},
+   "note": "Studied under Hrabanus before becoming tutor to Charles the Bald in 829."
+  },
+  "th1001": {
+   "status": "confirmed",
+   "src": [
+    "by2-016",
+    "by2-067"
+   ],
+   "fix": {},
+   "note": "Exiled in 839 and restored in 842."
+  },
+  "th1002": {
+   "status": "confirmed",
+   "src": [
+    "by2-068"
+   ],
+   "fix": {},
+   "note": "Oblate at Fulda until a synod at Mainz released him in 829."
+  },
+  "th1003": {
+   "status": "confirmed",
+   "src": [
+    "by2-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th1004": {
+   "status": "confirmed",
+   "src": [
+    "by2-061",
+    "by2-018"
+   ],
+   "fix": {},
+   "note": "At court from about 847; probably died around 877."
+  },
+  "th1005": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th1006": {
+   "status": "confirmed",
+   "src": [
+    "by2-044",
+    "by2-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th1007": {
+   "status": "confirmed",
+   "src": [
+    "by2-083"
+   ],
+   "fix": {},
+   "note": "Born about 840 and died 912; chiefly a teacher at St Gall."
+  },
+  "th1008": {
+   "status": "confirmed",
+   "src": [
+    "by2-063"
+   ],
+   "fix": {},
+   "note": "Taught Ekkehard IV; died in 1022."
+  },
+  "th1009": {
+   "status": "confirmed",
+   "src": [
+    "by2-081",
+    "by2-082"
+   ],
+   "fix": {},
+   "note": "At Alfred's court from about 885–886; Alfred died in 899."
+  },
+  "th1010": {
+   "status": "confirmed",
+   "src": [
+    "by2-080"
+   ],
+   "fix": {},
+   "note": "Chancellor from 940; archbishop of Cologne from 953."
+  },
+  "th1011": {
+   "status": "confirmed",
+   "src": [
+    "by2-027"
+   ],
+   "fix": {},
+   "note": "The source gives no years."
+  },
+  "th1012": {
+   "status": "confirmed",
+   "src": [
+    "by2-027",
+    "by2-006"
+   ],
+   "fix": {},
+   "note": "Became abbot of Bobbio in 982 (983 in another Catholic Encyclopedia article)."
+  },
+  "th1013": {
+   "status": "unverified",
+   "src": [
+    "by2-084"
+   ],
+   "fix": {},
+   "note": "He succeeded Abbot Oilbold and died at Fleury on 13 November 1004; the source does not date the start of his abbacy."
+  },
+  "th1014": {
+   "status": "unverified",
+   "src": [
+    "by2-084"
+   ],
+   "fix": {},
+   "note": "He directed the school at Ramsey before returning to Fleury; no years are given in the source."
+  },
+  "th1015": {
+   "status": "confirmed",
+   "src": [
+    "by2-031"
+   ],
+   "fix": {},
+   "note": "Bishop 1007–1028; the Catholic Encyclopedia gives his death as 1029."
+  },
+  "th1017": {
+   "status": "confirmed",
+   "src": [
+    "by2-033",
+    "by2-028"
+   ],
+   "fix": {},
+   "note": "Arrived at Bec about 1042; became abbot of Caen in 1062–1063."
+  },
+  "th1018": {
+   "status": "confirmed",
+   "src": [
+    "by2-028",
+    "by2-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th1019": {
+   "status": "confirmed",
+   "src": [
+    "by2-029",
+    "by2-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th1020": {
+   "status": "doubtful",
+   "src": [
+    "by2-086"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia has him teaching in Paris from 1076 and founding his school at Laon only around 1100; he died on 15 July 1117."
+  },
+  "th1021": {
+   "status": "confirmed",
+   "src": [
+    "by2-030"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th1022": {
+   "status": "confirmed",
+   "src": [
+    "by2-030"
+   ],
+   "fix": {},
+   "note": "Scholar at Notre-Dame after Laon until the Heloise affair."
+  },
+  "th1023": {
+   "status": "unverified",
+   "src": [
+    "by2-030"
+   ],
+   "fix": {},
+   "note": "Teaching on the Mont is confirmed only for the mid-1130s, and it was not continuous."
+  },
+  "th1024": {
+   "status": "corrected",
+   "src": [
+    "by2-036"
+   ],
+   "fix": {
+    "from": 1115
+   },
+   "note": "Arrived at St Victor about 1115; head of the school from 1133; died 1141."
+  },
+  "th1025": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th1026": {
+   "status": "confirmed",
+   "src": [
+    "by2-064"
+   ],
+   "fix": {},
+   "note": "Head of the school in 1121, taught in Paris for a time, back at Chartres by 1141, died about 1150."
+  },
+  "th1027": {
+   "status": "unverified",
+   "src": [
+    "by2-087"
+   ],
+   "fix": {},
+   "note": "He studied under Bernard of Chartres and taught in Paris; his teaching years at Chartres and his death date are uncertain."
+  },
+  "th1028": {
+   "status": "confirmed",
+   "src": [
+    "by2-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th1029": {
+   "status": "confirmed",
+   "src": [
+    "by2-085"
+   ],
+   "fix": {},
+   "note": "In Paris by about 1136; professor at Notre-Dame by about 1145–1151; bishop of Paris in 1158/1159."
+  },
+  "th1030": {
+   "status": "unverified",
+   "src": [
+    "by2-050"
+   ],
+   "fix": {},
+   "note": "He died at Cremona in 1187; the dates of his stay in Toledo were not given."
+  },
+  "th1031": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th1032": {
+   "status": "unverified",
+   "src": [
+    "by2-072"
+   ],
+   "fix": {},
+   "note": "He became bishop at Skálholt in 1056; his death year was not checked."
+  },
+  "th1033": {
+   "status": "confirmed",
+   "src": [
+    "by2-014",
+    "by2-021"
+   ],
+   "fix": {},
+   "note": "Appointed master at Pavia in 825; still there in 827."
+  }
+ }
+}

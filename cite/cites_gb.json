@@ -1,0 +1,4711 @@
+{
+ "group": "gb",
+ "sources": {
+  "gb-001": {
+   "title": "The University of Oxford (VCH Oxfordshire vol. 3)",
+   "publisher": "British History Online",
+   "url": "https://www.british-history.ac.uk/vch/oxon/vol3/pp1-38",
+   "tier": 2
+  },
+  "gb-002": {
+   "title": "History",
+   "publisher": "University of Oxford",
+   "url": "https://www.ox.ac.uk/about/organisation/history",
+   "tier": 1
+  },
+  "gb-003": {
+   "title": "The University of Cambridge: The Middle Ages (VCH Cambridgeshire vol. 3)",
+   "publisher": "British History Online",
+   "url": "https://www.british-history.ac.uk/vch/cambs/vol3/pp150-166",
+   "tier": 2
+  },
+  "gb-004": {
+   "title": "The University of Cambridge: The sixteenth century (VCH Cambridgeshire vol. 3)",
+   "publisher": "British History Online",
+   "url": "https://www.british-history.ac.uk/vch/cambs/vol3/pp166-191",
+   "tier": 2
+  },
+  "gb-005": {
+   "title": "The University of Cambridge: The age of reforms (1800-82) (VCH Cambridgeshire vol. 3)",
+   "publisher": "British History Online",
+   "url": "https://www.british-history.ac.uk/vch/cambs/vol3/pp235-265",
+   "tier": 2
+  },
+  "gb-006": {
+   "title": "The city of Cambridge: Town and gown (VCH Cambridgeshire vol. 3)",
+   "publisher": "British History Online",
+   "url": "https://www.british-history.ac.uk/vch/cambs/vol3/pp76-86",
+   "tier": 2
+  },
+  "gb-007": {
+   "title": "History of the University",
+   "publisher": "University of Cambridge",
+   "url": "https://www.cam.ac.uk/about-the-university/history",
+   "tier": 1
+  },
+  "gb-008": {
+   "title": "Balliol College (VCH Oxfordshire vol. 3)",
+   "publisher": "British History Online",
+   "url": "https://www.british-history.ac.uk/vch/oxon/vol3/pp82-95",
+   "tier": 2
+  },
+  "gb-009": {
+   "title": "Lady Margaret Hall (VCH Oxfordshire vol. 3)",
+   "publisher": "British History Online",
+   "url": "https://www.british-history.ac.uk/vch/oxon/vol3/pp341-343",
+   "tier": 2
+  },
+  "gb-010": {
+   "title": "Robert Grosseteste",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Robert-Grosseteste",
+   "tier": 2
+  },
+  "gb-011": {
+   "title": "Roger Bacon",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/roger-bacon/",
+   "tier": 2
+  },
+  "gb-012": {
+   "title": "John Duns Scotus",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/duns-scotus/",
+   "tier": 2
+  },
+  "gb-013": {
+   "title": "William of Ockham",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/ockham/",
+   "tier": 2
+  },
+  "gb-014": {
+   "title": "John Wyclif",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/wyclif/",
+   "tier": 2
+  },
+  "gb-015": {
+   "title": "Thomas Hobbes",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/hobbes/",
+   "tier": 2
+  },
+  "gb-016": {
+   "title": "John Locke",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/locke/",
+   "tier": 2
+  },
+  "gb-017": {
+   "title": "Robert Boyle",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/boyle/",
+   "tier": 2
+  },
+  "gb-018": {
+   "title": "Christopher Wren",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Wren/",
+   "tier": 2
+  },
+  "gb-019": {
+   "title": "Edmond Halley",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Halley/",
+   "tier": 2
+  },
+  "gb-020": {
+   "title": "Isaac Newton",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Newton/",
+   "tier": 2
+  },
+  "gb-021": {
+   "title": "Charles Babbage",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Babbage/",
+   "tier": 2
+  },
+  "gb-022": {
+   "title": "James Clerk Maxwell",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maxwell/",
+   "tier": 2
+  },
+  "gb-023": {
+   "title": "William Thomson (Lord Kelvin)",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Thomson/",
+   "tier": 2
+  },
+  "gb-024": {
+   "title": "Desiderius Erasmus",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Desiderius-Erasmus",
+   "tier": 2
+  },
+  "gb-025": {
+   "title": "Sir Thomas More",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Thomas-More-English-humanist-and-statesman",
+   "tier": 2
+  },
+  "gb-026": {
+   "title": "William Tyndale",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/William-Tyndale",
+   "tier": 2
+  },
+  "gb-027": {
+   "title": "Francis Bacon",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/francis-bacon/",
+   "tier": 2
+  },
+  "gb-028": {
+   "title": "John Milton",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/John-Milton",
+   "tier": 2
+  },
+  "gb-029": {
+   "title": "A brief history of the University",
+   "publisher": "University of St Andrews",
+   "url": "https://www.st-andrews.ac.uk/about/history/",
+   "tier": 1
+  },
+  "gb-030": {
+   "title": "University of St Andrews",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/13332a.htm",
+   "tier": 2
+  },
+  "gb-031": {
+   "title": "UofG at 575: our story",
+   "publisher": "University of Glasgow",
+   "url": "https://www.gla.ac.uk/explore/avenue/ourpast/theuniversityat575ourstory/",
+   "tier": 1
+  },
+  "gb-032": {
+   "title": "Our history",
+   "publisher": "University of Edinburgh",
+   "url": "https://www.ed.ac.uk/about/our-history",
+   "tier": 1
+  },
+  "gb-033": {
+   "title": "History",
+   "publisher": "University of Aberdeen",
+   "url": "https://www.abdn.ac.uk/about/history/",
+   "tier": 1
+  },
+  "gb-034": {
+   "title": "History of Trinity College Dublin",
+   "publisher": "Trinity College Dublin",
+   "url": "https://www.tcd.ie/about/history/",
+   "tier": 1
+  },
+  "gb-035": {
+   "title": "The history of Uppsala University: a brief summary",
+   "publisher": "Uppsala University",
+   "url": "https://uu.se/en/about-uu/history/summary/",
+   "tier": 1
+  },
+  "gb-036": {
+   "title": "Københavns Universitet",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Københavns_Universitet",
+   "tier": 2
+  },
+  "gb-037": {
+   "title": "The history of Lund University",
+   "publisher": "Lund University",
+   "url": "https://lunduniversity.lu.se/about/about-lund-university/a-brief-history-0",
+   "tier": 1
+  },
+  "gb-038": {
+   "title": "History",
+   "publisher": "University of Helsinki",
+   "url": "https://www.helsinki.fi/en/about-us/university-helsinki/history",
+   "tier": 1
+  },
+  "gb-039": {
+   "title": "Universitetet i Oslo",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Universitetet_i_Oslo",
+   "tier": 2
+  },
+  "gb-040": {
+   "title": "History",
+   "publisher": "KTH Royal Institute of Technology",
+   "url": "https://www.kth.se/en/om/fakta/historik",
+   "tier": 1
+  },
+  "gb-041": {
+   "title": "Timeline: KI through the centuries",
+   "publisher": "Karolinska Institutet",
+   "url": "https://ki.se/en/about/timeline-ki-through-the-centuries",
+   "tier": 1
+  },
+  "gb-042": {
+   "title": "A brief history of Chalmers",
+   "publisher": "Chalmers University of Technology",
+   "url": "https://www.chalmers.se/en/about-chalmers/traditions-and-celebrations/a-brief-history-of-chalmers/",
+   "tier": 1
+  },
+  "gb-043": {
+   "title": "DTU's historie",
+   "publisher": "Technical University of Denmark",
+   "url": "https://dtu.dk/om-dtu/profil/historie",
+   "tier": 1
+  },
+  "gb-044": {
+   "title": "History of RCSI",
+   "publisher": "RCSI University of Medicine and Health Sciences",
+   "url": "https://www.rcsi.com/about/history",
+   "tier": 1
+  },
+  "gb-045": {
+   "title": "Historical timeline of UCC",
+   "publisher": "University College Cork",
+   "url": "https://www.ucc.ie/en/discover/history/historicaltimelineofucc/",
+   "tier": 1
+  },
+  "gb-046": {
+   "title": "Some facts about QCC",
+   "publisher": "University College Cork",
+   "url": "https://www.ucc.ie/en/heritage/history/historical-events/some-facts-about-qcc",
+   "tier": 1
+  },
+  "gb-047": {
+   "title": "Queen's 180: timeline",
+   "publisher": "Queen's University Belfast",
+   "url": "https://www.qub.ac.uk/180/timeline/",
+   "tier": 1
+  },
+  "gb-048": {
+   "title": "The foundation and early development of Queen's College Belfast, 1845-1850",
+   "publisher": "Queen's University Belfast Special Collections",
+   "url": "https://blogs.qub.ac.uk/specialcollections/the-foundation-and-early-development-of-queens-college-belfast-1845-1850",
+   "tier": 1
+  },
+  "gb-049": {
+   "title": "Maynooth",
+   "publisher": "Encyclopedia.com (Oxford Companion to Irish History)",
+   "url": "https://www.encyclopedia.com/places/britain-ireland-france-and-low-countries/british-and-irish-political-geography/maynooth",
+   "tier": 2
+  },
+  "gb-050": {
+   "title": "Our history",
+   "publisher": "University of Galway",
+   "url": "https://www.universityofgalway.ie/ourhistory/",
+   "tier": 1
+  },
+  "gb-051": {
+   "title": "UCD: the early years",
+   "publisher": "University College Dublin",
+   "url": "https://www.ucd.ie/merrionstreet/ucd_early.html",
+   "tier": 1
+  },
+  "gb-052": {
+   "title": "First women graduates of the Royal University of Ireland, 1884 (TCD MS 9787/211)",
+   "publisher": "Library of Trinity College Dublin, via Google Arts & Culture",
+   "url": "https://artsandculture.google.com/asset/first-women-graduates-of-the-royal-university-of-ireland-1884-trinity-women-graduates/LQEPHWjBHKDAZA?hl=en",
+   "tier": 1
+  },
+  "gb-053": {
+   "title": "Colin Maclaurin",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maclaurin/",
+   "tier": 2
+  },
+  "gb-054": {
+   "title": "James Gregory",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gregory/",
+   "tier": 2
+  },
+  "gb-055": {
+   "title": "William John Macquorn Rankine",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Rankine/",
+   "tier": 2
+  },
+  "gb-056": {
+   "title": "Thomas Reid",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/reid/",
+   "tier": 2
+  },
+  "gb-057": {
+   "title": "Francis Hutcheson",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/hutcheson/",
+   "tier": 2
+  },
+  "gb-058": {
+   "title": "David Hume",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/hume/",
+   "tier": 2
+  },
+  "gb-059": {
+   "title": "Henry Briggs",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Briggs/",
+   "tier": 2
+  },
+  "gb-060": {
+   "title": "Robert Hooke",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hooke/",
+   "tier": 2
+  },
+  "gb-061": {
+   "title": "Charles Hutton",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hutton/",
+   "tier": 2
+  },
+  "gb-062": {
+   "title": "Augustus De Morgan",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/De_Morgan/",
+   "tier": 2
+  },
+  "gb-063": {
+   "title": "William Rowan Hamilton",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hamilton/",
+   "tier": 2
+  },
+  "gb-064": {
+   "title": "George Boole",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boole/",
+   "tier": 2
+  },
+  "gb-065": {
+   "title": "Sofia Kovalevskaya",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Kovalevskaya/",
+   "tier": 2
+  },
+  "gb-066": {
+   "title": "Gösta Mittag-Leffler",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mittag-Leffler/",
+   "tier": 2
+  },
+  "gb-067": {
+   "title": "Niels Henrik Abel",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Abel/",
+   "tier": 2
+  },
+  "gb-068": {
+   "title": "Sophus Lie",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lie/",
+   "tier": 2
+  },
+  "gb-069": {
+   "title": "Anders Celsius",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Celsius/",
+   "tier": 2
+  },
+  "gb-070": {
+   "title": "Tycho Brahe",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Brahe/",
+   "tier": 2
+  },
+  "gb-071": {
+   "title": "Søren Kierkegaard",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/kierkegaard/",
+   "tier": 2
+  },
+  "gb-072": {
+   "title": "Samuel von Pufendorf",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/pufendorf/",
+   "tier": 2
+  },
+  "gb-073": {
+   "title": "Olof Rudbeck",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Olof-Rudbeck",
+   "tier": 2
+  },
+  "gb-074": {
+   "title": "Svante Arrhenius: biographical",
+   "publisher": "Nobel Prize Outreach (nobelprize.org)",
+   "url": "https://www.nobelprize.org/prizes/chemistry/1903/arrhenius/biographical/",
+   "tier": 2
+  },
+  "gb-075": {
+   "title": "Anders Jonas Ångström",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Anders-Jonas-Angstrom",
+   "tier": 2
+  },
+  "gb-076": {
+   "title": "Krigsskolen",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Krigsskolen",
+   "tier": 2
+  },
+  "gb-077": {
+   "title": "Bergseminaret på Kongsberg",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Bergseminaret_på_Kongsberg",
+   "tier": 2
+  },
+  "gb-078": {
+   "title": "Sorø Akademi",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Sorø_Akademi",
+   "tier": 2
+  },
+  "gb-079": {
+   "title": "Den Kongelige Veterinær- og Landbohøjskole",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Den_Kongelige_Veterinær-_og_Landbohøjskole",
+   "tier": 2
+  },
+  "gb-080": {
+   "title": "Fridtjof Nansen",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Fridtjof_Nansen",
+   "tier": 2
+  },
+  "gb-081": {
+   "title": "Sophus Lie",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Sophus_Lie",
+   "tier": 2
+  },
+  "gb-082": {
+   "title": "Rasmus Rask",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Rasmus_Rask",
+   "tier": 2
+  },
+  "gb-083": {
+   "title": "N.F.S. Grundtvig",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/N.F.S._Grundtvig",
+   "tier": 2
+  },
+  "gb-084": {
+   "title": "Ludvig Holberg",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Ludvig_Holberg",
+   "tier": 2
+  },
+  "gb-085": {
+   "title": "Thomas Bartholin",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Thomas_Bartholin",
+   "tier": 2
+  },
+  "gb-086": {
+   "title": "H.C. Ørsted",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/H.C._Ørsted",
+   "tier": 2
+  },
+  "gb-087": {
+   "title": "Ole Rømer",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Ole_Rømer",
+   "tier": 2
+  },
+  "gb-088": {
+   "title": "Niels Steensen",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Niels_Steensen",
+   "tier": 2
+  },
+  "gb-089": {
+   "title": "B.S. Ingemann",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/B.S._Ingemann",
+   "tier": 2
+  },
+  "gb-090": {
+   "title": "Søren Kierkegaard",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Søren_Kierkegaard",
+   "tier": 2
+  },
+  "gb-091": {
+   "title": "Elias Lönnrot",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Elias-Lonnrot",
+   "tier": 2
+  },
+  "gb-092": {
+   "title": "Johan Ludvig Runeberg",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Johan-Ludvig-Runeberg",
+   "tier": 2
+  },
+  "gb-093": {
+   "title": "Johan Vilhelm Snellman",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Johan-Vilhelm-Snellman",
+   "tier": 2
+  },
+  "gb-094": {
+   "title": "Zacharias Topelius",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Zacharias-Topelius",
+   "tier": 2
+  },
+  "gb-095": {
+   "title": "Henrik Gabriel Porthan",
+   "publisher": "University of Helsinki, 375 Humanists",
+   "url": "https://375humanistia.helsinki.fi/en/humanists/henrik-gabriel-porthan",
+   "tier": 1
+  },
+  "gb-096": {
+   "title": "University of Iceland",
+   "publisher": "World Higher Education Database (IAU)",
+   "url": "https://www.whed.net/institutions/IAU-007045",
+   "tier": 2
+  },
+  "gb-097": {
+   "title": "History",
+   "publisher": "King's College London",
+   "url": "https://www.kcl.ac.uk/about/history",
+   "tier": 1
+  },
+  "gb-098": {
+   "title": "History",
+   "publisher": "University of London",
+   "url": "https://www.london.ac.uk/about/history",
+   "tier": 1
+  },
+  "gb-099": {
+   "title": "Key dates",
+   "publisher": "Heriot-Watt University",
+   "url": "https://www.hw.ac.uk/about/professional-services/information-services/heritage/our-history-and-heritage/key-dates",
+   "tier": 1
+  },
+  "gb-100": {
+   "title": "Anderson's College records",
+   "publisher": "University of Strathclyde Archives (Archives Hub)",
+   "url": "https://archiveshub.ac.uk/search/archives/adc358ab-e894-3167-aafa-6b5593d5eb9d",
+   "tier": 1
+  },
+  "gb-101": {
+   "title": "Harris Manchester College Archive",
+   "publisher": "University of Oxford (Archives Hub)",
+   "url": "https://archiveshub.ac.uk/search/archives/49254181-23e2-3267-aff9-7b3f9e8799b1",
+   "tier": 1
+  },
+  "gb-102": {
+   "title": "Priestley, Joseph",
+   "publisher": "Complete Dictionary of Scientific Biography (Encyclopedia.com)",
+   "url": "https://www.encyclopedia.com/people/science-and-technology/chemistry-biographies/joseph-priestley",
+   "tier": 2
+  },
+  "gb-103": {
+   "title": "Royal Military Academy Sandhurst",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/522129",
+   "tier": 2
+  },
+  "gb-104": {
+   "title": "History of Aberystwyth University",
+   "publisher": "Aberystwyth University",
+   "url": "https://www.aber.ac.uk/en/about-us/history/history/",
+   "tier": 1
+  },
+  "gb-105": {
+   "title": "History of the Victoria University of Manchester",
+   "publisher": "University of Manchester",
+   "url": "https://manchester.ac.uk/about/history-heritage/history/victoria",
+   "tier": 1
+  },
+  "gb-106": {
+   "title": "Imperial College of Science, Technology and Medicine: authority record",
+   "publisher": "AIM25 (Imperial College Archives)",
+   "url": "https://atom.aim25.com/index.php/university-of-london-imperial-college-of-science-technology-and-medicine-2",
+   "tier": 1
+  },
+  "gb-107": {
+   "title": "Our heritage",
+   "publisher": "University of Birmingham",
+   "url": "https://birmingham.ac.uk/university/history-and-heritage/our-heritage",
+   "tier": 1
+  },
+  "gb-108": {
+   "title": "Our history",
+   "publisher": "University of Leeds",
+   "url": "https://www.leeds.ac.uk/about/doc/about-history",
+   "tier": 1
+  },
+  "gb-109": {
+   "title": "George Berkeley",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/berkeley/",
+   "tier": 2
+  },
+  "gb-110": {
+   "title": "Edmund Burke",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/burke/",
+   "tier": 2
+  },
+  "gb-111": {
+   "title": "J.J. Thomson: biographical",
+   "publisher": "Nobel Prize Outreach (nobelprize.org)",
+   "url": "https://www.nobelprize.org/prizes/physics/1906/thomson/biographical/",
+   "tier": 2
+  },
+  "gb-112": {
+   "title": "Durham University Records",
+   "publisher": "Durham University Library (Archives Hub)",
+   "url": "https://archiveshub.ac.uk/search/archives/9dd651d5-d560-3196-8478-f661e85dedb6",
+   "tier": 1
+  },
+  "gb-113": {
+   "title": "200 years of UCL",
+   "publisher": "University College London",
+   "url": "https://about.ucl.ac.uk/ucl-timeline/",
+   "tier": 1
+  },
+  "gb-114": {
+   "title": "Gresham College: authority record",
+   "publisher": "AIM25",
+   "url": "https://atom.aim25.com/index.php/gresham-college-2",
+   "tier": 1
+  },
+  "gb-115": {
+   "title": "Our history",
+   "publisher": "University of Wales Trinity Saint David",
+   "url": "https://uwtsd.ac.uk/about/history/",
+   "tier": 1
+  },
+  "gb-116": {
+   "title": "Bergsskolans historia",
+   "publisher": "KTH Royal Institute of Technology",
+   "url": "https://www.mse.kth.se/b200/bergsskolans-historia-1.893029",
+   "tier": 1
+  },
+  "gb-117": {
+   "title": "Karlberg",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Karlberg",
+   "tier": 2
+  },
+  "gb-118": {
+   "title": "Biographical sketch of Jónas Hallgrímsson",
+   "publisher": "University of Wisconsin Digital Collections",
+   "url": "https://digicoll.library.wisc.edu/Jonas/Biography/Biography.4.html",
+   "tier": 2
+  },
+  "gb-119": {
+   "title": "Menntaskólinn í Reykjavík building marker",
+   "publisher": "Historical Marker Database",
+   "url": "https://www.hmdb.org/m.asp?m=145042",
+   "tier": 3
+  },
+  "gb-120": {
+   "title": "History",
+   "publisher": "Aalto University",
+   "url": "https://www.aalto.fi/en/aalto-university/history",
+   "tier": 1
+  },
+  "gb-121": {
+   "title": "Lassonde professor publishes book on history of Britain's first engineering school (on R. Hornsey, Imperial Engineers, 2022)",
+   "publisher": "York University",
+   "url": "https://www.yorku.ca/yfile/2022/06/14/lassonde-professor-publishes-book-on-history-of-britains-first-engineering-school/",
+   "tier": 2
+  },
+  "gb-122": {
+   "title": "Sveinbjörn Egilsson",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Sveinbj%C3%B6rn_Egilsson",
+   "tier": 3
+  },
+  "gb-123": {
+   "title": "History",
+   "publisher": "University of Bristol",
+   "url": "https://www.bristol.ac.uk/university/history/",
+   "tier": 1
+  },
+  "gb-124": {
+   "title": "Our history",
+   "publisher": "University of Sheffield",
+   "url": "https://www.sheffield.ac.uk/about/history",
+   "tier": 1
+  },
+  "gb-125": {
+   "title": "Our history",
+   "publisher": "University of Nottingham",
+   "url": "https://www.nottingham.ac.uk/about/history",
+   "tier": 1
+  },
+  "gb-126": {
+   "title": "Our history",
+   "publisher": "Cardiff University",
+   "url": "https://www.cardiff.ac.uk/about/our-profile/history",
+   "tier": 1
+  },
+  "gb-127": {
+   "title": "Muniment collection: University College, Dundee and Queen's College",
+   "publisher": "University of St Andrews Special Collections",
+   "url": "https://libguides.st-andrews.ac.uk/specialcollections/muniments/collegiaterecords/universitycollegedundeequeenscollege",
+   "tier": 1
+  },
+  "gb-128": {
+   "title": "University Archive: foundation of the University",
+   "publisher": "University of Liverpool Special Collections and Archives",
+   "url": "https://libguides.liverpool.ac.uk/library/sca/uafoundation",
+   "tier": 1
+  },
+  "gb-129": {
+   "title": "Bangor 140",
+   "publisher": "Bangor University",
+   "url": "https://www.bangor.ac.uk/bangor-140",
+   "tier": 1
+  },
+  "gb-130": {
+   "title": "Historien om Göteborgs universitet",
+   "publisher": "University of Gothenburg",
+   "url": "https://www.gu.se/om-goteborgs-universitet/historien-om-goteborgs-universitet",
+   "tier": 1
+  },
+  "gb-131": {
+   "title": "Stockholms universitets historia",
+   "publisher": "Stockholm University",
+   "url": "https://www.su.se/om-universitetet/kultur-och-historia/stockholms-universitets-historia/stockholms-universitets-historia",
+   "tier": 1
+  },
+  "gb-132": {
+   "title": "Nielsine Nielsen",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Nielsine_Nielsen",
+   "tier": 2
+  },
+  "gb-133": {
+   "title": "Queen's, Belfast 1845-2025",
+   "publisher": "Queen's University Belfast Special Collections",
+   "url": "https://blogs.qub.ac.uk/specialcollections/queens-belfast-1845-2025",
+   "tier": 1
+  },
+  "gb-134": {
+   "title": "175 years of memorable moments",
+   "publisher": "University of Galway",
+   "url": "https://impact.universityofgalway.ie/articles/175-years-of-memorable-moments/",
+   "tier": 1
+  },
+  "gb-135": {
+   "title": "Darwin timeline",
+   "publisher": "The Complete Work of Charles Darwin Online",
+   "url": "https://darwin-online.org.uk/timeline.html",
+   "tier": 2
+  },
+  "gb-136": {
+   "title": "Adam Smith",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Adam-Smith",
+   "tier": 2
+  },
+  "gb-137": {
+   "title": "Joseph Black",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Joseph-Black",
+   "tier": 2
+  },
+  "gb-138": {
+   "title": "James Watt",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/James-Watt",
+   "tier": 2
+  },
+  "gb-139": {
+   "title": "Dugald Stewart",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Dugald-Stewart",
+   "tier": 2
+  },
+  "gb-140": {
+   "title": "Adam Ferguson",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Adam-Ferguson",
+   "tier": 2
+  },
+  "gb-141": {
+   "title": "Joseph Lister",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Joseph-Lister-Baron-Lister-of-Lyme-Regis",
+   "tier": 2
+  },
+  "gb-142": {
+   "title": "Robert Louis Stevenson",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Robert-Louis-Stevenson",
+   "tier": 2
+  },
+  "gb-143": {
+   "title": "James Ussher",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/James-Ussher",
+   "tier": 2
+  },
+  "gb-144": {
+   "title": "Gerard Manley Hopkins",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Gerard-Manley-Hopkins",
+   "tier": 2
+  },
+  "gb-145": {
+   "title": "Michael Faraday",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Michael-Faraday",
+   "tier": 2
+  },
+  "gb-146": {
+   "title": "Sir Charles Wheatstone",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Charles-Wheatstone",
+   "tier": 2
+  },
+  "gb-147": {
+   "title": "James Clerk Maxwell",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/James-Clerk-Maxwell",
+   "tier": 2
+  },
+  "gb-148": {
+   "title": "H.G. Wells",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/H-G-Wells",
+   "tier": 2
+  },
+  "gb-149": {
+   "title": "Thomas Henry Huxley",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Thomas-Henry-Huxley",
+   "tier": 2
+  },
+  "gb-150": {
+   "title": "Sir Henry Enfield Roscoe",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Henry-Enfield-Roscoe",
+   "tier": 2
+  },
+  "gb-151": {
+   "title": "Osborne Reynolds",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Osborne-Reynolds",
+   "tier": 2
+  },
+  "gb-152": {
+   "title": "William Stanley Jevons",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/William-Stanley-Jevons",
+   "tier": 2
+  },
+  "gb-153": {
+   "title": "University of Glasgow",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06577b.htm",
+   "tier": 2
+  },
+  "gb-154": {
+   "title": "University of Aberdeen",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01042a.htm",
+   "tier": 2
+  },
+  "gb-155": {
+   "title": "University of Glasgow",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/234848",
+   "tier": 2
+  },
+  "gb-156": {
+   "title": "University regulations: history of the University",
+   "publisher": "University of Glasgow",
+   "url": "https://www.gla.ac.uk/myglasgow/policy/regulations-previous/regulations2023-24/introduction/history/",
+   "tier": 1
+  },
+  "gb-157": {
+   "title": "Medieval University of Dublin",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Medieval_University_of_Dublin",
+   "tier": 3
+  },
+  "gb-158": {
+   "title": "New College, Hackney (1786-1796)",
+   "publisher": "Dissenting Academies Project, Queen Mary University of London",
+   "url": "https://www.qmul.ac.uk/sed/religionandliterature/online-publications/new-college-hackney",
+   "tier": 2
+  },
+  "gb-159": {
+   "title": "Royal Veterinary College: authority record",
+   "publisher": "AIM25",
+   "url": "https://atom.aim25.com/index.php/royal-veterinary-college",
+   "tier": 1
+  },
+  "gb-160": {
+   "title": "RCP timeline",
+   "publisher": "Royal College of Physicians",
+   "url": "https://history.rcp.ac.uk/timeline",
+   "tier": 1
+  },
+  "gb-161": {
+   "title": "Records of the Royal Naval College, Greenwich",
+   "publisher": "The National Archives (UK)",
+   "url": "https://discovery.nationalarchives.gov.uk/details/r/C726",
+   "tier": 1
+  },
+  "gb-162": {
+   "title": "Philip Doddridge",
+   "publisher": "Christian Classics Ethereal Library (Eclectic Ethereal Encyclopedia)",
+   "url": "https://www.ccel.org/cceh/archives/eee/doddridg.htm",
+   "tier": 3
+  },
+  "gb-163": {
+   "title": "Daventry Academy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Daventry_Academy",
+   "tier": 3
+  },
+  "gb-164": {
+   "title": "Warrington Academy",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Warrington_Academy",
+   "tier": 3
+  },
+  "gb-165": {
+   "title": "History of the University: legal status",
+   "publisher": "University College Cork",
+   "url": "https://www.ucc.ie/en/ocla/univgov/legalstatus/history",
+   "tier": 1
+  },
+  "gb-166": {
+   "title": "History of the Royal (Dick) School of Veterinary Studies",
+   "publisher": "University of Edinburgh",
+   "url": "https://www.ed.ac.uk/vet/about/history",
+   "tier": 1
+  },
+  "gb-167": {
+   "title": "History of the School of Divinity",
+   "publisher": "University of Edinburgh",
+   "url": "https://www.ed.ac.uk/divinity/about/history",
+   "tier": 1
+  },
+  "gb-168": {
+   "title": "Thomas Chalmers",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Thomas-Chalmers",
+   "tier": 2
+  },
+  "gb-169": {
+   "title": "Andrew Melville",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Andrew-Melville",
+   "tier": 2
+  },
+  "gb-170": {
+   "title": "Hector Boece",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hector-Boece",
+   "tier": 2
+  },
+  "gb-171": {
+   "title": "Linnés liv",
+   "publisher": "Uppsala University",
+   "url": "https://www.uu.se/om-uu/historia/carl-von-linne/linne-online/linnes-liv",
+   "tier": 1
+  },
+  "gb-172": {
+   "title": "Berzelius, Jöns Jacob",
+   "publisher": "Complete Dictionary of Scientific Biography (Encyclopedia.com)",
+   "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/jons-jacob-berzelius",
+   "tier": 2
+  },
+  "gb-173": {
+   "title": "Esaias Tegnér",
+   "publisher": "Den Store Danske (lex.dk)",
+   "url": "https://lex.dk/Esaias_Tegnér",
+   "tier": 2
+  },
+  "gb-174": {
+   "title": "David Livingstone",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/David-Livingstone",
+   "tier": 2
+  },
+  "gb-175": {
+   "title": "Chydenius's studies",
+   "publisher": "Anders Chydenius Foundation",
+   "url": "https://anders.chydenius.fi/en/life/chydeniuss-studies/",
+   "tier": 2
+  },
+  "gb-176": {
+   "title": "Christopher Hansteen",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Christopher_Hansteen_-_norsk_fysiker_og_astronom",
+   "tier": 2
+  },
+  "gb-177": {
+   "title": "Pétur Pétursson (bishop)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/P%C3%A9tur_P%C3%A9tursson_(bishop)",
+   "tier": 3
+  },
+  "gb-178": {
+   "title": "The letter of the law: the University's response to the Oxford University Act of 1854",
+   "publisher": "Opening Oxford 1871, University of Oxford",
+   "url": "https://openingoxford1871.web.ox.ac.uk/node/2169496",
+   "tier": 1
+  },
+  "gb-179": {
+   "title": "Introduction: Opening Oxford 1871-",
+   "publisher": "Opening Oxford 1871, University of Oxford",
+   "url": "https://openingoxford1871.web.ox.ac.uk/node/2162676",
+   "tier": 1
+  },
+  "gb-180": {
+   "title": "Council of Legal Education: authority record",
+   "publisher": "AIM25 (Institute of Advanced Legal Studies)",
+   "url": "https://atom.aim25.com/index.php/council-of-legal-education-3",
+   "tier": 1
+  },
+  "gb-181": {
+   "title": "Statutes of the University of Oxford codified in the year 1636, ed. J. Griffiths (Oxford, 1888)",
+   "publisher": "HathiTrust Digital Library",
+   "url": "https://catalog.hathitrust.org/Record/008373204",
+   "tier": 1
+  },
+  "gb-182": {
+   "title": "Centenary timeline: 1845-",
+   "publisher": "Imperial College London",
+   "url": "https://www.imperial.ac.uk/centenary/timeline/1845.shtml",
+   "tier": 1
+  },
+  "gb-183": {
+   "title": "Mahatma Gandhi",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Mahatma-Gandhi",
+   "tier": 2
+  },
+  "gb-184": {
+   "title": "William Hazlitt",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/William-Hazlitt",
+   "tier": 2
+  },
+  "gb-185": {
+   "title": "Our history",
+   "publisher": "Royal Agricultural University",
+   "url": "https://www.rau.ac.uk/about/organisation/history",
+   "tier": 1
+  },
+  "gb-186": {
+   "title": "The Royal College of Science for Ireland",
+   "publisher": "University College Dublin",
+   "url": "https://www.ucd.ie/merrionstreet/rcsci.html",
+   "tier": 1
+  },
+  "gb-187": {
+   "title": "Bedford College Papers",
+   "publisher": "Royal Holloway Archives (Archives Hub)",
+   "url": "https://archiveshub.ac.uk/search/archives/ea72edbf-ccfd-3a04-8a64-021e9779134f",
+   "tier": 1
+  },
+  "gb-188": {
+   "title": "Our history",
+   "publisher": "Gresham College",
+   "url": "https://gresham.ac.uk/node/14898",
+   "tier": 1
+  },
+  "gb-189": {
+   "title": "Krig och bränder har aldrig kuvat Helsingfors universitet",
+   "publisher": "University of Helsinki",
+   "url": "https://www.helsinki.fi/sv/nyheter/universitetet/krig-och-brander-har-aldrig-kuvat-helsingfors-universitet-kriser-kan-ocksa-medfora-nagot-gott",
+   "tier": 1
+  }
+ },
+ "institutions": {
+  "u-oxford": {
+   "src": [
+    "gb-001",
+    "gb-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cambridge": {
+   "src": [
+    "gb-003",
+    "gb-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-northampton": {
+   "src": [
+    "gb-001",
+    "gb-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-stamford": {
+   "src": [
+    "gb-001"
+   ],
+   "fix": {
+    "start": 1334
+   },
+   "note": "The Victoria County History dates the quarrel and the migration to Stamford to 1334; some accounts give 1333."
+  },
+  "u-st-andrews": {
+   "src": [
+    "gb-029",
+    "gb-030",
+    "gb-127"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-glasgow": {
+   "src": [
+    "gb-031",
+    "gb-155",
+    "gb-156"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-edinburgh": {
+   "src": [
+    "gb-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-kings": {
+   "src": [
+    "gb-033",
+    "gb-154"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-marischal": {
+   "src": [
+    "gb-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen": {
+   "src": [
+    "gb-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dublin": {
+   "src": [
+    "gb-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-uppsala": {
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-copenhagen": {
+   "src": [
+    "gb-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lund": {
+   "src": [
+    "gb-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turku-helsinki": {
+   "src": [
+    "gb-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-christiania": {
+   "src": [
+    "gb-039"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-stockholm-kth": {
+   "src": [
+    "gb-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-stockholm-karolinska": {
+   "src": [
+    "gb-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-gothenburg-chalmers": {
+   "src": [
+    "gb-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-copenhagen-polytechnic": {
+   "src": [
+    "gb-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-dublin-rcsi": {
+   "src": [
+    "gb-044"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cork-queens": {
+   "src": [
+    "gb-045",
+    "gb-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-belfast-queens": {
+   "src": [
+    "gb-047",
+    "gb-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-maynooth": {
+   "src": [
+    "gb-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-galway-queens": {
+   "src": [
+    "gb-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-catholic-ireland": {
+   "src": [
+    "gb-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-queens-ireland": {
+   "src": [
+    "gb-046",
+    "gb-048",
+    "gb-165"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-royal-ireland": {
+   "src": [
+    "gb-046",
+    "gb-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-christiania-krigsskolen": {
+   "src": [
+    "gb-076"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-kongsberg": {
+   "src": [
+    "gb-077"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-soro": {
+   "src": [
+    "gb-078"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-copenhagen-agri": {
+   "src": [
+    "gb-079"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-copenhagen-vet": {
+   "src": [
+    "gb-079"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-reykjavik-prestaskolinn": {
+   "src": [
+    "gb-096"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-reykjavik-medical": {
+   "src": [
+    "gb-096"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-kings": {
+   "src": [
+    "gb-097"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london": {
+   "src": [
+    "gb-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-edinburgh-watt": {
+   "src": [
+    "gb-099"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-glasgow-anderson": {
+   "src": [
+    "gb-100"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-manchester": {
+   "src": [
+    "gb-101"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-woolwich": {
+   "src": [
+    "gb-103"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-sandhurst": {
+   "src": [
+    "gb-103"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberystwyth": {
+   "src": [
+    "gb-104"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-wales": {
+   "src": [
+    "gb-104"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-manchester-owens": {
+   "src": [
+    "gb-105"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-victoria": {
+   "src": [
+    "gb-105",
+    "gb-108",
+    "gb-128"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rcs": {
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rsm": {
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-cgli": {
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-birmingham-mason": {
+   "src": [
+    "gb-107"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leeds": {
+   "src": [
+    "gb-108"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-durham": {
+   "src": [
+    "gb-112"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-newcastle": {
+   "src": [
+    "gb-112"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-ucl": {
+   "src": [
+    "gb-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-london-gresham": {
+   "src": [
+    "gb-114",
+    "gb-188"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lampeter": {
+   "src": [
+    "gb-115"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-falun": {
+   "src": [
+    "gb-116"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-stockholm-karlberg": {
+   "src": [
+    "gb-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-bessastadir": {
+   "src": [
+    "gb-118",
+    "gb-119"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-helsinki-polytechnic": {
+   "src": [
+    "gb-120"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-coopers-hill": {
+   "src": [
+    "gb-121"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bristol": {
+   "src": [
+    "gb-123"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-sheffield": {
+   "src": [
+    "gb-124"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-nottingham": {
+   "src": [
+    "gb-125"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cardiff": {
+   "src": [
+    "gb-126"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dundee": {
+   "src": [
+    "gb-127"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-liverpool": {
+   "src": [
+    "gb-128"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bangor": {
+   "src": [
+    "gb-129"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-gothenburg": {
+   "src": [
+    "gb-130"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-stockholm": {
+   "src": [
+    "gb-131"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dublin-stpatricks": {
+   "src": [
+    "gb-157"
+   ],
+   "fix": {},
+   "note": "Wikipedia, citing Newman's Rise and Progress of Universities and the Dictionary of Irish Biography."
+  },
+  "a-hackney": {
+   "src": [
+    "gb-158"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rvc": {
+   "src": [
+    "gb-159"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-london-rcp": {
+   "src": [
+    "gb-160"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-greenwich": {
+   "src": [
+    "gb-161"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-northampton": {
+   "src": [
+    "gb-162",
+    "gb-163"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-warrington": {
+   "src": [
+    "gb-164",
+    "gb-102"
+   ],
+   "fix": {},
+   "note": "Wikipedia, citing Parker, Dissenting Academies in England (1914) and Fulton (1933)."
+  },
+  "t-edinburgh-vet": {
+   "src": [
+    "gb-166"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-edinburgh-newcollege": {
+   "src": [
+    "gb-167",
+    "gb-168"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-london-inns": {
+   "src": [
+    "gb-180"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-cirencester": {
+   "src": [
+    "gb-185"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-dublin-rcs": {
+   "src": [
+    "gb-186"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "u-oxford-1096-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-002",
+    "gb-001"
+   ],
+   "fix": {},
+   "note": "The university states that teaching existed in some form by 1096; the first named master, Theobald of Étampes, is recorded c.1117."
+  },
+  "u-oxford-1167-migration": {
+   "status": "confirmed",
+   "src": [
+    "gb-002",
+    "gb-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cambridge-1209-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-003",
+    "gb-007",
+    "gb-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oxford-1209-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oxford-1214-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-001",
+    "gb-002"
+   ],
+   "fix": {},
+   "note": "Ordinance of 25 June 1214; a chancellor is first recorded in office c.1221."
+  },
+  "u-cambridge-1229-migration": {
+   "status": "confirmed",
+   "src": [
+    "gb-003"
+   ],
+   "fix": {},
+   "note": "Henry III's invitation is documented; how many Paris scholars settled at Cambridge is uncertain."
+  },
+  "u-cambridge-1231-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-003",
+    "gb-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-northampton-1261-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-003",
+    "gb-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-northampton-1264-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-northampton-1265-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cambridge-1318-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-stamford-1333-founding": {
+   "status": "corrected",
+   "src": [
+    "gb-001"
+   ],
+   "fix": {
+    "year": 1334
+   },
+   "note": "The quarrel between northern and southern scholars and the move to Stamford are dated 1334."
+  },
+  "u-stamford-1335-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oxford-1355-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-001"
+   ],
+   "fix": {},
+   "note": "Riot of 10 February 1355; the figure of about 63 scholars killed comes from traditional accounts."
+  },
+  "u-cambridge-1381-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-006"
+   ],
+   "fix": {},
+   "note": "The destruction of university records in 1381 is documented; the attack on Corpus Christi comes from other accounts."
+  },
+  "u-oxford-1411-confessional": {
+   "status": "confirmed",
+   "src": [
+    "gb-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cambridge-1535-confessional": {
+   "status": "confirmed",
+   "src": [
+    "gb-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cambridge-1570-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oxford-1571-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-004"
+   ],
+   "fix": {},
+   "note": "The 1571 Act incorporated both Oxford and Cambridge."
+  },
+  "u-cambridge-1856-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-005"
+   ],
+   "fix": {},
+   "note": "The Act removed religious oaths for degrees in arts, law, medicine and music; Senate membership still required Anglican conformity."
+  },
+  "u-cambridge-1869-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-005",
+    "gb-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cambridge-1871-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cambridge-1881-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oxford-1879-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-009",
+    "gb-002"
+   ],
+   "fix": {},
+   "note": "Lady Margaret Hall opened on 16 October 1879."
+  },
+  "u-dublin-stpatricks-1320-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-157"
+   ],
+   "note": "Bicknor's charter of 1320 acted on a papal brief of Clement V usually dated 1311 or 1312.",
+   "fix": {}
+  },
+  "m-london-inns-1340-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-andrews-1413-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-029",
+    "gb-030"
+   ],
+   "fix": {},
+   "note": "Teaching began in 1410 and Bishop Wardlaw granted a charter in 1411."
+  },
+  "u-st-andrews-1450-reform": {
+   "status": "corrected",
+   "src": [
+    "gb-030"
+   ],
+   "fix": {
+    "desc": "Bishop James Kennedy founded St Salvator's; St Leonard's (1512) and St Mary's (1537) followed."
+   },
+   "note": "St Mary's College was founded by Archbishop James Beaton in 1537."
+  },
+  "u-glasgow-1451-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-031"
+   ],
+   "fix": {},
+   "note": "The bull is dated 7 January 1451."
+  },
+  "u-glasgow-1460-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-155",
+    "gb-153"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-drogheda-1465-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-uppsala-1477-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-copenhagen-1479-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-036"
+   ],
+   "fix": {},
+   "note": "Papal permission dated 19 June 1475; inaugurated in the Church of Our Lady on 1 June 1479."
+  },
+  "u-aberdeen-kings-1495-founding": {
+   "status": "corrected",
+   "src": [
+    "gb-033"
+   ],
+   "fix": {
+    "desc": "Papal bull at the request of James IV and Bishop Elphinstone; the first students arrived in 1505."
+   },
+   "note": "The university states that King's College welcomed its first students in 1505."
+  },
+  "m-london-rcp-1518-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-160"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-uppsala-1527-confessional": {
+   "status": "confirmed",
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": "The university declined after 1515 and teaching had virtually ceased by about 1530."
+  },
+  "u-dublin-stpatricks-1534-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-157"
+   ],
+   "note": "The university disappeared during the Irish Reformation, 1534-41.",
+   "fix": {}
+  },
+  "u-oxford-1535-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-copenhagen-1537-confessional": {
+   "status": "confirmed",
+   "src": [
+    "gb-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-andrews-1560-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-kings-1569-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-glasgow-1577-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-156",
+    "gb-153",
+    "gb-155"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-andrews-1579-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "m-london-rcp-1582-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-160"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-edinburgh-1583-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fraserburgh-1592-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-dublin-1592-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-marischal-1593-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-uppsala-1595-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-london-gresham-1597-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-188"
+   ],
+   "note": "Founded in 1597 by Gresham's executors in his Bishopsgate mansion, administered by the City and the Mercers' Company.",
+   "fix": {}
+  },
+  "u-fraserburgh-1605-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-soro-1623-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-078"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-uppsala-1624-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oxford-1636-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-181",
+    "gb-178"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dublin-1637-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-turku-helsinki-1640-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-kings-1641-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-154"
+   ],
+   "note": "This source dates the union of the two universities from 1640 until after the Restoration.",
+   "fix": {}
+  },
+  "m-london-gresham-1660-reform": {
+   "status": "doubtful",
+   "src": [
+    "gb-114"
+   ],
+   "fix": {},
+   "note": "The Royal Society met at Gresham College until 1710, but this source dates its incorporation to 1663; the founding meeting after Wren's lecture of November 1660 is not covered."
+  },
+  "a-soro-1665-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-078"
+   ],
+   "fix": {},
+   "note": "The boys' school continued until 1737."
+  },
+  "u-lund-1666-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-037"
+   ],
+   "fix": {},
+   "note": "Founding documents signed 19 December 1666; inaugurated 28 January 1668."
+  },
+  "u-lund-1676-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lund-1682-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "gb-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dublin-1689-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-034"
+   ],
+   "fix": {},
+   "note": "Tyrconnell's Jacobite government closed the college and used it as a barracks, 1689-91."
+  },
+  "u-uppsala-1702-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turku-helsinki-1713-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-189"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turku-helsinki-1722-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "gb-189"
+   ],
+   "note": "Teaching was suspended for almost ten years, until after the Peace of Nystad; the exact reopening year is not given in this source.",
+   "fix": {
+    "approx": true
+   }
+  },
+  "u-edinburgh-1726-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-glasgow-1727-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-156"
+   ],
+   "note": "Regenting, reintroduced in 1642, was ended in 1727.",
+   "fix": {}
+  },
+  "u-copenhagen-1728-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-northampton-1729-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-162"
+   ],
+   "note": "Opened at Market Harborough in early July 1729; moved to Northampton in December 1729.",
+   "fix": {}
+  },
+  "t-woolwich-1741-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-103"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-soro-1747-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "gb-078"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-andrews-1747-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-030"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-christiania-krigsskolen-1750-founding": {
+   "status": "corrected",
+   "src": [
+    "gb-076"
+   ],
+   "fix": {
+    "desc": "Founded by royal resolution as the Free Mathematical School (Den frie Mathematiske Skole)."
+   },
+   "note": "Founded by royal resolution in 1750 as 'Den frie Mathematiske Skole'."
+  },
+  "a-northampton-1752-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-163",
+    "gb-102"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-marischal-1753-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-warrington-1757-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-164"
+   ],
+   "note": "Formally constituted in June 1757.",
+   "fix": {}
+  },
+  "t-kongsberg-1757-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-077"
+   ],
+   "fix": {},
+   "note": "Royal resolution of 19 September 1757."
+  },
+  "m-london-gresham-1768-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-114"
+   ],
+   "fix": {},
+   "note": "The site was sold to the Crown by Act of Parliament."
+  },
+  "t-copenhagen-vet-1773-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-079"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-warrington-1783-suppression": {
+   "status": "doubtful",
+   "src": [
+    "gb-164"
+   ],
+   "note": "Teaching ended in 1782 and the academy was formally dissolved in 1786.",
+   "fix": {}
+  },
+  "m-dublin-rcsi-1784-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-044"
+   ],
+   "fix": {},
+   "note": "Charter of 11 February 1784."
+  },
+  "a-manchester-1786-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-101"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-hackney-1786-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-158"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-copenhagen-1788-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-northampton-1789-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-163"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rvc-1791-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-159"
+   ],
+   "note": "Built in St Pancras in 1791; the first four students began in January 1792. The Odiham Agricultural Society backed Charles Vial de St Bel's plan.",
+   "fix": {}
+  },
+  "t-stockholm-karlberg-1792-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dublin-1793-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-maynooth-1795-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-glasgow-anderson-1796-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-100"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-hackney-1796-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-158"
+   ],
+   "note": "Debts, quarrels among the tutors, the arrest of leading governors and student irreligion brought about its closure.",
+   "fix": {}
+  },
+  "a-northampton-1798-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-163"
+   ],
+   "note": "Closed by the trustees in 1798; reopened at Wymondley in 1799.",
+   "fix": {}
+  },
+  "t-sandhurst-1802-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-103"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-manchester-1803-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-101"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-bessastadir-1805-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-118"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-woolwich-1806-relocation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-copenhagen-1807-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-turku-helsinki-1809-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-stockholm-karolinska-1810-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-041"
+   ],
+   "fix": {},
+   "note": "Founded 13 December 1810."
+  },
+  "u-christiania-1811-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-039"
+   ],
+   "fix": {},
+   "note": "Opened in 1813 with five professors and 18 students."
+  },
+  "t-sandhurst-1812-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-103"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-soro-1813-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-078"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-kongsberg-1814-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-077"
+   ],
+   "fix": {},
+   "note": "Jens Esmark moved mining studies to the new university."
+  },
+  "t-falun-1819-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-116"
+   ],
+   "note": "Founded by Charles XIV John; moved to Stockholm in 1868.",
+   "fix": {}
+  },
+  "t-edinburgh-watt-1821-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-099"
+   ],
+   "fix": {},
+   "note": "Founded by Leonard Horner and Robert Bryson in Niddry Street."
+  },
+  "u-lampeter-1822-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-115"
+   ],
+   "note": "First students admitted 1827; first charter 1828.",
+   "fix": {}
+  },
+  "t-edinburgh-vet-1823-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-166"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-ucl-1826-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-stockholm-kth-1827-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turku-helsinki-1827-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turku-helsinki-1828-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-kings-1829-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-097"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-gothenburg-chalmers-1829-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-copenhagen-polytechnic-1829-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-durham-1832-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-112"
+   ],
+   "fix": {},
+   "note": "The first students came into residence in 1833."
+  },
+  "u-london-1836-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-ucl-1836-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-kings-1836-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-097",
+    "gb-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-durham-1837-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-112"
+   ],
+   "fix": {},
+   "note": "Charter of 1 June 1837; first degrees conferred a week later."
+  },
+  "a-manchester-1840-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-101"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-edinburgh-newcollege-1843-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-167",
+    "gb-168"
+   ],
+   "note": "Founded after the Disruption of 1843 with Chalmers as principal; the November opening and the 1850 Mound building are not covered by these sources.",
+   "fix": {}
+  },
+  "m-london-gresham-1843-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-114"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rcs-1845-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-cirencester-1845-founding": {
+   "status": "corrected",
+   "src": [
+    "gb-185"
+   ],
+   "note": "Royal charter 1845; the first 25 students were admitted in September 1845.",
+   "fix": {
+    "desc": "Founded by public subscription with a royal charter from Queen Victoria; the first students arrived in September 1845."
+   }
+  },
+  "u-belfast-queens-1845-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-048",
+    "gb-047"
+   ],
+   "fix": {},
+   "note": "Charter dated 30 December 1845; matriculation examinations in October and lectures from 7 November 1849."
+  },
+  "u-cork-queens-1845-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-045",
+    "gb-046"
+   ],
+   "fix": {},
+   "note": "Charter dated 30 December 1845; lectures began 7 November 1849."
+  },
+  "u-galway-queens-1845-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-050"
+   ],
+   "fix": {},
+   "note": "Opened to 68 students on 30 October 1849."
+  },
+  "m-maynooth-1845-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-bessastadir-1846-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-119"
+   ],
+   "note": "The school moved into its new Reykjavík building on 1 October 1846.",
+   "fix": {}
+  },
+  "m-reykjavik-prestaskolinn-1847-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-096"
+   ],
+   "fix": {},
+   "note": "Merged into the University of Iceland in 1911."
+  },
+  "t-helsinki-polytechnic-1849-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-120"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-1849-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-187"
+   ],
+   "note": "Founded by Elizabeth Jesser Reid at 47 Bedford Square; its students took London degrees from the early 1880s.",
+   "fix": {}
+  },
+  "u-queens-ireland-1850-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-165"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-belfast-queens-1850-reform": {
+   "status": "doubtful",
+   "src": [
+    "gb-165",
+    "gb-048"
+   ],
+   "note": "The colleges were linked to the Queen's University from its 1850 charter, but they were incorporated in 1845 and opened in 1849; 1850 marks the university's creation rather than a change at the college.",
+   "fix": {}
+  },
+  "u-cork-queens-1850-reform": {
+   "status": "doubtful",
+   "src": [
+    "gb-165",
+    "gb-046"
+   ],
+   "note": "Cork's own records treat it as a member college from its 1845 charter; 1850 marks the creation of the Queen's University.",
+   "fix": {}
+  },
+  "u-galway-queens-1850-reform": {
+   "status": "doubtful",
+   "src": [
+    "gb-165"
+   ],
+   "note": "The colleges were incorporated in 1845 and opened in 1849; 1850 marks the creation of the Queen's University.",
+   "fix": {}
+  },
+  "t-london-rsm-1851-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-manchester-owens-1851-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-105"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lampeter-1852-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-christiania-1852-relocation": {
+   "status": "doubtful",
+   "src": [
+    "gb-039"
+   ],
+   "fix": {},
+   "note": "Store norske leksikon places the university in Karl Johans gate from 1851; the buildings were completed in 1852."
+  },
+  "m-london-inns-1852-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-180"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-uppsala-1852-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-manchester-1853-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-101"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rcs-1853-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-catholic-ireland-1854-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oxford-1854-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-178",
+    "gb-179"
+   ],
+   "note": "Religious subscription was removed at matriculation and for the lower degrees, though colleges kept their own barriers.",
+   "fix": {}
+  },
+  "u-catholic-ireland-1855-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-copenhagen-agri-1856-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-079"
+   ],
+   "fix": {},
+   "note": "Established by the Act of 8 March 1856."
+  },
+  "t-copenhagen-agri-1856-merger": {
+   "status": "confirmed",
+   "src": [
+    "gb-079"
+   ],
+   "fix": {},
+   "note": "The new college was a continuation and expansion of the Veterinary School."
+  },
+  "u-london-1858-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-andrews-1858-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-edinburgh-1858-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-1860-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-1860-merger": {
+   "status": "confirmed",
+   "src": [
+    "gb-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-stockholm-karolinska-1861-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rsm-1863-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-dublin-rcs-1867-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-186"
+   ],
+   "note": "Formed in 1867 from the Museum of Irish Industry at 51 St Stephen's Green, with Robert Kane as dean.",
+   "fix": {}
+  },
+  "m-maynooth-1869-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-049"
+   ],
+   "fix": {},
+   "note": "Compensation was paid on the ending of the grant."
+  },
+  "u-edinburgh-1869-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-glasgow-1870-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-uppsala-1870-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turku-helsinki-1870-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-coopers-hill-1871-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-121"
+   ],
+   "note": "Founded in 1870 under the Duke of Argyll; opened in 1871 and closed in 1906.",
+   "fix": {}
+  },
+  "u-newcastle-1871-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-112"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-durham-1871-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-112"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-oxford-1871-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-179"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberystwyth-1872-founding": {
+   "status": "corrected",
+   "src": [
+    "gb-104"
+   ],
+   "fix": {
+    "desc": "Opened in the unfinished Castle Hotel building with 25 students under Thomas Charles Edwards."
+   },
+   "note": "Opened on 16 October 1872; the university records 25 students."
+  },
+  "t-london-rcs-1872-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-182"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-greenwich-1873-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-161"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-manchester-owens-1873-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-105"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dublin-1873-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-leeds-1874-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-108"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rvc-1875-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-159"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-copenhagen-1875-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-132"
+   ],
+   "note": "A royal decree of 1875, prompted by Nielsine Nielsen's application, admitted women; she qualified in medicine in 1885.",
+   "fix": {}
+  },
+  "u-bristol-1876-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-123"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-reykjavik-medical-1876-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-096"
+   ],
+   "fix": {},
+   "note": "Merged into the University of Iceland in 1911."
+  },
+  "t-stockholm-kth-1877-reform": {
+   "status": "corrected",
+   "src": [
+    "gb-040"
+   ],
+   "fix": {
+    "desc": "Reorganised and renamed Kungliga Tekniska högskolan, having absorbed the higher course of the Falun mining school in 1867."
+   },
+   "note": "KTH dates the incorporation of the School of Mining to 1867."
+  },
+  "u-stockholm-1878-founding": {
+   "status": "doubtful",
+   "src": [
+    "gb-131"
+   ],
+   "note": "The university gives 1878 as its founding year, but says the first public lectures were held in autumn 1877.",
+   "fix": {}
+  },
+  "u-london-ucl-1878-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-1878-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-sheffield-1879-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-124"
+   ],
+   "note": "Founded by Mark Firth; the royal opening is not covered by this source.",
+   "fix": {}
+  },
+  "t-helsinki-polytechnic-1879-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-120"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-victoria-1880-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-105"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-birmingham-mason-1880-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-107"
+   ],
+   "fix": {},
+   "note": "The university dates Mason's foundation to 1875 (foundation stone); teaching began in 1880."
+  },
+  "u-royal-ireland-1880-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-046",
+    "gb-051"
+   ],
+   "fix": {},
+   "note": "Established 27 April 1880."
+  },
+  "u-manchester-owens-1880-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-105"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lund-1880-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-037"
+   ],
+   "fix": {},
+   "note": "Hildegard Björck and Hedda Andersson were the first women students, in 1880."
+  },
+  "u-liverpool-1881-founding": {
+   "status": "corrected",
+   "src": [
+    "gb-128"
+   ],
+   "note": "Charter of 18 October 1881; opened in January 1882 in former Royal Infirmary buildings beside the medical school.",
+   "fix": {
+    "desc": "Chartered on 18 October 1881; teaching began in January 1882 in former Royal Infirmary buildings in the city centre."
+   }
+  },
+  "u-nottingham-1881-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-125"
+   ],
+   "note": "Gladstone laid the foundation stone in 1877.",
+   "fix": {}
+  },
+  "u-dundee-1881-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-127"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-rcs-1881-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-queens-ireland-1882-suppression": {
+   "status": "confirmed",
+   "src": [
+    "gb-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-belfast-queens-1882-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-133"
+   ],
+   "note": "Women entered the Arts faculty in 1882 and all faculties from 1889.",
+   "fix": {
+    "approx": false
+   }
+  },
+  "u-christiania-1882-access": {
+   "status": "corrected",
+   "src": [
+    "gb-039"
+   ],
+   "fix": {
+    "desc": "An 1882 law opened the examen artium to women and Cecilie Thoresen matriculated that year; an 1884 law admitted women to degrees."
+   },
+   "note": "An 1882 law let women take the examen artium; full admission to study and degrees followed in 1884."
+  },
+  "u-cardiff-1883-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-126"
+   ],
+   "note": "Opened 24 October 1883 with 151 students; royal charter 1884.",
+   "fix": {}
+  },
+  "u-catholic-ireland-1883-confessional": {
+   "status": "confirmed",
+   "src": [
+    "gb-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-manchester-owens-1883-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-london-cgli-1884-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bangor-1884-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-129"
+   ],
+   "note": "Opened 18 October 1884 with 58 students.",
+   "fix": {}
+  },
+  "u-victoria-1884-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-128"
+   ],
+   "note": "Joined in November 1884.",
+   "fix": {}
+  },
+  "u-royal-ireland-1884-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-052"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-stockholm-1884-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-131",
+    "gb-065"
+   ],
+   "note": "Lecturer from 1884, professor from 1889.",
+   "fix": {}
+  },
+  "u-aberystwyth-1885-destruction": {
+   "status": "confirmed",
+   "src": [
+    "gb-104"
+   ],
+   "fix": {},
+   "note": "Fire of 9 July 1885."
+  },
+  "t-edinburgh-watt-1885-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-099"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-dublin-rcsi-1885-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-044"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cork-queens-1886-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-046"
+   ],
+   "fix": {},
+   "note": "Five women registered in 1886-87; the college timeline gives 1885."
+  },
+  "u-victoria-1887-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-108"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-glasgow-anderson-1887-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-100"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-galway-queens-1888-access": {
+   "status": "doubtful",
+   "src": [
+    "gb-134"
+   ],
+   "note": "1888 is the year of the college's first woman graduate, Bessie Anderson; women were admitted earlier.",
+   "fix": {}
+  },
+  "a-manchester-1889-relocation": {
+   "status": "confirmed",
+   "src": [
+    "gb-101"
+   ],
+   "fix": {},
+   "note": "New buildings by Thomas Worthington opened in 1893."
+  },
+  "u-gothenburg-1891-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-130"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-st-andrews-1892-access": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-glasgow-1892-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aberdeen-1892-access": {
+   "status": "doubtful",
+   "src": [
+    "gb-033"
+   ],
+   "fix": {},
+   "note": "The university dates the opening of all its faculties to women to 1894; women became eligible under the 1889 Act's ordinances in 1892."
+  },
+  "u-edinburgh-1892-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-032"
+   ],
+   "fix": {},
+   "note": "The first women graduated in 1893."
+  },
+  "u-wales-1893-founding": {
+   "status": "confirmed",
+   "src": [
+    "gb-104"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-durham-1895-access": {
+   "status": "confirmed",
+   "src": [
+    "gb-112"
+   ],
+   "fix": {},
+   "note": "The supplementary charter was sought in 1895; the first four women matriculated in 1896."
+  },
+  "m-maynooth-1896-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-birmingham-mason-1897-reform": {
+   "status": "corrected",
+   "src": [
+    "gb-107"
+   ],
+   "fix": {
+    "year": 1898
+   },
+   "note": "The university dates the change to Mason University College to 1898."
+  },
+  "u-st-andrews-1897-reform": {
+   "status": "confirmed",
+   "src": [
+    "gb-030"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-london-1898-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-birmingham-mason-1900-charter": {
+   "status": "confirmed",
+   "src": [
+    "gb-107"
+   ],
+   "fix": {},
+   "note": "Charter of 24 March 1900."
+  }
+ },
+ "thinkers": {
+  "th670": {
+   "status": "corrected",
+   "src": [
+    "gb-010",
+    "gb-001"
+   ],
+   "fix": {
+    "from": 1215,
+    "approx": true,
+    "role": "chancellor; lecturer to the Franciscans"
+   },
+   "note": "Chancellor (head of the schools) c.1215-21 and first lecturer in theology to the Oxford Franciscans c.1229-35."
+  },
+  "th671": {
+   "status": "corrected",
+   "src": [
+    "gb-011"
+   ],
+   "fix": {
+    "from": 1228,
+    "to": 1251,
+    "approx": true
+   },
+   "note": "Studied at Oxford c.1228-36, taught in Paris in the 1240s and was again at Oxford c.1248-51; the chronology is uncertain."
+  },
+  "th672": {
+   "status": "confirmed",
+   "src": [
+    "gb-012"
+   ],
+   "fix": {},
+   "note": "At Oxford from c.1290; lectured on the Sentences 1298-99 before leaving for Paris in 1302."
+  },
+  "th673": {
+   "status": "corrected",
+   "src": [
+    "gb-013"
+   ],
+   "fix": {
+    "to": 1321
+   },
+   "note": "Lectured on the Sentences at Oxford from 1317 and left for the London Greyfriars c.1321."
+  },
+  "th674": {
+   "status": "confirmed",
+   "src": [
+    "gb-014",
+    "gb-008"
+   ],
+   "fix": {},
+   "note": "Master of Balliol c.1360-61; doctor of divinity 1372/73; left Oxford for Lutterworth in 1381."
+  },
+  "th675": {
+   "status": "confirmed",
+   "src": [
+    "gb-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th676": {
+   "status": "confirmed",
+   "src": [
+    "gb-025"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th677": {
+   "status": "unverified",
+   "src": [
+    "gb-026"
+   ],
+   "fix": {},
+   "note": "Oxford education confirmed, but not the years or hall."
+  },
+  "th678": {
+   "status": "confirmed",
+   "src": [
+    "gb-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th679": {
+   "status": "confirmed",
+   "src": [
+    "gb-016"
+   ],
+   "fix": {},
+   "note": "Mostly in London from 1667; deprived of his Christ Church studentship while in exile in 1684."
+  },
+  "th680": {
+   "status": "confirmed",
+   "src": [
+    "gb-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th681": {
+   "status": "confirmed",
+   "src": [
+    "gb-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th682": {
+   "status": "confirmed",
+   "src": [
+    "gb-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th685": {
+   "status": "confirmed",
+   "src": [
+    "gb-024",
+    "gb-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th686": {
+   "status": "confirmed",
+   "src": [
+    "gb-004"
+   ],
+   "fix": {},
+   "note": "Probably came from Oxford and stayed until 1521."
+  },
+  "th687": {
+   "status": "confirmed",
+   "src": [
+    "gb-007",
+    "gb-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th688": {
+   "status": "confirmed",
+   "src": [
+    "gb-027"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th689": {
+   "status": "confirmed",
+   "src": [
+    "gb-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th690": {
+   "status": "confirmed",
+   "src": [
+    "gb-020"
+   ],
+   "fix": {},
+   "note": "Lucasian professor from 1669; moved to the Mint in London in 1696 and resigned his Cambridge posts in 1701."
+  },
+  "th691": {
+   "status": "confirmed",
+   "src": [
+    "gb-021"
+   ],
+   "fix": {},
+   "note": "Lucasian professor 1828-39, though he never lectured."
+  },
+  "th693": {
+   "status": "confirmed",
+   "src": [
+    "gb-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th694": {
+   "status": "confirmed",
+   "src": [
+    "gb-022",
+    "gb-007"
+   ],
+   "fix": {},
+   "note": "Graduated in 1854; held chairs elsewhere before returning in 1871 as first Cavendish professor."
+  },
+  "th695": {
+   "status": "confirmed",
+   "src": [
+    "gb-025"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th696": {
+   "status": "confirmed",
+   "src": [
+    "gb-027"
+   ],
+   "fix": {},
+   "note": "Admitted to Gray's Inn in 1576, bencher 1586 and reader 1587."
+  },
+  "th700": {
+   "status": "confirmed",
+   "src": [
+    "gb-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th739": {
+   "status": "confirmed",
+   "src": [
+    "gb-023"
+   ],
+   "fix": {},
+   "note": "Entered Glasgow aged 10 (1834); professor of natural philosophy from 1846."
+  },
+  "th683": {
+   "status": "confirmed",
+   "src": [
+    "gb-136"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th684": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th692": {
+   "status": "confirmed",
+   "src": [
+    "gb-135"
+   ],
+   "note": "Admitted October 1827, in residence from January 1828; BA January 1831.",
+   "fix": {}
+  },
+  "th697": {
+   "status": "confirmed",
+   "src": [
+    "gb-183"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th698": {
+   "status": "corrected",
+   "src": [
+    "gb-160"
+   ],
+   "note": "Harvey began the Lumleian lectures in 1616.",
+   "fix": {
+    "from": 1616
+   }
+  },
+  "th699": {
+   "status": "corrected",
+   "src": [
+    "gb-059"
+   ],
+   "fix": {
+    "from": 1596
+   },
+   "note": "First Gresham professor of geometry from 1596, leaving in July 1620 for the Savilian chair at Oxford."
+  },
+  "th701": {
+   "status": "confirmed",
+   "src": [
+    "gb-060"
+   ],
+   "fix": {},
+   "note": "Appointed in 1665; died in 1703."
+  },
+  "th702": {
+   "status": "confirmed",
+   "src": [
+    "gb-162"
+   ],
+   "note": "Ran the academy from 1729 until he left for Lisbon, where he died in October 1751.",
+   "fix": {}
+  },
+  "th703": {
+   "status": "confirmed",
+   "src": [
+    "gb-102"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th704": {
+   "status": "confirmed",
+   "src": [
+    "gb-102"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th705": {
+   "status": "confirmed",
+   "src": [
+    "gb-102"
+   ],
+   "fix": {},
+   "note": "He was only briefly associated with Hackney between the 1791 riots and his emigration in 1794."
+  },
+  "th706": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th707": {
+   "status": "confirmed",
+   "src": [
+    "gb-184"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th708": {
+   "status": "confirmed",
+   "src": [
+    "gb-101"
+   ],
+   "fix": {},
+   "note": "Dalton taught at the academy in its early Manchester years."
+  },
+  "th709": {
+   "status": "confirmed",
+   "src": [
+    "gb-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th710": {
+   "status": "confirmed",
+   "src": [
+    "gb-145"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th711": {
+   "status": "confirmed",
+   "src": [
+    "gb-062"
+   ],
+   "fix": {},
+   "note": "Held the chair 1828-31 and again 1836-66, resigning on principle both times."
+  },
+  "th712": {
+   "status": "confirmed",
+   "src": [
+    "gb-141"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th713": {
+   "status": "doubtful",
+   "src": [
+    "gb-152"
+   ],
+   "note": "Studied at UCL until 1854, then spent five years in Australia; professor at UCL from 1876. The span 1851-1880 includes long absences.",
+   "fix": {}
+  },
+  "th714": {
+   "status": "confirmed",
+   "src": [
+    "gb-146"
+   ],
+   "note": "Appointed in 1834; died in 1875.",
+   "fix": {}
+  },
+  "th715": {
+   "status": "confirmed",
+   "src": [
+    "gb-147",
+    "gb-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th716": {
+   "status": "confirmed",
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th717": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th718": {
+   "status": "confirmed",
+   "src": [
+    "gb-106"
+   ],
+   "fix": {},
+   "note": "Dean 1881-95."
+  },
+  "th719": {
+   "status": "confirmed",
+   "src": [
+    "gb-148"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th720": {
+   "status": "confirmed",
+   "src": [
+    "gb-149",
+    "gb-106"
+   ],
+   "note": "Lecturer from 1854; dean of the Normal School of Science from 1881.",
+   "fix": {}
+  },
+  "th721": {
+   "status": "confirmed",
+   "src": [
+    "gb-150"
+   ],
+   "note": "Professor 1857 to 1885 or 1886.",
+   "fix": {}
+  },
+  "th722": {
+   "status": "confirmed",
+   "src": [
+    "gb-152"
+   ],
+   "note": "Professor of political economy from 1866; moved to University College in 1876.",
+   "fix": {}
+  },
+  "th723": {
+   "status": "confirmed",
+   "src": [
+    "gb-151"
+   ],
+   "note": "First professor of engineering at Owens, 1868-1905.",
+   "fix": {}
+  },
+  "th724": {
+   "status": "corrected",
+   "src": [
+    "gb-111"
+   ],
+   "fix": {
+    "from": 1870
+   },
+   "note": "Enrolled at Owens College in 1870 and left for Trinity College, Cambridge in 1876."
+  },
+  "th725": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th726": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th727": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th728": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th729": {
+   "status": "corrected",
+   "src": [
+    "gb-169"
+   ],
+   "note": "Principal of St Mary's College 1580-1606.",
+   "fix": {
+    "to": 1606
+   }
+  },
+  "th730": {
+   "status": "confirmed",
+   "src": [
+    "gb-054"
+   ],
+   "fix": {},
+   "note": "First Regius professor of mathematics at St Andrews, 1668-74."
+  },
+  "th731": {
+   "status": "confirmed",
+   "src": [
+    "gb-168"
+   ],
+   "note": "Professor of moral philosophy 1823-28; his student years from 1791 are not covered by this source.",
+   "fix": {}
+  },
+  "th732": {
+   "status": "confirmed",
+   "src": [
+    "gb-169"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th733": {
+   "status": "doubtful",
+   "src": [
+    "gb-057"
+   ],
+   "fix": {},
+   "note": "His Glasgow chair (1730 inaugural lecture) to his death in 1746 is confirmed; the 1711 start of his studies is not."
+  },
+  "th734": {
+   "status": "confirmed",
+   "src": [
+    "gb-136"
+   ],
+   "note": "Studied 1737-40; professor of logic 1751 and of moral philosophy 1752 until 1764.",
+   "fix": {}
+  },
+  "th735": {
+   "status": "confirmed",
+   "src": [
+    "gb-137"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th736": {
+   "status": "confirmed",
+   "src": [
+    "gb-138"
+   ],
+   "note": "Appointment dated 1757; end date not stated in this source.",
+   "fix": {}
+  },
+  "th737": {
+   "status": "corrected",
+   "src": [
+    "gb-056"
+   ],
+   "fix": {
+    "to": 1781
+   },
+   "note": "Resigned the Glasgow chair in 1781."
+  },
+  "th738": {
+   "status": "confirmed",
+   "src": [
+    "gb-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th740": {
+   "status": "confirmed",
+   "src": [
+    "gb-170"
+   ],
+   "note": "First principal; died about 1536.",
+   "fix": {}
+  },
+  "th741": {
+   "status": "corrected",
+   "src": [
+    "gb-056"
+   ],
+   "fix": {
+    "from": 1752
+   },
+   "note": "Appointed to King's College, Aberdeen in 1752."
+  },
+  "th742": {
+   "status": "confirmed",
+   "src": [
+    "gb-053"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th743": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th744": {
+   "status": "confirmed",
+   "src": [
+    "gb-147",
+    "gb-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th745": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th746": {
+   "status": "confirmed",
+   "src": [
+    "gb-058"
+   ],
+   "fix": {},
+   "note": "Studied at Edinburgh from about age 11 to 15, roughly 1722-26."
+  },
+  "th747": {
+   "status": "confirmed",
+   "src": [
+    "gb-053"
+   ],
+   "fix": {},
+   "note": "Began teaching at Edinburgh on 3 November 1725; died in 1746."
+  },
+  "th748": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th749": {
+   "status": "confirmed",
+   "src": [
+    "gb-140"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th750": {
+   "status": "confirmed",
+   "src": [
+    "gb-137"
+   ],
+   "note": "Professor at Edinburgh from 1766 until his death in 1799.",
+   "fix": {}
+  },
+  "th751": {
+   "status": "corrected",
+   "src": [
+    "gb-139"
+   ],
+   "note": "Held the chair of moral philosophy from 1785 until 1820.",
+   "fix": {
+    "to": 1820
+   }
+  },
+  "th752": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th753": {
+   "status": "confirmed",
+   "src": [
+    "gb-135"
+   ],
+   "note": "Enrolled October 1825, left April 1827.",
+   "fix": {}
+  },
+  "th754": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th755": {
+   "status": "confirmed",
+   "src": [
+    "gb-147"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th756": {
+   "status": "confirmed",
+   "src": [
+    "gb-141"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th757": {
+   "status": "confirmed",
+   "src": [
+    "gb-142"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th758": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th759": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th760": {
+   "status": "confirmed",
+   "src": [
+    "gb-100"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th761": {
+   "status": "confirmed",
+   "src": [
+    "gb-100"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th762": {
+   "status": "confirmed",
+   "src": [
+    "gb-174"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th763": {
+   "status": "confirmed",
+   "src": [
+    "gb-168"
+   ],
+   "note": "Principal from 1843; died in 1847.",
+   "fix": {}
+  },
+  "th764": {
+   "status": "confirmed",
+   "src": [
+    "gb-143"
+   ],
+   "note": "Graduated at Trinity; professor 1607-21; Bishop of Meath from 1621.",
+   "fix": {}
+  },
+  "th765": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th766": {
+   "status": "confirmed",
+   "src": [
+    "gb-109"
+   ],
+   "fix": {},
+   "note": "Entered about 1700, fellow 1707, left on becoming Dean of Derry in 1724."
+  },
+  "th767": {
+   "status": "confirmed",
+   "src": [
+    "gb-110"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th768": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th769": {
+   "status": "confirmed",
+   "src": [
+    "gb-063"
+   ],
+   "fix": {},
+   "note": "Entered Trinity about 1823; appointed Andrews professor of astronomy in 1827 while an undergraduate; died in 1865."
+  },
+  "th770": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th771": {
+   "status": "confirmed",
+   "src": [
+    "gb-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th772": {
+   "status": "corrected",
+   "src": [
+    "gb-048"
+   ],
+   "fix": {
+    "from": 1846
+   },
+   "note": "Appointed first vice-president and professor of chemistry in 1846; the college opened in 1849."
+  },
+  "th773": {
+   "status": "confirmed",
+   "src": [
+    "gb-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th774": {
+   "status": "confirmed",
+   "src": [
+    "gb-144"
+   ],
+   "note": "Professor at University College Dublin from 1884 until his death in 1889.",
+   "fix": {}
+  },
+  "th775": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th776": {
+   "status": "confirmed",
+   "src": [
+    "gb-073"
+   ],
+   "fix": {},
+   "note": "Entered Uppsala 1648, professor of medicine from 1660, died 1702."
+  },
+  "th777": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th778": {
+   "status": "confirmed",
+   "src": [
+    "gb-171"
+   ],
+   "note": "Studied at Uppsala from 1728, abroad 1735-38, professor from 1741 until his death in 1778.",
+   "fix": {}
+  },
+  "th779": {
+   "status": "confirmed",
+   "src": [
+    "gb-069"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th780": {
+   "status": "confirmed",
+   "src": [
+    "gb-172"
+   ],
+   "note": "Studies interrupted for tutoring; medical degree May 1802.",
+   "fix": {}
+  },
+  "th781": {
+   "status": "confirmed",
+   "src": [
+    "gb-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th782": {
+   "status": "doubtful",
+   "src": [
+    "gb-075"
+   ],
+   "fix": {},
+   "note": "Doctorate 1839 and head of physics from 1858 until death in 1874; the 1833 entry date is not confirmed."
+  },
+  "th783": {
+   "status": "confirmed",
+   "src": [
+    "gb-074"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th784": {
+   "status": "confirmed",
+   "src": [
+    "gb-072"
+   ],
+   "fix": {},
+   "note": "Arrived early 1668; the university closed in 1676 and he moved to Stockholm in 1677."
+  },
+  "th785": {
+   "status": "confirmed",
+   "src": [
+    "gb-171"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th786": {
+   "status": "confirmed",
+   "src": [
+    "gb-173"
+   ],
+   "note": "Professor of Greek from 1812; appointed Bishop of Växjö in 1824 and moved there in 1826.",
+   "fix": {}
+  },
+  "th787": {
+   "status": "confirmed",
+   "src": [
+    "gb-172"
+   ],
+   "note": "Professor at the Stockholm surgical school from 1807, which became the Karolinska Institute in 1810; gave up teaching duties in 1832.",
+   "fix": {}
+  },
+  "th788": {
+   "status": "corrected",
+   "src": [
+    "gb-065"
+   ],
+   "fix": {
+    "from": 1883
+   },
+   "note": "Privatdocent from 1883, lecturing from early 1884; professor 1889; died February 1891."
+  },
+  "th789": {
+   "status": "doubtful",
+   "src": [
+    "gb-066"
+   ],
+   "fix": {},
+   "note": "His appointment in 1881 is confirmed; the end date is not."
+  },
+  "th790": {
+   "status": "confirmed",
+   "src": [
+    "gb-074"
+   ],
+   "fix": {},
+   "note": "Lecturer from 1891, professor 1895, rector 1897-1905."
+  },
+  "th791": {
+   "status": "confirmed",
+   "src": [
+    "gb-070"
+   ],
+   "fix": {},
+   "note": "Entered 19 April 1559; left for Leipzig in February 1562."
+  },
+  "th792": {
+   "status": "doubtful",
+   "src": [
+    "gb-085"
+   ],
+   "fix": {},
+   "note": "Professor of anatomy from 1648 and of medicine from 1654; died 1680. A 1646 start is not confirmed."
+  },
+  "th793": {
+   "status": "confirmed",
+   "src": [
+    "gb-088"
+   ],
+   "fix": {},
+   "note": "Matriculated 27 November 1656; in Amsterdam by March 1660."
+  },
+  "th794": {
+   "status": "confirmed",
+   "src": [
+    "gb-087"
+   ],
+   "fix": {},
+   "note": "Professor of astronomy from 1681, after his years in Paris; died 1710."
+  },
+  "th795": {
+   "status": "confirmed",
+   "src": [
+    "gb-084"
+   ],
+   "fix": {},
+   "note": "Matriculated 1702; professor from 1717; died 1754."
+  },
+  "th796": {
+   "status": "doubtful",
+   "src": [
+    "gb-083"
+   ],
+   "fix": {},
+   "note": "He finished school in Aarhus in 1800 and graduated in theology at Copenhagen in 1803."
+  },
+  "th797": {
+   "status": "corrected",
+   "src": [
+    "gb-082"
+   ],
+   "fix": {
+    "from": 1808
+   },
+   "note": "Began at the university in 1808; professor of literary history 1825 and of Oriental languages 1831; died 1832."
+  },
+  "th798": {
+   "status": "confirmed",
+   "src": [
+    "gb-086"
+   ],
+   "fix": {},
+   "note": "Student 1794; extraordinary professor 1806, ordinary 1817; died 1851."
+  },
+  "th799": {
+   "status": "confirmed",
+   "src": [
+    "gb-071"
+   ],
+   "fix": {},
+   "note": "Magister dissertation 1841; entry year not stated in this source."
+  },
+  "th800": {
+   "status": "confirmed",
+   "src": [
+    "gb-086"
+   ],
+   "fix": {},
+   "note": "Director from the school's founding until his death in 1851."
+  },
+  "th801": {
+   "status": "corrected",
+   "src": [
+    "gb-089"
+   ],
+   "fix": {
+    "to": 1849
+   },
+   "note": "Lecturer in Danish from 1822 until the academy closed in 1849; head from 1842."
+  },
+  "th802": {
+   "status": "corrected",
+   "src": [
+    "gb-176"
+   ],
+   "note": "Lecturer from 1813 and professor of applied mathematics and astronomy from 1816; stepped down as observatory director in 1861.",
+   "fix": {
+    "from": 1813
+   }
+  },
+  "th803": {
+   "status": "confirmed",
+   "src": [
+    "gb-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th804": {
+   "status": "confirmed",
+   "src": [
+    "gb-081",
+    "gb-068"
+   ],
+   "fix": {},
+   "note": "Entered the university in 1859; extraordinary professor from 1872; at Leipzig 1886-98 before returning."
+  },
+  "th805": {
+   "status": "confirmed",
+   "src": [
+    "gb-080"
+   ],
+   "fix": {},
+   "note": "Took the examen artium in 1880 and chose zoology; became curator at Bergen Museum after his 1882 voyage."
+  },
+  "th806": {
+   "status": "confirmed",
+   "src": [
+    "gb-122",
+    "gb-119"
+   ],
+   "note": "Taught at Bessastaðir after his 1819 degree and was first rector in Reykjavík from 1846 until 1851.",
+   "fix": {}
+  },
+  "th807": {
+   "status": "confirmed",
+   "src": [
+    "gb-118"
+   ],
+   "note": "Entered in autumn 1823 and graduated on 10 June 1829.",
+   "fix": {}
+  },
+  "th808": {
+   "status": "confirmed",
+   "src": [
+    "gb-177"
+   ],
+   "note": "Director of the seminary from 1847 until he became Bishop of Iceland in 1866.",
+   "fix": {}
+  },
+  "th809": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th810": {
+   "status": "doubtful",
+   "src": [
+    "gb-175"
+   ],
+   "note": "Began at Turku in 1745 and studied at Uppsala 1750-51; the 1753 end date is not confirmed.",
+   "fix": {}
+  },
+  "th811": {
+   "status": "corrected",
+   "src": [
+    "gb-095"
+   ],
+   "fix": {
+    "from": 1754
+   },
+   "note": "Enrolled in 1754; professor of eloquence 1777-1804."
+  },
+  "th812": {
+   "status": "doubtful",
+   "src": [
+    "gb-091"
+   ],
+   "fix": {},
+   "note": "Medical degree 1832 and professor of Finnish 1853-62 are confirmed; for 1833-53 he was a district medical officer in Kajaani, not at the university."
+  },
+  "th813": {
+   "status": "doubtful",
+   "src": [
+    "gb-092"
+   ],
+   "fix": {},
+   "note": "Studied at Turku and was lecturer in Latin at Helsinki from 1831 until his move to Porvoo in 1837; the 1822 start is not confirmed here."
+  },
+  "th814": {
+   "status": "doubtful",
+   "src": [
+    "gb-093"
+   ],
+   "fix": {},
+   "note": "Instructor in philosophy from 1835 and professor from 1856; a senator from 1863. Continuous residence from 1822 is not confirmed."
+  },
+  "th815": {
+   "status": "corrected",
+   "src": [
+    "gb-094"
+   ],
+   "fix": {
+    "role": "studied; professor of history 1864-78"
+   },
+   "note": "Became professor of Finnish history in 1864, not 1854, and was rector 1875-78."
+  }
+ }
+}

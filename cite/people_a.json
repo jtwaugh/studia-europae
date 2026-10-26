@@ -1,0 +1,8622 @@
+{
+ "era": "a",
+ "sources": {
+  "pa-001": {
+   "title": "Alcuin",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Alcuin",
+   "tier": 2
+  },
+  "pa-002": {
+   "title": "Alcuin of York",
+   "publisher": "MacTutor History of Mathematics, University of St Andrews",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Alcuin/",
+   "tier": 2
+  },
+  "pa-003": {
+   "title": "Alcuin",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01276a.htm",
+   "tier": 2
+  },
+  "pa-004": {
+   "title": "Thomas Aquinas",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/aquinas/",
+   "tier": 2
+  },
+  "pa-005": {
+   "title": "Paul the Deacon",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/11591b.htm",
+   "tier": 2
+  },
+  "pa-006": {
+   "title": "Einhard",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/05366b.htm",
+   "tier": 2
+  },
+  "pa-007": {
+   "title": "Theodulf",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/14579b.htm",
+   "tier": 2
+  },
+  "pa-008": {
+   "title": "Blessed Maurus Magnentius Rabanus",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/12617a.htm",
+   "tier": 2
+  },
+  "pa-009": {
+   "title": "Peter of Pisa",
+   "publisher": "New Catholic Encyclopedia, via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/religion/encyclopedias-almanacs-transcripts-and-maps/peter-pisa",
+   "tier": 2
+  },
+  "pa-010": {
+   "title": "Gottschalk of Orbais",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06682a.htm",
+   "tier": 2
+  },
+  "pa-011": {
+   "title": "Walafrid Strabo",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/15526a.htm",
+   "tier": 2
+  },
+  "pa-012": {
+   "title": "Servatus Lupus",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/09436b.htm",
+   "tier": 2
+  },
+  "pa-013": {
+   "title": "John Scottus Eriugena",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/scottus-eriugena/",
+   "tier": 2
+  },
+  "pa-014": {
+   "title": "Dungal",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/05192b.htm",
+   "tier": 2
+  },
+  "pa-015": {
+   "title": "Saints Cyril and Methodius",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Saints-Cyril-and-Methodius",
+   "tier": 2
+  },
+  "pa-016": {
+   "title": "Photius of Constantinople",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/12043b.htm",
+   "tier": 2
+  },
+  "pa-017": {
+   "title": "Notker",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/11125b.htm",
+   "tier": 2
+  },
+  "pa-018": {
+   "title": "Asser (died 909), bishop and scholar",
+   "publisher": "Dictionary of Welsh Biography, National Library of Wales",
+   "url": "https://biography.wales/article/s-ASSE-JOH-0909",
+   "tier": 2
+  },
+  "pa-019": {
+   "title": "Remigius of Auxerre",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/12764a.htm",
+   "tier": 2
+  },
+  "pa-020": {
+   "title": "Saint Bruno the Great",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/82275",
+   "tier": 2
+  },
+  "pa-021": {
+   "title": "Gerbert of Aurillac",
+   "publisher": "MacTutor History of Mathematics, University of St Andrews",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gerbert/",
+   "tier": 2
+  },
+  "pa-022": {
+   "title": "Abbo of Fleury",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01015b.htm",
+   "tier": 2
+  },
+  "pa-023": {
+   "title": "St. Fulbert",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06312a.htm",
+   "tier": 2
+  },
+  "pa-024": {
+   "title": "Saint Anselm",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/anselm/",
+   "tier": 2
+  },
+  "pa-025": {
+   "title": "Lanfranc",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Lanfranc",
+   "tier": 2
+  },
+  "pa-026": {
+   "title": "John Italus",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/John-Italus",
+   "tier": 2
+  },
+  "pa-027": {
+   "title": "Anselm of Laon",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01550b.htm",
+   "tier": 2
+  },
+  "pa-028": {
+   "title": "Constantine the African",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/134005",
+   "tier": 2
+  },
+  "pa-029": {
+   "title": "Costantino Africano",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/costantino-africano_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-030": {
+   "title": "Irnerius",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/08168a.htm",
+   "tier": 2
+  },
+  "pa-031": {
+   "title": "Peter Abelard",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/abelard/",
+   "tier": 2
+  },
+  "pa-032": {
+   "title": "Gratian",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/06730a.htm",
+   "tier": 2
+  },
+  "pa-033": {
+   "title": "John of Salisbury",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/john-salisbury/",
+   "tier": 2
+  },
+  "pa-034": {
+   "title": "Hugh of Saint-Victor",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hugh-of-Saint-Victor",
+   "tier": 2
+  },
+  "pa-035": {
+   "title": "Peter Lombard",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Peter-Lombard",
+   "tier": 2
+  },
+  "pa-036": {
+   "title": "William of Conches",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/William-of-Conches",
+   "tier": 2
+  },
+  "pa-037": {
+   "title": "Bernard of Chartres",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Bernard-de-Chartres",
+   "tier": 2
+  },
+  "pa-038": {
+   "title": "Gerard of Cremona",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Gerard-of-Cremona",
+   "tier": 2
+  },
+  "pa-039": {
+   "title": "Eustathius of Thessalonica",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Eustathius-of-Thessalonica",
+   "tier": 2
+  },
+  "pa-040": {
+   "title": "Robert Grosseteste",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Robert-Grosseteste",
+   "tier": 2
+  },
+  "pa-041": {
+   "title": "Roger Bacon",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/13111b.htm",
+   "tier": 2
+  },
+  "pa-042": {
+   "title": "St. Bonaventure",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/02648c.htm",
+   "tier": 2
+  },
+  "pa-043": {
+   "title": "Blessed Albertus Magnus",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01264a.htm",
+   "tier": 2
+  },
+  "pa-044": {
+   "title": "Albert the Great",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/albert-great/",
+   "tier": 2
+  },
+  "pa-045": {
+   "title": "Siger de Brabant",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Siger-de-Brabant",
+   "tier": 2
+  },
+  "pa-046": {
+   "title": "John Duns Scotus",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/duns-scotus/",
+   "tier": 2
+  },
+  "pa-047": {
+   "title": "William of Ockham",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/ockham/",
+   "tier": 2
+  },
+  "pa-048": {
+   "title": "John Buridan",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/buridan/",
+   "tier": 2
+  },
+  "pa-049": {
+   "title": "Nicole Oresme",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/nicole-oresme/",
+   "tier": 2
+  },
+  "pa-050": {
+   "title": "John Wyclif",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/wyclif/",
+   "tier": 2
+  },
+  "pa-051": {
+   "title": "Bartolo da Sassoferrato",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/bartolo-da-sassoferrato_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-052": {
+   "title": "Cino da Pistoia",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Cino-da-Pistoia",
+   "tier": 2
+  },
+  "pa-053": {
+   "title": "Petrarca, Francesco",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/francesco-petrarca_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-054": {
+   "title": "Azzone",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/azzone_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-055": {
+   "title": "Denari, Odofredo",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/odofredo-denari_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-056": {
+   "title": "Giovanni d'Andrea",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giovanni-d-andrea_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-057": {
+   "title": "Mondino de' Liuzzi",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/mondino-de-liuzzi_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-058": {
+   "title": "Pietro d'Abano",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/pietro-d-abano_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-059": {
+   "title": "Gentile da Foligno",
+   "publisher": "Dizionario Biografico degli Italiani, Treccani",
+   "url": "https://www.treccani.it/enciclopedia/gentile-da-foligno_(Dizionario-Biografico)/",
+   "tier": 2
+  },
+  "pa-060": {
+   "title": "Robert de Sorbon",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Robert-de-Sorbon",
+   "tier": 2
+  },
+  "pa-061": {
+   "title": "Guy de Chauliac",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Guy-de-Chauliac",
+   "tier": 2
+  },
+  "pa-062": {
+   "title": "George Acropolites",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/George-Acropolites",
+   "tier": 2
+  },
+  "pa-063": {
+   "title": "George Pachymeres",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/George-Pachymeres",
+   "tier": 2
+  },
+  "pa-064": {
+   "title": "Theodore Metochites",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Theodore-Metochites",
+   "tier": 2
+  },
+  "pa-065": {
+   "title": "Nicephorus Gregoras",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Nicephorus-Gregoras",
+   "tier": 2
+  },
+  "pa-066": {
+   "title": "Meister Eckhart",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/meister-eckhart/",
+   "tier": 2
+  },
+  "pa-067": {
+   "title": "Chapter on the schools of Auxerre (Heiric and Remigius), digitized history of philosophy",
+   "publisher": "Jacques Maritain Center, University of Notre Dame",
+   "url": "https://www3.nd.edu/~maritain/jmc/etext/hwp208.htm",
+   "tier": 3
+  },
+  "pa-068": {
+   "title": "Walafrid Strabo",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Walafrid-Strabo",
+   "tier": 2
+  },
+  "pa-069": {
+   "title": "Bartolus of Saxoferrato",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Bartolus-of-Saxoferrato",
+   "tier": 2
+  },
+  "pa-070": {
+   "title": "Saint Bonaventure",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Saint-Bonaventure",
+   "tier": 2
+  },
+  "pa-071": {
+   "title": "Saint Albertus Magnus",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Saint-Albertus-Magnus",
+   "tier": 2
+  },
+  "pa-072": {
+   "title": "Petrarch",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Petrarch",
+   "tier": 2
+  },
+  "pa-073": {
+   "title": "Leo the Mathematician",
+   "publisher": "School of Informatics, Aristotle University of Thessaloniki",
+   "url": "https://csd.auth.gr/en/leo-the-mathematician/",
+   "tier": 3
+  },
+  "pa-074": {
+   "title": "Leo the Mathematician",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Leo_the_Mathematician",
+   "tier": 3
+  },
+  "pa-075": {
+   "title": "Michael Psellos",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Michael_Psellos",
+   "tier": 3
+  },
+  "pa-076": {
+   "title": "John VIII of Constantinople (John Xiphilinos)",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/John_VIII_of_Constantinople",
+   "tier": 3
+  },
+  "pa-077": {
+   "title": "Ísleifur Gissurarson",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/%C3%8Dsleifur_Gissurarson",
+   "tier": 3
+  },
+  "pa-078": {
+   "title": "Trota of Salerno",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Trota_of_Salerno",
+   "tier": 3
+  },
+  "pa-079": {
+   "title": "Roger Frugardi",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Roger_Frugardi",
+   "tier": 3
+  },
+  "pa-080": {
+   "title": "John of Garland",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/John-of-Garland",
+   "tier": 2
+  },
+  "pa-081": {
+   "title": "Nikephoros Blemmydes",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Nikephoros_Blemmydes",
+   "tier": 3
+  },
+  "pa-082": {
+   "title": "Jacques de Revigny",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Jacques_de_Revigny",
+   "tier": 3
+  },
+  "pa-083": {
+   "title": "Pierre de Belleperche",
+   "publisher": "Wikipédia (French)",
+   "url": "https://fr.wikipedia.org/wiki/Pierre_de_Belleperche",
+   "tier": 3
+  },
+  "pa-084": {
+   "title": "Bernard de Gordon",
+   "publisher": "Wikipedia",
+   "url": "https://en.wikipedia.org/wiki/Bernard_de_Gordon",
+   "tier": 3
+  },
+  "pa-085": {
+   "title": "Arnald of Villanova",
+   "publisher": "Complete Dictionary of Scientific Biography, via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/science/dictionaries-thesauruses-pictures-and-press-releases/arnald-villanova",
+   "tier": 2
+  }
+ },
+ "people": [
+  {
+   "id": "alcuin-of-york",
+   "name": "Alcuin of York",
+   "born": 735,
+   "born_approx": true,
+   "died": 804,
+   "died_approx": false,
+   "bio": "Northumbrian scholar who ran the York cathedral school, led Charlemagne's palace school and ended his life as abbot of Saint-Martin at Tours.",
+   "fields": [
+    "theology",
+    "liberal arts",
+    "education"
+   ],
+   "src": [
+    "pa-001",
+    "pa-002",
+    "pa-003"
+   ],
+   "stops": [
+    {
+     "from": 735,
+     "to": 735,
+     "kind": "birth",
+     "place": "York",
+     "lat": 53.96,
+     "lon": -1.0873,
+     "inst": null,
+     "note": "Born in or near York; Britannica gives c. 732.",
+     "src": [
+      "pa-002",
+      "pa-003"
+     ],
+     "approx": true
+    },
+    {
+     "from": 745,
+     "to": 767,
+     "kind": "study",
+     "place": "York",
+     "lat": 53.96,
+     "lon": -1.0873,
+     "inst": "c-york",
+     "note": "Pupil at the cathedral school founded by Archbishop Ecgberht, under the master Aelbert.",
+     "src": [
+      "pa-002",
+      "pa-003"
+     ],
+     "approx": true
+    },
+    {
+     "from": 767,
+     "to": 781,
+     "kind": "teach",
+     "place": "York",
+     "lat": 53.96,
+     "lon": -1.0873,
+     "inst": "c-york",
+     "note": "Directed the school after Aelbert became archbishop in 767 (Britannica dates his headship to 778); built up its library.",
+     "src": [
+      "pa-001",
+      "pa-002",
+      "pa-003"
+     ]
+    },
+    {
+     "from": 781,
+     "to": 781,
+     "kind": "travel",
+     "place": "Parma",
+     "lat": 44.8015,
+     "lon": 10.3279,
+     "inst": null,
+     "note": "Met Charlemagne at Parma and accepted his invitation to the Frankish court.",
+     "src": [
+      "pa-003"
+     ]
+    },
+    {
+     "from": 782,
+     "to": 796,
+     "kind": "teach",
+     "place": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839,
+     "inst": "p-aachen",
+     "note": "Master of the palace school, teaching Charlemagne, his family and court; in Aachen 782-790 and 793-796.",
+     "src": [
+      "pa-001",
+      "pa-002",
+      "pa-003"
+     ]
+    },
+    {
+     "from": 786,
+     "to": 786,
+     "kind": "travel",
+     "place": "York",
+     "lat": 53.96,
+     "lon": -1.0873,
+     "inst": null,
+     "note": "Returned to England on church business; again on a mission for Charlemagne in 790.",
+     "src": [
+      "pa-003"
+     ]
+    },
+    {
+     "from": 796,
+     "to": 804,
+     "kind": "office",
+     "place": "Tours",
+     "lat": 47.3941,
+     "lon": 0.6848,
+     "inst": "c-tours",
+     "note": "Abbot of Saint-Martin, where he built up a model monastic school.",
+     "src": [
+      "pa-001",
+      "pa-002",
+      "pa-003"
+     ]
+    },
+    {
+     "from": 804,
+     "to": 804,
+     "kind": "death",
+     "place": "Tours",
+     "lat": 47.3941,
+     "lon": 0.6848,
+     "inst": null,
+     "note": "Died 19 May 804.",
+     "src": [
+      "pa-001",
+      "pa-002"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "aelbert-of-york",
+     "inst": "c-york",
+     "place": "York",
+     "from": 745,
+     "to": 767,
+     "kind": "teacher",
+     "src": [
+      "pa-003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aelbert-of-york",
+   "name": "Aelbert of York",
+   "born": null,
+   "born_approx": true,
+   "died": 780,
+   "died_approx": true,
+   "bio": "Master of the York cathedral school and teacher of Alcuin; became Archbishop of York in 767.",
+   "src": [
+    "pa-003"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "peter-of-pisa",
+   "name": "Peter of Pisa",
+   "born": 730,
+   "born_approx": true,
+   "died": 799,
+   "died_approx": true,
+   "bio": "Lombard deacon, grammarian and poet who taught Latin grammar to Charlemagne at the Frankish court.",
+   "fields": [
+    "grammar",
+    "poetry"
+   ],
+   "src": [
+    "pa-009"
+   ],
+   "stops": [
+    {
+     "from": 760,
+     "to": 774,
+     "kind": "teach",
+     "place": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582,
+     "inst": null,
+     "note": "Known in Lombardy for public disputations; Alcuin heard him dispute at Pavia as a young man.",
+     "src": [
+      "pa-009"
+     ],
+     "approx": true
+    },
+    {
+     "from": 776,
+     "to": 790,
+     "kind": "teach",
+     "place": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839,
+     "inst": "p-aachen",
+     "note": "Came to Charlemagne's court after the fall of the Lombard kingdom (773-774) and taught the king grammar for several years; the atlas end date of 799 is uncertain, since he died in Lombardy before 799.",
+     "src": [
+      "pa-009"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "charlemagne",
+   "name": "Charlemagne",
+   "born": 742,
+   "born_approx": true,
+   "died": 814,
+   "died_approx": false,
+   "bio": "King of the Franks and emperor, who gathered scholars at his court and studied grammar and the liberal arts with them.",
+   "src": [
+    "pa-001",
+    "pa-009"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "peter-of-pisa",
+     "inst": "p-aachen",
+     "place": "Aachen",
+     "from": 776,
+     "to": 790,
+     "kind": "teacher",
+     "src": [
+      "pa-009"
+     ]
+    },
+    {
+     "id": "alcuin-of-york",
+     "inst": "p-aachen",
+     "place": "Aachen",
+     "from": 782,
+     "to": 796,
+     "kind": "teacher",
+     "src": [
+      "pa-001",
+      "pa-002"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "paul-the-deacon",
+   "name": "Paul the Deacon",
+   "born": 720,
+   "born_approx": true,
+   "died": 799,
+   "died_approx": true,
+   "bio": "Lombard monk and historian, author of the History of the Lombards, who spent several years at Charlemagne's court before returning to Monte Cassino.",
+   "fields": [
+    "history",
+    "poetry"
+   ],
+   "src": [
+    "pa-005"
+   ],
+   "stops": [
+    {
+     "from": 720,
+     "to": 720,
+     "kind": "birth",
+     "place": "Cividale",
+     "lat": 46.0937,
+     "lon": 13.4317,
+     "inst": null,
+     "note": "Born in Friuli to a noble Lombard family.",
+     "src": [
+      "pa-005"
+     ],
+     "approx": true
+    },
+    {
+     "from": 740,
+     "to": 750,
+     "kind": "study",
+     "place": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582,
+     "inst": null,
+     "note": "Probably educated at the court of King Ratchis in Pavia under the grammarian Flavianus.",
+     "src": [
+      "pa-005"
+     ],
+     "approx": true
+    },
+    {
+     "from": 763,
+     "to": 774,
+     "kind": "office",
+     "place": "Benevento",
+     "lat": 41.1298,
+     "lon": 14.7826,
+     "inst": null,
+     "note": "At the court of Duke Arichis of Benevento.",
+     "src": [
+      "pa-005"
+     ],
+     "approx": true
+    },
+    {
+     "from": 774,
+     "to": 782,
+     "kind": "research",
+     "place": "Monte Cassino",
+     "lat": 41.49,
+     "lon": 13.8139,
+     "inst": "c-monte-cassino",
+     "note": "Monk at Monte Cassino.",
+     "src": [
+      "pa-005"
+     ],
+     "approx": true
+    },
+    {
+     "from": 782,
+     "to": 787,
+     "kind": "teach",
+     "place": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839,
+     "inst": "p-aachen",
+     "note": "In Charlemagne's retinue from 782.",
+     "src": [
+      "pa-005"
+     ],
+     "approx": true
+    },
+    {
+     "from": 784,
+     "to": 786,
+     "kind": "travel",
+     "place": "Metz",
+     "lat": 49.1193,
+     "lon": 6.1757,
+     "inst": null,
+     "note": "Wrote the history of the bishops of Metz at the request of Bishop Angilram.",
+     "src": [
+      "pa-005"
+     ],
+     "approx": true
+    },
+    {
+     "from": 787,
+     "to": 799,
+     "kind": "research",
+     "place": "Monte Cassino",
+     "lat": 41.49,
+     "lon": 13.8139,
+     "inst": "c-monte-cassino",
+     "note": "Returned to Monte Cassino after 787 and wrote there.",
+     "src": [
+      "pa-005"
+     ],
+     "approx": true
+    },
+    {
+     "from": 799,
+     "to": 799,
+     "kind": "death",
+     "place": "Monte Cassino",
+     "lat": 41.49,
+     "lon": 13.8139,
+     "inst": null,
+     "note": "Most likely died at Monte Cassino on 13 April, probably 799.",
+     "src": [
+      "pa-005"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "flavianus-of-pavia",
+     "inst": null,
+     "place": "Pavia",
+     "from": 740,
+     "to": 750,
+     "kind": "teacher",
+     "src": [
+      "pa-005"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "flavianus-of-pavia",
+   "name": "Flavianus",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Grammarian at the Lombard court of Pavia, named as the teacher of Paul the Deacon.",
+   "src": [
+    "pa-005"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "einhard",
+   "name": "Einhard",
+   "born": 770,
+   "born_approx": true,
+   "died": 840,
+   "died_approx": false,
+   "bio": "Frankish courtier, builder and biographer of Charlemagne, educated at Fulda and the palace school.",
+   "fields": [
+    "history",
+    "architecture"
+   ],
+   "src": [
+    "pa-006"
+   ],
+   "stops": [
+    {
+     "from": 780,
+     "to": 791,
+     "kind": "study",
+     "place": "Fulda",
+     "lat": 50.5558,
+     "lon": 9.6808,
+     "inst": "c-fulda",
+     "note": "Early training at Fulda; Abbot Baugulf sent him to court. Years approximate.",
+     "src": [
+      "pa-006"
+     ],
+     "approx": true
+    },
+    {
+     "from": 791,
+     "to": 830,
+     "kind": "study",
+     "place": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839,
+     "inst": "p-aachen",
+     "note": "Completed his education at the palace school under Alcuin, then served Charlemagne and Louis the Pious, overseeing buildings at Aachen and Ingelheim.",
+     "src": [
+      "pa-006"
+     ],
+     "approx": true
+    },
+    {
+     "from": 806,
+     "to": 806,
+     "kind": "travel",
+     "place": "Rome",
+     "lat": 41.9028,
+     "lon": 12.4964,
+     "inst": null,
+     "note": "Sent to Rome to obtain papal approval of Charlemagne's partition of the empire.",
+     "src": [
+      "pa-006"
+     ]
+    },
+    {
+     "from": 830,
+     "to": 840,
+     "kind": "office",
+     "place": "Seligenstadt",
+     "lat": 50.0441,
+     "lon": 8.9746,
+     "inst": null,
+     "note": "Withdrew from court in 830; founded the abbey of Seligenstadt and served as abbot.",
+     "src": [
+      "pa-006"
+     ]
+    },
+    {
+     "from": 840,
+     "to": 840,
+     "kind": "death",
+     "place": "Seligenstadt",
+     "lat": 50.0441,
+     "lon": 8.9746,
+     "inst": null,
+     "note": "Died 14 March 840.",
+     "src": [
+      "pa-006"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "alcuin-of-york",
+     "inst": "p-aachen",
+     "place": "Aachen",
+     "from": 791,
+     "to": 796,
+     "kind": "teacher",
+     "src": [
+      "pa-006"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "theodulf-of-orleans",
+   "name": "Theodulf of Orléans",
+   "born": 760,
+   "born_approx": true,
+   "died": 821,
+   "died_approx": false,
+   "bio": "Visigothic scholar and poet at Charlemagne's court who became Bishop of Orléans and encouraged schools in his diocese.",
+   "fields": [
+    "theology",
+    "poetry"
+   ],
+   "src": [
+    "pa-007"
+   ],
+   "stops": [
+    {
+     "from": 790,
+     "to": 798,
+     "kind": "office",
+     "place": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839,
+     "inst": "p-aachen",
+     "note": "Joined Charlemagne's court before 794, where he ranked with Alcuin among its most learned members.",
+     "src": [
+      "pa-007"
+     ],
+     "approx": true
+    },
+    {
+     "from": 798,
+     "to": 818,
+     "kind": "office",
+     "place": "Orléans",
+     "lat": 47.9029,
+     "lon": 1.9093,
+     "inst": "c-orleans",
+     "note": "Bishop of Orléans from c. 798; encouraged schools in his diocese.",
+     "src": [
+      "pa-007"
+     ],
+     "approx": true
+    },
+    {
+     "from": 818,
+     "to": 821,
+     "kind": "exile",
+     "place": "Angers",
+     "lat": 47.4784,
+     "lon": -0.5632,
+     "inst": null,
+     "note": "Deposed in 818 on suspicion of joining King Bernard's conspiracy and exiled to Angers.",
+     "src": [
+      "pa-007"
+     ]
+    },
+    {
+     "from": 821,
+     "to": 821,
+     "kind": "death",
+     "place": "Angers",
+     "lat": 47.4784,
+     "lon": -0.5632,
+     "inst": null,
+     "note": "Died 18 December 821.",
+     "src": [
+      "pa-007"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "hrabanus-maurus",
+   "name": "Hrabanus Maurus",
+   "born": 780,
+   "born_approx": true,
+   "died": 856,
+   "died_approx": false,
+   "bio": "Benedictine teacher, abbot of Fulda and Archbishop of Mainz, called the 'teacher of Germany'.",
+   "fields": [
+    "theology",
+    "education"
+   ],
+   "src": [
+    "pa-008"
+   ],
+   "stops": [
+    {
+     "from": 780,
+     "to": 780,
+     "kind": "birth",
+     "place": "Mainz",
+     "lat": 49.9929,
+     "lon": 8.2473,
+     "inst": null,
+     "note": "Born at Mainz c. 776 or 784.",
+     "src": [
+      "pa-008"
+     ],
+     "approx": true
+    },
+    {
+     "from": 802,
+     "to": 803,
+     "kind": "study",
+     "place": "Tours",
+     "lat": 47.3941,
+     "lon": 0.6848,
+     "inst": "c-tours",
+     "note": "Studied theology and the liberal arts under Alcuin, who named him 'Maurus'; recalled after a year.",
+     "src": [
+      "pa-008"
+     ],
+     "approx": true
+    },
+    {
+     "from": 803,
+     "to": 822,
+     "kind": "teach",
+     "place": "Fulda",
+     "lat": 50.5558,
+     "lon": 9.6808,
+     "inst": "c-fulda",
+     "note": "Teacher and then head of the monastic school of Fulda.",
+     "src": [
+      "pa-008"
+     ],
+     "approx": true
+    },
+    {
+     "from": 822,
+     "to": 842,
+     "kind": "office",
+     "place": "Fulda",
+     "lat": 50.5558,
+     "lon": 9.6808,
+     "inst": "c-fulda",
+     "note": "Abbot of Fulda 822-842.",
+     "src": [
+      "pa-008"
+     ]
+    },
+    {
+     "from": 842,
+     "to": 847,
+     "kind": "research",
+     "place": "Petersberg (Fulda)",
+     "lat": 50.5667,
+     "lon": 9.7167,
+     "inst": null,
+     "note": "Retired to the Petersberg after resigning the abbacy.",
+     "src": [
+      "pa-008"
+     ]
+    },
+    {
+     "from": 847,
+     "to": 856,
+     "kind": "office",
+     "place": "Mainz",
+     "lat": 49.9929,
+     "lon": 8.2473,
+     "inst": null,
+     "note": "Archbishop of Mainz from 847; his synod of 848 condemned Gottschalk.",
+     "src": [
+      "pa-008"
+     ]
+    },
+    {
+     "from": 856,
+     "to": 856,
+     "kind": "death",
+     "place": "Winkel",
+     "lat": 50.0089,
+     "lon": 8.0081,
+     "inst": null,
+     "note": "Died at Winkel near Mainz, 4 February 856.",
+     "src": [
+      "pa-008"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "alcuin-of-york",
+     "inst": "c-tours",
+     "place": "Tours",
+     "from": 802,
+     "to": 803,
+     "kind": "teacher",
+     "src": [
+      "pa-008"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gottschalk-of-orbais",
+   "name": "Gottschalk of Orbais",
+   "born": 800,
+   "born_approx": true,
+   "died": 868,
+   "died_approx": true,
+   "bio": "Saxon monk and theologian condemned for his teaching on double predestination.",
+   "fields": [
+    "theology"
+   ],
+   "src": [
+    "pa-010"
+   ],
+   "stops": [
+    {
+     "from": 806,
+     "to": 829,
+     "kind": "study",
+     "place": "Fulda",
+     "lat": 50.5558,
+     "lon": 9.6808,
+     "inst": "c-fulda",
+     "note": "Given as a child oblate to Fulda; made a monk against his will under Abbot Hrabanus.",
+     "src": [
+      "pa-010"
+     ],
+     "approx": true
+    },
+    {
+     "from": 829,
+     "to": 829,
+     "kind": "travel",
+     "place": "Mainz",
+     "lat": 49.9929,
+     "lon": 8.2473,
+     "inst": null,
+     "note": "Released from his vows by the Council of Mainz (June 829), a decision later reversed.",
+     "src": [
+      "pa-010"
+     ]
+    },
+    {
+     "from": 829,
+     "to": 840,
+     "kind": "study",
+     "place": "Orbais",
+     "lat": 48.915,
+     "lon": 3.695,
+     "inst": null,
+     "note": "Monk of Orbais (diocese of Soissons), where he studied Augustine on grace and predestination.",
+     "src": [
+      "pa-010"
+     ],
+     "approx": true
+    },
+    {
+     "from": 840,
+     "to": 848,
+     "kind": "travel",
+     "place": "Cividale",
+     "lat": 46.0937,
+     "lon": 13.4317,
+     "inst": null,
+     "note": "Spread his doctrine in Italy, staying with Count Eberhard of Friuli in 846, and returned via Dalmatia, Pannonia and Noricum.",
+     "src": [
+      "pa-010"
+     ],
+     "approx": true
+    },
+    {
+     "from": 848,
+     "to": 848,
+     "kind": "travel",
+     "place": "Mainz",
+     "lat": 49.9929,
+     "lon": 8.2473,
+     "inst": null,
+     "note": "Condemned by the Council of Mainz, 1 October 848.",
+     "src": [
+      "pa-010"
+     ]
+    },
+    {
+     "from": 849,
+     "to": 868,
+     "kind": "exile",
+     "place": "Hautvillers",
+     "lat": 49.0817,
+     "lon": 3.9433,
+     "inst": null,
+     "note": "Imprisoned for life at Hautvillers after the synod of Quierzy (849).",
+     "src": [
+      "pa-010"
+     ]
+    },
+    {
+     "from": 868,
+     "to": 868,
+     "kind": "death",
+     "place": "Hautvillers",
+     "lat": 49.0817,
+     "lon": 3.9433,
+     "inst": null,
+     "note": "Probably died 30 October 868 or 869.",
+     "src": [
+      "pa-010"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "dungal",
+   "name": "Dungal",
+   "born": null,
+   "born_approx": null,
+   "died": null,
+   "died_approx": null,
+   "bio": "Irish scholar in the Frankish empire, consulted by Charlemagne on astronomy and appointed master of the school of Pavia.",
+   "fields": [
+    "astronomy",
+    "theology"
+   ],
+   "src": [
+    "pa-014"
+   ],
+   "stops": [
+    {
+     "from": 811,
+     "to": 811,
+     "kind": "research",
+     "place": "Saint-Denis",
+     "lat": 48.9362,
+     "lon": 2.3574,
+     "inst": null,
+     "note": "Irish scholar at Saint-Denis; wrote to Charlemagne explaining the eclipse of 810.",
+     "src": [
+      "pa-014"
+     ],
+     "approx": true
+    },
+    {
+     "from": 825,
+     "to": 827,
+     "kind": "teach",
+     "place": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582,
+     "inst": "c-pavia",
+     "note": "Appointed master of the school at Pavia by imperial decree in 825.",
+     "src": [
+      "pa-014"
+     ],
+     "approx": true
+    },
+    {
+     "from": 828,
+     "to": 828,
+     "kind": "research",
+     "place": "Bobbio",
+     "lat": 44.7712,
+     "lon": 9.3861,
+     "inst": null,
+     "note": "Probably spent his last years at Bobbio, to which he bequeathed his books.",
+     "src": [
+      "pa-014"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "walafrid-strabo",
+   "name": "Walafrid Strabo",
+   "born": 808,
+   "born_approx": true,
+   "died": 849,
+   "died_approx": false,
+   "bio": "Swabian monk and poet, tutor of Charles the Bald and abbot of Reichenau.",
+   "fields": [
+    "poetry",
+    "theology"
+   ],
+   "src": [
+    "pa-011",
+    "pa-068"
+   ],
+   "stops": [
+    {
+     "from": 815,
+     "to": 827,
+     "kind": "study",
+     "place": "Reichenau",
+     "lat": 47.6886,
+     "lon": 9.0617,
+     "inst": "c-reichenau",
+     "note": "Educated at Reichenau under Tatto, Erlebald and Wetti.",
+     "src": [
+      "pa-011",
+      "pa-068"
+     ],
+     "approx": true
+    },
+    {
+     "from": 827,
+     "to": 829,
+     "kind": "study",
+     "place": "Fulda",
+     "lat": 50.5558,
+     "lon": 9.6808,
+     "inst": "c-fulda",
+     "note": "Studied at Fulda under Hrabanus Maurus.",
+     "src": [
+      "pa-011",
+      "pa-068"
+     ],
+     "approx": true
+    },
+    {
+     "from": 829,
+     "to": 838,
+     "kind": "office",
+     "place": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839,
+     "inst": null,
+     "note": "Tutor to the young Charles the Bald at the court of Louis the Pious.",
+     "src": [
+      "pa-011",
+      "pa-068"
+     ],
+     "approx": true
+    },
+    {
+     "from": 838,
+     "to": 839,
+     "kind": "office",
+     "place": "Reichenau",
+     "lat": 47.6886,
+     "lon": 9.0617,
+     "inst": "c-reichenau",
+     "note": "Abbot of Reichenau from 838.",
+     "src": [
+      "pa-011",
+      "pa-068"
+     ]
+    },
+    {
+     "from": 839,
+     "to": 842,
+     "kind": "exile",
+     "place": "Speyer",
+     "lat": 49.3173,
+     "lon": 8.4412,
+     "inst": null,
+     "note": "Driven out for supporting Lothar; fled to Speyer.",
+     "src": [
+      "pa-011",
+      "pa-068"
+     ]
+    },
+    {
+     "from": 842,
+     "to": 849,
+     "kind": "office",
+     "place": "Reichenau",
+     "lat": 47.6886,
+     "lon": 9.0617,
+     "inst": "c-reichenau",
+     "note": "Restored as abbot, which he remained until his death (18 August 849).",
+     "src": [
+      "pa-011",
+      "pa-068"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "hrabanus-maurus",
+     "inst": "c-fulda",
+     "place": "Fulda",
+     "from": 827,
+     "to": 829,
+     "kind": "teacher",
+     "src": [
+      "pa-011",
+      "pa-068"
+     ]
+    },
+    {
+     "id": "wetti-of-reichenau",
+     "inst": "c-reichenau",
+     "place": "Reichenau",
+     "from": 815,
+     "to": 824,
+     "kind": "teacher",
+     "src": [
+      "pa-011"
+     ]
+    },
+    {
+     "id": "erlebald-of-reichenau",
+     "inst": "c-reichenau",
+     "place": "Reichenau",
+     "from": 815,
+     "to": 827,
+     "kind": "teacher",
+     "src": [
+      "pa-011"
+     ]
+    },
+    {
+     "id": "tatto-of-reichenau",
+     "inst": "c-reichenau",
+     "place": "Reichenau",
+     "from": 815,
+     "to": 827,
+     "kind": "teacher",
+     "src": [
+      "pa-011"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "wetti-of-reichenau",
+   "name": "Wetti of Reichenau",
+   "born": null,
+   "born_approx": true,
+   "died": 824,
+   "died_approx": false,
+   "bio": "Monk and teacher at Reichenau.",
+   "src": [
+    "pa-011"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "erlebald-of-reichenau",
+   "name": "Erlebald of Reichenau",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Teacher and abbot of Reichenau, succeeded by Walafrid Strabo in 838.",
+   "src": [
+    "pa-011"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "tatto-of-reichenau",
+   "name": "Tatto of Reichenau",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Teacher at Reichenau.",
+   "src": [
+    "pa-011"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "lupus-of-ferrieres",
+   "name": "Lupus of Ferrières",
+   "born": 805,
+   "born_approx": true,
+   "died": 862,
+   "died_approx": true,
+   "bio": "Abbot of Ferrières and humanist letter-writer who collected and corrected classical manuscripts.",
+   "fields": [
+    "classics",
+    "theology"
+   ],
+   "src": [
+    "pa-012"
+   ],
+   "stops": [
+    {
+     "from": 815,
+     "to": 829,
+     "kind": "study",
+     "place": "Ferrières-en-Gâtinais",
+     "lat": 48.09,
+     "lon": 2.7883,
+     "inst": "c-ferrieres",
+     "note": "Began his education at Ferrières under Aldric.",
+     "src": [
+      "pa-012"
+     ],
+     "approx": true
+    },
+    {
+     "from": 830,
+     "to": 836,
+     "kind": "study",
+     "place": "Fulda",
+     "lat": 50.5558,
+     "lon": 9.6808,
+     "inst": "c-fulda",
+     "note": "Completed his education under Hrabanus Maurus; became a friend and disciple of Einhard.",
+     "src": [
+      "pa-012"
+     ],
+     "approx": true
+    },
+    {
+     "from": 840,
+     "to": 862,
+     "kind": "office",
+     "place": "Ferrières-en-Gâtinais",
+     "lat": 48.09,
+     "lon": 2.7883,
+     "inst": "c-ferrieres",
+     "note": "Nominated abbot of Ferrières on 22 November 840.",
+     "src": [
+      "pa-012"
+     ]
+    },
+    {
+     "from": 853,
+     "to": 853,
+     "kind": "travel",
+     "place": "Soissons",
+     "lat": 49.3817,
+     "lon": 3.3236,
+     "inst": null,
+     "note": "Attended the Council of Soissons.",
+     "src": [
+      "pa-012"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "aldric-of-ferrieres",
+     "inst": "c-ferrieres",
+     "place": "Ferrières-en-Gâtinais",
+     "from": 815,
+     "to": 829,
+     "kind": "teacher",
+     "src": [
+      "pa-012"
+     ]
+    },
+    {
+     "id": "hrabanus-maurus",
+     "inst": "c-fulda",
+     "place": "Fulda",
+     "from": 830,
+     "to": 836,
+     "kind": "teacher",
+     "src": [
+      "pa-012"
+     ]
+    },
+    {
+     "id": "einhard",
+     "inst": null,
+     "place": "Fulda",
+     "from": 830,
+     "to": 836,
+     "kind": "mentor",
+     "src": [
+      "pa-012"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "aldric-of-ferrieres",
+   "name": "Aldric of Ferrières",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Pupil of Alcuin who became abbot of Ferrières and taught Lupus there.",
+   "src": [
+    "pa-003",
+    "pa-012"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "alcuin-of-york",
+     "inst": null,
+     "place": "Tours",
+     "from": 796,
+     "to": 804,
+     "kind": "teacher",
+     "src": [
+      "pa-003"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-scottus-eriugena",
+   "name": "John Scottus Eriugena",
+   "born": 800,
+   "born_approx": true,
+   "died": 877,
+   "died_approx": true,
+   "bio": "Irish philosopher at the court of Charles the Bald, translator of Pseudo-Dionysius and author of the Periphyseon.",
+   "fields": [
+    "philosophy",
+    "theology"
+   ],
+   "src": [
+    "pa-013"
+   ],
+   "stops": [
+    {
+     "from": 850,
+     "to": 877,
+     "kind": "teach",
+     "place": "Compiègne",
+     "lat": 49.4179,
+     "lon": 2.8261,
+     "inst": "p-compiegne",
+     "note": "At the court of Charles the Bald by c. 850/51 (the first certain record, later than the atlas start of 845); wrote on predestination (c. 851), translated Dionysius (c. 860-862) and celebrated Charles's new church at Compiègne in 875.",
+     "src": [
+      "pa-013"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "constantine-cyril-the-philosopher",
+   "name": "Constantine-Cyril the Philosopher",
+   "born": 827,
+   "born_approx": true,
+   "died": 869,
+   "died_approx": false,
+   "bio": "Byzantine scholar from Thessalonica who, with his brother Methodius, became the 'Apostle of the Slavs'.",
+   "fields": [
+    "philosophy",
+    "theology",
+    "linguistics"
+   ],
+   "src": [
+    "pa-015",
+    "pa-074"
+   ],
+   "stops": [
+    {
+     "from": 827,
+     "to": 827,
+     "kind": "birth",
+     "place": "Thessalonica",
+     "lat": 40.6401,
+     "lon": 22.9444,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-015"
+     ],
+     "approx": true
+    },
+    {
+     "from": 843,
+     "to": 851,
+     "kind": "study",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-magnaura",
+     "note": "Named as a student of Leo the Mathematician; the years and the teaching of philosophy follow the atlas and are not confirmed by the sources used.",
+     "src": [
+      "pa-074"
+     ],
+     "approx": true
+    },
+    {
+     "from": 869,
+     "to": 869,
+     "kind": "death",
+     "place": "Rome",
+     "lat": 41.9028,
+     "lon": 12.4964,
+     "inst": null,
+     "note": "Died 14 February 869.",
+     "src": [
+      "pa-015"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "leo-the-mathematician",
+     "inst": "b-magnaura",
+     "place": "Constantinople",
+     "from": 843,
+     "to": 851,
+     "kind": "teacher",
+     "src": [
+      "pa-074"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "photios",
+   "name": "Photios",
+   "born": 815,
+   "born_approx": true,
+   "died": 897,
+   "died_approx": true,
+   "bio": "Byzantine scholar, teacher and twice Patriarch of Constantinople, author of the Bibliotheca.",
+   "fields": [
+    "theology",
+    "philosophy",
+    "literature"
+   ],
+   "src": [
+    "pa-016"
+   ],
+   "stops": [
+    {
+     "from": 815,
+     "to": 815,
+     "kind": "birth",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Born c. 815 (other estimates c. 810 to 827).",
+     "src": [
+      "pa-016"
+     ],
+     "approx": true
+    },
+    {
+     "from": 838,
+     "to": 838,
+     "kind": "travel",
+     "place": "Baghdad",
+     "lat": 33.3152,
+     "lon": 44.3661,
+     "inst": null,
+     "note": "Embassy 'to the Assyrians', apparently to the caliph.",
+     "src": [
+      "pa-016"
+     ],
+     "approx": true
+    },
+    {
+     "from": 850,
+     "to": 857,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-magnaura",
+     "note": "Taught grammar, philosophy and theology to students; the source describes the teaching as given in his own house.",
+     "src": [
+      "pa-016"
+     ],
+     "approx": true
+    },
+    {
+     "from": 857,
+     "to": 867,
+     "kind": "office",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Patriarch of Constantinople from Christmas 857 until his removal in 867.",
+     "src": [
+      "pa-016"
+     ]
+    },
+    {
+     "from": 869,
+     "to": 876,
+     "kind": "exile",
+     "place": "Stenos (Bosporus)",
+     "lat": 41.1,
+     "lon": 29.05,
+     "inst": null,
+     "note": "Deposed and banished to a monastery at Stenos.",
+     "src": [
+      "pa-016"
+     ],
+     "approx": true
+    },
+    {
+     "from": 876,
+     "to": 886,
+     "kind": "office",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Recalled as tutor to Basil I's son; patriarch again 877-886.",
+     "src": [
+      "pa-016"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "notker-balbulus",
+   "name": "Notker Balbulus",
+   "born": 840,
+   "born_approx": true,
+   "died": 912,
+   "died_approx": false,
+   "bio": "Monk of St Gall, poet of liturgical sequences and teacher in its school.",
+   "fields": [
+    "music",
+    "poetry"
+   ],
+   "src": [
+    "pa-017"
+   ],
+   "stops": [
+    {
+     "from": 840,
+     "to": 840,
+     "kind": "birth",
+     "place": "Jonschwil",
+     "lat": 47.4247,
+     "lon": 9.0867,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-017"
+     ],
+     "approx": true
+    },
+    {
+     "from": 850,
+     "to": 860,
+     "kind": "study",
+     "place": "St. Gallen",
+     "lat": 47.4245,
+     "lon": 9.3767,
+     "inst": "c-st-gall",
+     "note": "Educated at St Gall under Iso and the Irishman Moengal, with Tuotilo.",
+     "src": [
+      "pa-017"
+     ],
+     "approx": true
+    },
+    {
+     "from": 860,
+     "to": 912,
+     "kind": "teach",
+     "place": "St. Gallen",
+     "lat": 47.4245,
+     "lon": 9.3767,
+     "inst": "c-st-gall",
+     "note": "Taught at St Gall; librarian in 890 and master of guests 892-894.",
+     "src": [
+      "pa-017"
+     ],
+     "approx": true
+    },
+    {
+     "from": 912,
+     "to": 912,
+     "kind": "death",
+     "place": "St. Gallen",
+     "lat": 47.4245,
+     "lon": 9.3767,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-017"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "iso-of-st-gall",
+     "inst": "c-st-gall",
+     "place": "St. Gallen",
+     "from": 850,
+     "to": 860,
+     "kind": "teacher",
+     "src": [
+      "pa-017"
+     ]
+    },
+    {
+     "id": "moengal",
+     "inst": "c-st-gall",
+     "place": "St. Gallen",
+     "from": 850,
+     "to": 860,
+     "kind": "teacher",
+     "src": [
+      "pa-017"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "iso-of-st-gall",
+   "name": "Iso of St Gall",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Teacher at the monastery school of St Gall.",
+   "src": [
+    "pa-017"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "moengal",
+   "name": "Moengal",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Irish monk and teacher at St Gall.",
+   "src": [
+    "pa-017"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "notker-labeo",
+   "name": "Notker Labeo",
+   "born": 950,
+   "born_approx": true,
+   "died": 1022,
+   "died_approx": false,
+   "bio": "Monk of St Gall who translated and commented on Latin school texts in Old High German.",
+   "fields": [
+    "philology",
+    "liberal arts"
+   ],
+   "src": [
+    "pa-017"
+   ],
+   "stops": [
+    {
+     "from": 960,
+     "to": 990,
+     "kind": "study",
+     "place": "St. Gallen",
+     "lat": 47.4245,
+     "lon": 9.3767,
+     "inst": "c-st-gall",
+     "note": "Came to St Gall as a boy.",
+     "src": [
+      "pa-017"
+     ],
+     "approx": true
+    },
+    {
+     "from": 990,
+     "to": 1022,
+     "kind": "teach",
+     "place": "St. Gallen",
+     "lat": 47.4245,
+     "lon": 9.3767,
+     "inst": "c-st-gall",
+     "note": "Devoted himself to teaching.",
+     "src": [
+      "pa-017"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1022,
+     "to": 1022,
+     "kind": "death",
+     "place": "St. Gallen",
+     "lat": 47.4245,
+     "lon": 9.3767,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-017"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "heiric-of-auxerre",
+   "name": "Heiric of Auxerre",
+   "born": 841,
+   "born_approx": true,
+   "died": 876,
+   "died_approx": true,
+   "bio": "Benedictine monk and teacher who made the school of Saint-Germain at Auxerre famous.",
+   "fields": [
+    "theology",
+    "liberal arts"
+   ],
+   "src": [
+    "pa-067",
+    "pa-019"
+   ],
+   "stops": [
+    {
+     "from": 850,
+     "to": 860,
+     "kind": "study",
+     "place": "Ferrières-en-Gâtinais",
+     "lat": 48.09,
+     "lon": 2.7883,
+     "inst": "c-ferrieres",
+     "note": "Studied at Ferrières under Lupus, after study at Fulda under a pupil of Hrabanus. Years approximate.",
+     "src": [
+      "pa-067"
+     ],
+     "approx": true
+    },
+    {
+     "from": 865,
+     "to": 876,
+     "kind": "teach",
+     "place": "Auxerre",
+     "lat": 47.7986,
+     "lon": 3.5673,
+     "inst": "c-auxerre",
+     "note": "Master of the school of his monastery, succeeded by Remigius in 876.",
+     "src": [
+      "pa-067"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "lupus-of-ferrieres",
+     "inst": "c-ferrieres",
+     "place": "Ferrières-en-Gâtinais",
+     "from": 850,
+     "to": 860,
+     "kind": "teacher",
+     "src": [
+      "pa-067"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "remigius-of-auxerre",
+   "name": "Remigius of Auxerre",
+   "born": 841,
+   "born_approx": true,
+   "died": 908,
+   "died_approx": false,
+   "bio": "Benedictine teacher and commentator who taught at Auxerre, Reims and Paris.",
+   "fields": [
+    "liberal arts",
+    "theology"
+   ],
+   "src": [
+    "pa-019",
+    "pa-067"
+   ],
+   "stops": [
+    {
+     "from": 860,
+     "to": 876,
+     "kind": "study",
+     "place": "Auxerre",
+     "lat": 47.7986,
+     "lon": 3.5673,
+     "inst": "c-auxerre",
+     "note": "Studied under Heiric at Saint-Germain.",
+     "src": [
+      "pa-019",
+      "pa-067"
+     ],
+     "approx": true
+    },
+    {
+     "from": 876,
+     "to": 883,
+     "kind": "teach",
+     "place": "Auxerre",
+     "lat": 47.7986,
+     "lon": 3.5673,
+     "inst": "c-auxerre",
+     "note": "Succeeded Heiric as master in 876.",
+     "src": [
+      "pa-067"
+     ]
+    },
+    {
+     "from": 883,
+     "to": 900,
+     "kind": "teach",
+     "place": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317,
+     "inst": "c-reims",
+     "note": "Called to Reims by Archbishop Fulco c. 883 to restore the cathedral school (earlier than the atlas start of 893).",
+     "src": [
+      "pa-019",
+      "pa-067"
+     ],
+     "approx": true
+    },
+    {
+     "from": 900,
+     "to": 908,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Probably moved to Paris after Fulco's death in 900; his school there is the first recorded in the city.",
+     "src": [
+      "pa-067"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "heiric-of-auxerre",
+     "inst": "c-auxerre",
+     "place": "Auxerre",
+     "from": 860,
+     "to": 876,
+     "kind": "teacher",
+     "src": [
+      "pa-019",
+      "pa-067"
+     ]
+    },
+    {
+     "id": "dunchad-of-reims",
+     "inst": null,
+     "place": "Reims",
+     "from": 860,
+     "to": 876,
+     "kind": "teacher",
+     "src": [
+      "pa-019"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "dunchad-of-reims",
+   "name": "Dunchad of Reims",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Irish teacher named as a master of Remigius of Auxerre.",
+   "src": [
+    "pa-019"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "odo-of-cluny",
+   "name": "Odo of Cluny",
+   "born": 878,
+   "born_approx": true,
+   "died": 942,
+   "died_approx": true,
+   "bio": "Abbot of Cluny who studied under Remigius of Auxerre in Paris.",
+   "src": [
+    "pa-067"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "remigius-of-auxerre",
+     "inst": null,
+     "place": "Paris",
+     "from": 900,
+     "to": 908,
+     "kind": "teacher",
+     "src": [
+      "pa-067"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "asser",
+   "name": "Asser",
+   "born": null,
+   "born_approx": null,
+   "died": 909,
+   "died_approx": false,
+   "bio": "Welsh monk of St Davids who joined Alfred the Great's court, wrote his Life and became Bishop of Sherborne.",
+   "fields": [
+    "history",
+    "theology"
+   ],
+   "src": [
+    "pa-018"
+   ],
+   "stops": [
+    {
+     "from": 860,
+     "to": 884,
+     "kind": "study",
+     "place": "St Davids",
+     "lat": 51.8812,
+     "lon": -5.266,
+     "inst": null,
+     "note": "Brought up and educated in the clerical community of St Davids; later its bishop.",
+     "src": [
+      "pa-018"
+     ],
+     "approx": true
+    },
+    {
+     "from": 885,
+     "to": 899,
+     "kind": "office",
+     "place": "Winchester",
+     "lat": 51.0632,
+     "lon": -1.308,
+     "inst": "p-winchester",
+     "note": "Entered Alfred's service c. 884, dividing his year between the court and St Davids; given charge of Devon and Cornwall and later made Bishop of Sherborne.",
+     "src": [
+      "pa-018"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "bruno-of-cologne",
+   "name": "Bruno of Cologne",
+   "born": 925,
+   "born_approx": false,
+   "died": 965,
+   "died_approx": false,
+   "bio": "Brother of Otto I, royal chancellor and Archbishop of Cologne, known as Bruno the Great.",
+   "fields": [
+    "theology",
+    "government"
+   ],
+   "src": [
+    "pa-020"
+   ],
+   "stops": [
+    {
+     "from": 925,
+     "to": 925,
+     "kind": "birth",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-020"
+     ]
+    },
+    {
+     "from": 932,
+     "to": 939,
+     "kind": "study",
+     "place": "Utrecht",
+     "lat": 52.0907,
+     "lon": 5.1214,
+     "inst": "c-utrecht",
+     "note": "Studied at the cathedral school of Utrecht.",
+     "src": [
+      "pa-020"
+     ],
+     "approx": true
+    },
+    {
+     "from": 940,
+     "to": 953,
+     "kind": "office",
+     "place": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839,
+     "inst": "p-aachen-ottonian",
+     "note": "Educated at Otto's court school; chancellor from 940.",
+     "src": [
+      "pa-020"
+     ]
+    },
+    {
+     "from": 951,
+     "to": 951,
+     "kind": "travel",
+     "place": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582,
+     "inst": null,
+     "note": "Accompanied Otto to Italy.",
+     "src": [
+      "pa-020"
+     ]
+    },
+    {
+     "from": 953,
+     "to": 965,
+     "kind": "office",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": null,
+     "note": "Archbishop of Cologne and Duke of Lorraine.",
+     "src": [
+      "pa-020"
+     ]
+    },
+    {
+     "from": 965,
+     "to": 965,
+     "kind": "death",
+     "place": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317,
+     "inst": null,
+     "note": "Died on a mission to France.",
+     "src": [
+      "pa-020"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "gerbert-of-aurillac",
+   "name": "Gerbert of Aurillac",
+   "born": 946,
+   "born_approx": true,
+   "died": 1003,
+   "died_approx": false,
+   "bio": "Teacher of mathematics and logic at Reims who became Pope Sylvester II.",
+   "fields": [
+    "mathematics",
+    "astronomy",
+    "logic"
+   ],
+   "src": [
+    "pa-021"
+   ],
+   "stops": [
+    {
+     "from": 946,
+     "to": 946,
+     "kind": "birth",
+     "place": "Aurillac",
+     "lat": 44.9264,
+     "lon": 2.44,
+     "inst": null,
+     "note": "Born at Belliac (now Saint-Simon) near Aurillac.",
+     "src": [
+      "pa-021"
+     ],
+     "approx": true
+    },
+    {
+     "from": 963,
+     "to": 967,
+     "kind": "study",
+     "place": "Aurillac",
+     "lat": 44.9264,
+     "lon": 2.44,
+     "inst": null,
+     "note": "Monk of Saint-Géraud, studying under Raymond de Lavaur.",
+     "src": [
+      "pa-021"
+     ],
+     "approx": true
+    },
+    {
+     "from": 967,
+     "to": 970,
+     "kind": "study",
+     "place": "Vic",
+     "lat": 41.9302,
+     "lon": 2.2546,
+     "inst": "c-vic",
+     "note": "Three years at the cathedral school of Vic under Bishop Atto.",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "from": 970,
+     "to": 972,
+     "kind": "travel",
+     "place": "Rome",
+     "lat": 41.9028,
+     "lon": 12.4964,
+     "inst": null,
+     "note": "Taken to Rome by Count Borrell; met Pope John XIII and became tutor to Otto I's son.",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "from": 972,
+     "to": 983,
+     "kind": "teach",
+     "place": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317,
+     "inst": "c-reims",
+     "note": "Studied logic with Garamnus, then headed the cathedral school under Archbishop Adalbero.",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "from": 980,
+     "to": 980,
+     "kind": "travel",
+     "place": "Ravenna",
+     "lat": 44.4184,
+     "lon": 12.2035,
+     "inst": null,
+     "note": "Won a disputation against Otric of Magdeburg before Otto II.",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "from": 983,
+     "to": 984,
+     "kind": "office",
+     "place": "Bobbio",
+     "lat": 44.7712,
+     "lon": 9.3861,
+     "inst": null,
+     "note": "Abbot of Bobbio.",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "from": 984,
+     "to": 995,
+     "kind": "office",
+     "place": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317,
+     "inst": "c-reims",
+     "note": "Returned to Reims; archbishop 991-995.",
+     "src": [
+      "pa-021"
+     ],
+     "approx": true
+    },
+    {
+     "from": 998,
+     "to": 999,
+     "kind": "office",
+     "place": "Ravenna",
+     "lat": 44.4184,
+     "lon": 12.2035,
+     "inst": null,
+     "note": "Archbishop of Ravenna.",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "from": 999,
+     "to": 1003,
+     "kind": "office",
+     "place": "Rome",
+     "lat": 41.9028,
+     "lon": 12.4964,
+     "inst": null,
+     "note": "Pope Sylvester II from 9 April 999.",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "from": 1003,
+     "to": 1003,
+     "kind": "death",
+     "place": "Rome",
+     "lat": 41.9028,
+     "lon": 12.4964,
+     "inst": null,
+     "note": "Died 12 May 1003.",
+     "src": [
+      "pa-021"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "raymond-of-lavaur",
+     "inst": null,
+     "place": "Aurillac",
+     "from": 963,
+     "to": 967,
+     "kind": "teacher",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "id": "atto-of-vic",
+     "inst": "c-vic",
+     "place": "Vic",
+     "from": 967,
+     "to": 970,
+     "kind": "teacher",
+     "src": [
+      "pa-021"
+     ]
+    },
+    {
+     "id": "garamnus-of-reims",
+     "inst": "c-reims",
+     "place": "Reims",
+     "from": 972,
+     "to": 975,
+     "kind": "teacher",
+     "src": [
+      "pa-021"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "raymond-of-lavaur",
+   "name": "Raymond de Lavaur",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Monk of Saint-Géraud at Aurillac, Gerbert's first teacher.",
+   "src": [
+    "pa-021"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "atto-of-vic",
+   "name": "Atto of Vic",
+   "born": null,
+   "born_approx": true,
+   "died": 971,
+   "died_approx": true,
+   "bio": "Bishop of Vic under whom Gerbert studied.",
+   "src": [
+    "pa-021"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "garamnus-of-reims",
+   "name": "Garamnus",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Logician with whom Gerbert studied logic at Reims.",
+   "src": [
+    "pa-021"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "richer-of-saint-remi",
+   "name": "Richer of Saint-Remi",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Monk of Reims and historian, pupil of Gerbert.",
+   "src": [
+    "pa-021"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "gerbert-of-aurillac",
+     "inst": "c-reims",
+     "place": "Reims",
+     "from": 972,
+     "to": 991,
+     "kind": "teacher",
+     "src": [
+      "pa-021"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "abbo-of-fleury",
+   "name": "Abbo of Fleury",
+   "born": 945,
+   "born_approx": true,
+   "died": 1004,
+   "died_approx": false,
+   "bio": "Monk and abbot of Fleury, scholar of mathematics and astronomy, who also directed the school of Ramsey in England.",
+   "fields": [
+    "mathematics",
+    "astronomy",
+    "canon law"
+   ],
+   "src": [
+    "pa-022"
+   ],
+   "stops": [
+    {
+     "from": 945,
+     "to": 945,
+     "kind": "birth",
+     "place": "Orléans",
+     "lat": 47.9029,
+     "lon": 1.9093,
+     "inst": null,
+     "note": "Born near Orléans.",
+     "src": [
+      "pa-022"
+     ],
+     "approx": true
+    },
+    {
+     "from": 985,
+     "to": 987,
+     "kind": "teach",
+     "place": "Ramsey",
+     "lat": 52.45,
+     "lon": -0.105,
+     "inst": "c-ramsey",
+     "note": "Called to England to direct the school of the new monastery of Ramsey; the source gives no years.",
+     "src": [
+      "pa-022"
+     ],
+     "approx": true
+    },
+    {
+     "from": 988,
+     "to": 1004,
+     "kind": "office",
+     "place": "Saint-Benoît-sur-Loire",
+     "lat": 47.81,
+     "lon": 2.305,
+     "inst": "c-fleury",
+     "note": "Abbot of Fleury, his election confirmed with Gerbert's help; the source gives no year.",
+     "src": [
+      "pa-022"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1004,
+     "to": 1004,
+     "kind": "death",
+     "place": "La Réole",
+     "lat": 44.5833,
+     "lon": -0.0333,
+     "inst": null,
+     "note": "Killed while trying to restore discipline at La Réole.",
+     "src": [
+      "pa-022"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "aimoin-of-fleury",
+   "name": "Aimoin of Fleury",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Monk of Fleury, disciple and biographer of Abbo.",
+   "src": [
+    "pa-022"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "abbo-of-fleury",
+     "inst": "c-fleury",
+     "place": "Saint-Benoît-sur-Loire",
+     "from": 988,
+     "to": 1004,
+     "kind": "teacher",
+     "src": [
+      "pa-022"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "fulbert-of-chartres",
+   "name": "Fulbert of Chartres",
+   "born": 960,
+   "born_approx": true,
+   "died": 1028,
+   "died_approx": true,
+   "bio": "Pupil of Gerbert who made the cathedral school of Chartres a leading centre of learning and became its bishop.",
+   "fields": [
+    "theology",
+    "liberal arts"
+   ],
+   "src": [
+    "pa-023"
+   ],
+   "stops": [
+    {
+     "from": 980,
+     "to": 989,
+     "kind": "study",
+     "place": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317,
+     "inst": "c-reims",
+     "note": "Studied at Reims under Gerbert.",
+     "src": [
+      "pa-023"
+     ],
+     "approx": true
+    },
+    {
+     "from": 990,
+     "to": 1007,
+     "kind": "teach",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": "c-chartres",
+     "note": "Opened a school at Chartres in 990; chancellor of the church of Chartres.",
+     "src": [
+      "pa-023"
+     ]
+    },
+    {
+     "from": 1007,
+     "to": 1028,
+     "kind": "office",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": "c-chartres",
+     "note": "Bishop of Chartres from 1007.",
+     "src": [
+      "pa-023"
+     ]
+    },
+    {
+     "from": 1028,
+     "to": 1028,
+     "kind": "death",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": null,
+     "note": "Died 10 April 1028 or 1029.",
+     "src": [
+      "pa-023"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "gerbert-of-aurillac",
+     "inst": "c-reims",
+     "place": "Reims",
+     "from": 980,
+     "to": 989,
+     "kind": "teacher",
+     "src": [
+      "pa-023"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "berengar-of-tours",
+   "name": "Berengar of Tours",
+   "born": 999,
+   "born_approx": true,
+   "died": 1088,
+   "died_approx": true,
+   "bio": "Theologian and pupil of Fulbert at Chartres.",
+   "src": [
+    "pa-023"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "fulbert-of-chartres",
+     "inst": "c-chartres",
+     "place": "Chartres",
+     "from": 1010,
+     "to": 1028,
+     "kind": "teacher",
+     "src": [
+      "pa-023"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "lanfranc",
+   "name": "Lanfranc",
+   "born": 1005,
+   "born_approx": true,
+   "died": 1089,
+   "died_approx": false,
+   "bio": "Lawyer from Pavia who taught at Avranches and Bec and became Archbishop of Canterbury under William the Conqueror.",
+   "fields": [
+    "theology",
+    "law"
+   ],
+   "src": [
+    "pa-025"
+   ],
+   "stops": [
+    {
+     "from": 1005,
+     "to": 1005,
+     "kind": "birth",
+     "place": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-025"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1020,
+     "to": 1035,
+     "kind": "study",
+     "place": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582,
+     "inst": "m-pavia-law",
+     "note": "Trained and worked as a lawyer before leaving Italy; years approximate.",
+     "src": [
+      "pa-025"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1039,
+     "to": 1042,
+     "kind": "teach",
+     "place": "Avranches",
+     "lat": 48.6844,
+     "lon": -1.3569,
+     "inst": null,
+     "note": "Founded a school at Avranches.",
+     "src": [
+      "pa-025"
+     ]
+    },
+    {
+     "from": 1042,
+     "to": 1063,
+     "kind": "teach",
+     "place": "Le Bec-Hellouin",
+     "lat": 49.2333,
+     "lon": 0.7167,
+     "inst": "c-bec",
+     "note": "Monk of Bec; after three years of seclusion became prior and taught in its school.",
+     "src": [
+      "pa-025"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1063,
+     "to": 1070,
+     "kind": "office",
+     "place": "Caen",
+     "lat": 49.1829,
+     "lon": -0.3707,
+     "inst": null,
+     "note": "First abbot of Saint-Étienne, Caen.",
+     "src": [
+      "pa-025"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1070,
+     "to": 1089,
+     "kind": "office",
+     "place": "Canterbury",
+     "lat": 51.2802,
+     "lon": 1.0789,
+     "inst": "c-canterbury",
+     "note": "Archbishop of Canterbury; reorganised the English church.",
+     "src": [
+      "pa-025"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "anselm-of-canterbury",
+   "name": "Anselm of Canterbury",
+   "born": 1033,
+   "born_approx": false,
+   "died": 1109,
+   "died_approx": false,
+   "bio": "Monk, prior and abbot of Bec and later Archbishop of Canterbury, author of the ontological argument.",
+   "fields": [
+    "theology",
+    "philosophy"
+   ],
+   "src": [
+    "pa-024"
+   ],
+   "stops": [
+    {
+     "from": 1033,
+     "to": 1033,
+     "kind": "birth",
+     "place": "Aosta",
+     "lat": 45.737,
+     "lon": 7.3206,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-024"
+     ]
+    },
+    {
+     "from": 1056,
+     "to": 1059,
+     "kind": "travel",
+     "place": "Le Bec-Hellouin",
+     "lat": 49.2333,
+     "lon": 0.7167,
+     "inst": null,
+     "note": "Left home at 23 and travelled through Burgundy and France before reaching Normandy in 1059.",
+     "src": [
+      "pa-024"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1060,
+     "to": 1063,
+     "kind": "study",
+     "place": "Le Bec-Hellouin",
+     "lat": 49.2333,
+     "lon": 0.7167,
+     "inst": "c-bec",
+     "note": "Novice at Bec under Lanfranc, prior and head of its school.",
+     "src": [
+      "pa-024"
+     ]
+    },
+    {
+     "from": 1063,
+     "to": 1093,
+     "kind": "teach",
+     "place": "Le Bec-Hellouin",
+     "lat": 49.2333,
+     "lon": 0.7167,
+     "inst": "c-bec",
+     "note": "Prior of Bec from 1063, abbot from 1078.",
+     "src": [
+      "pa-024"
+     ]
+    },
+    {
+     "from": 1093,
+     "to": 1109,
+     "kind": "office",
+     "place": "Canterbury",
+     "lat": 51.2802,
+     "lon": 1.0789,
+     "inst": "c-canterbury",
+     "note": "Archbishop of Canterbury; in exile 1097-1100 and 1103-1107.",
+     "src": [
+      "pa-024"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "lanfranc",
+     "inst": "c-bec",
+     "place": "Le Bec-Hellouin",
+     "from": 1060,
+     "to": 1063,
+     "kind": "teacher",
+     "src": [
+      "pa-024"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "anselm-of-laon",
+   "name": "Anselm of Laon",
+   "born": 1050,
+   "born_approx": true,
+   "died": 1117,
+   "died_approx": false,
+   "bio": "Theologian whose school at Laon was the most famous in France around 1100; teacher of Abelard.",
+   "fields": [
+    "theology"
+   ],
+   "src": [
+    "pa-027"
+   ],
+   "stops": [
+    {
+     "from": 1065,
+     "to": 1075,
+     "kind": "study",
+     "place": "Le Bec-Hellouin",
+     "lat": 49.2333,
+     "lon": 0.7167,
+     "inst": "c-bec",
+     "note": "Educated at Bec under Anselm of Canterbury.",
+     "src": [
+      "pa-027"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1076,
+     "to": 1099,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Taught in Paris from 1076.",
+     "src": [
+      "pa-027"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1100,
+     "to": 1117,
+     "kind": "teach",
+     "place": "Laon",
+     "lat": 49.5641,
+     "lon": 3.6199,
+     "inst": "c-laon",
+     "note": "Returned to Laon around the end of the 11th century and founded a famous theological school; the atlas start of 1080 is earlier than the source suggests.",
+     "src": [
+      "pa-027"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1117,
+     "to": 1117,
+     "kind": "death",
+     "place": "Laon",
+     "lat": 49.5641,
+     "lon": 3.6199,
+     "inst": null,
+     "note": "Died 15 July 1117.",
+     "src": [
+      "pa-027"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "anselm-of-canterbury",
+     "inst": "c-bec",
+     "place": "Le Bec-Hellouin",
+     "from": 1065,
+     "to": 1075,
+     "kind": "teacher",
+     "src": [
+      "pa-027"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-italos",
+   "name": "John Italos",
+   "born": 1025,
+   "born_approx": true,
+   "died": 1082,
+   "died_approx": true,
+   "bio": "Philosopher of Calabrian origin who succeeded Psellos as chief philosopher of Constantinople and was condemned in 1082.",
+   "fields": [
+    "philosophy"
+   ],
+   "src": [
+    "pa-026",
+    "pa-075"
+   ],
+   "stops": [
+    {
+     "from": 1055,
+     "to": 1082,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-pandidakterion",
+     "note": "Pupil of Michael Psellos; succeeded him as first philosopher of Constantinople. Held court favour under Michael VII (1071-78).",
+     "src": [
+      "pa-026"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1082,
+     "to": 1082,
+     "kind": "exile",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Condemned by a synod and confined to a monastery.",
+     "src": [
+      "pa-026"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "michael-psellos",
+     "inst": null,
+     "place": "Constantinople",
+     "from": 1050,
+     "to": 1055,
+     "kind": "teacher",
+     "src": [
+      "pa-026",
+      "pa-075"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "constantine-the-african",
+   "name": "Constantine the African",
+   "born": 1020,
+   "born_approx": true,
+   "died": 1087,
+   "died_approx": true,
+   "bio": "North African physician who translated Arabic medical works into Latin at Salerno and Monte Cassino.",
+   "fields": [
+    "medicine",
+    "translation"
+   ],
+   "src": [
+    "pa-028",
+    "pa-029"
+   ],
+   "stops": [
+    {
+     "from": 1020,
+     "to": 1020,
+     "kind": "birth",
+     "place": "Carthage",
+     "lat": 36.8528,
+     "lon": 10.3233,
+     "inst": null,
+     "note": "Born in Carthage according to Peter the Deacon; Britannica allows Carthage or Sicily.",
+     "src": [
+      "pa-028",
+      "pa-029"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1077,
+     "to": 1080,
+     "kind": "study",
+     "place": "Salerno",
+     "lat": 40.6824,
+     "lon": 14.7681,
+     "inst": "m-salerno",
+     "note": "At Salerno; Treccani considers his arrival probably earlier than 1076-77.",
+     "src": [
+      "pa-028",
+      "pa-029"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1077,
+     "to": 1087,
+     "kind": "research",
+     "place": "Monte Cassino",
+     "lat": 41.49,
+     "lon": 13.8139,
+     "inst": "c-monte-cassino",
+     "note": "Monk of Monte Cassino under Abbot Desiderius (1058-1086), where he translated.",
+     "src": [
+      "pa-028",
+      "pa-029"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1087,
+     "to": 1087,
+     "kind": "death",
+     "place": "Monte Cassino",
+     "lat": 41.49,
+     "lon": 13.8139,
+     "inst": null,
+     "note": "Died 22 December; Britannica gives 1087, Treccani says the year is unknown.",
+     "src": [
+      "pa-028",
+      "pa-029"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "johannes-afflacius",
+   "name": "Johannes Afflacius",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Monk of Monte Cassino and pupil of Constantine the African.",
+   "src": [
+    "pa-029"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "constantine-the-african",
+     "inst": "c-monte-cassino",
+     "place": "Monte Cassino",
+     "from": 1077,
+     "to": 1087,
+     "kind": "teacher",
+     "src": [
+      "pa-029"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "irnerius",
+   "name": "Irnerius",
+   "born": 1050,
+   "born_approx": true,
+   "died": 1130,
+   "died_approx": true,
+   "bio": "Founder of the Bologna school of Roman law, the first of the glossators.",
+   "fields": [
+    "law"
+   ],
+   "src": [
+    "pa-030"
+   ],
+   "stops": [
+    {
+     "from": 1050,
+     "to": 1050,
+     "kind": "birth",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-030"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1084,
+     "to": 1125,
+     "kind": "teach",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Taught rhetoric, then founded his school of jurisprudence at Bologna in 1084.",
+     "src": [
+      "pa-030"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1130,
+     "to": 1130,
+     "kind": "death",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-030"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "gratian",
+   "name": "Gratian",
+   "born": null,
+   "born_approx": null,
+   "died": 1160,
+   "died_approx": true,
+   "bio": "Monk and canonist at Bologna who compiled the Decretum, the foundation of canon law.",
+   "fields": [
+    "canon law"
+   ],
+   "src": [
+    "pa-032"
+   ],
+   "stops": [
+    {
+     "from": 1130,
+     "to": 1150,
+     "kind": "teach",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Taught at Bologna in the monastery of SS. Felice e Nabore; the Decretum dates from c. 1140.",
+     "src": [
+      "pa-032"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "peter-abelard",
+   "name": "Peter Abelard",
+   "born": 1079,
+   "born_approx": false,
+   "died": 1142,
+   "died_approx": false,
+   "bio": "Logician and theologian who taught in the Paris schools and on Mont Sainte-Geneviève.",
+   "fields": [
+    "logic",
+    "theology",
+    "philosophy"
+   ],
+   "src": [
+    "pa-031"
+   ],
+   "stops": [
+    {
+     "from": 1079,
+     "to": 1079,
+     "kind": "birth",
+     "place": "Le Pallet",
+     "lat": 47.1394,
+     "lon": -1.3375,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1100,
+     "to": 1102,
+     "kind": "study",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Studied with Roscelin and William of Champeaux.",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1102,
+     "to": 1105,
+     "kind": "teach",
+     "place": "Melun",
+     "lat": 48.5394,
+     "lon": 2.66,
+     "inst": null,
+     "note": "Lectured at Melun and Corbeil before illness sent him back to Brittany.",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1108,
+     "to": 1113,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Returned to Paris, debated William of Champeaux and taught at several schools (forerunners of the university).",
+     "src": [
+      "pa-031"
+     ]
+    },
+    {
+     "from": 1113,
+     "to": 1113,
+     "kind": "study",
+     "place": "Laon",
+     "lat": 49.5641,
+     "lon": 3.6199,
+     "inst": "c-laon",
+     "note": "Studied theology under Anselm of Laon.",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1114,
+     "to": 1117,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "c-paris-notre-dame",
+     "note": "Master at Notre-Dame until the affair with Héloïse.",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1118,
+     "to": 1121,
+     "kind": "research",
+     "place": "Saint-Denis",
+     "lat": 48.9362,
+     "lon": 2.3574,
+     "inst": null,
+     "note": "Monk of Saint-Denis.",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1121,
+     "to": 1121,
+     "kind": "travel",
+     "place": "Soissons",
+     "lat": 49.3817,
+     "lon": 3.3236,
+     "inst": null,
+     "note": "His theology condemned by a synod at Soissons.",
+     "src": [
+      "pa-031"
+     ]
+    },
+    {
+     "from": 1122,
+     "to": 1126,
+     "kind": "teach",
+     "place": "Paraclete (Ferreux-Quincey)",
+     "lat": 48.47,
+     "lon": 3.6,
+     "inst": null,
+     "note": "Taught and founded the oratory of the Paraclete.",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1126,
+     "to": 1133,
+     "kind": "office",
+     "place": "Saint-Gildas-de-Rhuys",
+     "lat": 47.5,
+     "lon": -2.8378,
+     "inst": null,
+     "note": "Abbot of Saint-Gildas.",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1133,
+     "to": 1140,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "c-paris-ste-genevieve",
+     "note": "Taught on Mont Sainte-Geneviève in the mid-1130s; the atlas range 1110-1136 also covers his earlier Paris teaching.",
+     "src": [
+      "pa-031"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1140,
+     "to": 1140,
+     "kind": "travel",
+     "place": "Sens",
+     "lat": 48.1975,
+     "lon": 3.2833,
+     "inst": null,
+     "note": "Council of Sens condemned nineteen propositions.",
+     "src": [
+      "pa-031"
+     ]
+    },
+    {
+     "from": 1140,
+     "to": 1142,
+     "kind": "exile",
+     "place": "Cluny",
+     "lat": 46.4344,
+     "lon": 4.6592,
+     "inst": null,
+     "note": "Under Peter the Venerable's protection at Cluny and then Saint-Marcel.",
+     "src": [
+      "pa-031"
+     ]
+    },
+    {
+     "from": 1142,
+     "to": 1142,
+     "kind": "death",
+     "place": "Saint-Marcel (Chalon-sur-Saône)",
+     "lat": 46.7806,
+     "lon": 4.8539,
+     "inst": null,
+     "note": "Died 21 April 1142.",
+     "src": [
+      "pa-031"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "roscelin-of-compiegne",
+     "inst": null,
+     "place": "France",
+     "from": 1095,
+     "to": 1100,
+     "kind": "teacher",
+     "src": [
+      "pa-031"
+     ]
+    },
+    {
+     "id": "william-of-champeaux",
+     "inst": null,
+     "place": "Paris",
+     "from": 1100,
+     "to": 1102,
+     "kind": "teacher",
+     "src": [
+      "pa-031"
+     ]
+    },
+    {
+     "id": "anselm-of-laon",
+     "inst": "c-laon",
+     "place": "Laon",
+     "from": 1113,
+     "to": 1113,
+     "kind": "teacher",
+     "src": [
+      "pa-031",
+      "pa-027"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "roscelin-of-compiegne",
+   "name": "Roscelin of Compiègne",
+   "born": 1050,
+   "born_approx": true,
+   "died": 1125,
+   "died_approx": true,
+   "bio": "Logician, an early teacher of Abelard.",
+   "src": [
+    "pa-031"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "william-of-champeaux",
+   "name": "William of Champeaux",
+   "born": 1070,
+   "born_approx": true,
+   "died": 1122,
+   "died_approx": true,
+   "bio": "Paris master and teacher of Abelard.",
+   "src": [
+    "pa-031"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "bernard-of-chartres",
+   "name": "Bernard of Chartres",
+   "born": null,
+   "born_approx": null,
+   "died": 1130,
+   "died_approx": true,
+   "bio": "Breton master of grammar and logic at the cathedral school of Chartres.",
+   "fields": [
+    "grammar",
+    "philosophy"
+   ],
+   "src": [
+    "pa-037"
+   ],
+   "stops": [
+    {
+     "from": 1114,
+     "to": 1124,
+     "kind": "teach",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": "c-chartres",
+     "note": "Taught logic and grammar from 1114; chancellor of the school from 1119.",
+     "src": [
+      "pa-037"
+     ]
+    },
+    {
+     "from": 1124,
+     "to": 1130,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Apparently called to teach philosophy in Paris in 1124.",
+     "src": [
+      "pa-037"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "thierry-of-chartres",
+   "name": "Thierry of Chartres",
+   "born": null,
+   "born_approx": null,
+   "died": 1150,
+   "died_approx": true,
+   "bio": "Master at Chartres and Paris, brother of Bernard of Chartres and teacher of John of Salisbury.",
+   "fields": [
+    "philosophy",
+    "liberal arts"
+   ],
+   "src": [
+    "pa-037",
+    "pa-033"
+   ],
+   "stops": [
+    {
+     "from": 1121,
+     "to": 1150,
+     "kind": "teach",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": "c-chartres",
+     "note": "Taught at the cathedral school of Chartres alongside his brother Bernard; later its chancellor.",
+     "src": [
+      "pa-037"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "william-of-conches",
+   "name": "William of Conches",
+   "born": 1100,
+   "born_approx": true,
+   "died": 1154,
+   "died_approx": false,
+   "bio": "Norman philosopher and grammarian, pupil of Bernard of Chartres, teacher in Chartres and Paris and tutor to the future Henry II.",
+   "fields": [
+    "natural philosophy",
+    "grammar"
+   ],
+   "src": [
+    "pa-036"
+   ],
+   "stops": [
+    {
+     "from": 1100,
+     "to": 1100,
+     "kind": "birth",
+     "place": "Conches-en-Ouche",
+     "lat": 48.9578,
+     "lon": 0.9417,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-036"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1115,
+     "to": 1120,
+     "kind": "study",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": "c-chartres",
+     "note": "Pupil of Bernard of Chartres.",
+     "src": [
+      "pa-036"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1120,
+     "to": 1154,
+     "kind": "teach",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": "c-chartres",
+     "note": "Taught at Chartres and Paris; tutor to Henry Plantagenet.",
+     "src": [
+      "pa-036"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "bernard-of-chartres",
+     "inst": "c-chartres",
+     "place": "Chartres",
+     "from": 1115,
+     "to": 1120,
+     "kind": "teacher",
+     "src": [
+      "pa-036"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hugh-of-st-victor",
+   "name": "Hugh of St Victor",
+   "born": 1096,
+   "born_approx": false,
+   "died": 1141,
+   "died_approx": false,
+   "bio": "Augustinian canon whose teaching made the school of Saint-Victor in Paris famous.",
+   "fields": [
+    "theology",
+    "philosophy"
+   ],
+   "src": [
+    "pa-034"
+   ],
+   "stops": [
+    {
+     "from": 1105,
+     "to": 1115,
+     "kind": "study",
+     "place": "Hamersleben",
+     "lat": 52.02,
+     "lon": 11.065,
+     "inst": null,
+     "note": "Joined the Augustinian canons of Hamersleben near Halberstadt.",
+     "src": [
+      "pa-034"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1115,
+     "to": 1141,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "c-paris-st-victor",
+     "note": "Came to Saint-Victor c. 1115; the school flourished under his guidance from 1133.",
+     "src": [
+      "pa-034"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1141,
+     "to": 1141,
+     "kind": "death",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Died 11 February 1141.",
+     "src": [
+      "pa-034"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "peter-lombard",
+   "name": "Peter Lombard",
+   "born": 1100,
+   "born_approx": true,
+   "died": 1160,
+   "died_approx": false,
+   "bio": "Theologian at the Notre-Dame school in Paris, author of the Sentences and Bishop of Paris.",
+   "fields": [
+    "theology"
+   ],
+   "src": [
+    "pa-035"
+   ],
+   "stops": [
+    {
+     "from": 1100,
+     "to": 1100,
+     "kind": "birth",
+     "place": "Novara",
+     "lat": 45.4469,
+     "lon": 8.6219,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-035"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1115,
+     "to": 1125,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "Early schooling at Bologna.",
+     "src": [
+      "pa-035"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1125,
+     "to": 1135,
+     "kind": "study",
+     "place": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317,
+     "inst": "c-reims",
+     "note": "Studied in France at Reims and Paris.",
+     "src": [
+      "pa-035"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1136,
+     "to": 1144,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "c-paris-notre-dame",
+     "note": "Taught theology at the school of Notre-Dame (the source gives 1136-1150).",
+     "src": [
+      "pa-035"
+     ]
+    },
+    {
+     "from": 1144,
+     "to": 1159,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Canon of Notre-Dame from 1144-45; taught until 1150 in the Paris schools from which the university grew.",
+     "src": [
+      "pa-035"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1159,
+     "to": 1160,
+     "kind": "office",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Bishop of Paris from June 1159.",
+     "src": [
+      "pa-035"
+     ]
+    },
+    {
+     "from": 1160,
+     "to": 1160,
+     "kind": "death",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Died 21/22 August 1160.",
+     "src": [
+      "pa-035"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "gerard-of-cremona",
+   "name": "Gerard of Cremona",
+   "born": 1114,
+   "born_approx": true,
+   "died": 1187,
+   "died_approx": false,
+   "bio": "Italian translator who rendered some 80 scientific works from Arabic into Latin at Toledo.",
+   "fields": [
+    "translation",
+    "astronomy",
+    "medicine"
+   ],
+   "src": [
+    "pa-038"
+   ],
+   "stops": [
+    {
+     "from": 1114,
+     "to": 1114,
+     "kind": "birth",
+     "place": "Cremona",
+     "lat": 45.1333,
+     "lon": 10.0227,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-038"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1144,
+     "to": 1187,
+     "kind": "research",
+     "place": "Toledo",
+     "lat": 39.8628,
+     "lon": -4.0273,
+     "inst": "c-toledo",
+     "note": "Went to Toledo to learn Arabic and read Ptolemy's Almagest (translation finished 1175); stayed for the rest of his life. Arrival year approximate.",
+     "src": [
+      "pa-038"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1187,
+     "to": 1187,
+     "kind": "death",
+     "place": "Toledo",
+     "lat": 39.8628,
+     "lon": -4.0273,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-038"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "eustathios-of-thessalonica",
+   "name": "Eustathios of Thessalonica",
+   "born": 1115,
+   "born_approx": true,
+   "died": 1194,
+   "died_approx": true,
+   "bio": "Byzantine scholar of Homer who taught rhetoric at the Patriarchal school and became Archbishop of Thessalonica.",
+   "fields": [
+    "rhetoric",
+    "classics"
+   ],
+   "src": [
+    "pa-039"
+   ],
+   "stops": [
+    {
+     "from": 1140,
+     "to": 1166,
+     "kind": "study",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Monk of the monastery of St Florus.",
+     "src": [
+      "pa-039"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1166,
+     "to": 1175,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-patriarchal-academy",
+     "note": "Taught rhetoric at the Patriarchal school as deacon of Hagia Sophia.",
+     "src": [
+      "pa-039"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1175,
+     "to": 1194,
+     "kind": "office",
+     "place": "Thessalonica",
+     "lat": 40.6401,
+     "lon": 22.9444,
+     "inst": null,
+     "note": "Archbishop of Thessalonica; negotiated with the Normans during the sack of 1185.",
+     "src": [
+      "pa-039"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1194,
+     "to": 1194,
+     "kind": "death",
+     "place": "Thessalonica",
+     "lat": 40.6401,
+     "lon": 22.9444,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-039"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "john-of-salisbury",
+   "name": "John of Salisbury",
+   "born": 1117,
+   "born_approx": true,
+   "died": 1180,
+   "died_approx": false,
+   "bio": "English scholar, secretary to two archbishops of Canterbury, author of the Policraticus and Bishop of Chartres.",
+   "fields": [
+    "philosophy",
+    "political thought"
+   ],
+   "src": [
+    "pa-033"
+   ],
+   "stops": [
+    {
+     "from": 1117,
+     "to": 1117,
+     "kind": "birth",
+     "place": "Old Sarum",
+     "lat": 51.093,
+     "lon": -1.805,
+     "inst": null,
+     "note": "Born c. 1115-1120.",
+     "src": [
+      "pa-033"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1136,
+     "to": 1148,
+     "kind": "study",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "c-paris-ste-genevieve",
+     "note": "About twelve years of study, beginning at Mont-Sainte-Geneviève in 1136.",
+     "src": [
+      "pa-033"
+     ]
+    },
+    {
+     "from": 1148,
+     "to": 1161,
+     "kind": "office",
+     "place": "Canterbury",
+     "lat": 51.2802,
+     "lon": 1.0789,
+     "inst": null,
+     "note": "Secretary to Archbishop Theobald; also at the papal curia under Eugenius III.",
+     "src": [
+      "pa-033"
+     ]
+    },
+    {
+     "from": 1163,
+     "to": 1170,
+     "kind": "exile",
+     "place": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317,
+     "inst": null,
+     "note": "Much of the 1160s in exile in France or at the papal court in support of Becket.",
+     "src": [
+      "pa-033"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1176,
+     "to": 1180,
+     "kind": "office",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": "c-chartres",
+     "note": "Bishop of Chartres.",
+     "src": [
+      "pa-033"
+     ]
+    },
+    {
+     "from": 1180,
+     "to": 1180,
+     "kind": "death",
+     "place": "Chartres",
+     "lat": 48.4439,
+     "lon": 1.489,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-033"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "peter-abelard",
+     "inst": "c-paris-ste-genevieve",
+     "place": "Paris",
+     "from": 1136,
+     "to": 1137,
+     "kind": "teacher",
+     "src": [
+      "pa-033"
+     ]
+    },
+    {
+     "id": "william-of-conches",
+     "inst": null,
+     "place": "Paris",
+     "from": 1137,
+     "to": 1140,
+     "kind": "teacher",
+     "src": [
+      "pa-033"
+     ]
+    },
+    {
+     "id": "thierry-of-chartres",
+     "inst": null,
+     "place": "Paris",
+     "from": 1137,
+     "to": 1148,
+     "kind": "teacher",
+     "src": [
+      "pa-033"
+     ]
+    },
+    {
+     "id": "gilbert-of-poitiers",
+     "inst": null,
+     "place": "Paris",
+     "from": 1137,
+     "to": 1148,
+     "kind": "teacher",
+     "src": [
+      "pa-033"
+     ]
+    },
+    {
+     "id": "robert-of-melun",
+     "inst": null,
+     "place": "Paris",
+     "from": 1137,
+     "to": 1148,
+     "kind": "teacher",
+     "src": [
+      "pa-033"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "gilbert-of-poitiers",
+   "name": "Gilbert of Poitiers",
+   "born": 1085,
+   "born_approx": true,
+   "died": 1154,
+   "died_approx": true,
+   "bio": "Theologian and teacher of John of Salisbury; tried at Reims in 1148.",
+   "src": [
+    "pa-033"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "robert-of-melun",
+   "name": "Robert of Melun",
+   "born": null,
+   "born_approx": true,
+   "died": 1167,
+   "died_approx": true,
+   "bio": "Paris master and teacher of John of Salisbury.",
+   "src": [
+    "pa-033"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "azo",
+   "name": "Azo",
+   "born": 1150,
+   "born_approx": true,
+   "died": 1220,
+   "died_approx": true,
+   "bio": "Bolognese glossator of Roman law whose Summa on the Code was the standard work for centuries.",
+   "fields": [
+    "law"
+   ],
+   "src": [
+    "pa-054"
+   ],
+   "stops": [
+    {
+     "from": 1190,
+     "to": 1220,
+     "kind": "teach",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Taught civil law at Bologna for at least thirty years; documented 1190-1220. The tradition that he taught at Montpellier rests on a misreading.",
+     "src": [
+      "pa-054"
+     ]
+    },
+    {
+     "from": 1220,
+     "to": 1220,
+     "kind": "death",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "Last documented 15 July 1220; a chronicle places his death in 1220.",
+     "src": [
+      "pa-054"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "johannes-bassianus",
+     "inst": null,
+     "place": "Bologna",
+     "from": 1170,
+     "to": 1190,
+     "kind": "teacher",
+     "src": [
+      "pa-054"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "johannes-bassianus",
+   "name": "Johannes Bassianus",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Glossator from Cremona, the master of Azo.",
+   "src": [
+    "pa-054"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "jacobus-balduini",
+   "name": "Jacobus Balduini",
+   "born": null,
+   "born_approx": true,
+   "died": 1235,
+   "died_approx": true,
+   "bio": "Bolognese jurist, pupil of Azo and principal master of Odofredus.",
+   "src": [
+    "pa-054",
+    "pa-055"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "azo",
+     "inst": "u-bologna",
+     "place": "Bologna",
+     "from": 1200,
+     "to": 1213,
+     "kind": "teacher",
+     "src": [
+      "pa-054"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "accursius",
+   "name": "Accursius",
+   "born": 1182,
+   "born_approx": true,
+   "died": 1263,
+   "died_approx": true,
+   "bio": "Bolognese jurist, pupil of Azo, who compiled the Glossa ordinaria on the Corpus iuris civilis.",
+   "fields": [
+    "law"
+   ],
+   "src": [
+    "pa-054"
+   ],
+   "stops": [
+    {
+     "from": 1200,
+     "to": 1220,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Pupil of Azo at Bologna; the source does not date his own teaching (atlas: 1220-1263).",
+     "src": [
+      "pa-054"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "azo",
+     "inst": "u-bologna",
+     "place": "Bologna",
+     "from": 1200,
+     "to": 1220,
+     "kind": "teacher",
+     "src": [
+      "pa-054"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "odofredus",
+   "name": "Odofredus",
+   "born": 1200,
+   "born_approx": true,
+   "died": 1265,
+   "died_approx": false,
+   "bio": "Bolognese teacher of Roman law whose lectures preserve much of the history of the early law school.",
+   "fields": [
+    "law"
+   ],
+   "src": [
+    "pa-055"
+   ],
+   "stops": [
+    {
+     "from": 1200,
+     "to": 1200,
+     "kind": "birth",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-055"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1220,
+     "to": 1229,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Studied under Iacopo Baldovini, Ugolino and Bagarotto, before 1229-30.",
+     "src": [
+      "pa-055"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1228,
+     "to": 1234,
+     "kind": "travel",
+     "place": "France",
+     "lat": 49.43,
+     "lon": 2.08,
+     "inst": null,
+     "note": "Was in France before 1234, perhaps in the service of the bishop of Beauvais.",
+     "src": [
+      "pa-055"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1229,
+     "to": 1265,
+     "kind": "teach",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Taught at Bologna until his death; older sources date his start to 1229, unverified.",
+     "src": [
+      "pa-055"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1265,
+     "to": 1265,
+     "kind": "death",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "Died 3 December 1265.",
+     "src": [
+      "pa-055"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "jacobus-balduini",
+     "inst": "u-bologna",
+     "place": "Bologna",
+     "from": 1220,
+     "to": 1229,
+     "kind": "teacher",
+     "src": [
+      "pa-055"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "robert-grosseteste",
+   "name": "Robert Grosseteste",
+   "born": 1175,
+   "born_approx": true,
+   "died": 1253,
+   "died_approx": false,
+   "bio": "Oxford master, first lecturer to the Franciscans and Bishop of Lincoln, a pioneer of optics and scientific method.",
+   "fields": [
+    "theology",
+    "natural philosophy",
+    "optics"
+   ],
+   "src": [
+    "pa-040"
+   ],
+   "stops": [
+    {
+     "from": 1190,
+     "to": 1195,
+     "kind": "study",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": "u-oxford",
+     "note": "Educated at Oxford.",
+     "src": [
+      "pa-040"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1195,
+     "to": 1200,
+     "kind": "office",
+     "place": "Hereford",
+     "lat": 52.0565,
+     "lon": -2.716,
+     "inst": null,
+     "note": "In the household of William de Vere, bishop of Hereford.",
+     "src": [
+      "pa-040"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1215,
+     "to": 1221,
+     "kind": "office",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": "u-oxford",
+     "note": "Chancellor of Oxford.",
+     "src": [
+      "pa-040"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1229,
+     "to": 1235,
+     "kind": "teach",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": "u-oxford",
+     "note": "First lecturer in theology to the Oxford Franciscans (1229/30-1235).",
+     "src": [
+      "pa-040"
+     ]
+    },
+    {
+     "from": 1235,
+     "to": 1253,
+     "kind": "office",
+     "place": "Lincoln",
+     "lat": 53.2307,
+     "lon": -0.5406,
+     "inst": null,
+     "note": "Bishop of Lincoln.",
+     "src": [
+      "pa-040"
+     ]
+    },
+    {
+     "from": 1245,
+     "to": 1245,
+     "kind": "travel",
+     "place": "Lyon",
+     "lat": 45.764,
+     "lon": 4.8357,
+     "inst": null,
+     "note": "Council of Lyon; argued before the papal curia there in 1250.",
+     "src": [
+      "pa-040"
+     ]
+    },
+    {
+     "from": 1253,
+     "to": 1253,
+     "kind": "death",
+     "place": "Buckden",
+     "lat": 52.295,
+     "lon": -0.249,
+     "inst": null,
+     "note": "Died 9 October 1253.",
+     "src": [
+      "pa-040"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "roger-bacon",
+   "name": "Roger Bacon",
+   "born": 1214,
+   "born_approx": true,
+   "died": 1294,
+   "died_approx": true,
+   "bio": "English Franciscan philosopher and advocate of experimental science, author of the Opus maius.",
+   "fields": [
+    "natural philosophy",
+    "optics",
+    "languages"
+   ],
+   "src": [
+    "pa-041"
+   ],
+   "stops": [
+    {
+     "from": 1214,
+     "to": 1214,
+     "kind": "birth",
+     "place": "Ilchester",
+     "lat": 51.001,
+     "lon": -2.683,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-041"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1230,
+     "to": 1257,
+     "kind": "study",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": "u-oxford",
+     "note": "Studied at Oxford and Paris and taught in the Franciscan school at Oxford, shaped by Grosseteste and Adam Marsh.",
+     "src": [
+      "pa-041"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1294,
+     "to": 1294,
+     "kind": "death",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": null,
+     "note": "Perhaps 11 June 1294 (Britannica: 1292).",
+     "src": [
+      "pa-041"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "robert-grosseteste",
+     "inst": "u-oxford",
+     "place": "Oxford",
+     "from": 1230,
+     "to": 1235,
+     "kind": "mentor",
+     "src": [
+      "pa-041"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "bonaventure",
+   "name": "Bonaventure",
+   "born": 1221,
+   "born_approx": false,
+   "died": 1274,
+   "died_approx": false,
+   "bio": "Franciscan theologian at Paris, minister general of his order and cardinal.",
+   "fields": [
+    "theology",
+    "philosophy"
+   ],
+   "src": [
+    "pa-042",
+    "pa-070"
+   ],
+   "stops": [
+    {
+     "from": 1221,
+     "to": 1221,
+     "kind": "birth",
+     "place": "Bagnoregio",
+     "lat": 42.6271,
+     "lon": 12.09,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-042"
+     ]
+    },
+    {
+     "from": 1242,
+     "to": 1248,
+     "kind": "study",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Pupil of Alexander of Hales at Paris from about 1242 (the atlas start of 1235 is earlier than the source).",
+     "src": [
+      "pa-042"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1248,
+     "to": 1257,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Licensed in 1248 to teach as regent; lectures stopped in 1256; doctor with Aquinas in 1257.",
+     "src": [
+      "pa-042"
+     ]
+    },
+    {
+     "from": 1257,
+     "to": 1273,
+     "kind": "office",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Minister General of the Friars Minor from 2 February 1257.",
+     "src": [
+      "pa-042"
+     ]
+    },
+    {
+     "from": 1273,
+     "to": 1274,
+     "kind": "office",
+     "place": "Albano",
+     "lat": 41.73,
+     "lon": 12.66,
+     "inst": null,
+     "note": "Cardinal-Bishop of Albano.",
+     "src": [
+      "pa-042"
+     ]
+    },
+    {
+     "from": 1274,
+     "to": 1274,
+     "kind": "death",
+     "place": "Lyon",
+     "lat": 45.764,
+     "lon": 4.8357,
+     "inst": null,
+     "note": "Died 15 July 1274 during the Second Council of Lyon.",
+     "src": [
+      "pa-042",
+      "pa-070"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "alexander-of-hales",
+     "inst": "u-paris",
+     "place": "Paris",
+     "from": 1242,
+     "to": 1245,
+     "kind": "teacher",
+     "src": [
+      "pa-042"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "alexander-of-hales",
+   "name": "Alexander of Hales",
+   "born": 1185,
+   "born_approx": true,
+   "died": 1245,
+   "died_approx": true,
+   "bio": "Franciscan master of theology at Paris, teacher of Bonaventure.",
+   "src": [
+    "pa-042"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "albertus-magnus",
+   "name": "Albertus Magnus",
+   "born": 1200,
+   "born_approx": true,
+   "died": 1280,
+   "died_approx": false,
+   "bio": "Dominican philosopher, theologian and natural scientist, teacher of Thomas Aquinas and founder of the Cologne studium.",
+   "fields": [
+    "theology",
+    "philosophy",
+    "natural science"
+   ],
+   "src": [
+    "pa-043",
+    "pa-044",
+    "pa-071"
+   ],
+   "stops": [
+    {
+     "from": 1200,
+     "to": 1200,
+     "kind": "birth",
+     "place": "Lauingen",
+     "lat": 48.5722,
+     "lon": 10.4286,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-044",
+      "pa-071"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1220,
+     "to": 1223,
+     "kind": "study",
+     "place": "Padua",
+     "lat": 45.4064,
+     "lon": 11.8768,
+     "inst": "u-padua",
+     "note": "Likely studied arts at Padua; entered the Dominicans there in 1223.",
+     "src": [
+      "pa-043",
+      "pa-044"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1230,
+     "to": 1240,
+     "kind": "teach",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": null,
+     "note": "Studied in Cologne and lectured in the convents of Hildesheim, Freiburg, Regensburg and Strasbourg.",
+     "src": [
+      "pa-044"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1243,
+     "to": 1248,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Master of theology at Paris in 1245; taught there until 1248.",
+     "src": [
+      "pa-043",
+      "pa-044"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1248,
+     "to": 1254,
+     "kind": "teach",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": "m-cologne",
+     "note": "Founded and led the Dominican studium generale in Cologne.",
+     "src": [
+      "pa-043",
+      "pa-044"
+     ]
+    },
+    {
+     "from": 1254,
+     "to": 1257,
+     "kind": "office",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": null,
+     "note": "Prior Provincial of Teutonia.",
+     "src": [
+      "pa-043",
+      "pa-044"
+     ]
+    },
+    {
+     "from": 1260,
+     "to": 1262,
+     "kind": "office",
+     "place": "Regensburg",
+     "lat": 49.0134,
+     "lon": 12.1016,
+     "inst": null,
+     "note": "Bishop of Regensburg.",
+     "src": [
+      "pa-043",
+      "pa-044"
+     ]
+    },
+    {
+     "from": 1264,
+     "to": 1269,
+     "kind": "teach",
+     "place": "Würzburg",
+     "lat": 49.7913,
+     "lon": 9.9534,
+     "inst": null,
+     "note": "Taught in Würzburg and Strasbourg.",
+     "src": [
+      "pa-044"
+     ]
+    },
+    {
+     "from": 1270,
+     "to": 1280,
+     "kind": "teach",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": "m-cologne",
+     "note": "Returned to Cologne for good; travelled to Lyon (1274) and Paris (1277).",
+     "src": [
+      "pa-043",
+      "pa-044"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1280,
+     "to": 1280,
+     "kind": "death",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": null,
+     "note": "Died 15 November 1280.",
+     "src": [
+      "pa-043",
+      "pa-044"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "thomas-aquinas",
+   "name": "Thomas Aquinas",
+   "born": 1225,
+   "born_approx": true,
+   "died": 1274,
+   "died_approx": false,
+   "bio": "Dominican theologian and philosopher, master at Paris and author of the Summa theologiae.",
+   "fields": [
+    "theology",
+    "philosophy"
+   ],
+   "src": [
+    "pa-004",
+    "pa-044"
+   ],
+   "stops": [
+    {
+     "from": 1225,
+     "to": 1225,
+     "kind": "birth",
+     "place": "Roccasecca",
+     "lat": 41.5522,
+     "lon": 13.668,
+     "inst": null,
+     "note": "Born near Aquino; his family held the castle of Roccasecca.",
+     "src": [
+      "pa-004"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1239,
+     "to": 1244,
+     "kind": "study",
+     "place": "Naples",
+     "lat": 40.8518,
+     "lon": 14.2681,
+     "inst": "u-naples",
+     "note": "Studied in Naples as a teenager and joined the Dominicans at 19.",
+     "src": [
+      "pa-004"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1244,
+     "to": 1245,
+     "kind": "exile",
+     "place": "Roccasecca",
+     "lat": 41.5522,
+     "lon": 13.668,
+     "inst": null,
+     "note": "Confined by his family for a year.",
+     "src": [
+      "pa-004"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1245,
+     "to": 1248,
+     "kind": "study",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Studied in Paris, where he met Albert the Great.",
+     "src": [
+      "pa-004",
+      "pa-044"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1248,
+     "to": 1252,
+     "kind": "study",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": "m-cologne",
+     "note": "Studied under Albert the Great at the new Dominican studium.",
+     "src": [
+      "pa-004",
+      "pa-044"
+     ]
+    },
+    {
+     "from": 1252,
+     "to": 1259,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Bachelor lecturing on the Sentences, then master and Dominican chair of theology 1256-1259.",
+     "src": [
+      "pa-004"
+     ]
+    },
+    {
+     "from": 1259,
+     "to": 1265,
+     "kind": "teach",
+     "place": "Orvieto",
+     "lat": 42.7185,
+     "lon": 12.1107,
+     "inst": null,
+     "note": "Taught in Dominican houses of study in Italy, first at Orvieto.",
+     "src": [
+      "pa-004"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1265,
+     "to": 1268,
+     "kind": "teach",
+     "place": "Rome",
+     "lat": 41.9028,
+     "lon": 12.4964,
+     "inst": null,
+     "note": "Then in Rome.",
+     "src": [
+      "pa-004"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1268,
+     "to": 1272,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Second regency as master of theology.",
+     "src": [
+      "pa-004"
+     ]
+    },
+    {
+     "from": 1272,
+     "to": 1274,
+     "kind": "teach",
+     "place": "Naples",
+     "lat": 40.8518,
+     "lon": 14.2681,
+     "inst": "u-naples",
+     "note": "Returned to Naples.",
+     "src": [
+      "pa-004"
+     ]
+    },
+    {
+     "from": 1274,
+     "to": 1274,
+     "kind": "death",
+     "place": "Fossanova",
+     "lat": 41.4386,
+     "lon": 13.1986,
+     "inst": null,
+     "note": "Died 7 March 1274 at the Cistercian abbey.",
+     "src": [
+      "pa-004"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "albertus-magnus",
+     "inst": "u-paris",
+     "place": "Paris",
+     "from": 1245,
+     "to": 1248,
+     "kind": "teacher",
+     "src": [
+      "pa-044"
+     ]
+    },
+    {
+     "id": "albertus-magnus",
+     "inst": "m-cologne",
+     "place": "Cologne",
+     "from": 1248,
+     "to": 1252,
+     "kind": "teacher",
+     "src": [
+      "pa-004",
+      "pa-044"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "robert-de-sorbon",
+   "name": "Robert de Sorbon",
+   "born": 1201,
+   "born_approx": false,
+   "died": 1274,
+   "died_approx": false,
+   "bio": "Chaplain of Louis IX who founded the Sorbonne college for poor theology students in Paris.",
+   "fields": [
+    "theology"
+   ],
+   "src": [
+    "pa-060"
+   ],
+   "stops": [
+    {
+     "from": 1201,
+     "to": 1201,
+     "kind": "birth",
+     "place": "Sorbon",
+     "lat": 49.5167,
+     "lon": 4.35,
+     "inst": null,
+     "note": "Born 9 October 1201.",
+     "src": [
+      "pa-060"
+     ]
+    },
+    {
+     "from": 1220,
+     "to": 1250,
+     "kind": "study",
+     "place": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317,
+     "inst": null,
+     "note": "Educated at Reims and Paris.",
+     "src": [
+      "pa-060"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1251,
+     "to": 1257,
+     "kind": "office",
+     "place": "Cambrai",
+     "lat": 50.1759,
+     "lon": 3.2346,
+     "inst": null,
+     "note": "Canon of Cambrai from 1251; began teaching c. 1253.",
+     "src": [
+      "pa-060"
+     ]
+    },
+    {
+     "from": 1257,
+     "to": 1274,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Founded the Maison de Sorbonne in 1257; canon of Paris, court chaplain and chancellor of the university from 1258.",
+     "src": [
+      "pa-060"
+     ]
+    },
+    {
+     "from": 1274,
+     "to": 1274,
+     "kind": "death",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Died 15 August 1274.",
+     "src": [
+      "pa-060"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "siger-of-brabant",
+   "name": "Siger of Brabant",
+   "born": 1240,
+   "born_approx": true,
+   "died": 1284,
+   "died_approx": true,
+   "bio": "Paris arts master and leading Aristotelian whose teachings were condemned in 1270 and 1277.",
+   "fields": [
+    "philosophy"
+   ],
+   "src": [
+    "pa-045"
+   ],
+   "stops": [
+    {
+     "from": 1260,
+     "to": 1276,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Philosophy master at Paris from c. 1260 (first named 1266); prominent until 1276.",
+     "src": [
+      "pa-045"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1276,
+     "to": 1281,
+     "kind": "exile",
+     "place": "Orvieto",
+     "lat": 42.7185,
+     "lon": 12.1107,
+     "inst": null,
+     "note": "Summoned by the French inquisitor in 1276, fled to Italy, probably appealing to the papal court.",
+     "src": [
+      "pa-045"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1284,
+     "to": 1284,
+     "kind": "death",
+     "place": "Orvieto",
+     "lat": 42.7185,
+     "lon": 12.1107,
+     "inst": null,
+     "note": "Stabbed by a deranged cleric; died between 1281 and 1284.",
+     "src": [
+      "pa-045"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "george-akropolites",
+   "name": "George Akropolites",
+   "born": 1217,
+   "born_approx": false,
+   "died": 1282,
+   "died_approx": false,
+   "bio": "Byzantine historian and statesman, grand logothete of the Nicaean emperors and envoy at the Council of Lyon.",
+   "fields": [
+    "history",
+    "government"
+   ],
+   "src": [
+    "pa-062",
+    "pa-081"
+   ],
+   "stops": [
+    {
+     "from": 1217,
+     "to": 1217,
+     "kind": "birth",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-062"
+     ]
+    },
+    {
+     "from": 1233,
+     "to": 1255,
+     "kind": "study",
+     "place": "Nicaea",
+     "lat": 40.4292,
+     "lon": 29.7211,
+     "inst": "b-nicaea",
+     "note": "Reared at the Nicaean court.",
+     "src": [
+      "pa-062"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1255,
+     "to": 1261,
+     "kind": "office",
+     "place": "Nicaea",
+     "lat": 40.4292,
+     "lon": 29.7211,
+     "inst": null,
+     "note": "Grand logothete from 1255; commanded against Epirus in 1256 and was captured.",
+     "src": [
+      "pa-062"
+     ]
+    },
+    {
+     "from": 1261,
+     "to": 1273,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-pandidakterion",
+     "note": "Returned to Constantinople after its recapture in 1261 (teaching post per the atlas; Britannica does not describe it).",
+     "src": [
+      "pa-062"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1274,
+     "to": 1274,
+     "kind": "travel",
+     "place": "Lyon",
+     "lat": 45.764,
+     "lon": 4.8357,
+     "inst": null,
+     "note": "Represented Michael VIII at the Second Council of Lyon.",
+     "src": [
+      "pa-062"
+     ]
+    },
+    {
+     "from": 1282,
+     "to": 1282,
+     "kind": "death",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Died after an embassy to Trebizond.",
+     "src": [
+      "pa-062"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "nikephoros-blemmydes",
+     "inst": "b-nicaea",
+     "place": "Nicaea",
+     "from": 1235,
+     "to": 1245,
+     "kind": "teacher",
+     "src": [
+      "pa-081"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "george-pachymeres",
+   "name": "George Pachymeres",
+   "born": 1242,
+   "born_approx": false,
+   "died": 1310,
+   "died_approx": true,
+   "bio": "Byzantine historian, philosopher and teacher at the patriarchal academy of Hagia Sophia.",
+   "fields": [
+    "history",
+    "philosophy",
+    "mathematics"
+   ],
+   "src": [
+    "pa-063"
+   ],
+   "stops": [
+    {
+     "from": 1242,
+     "to": 1242,
+     "kind": "birth",
+     "place": "Nicaea",
+     "lat": 40.4292,
+     "lon": 29.7211,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-063"
+     ]
+    },
+    {
+     "from": 1262,
+     "to": 1267,
+     "kind": "study",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-pandidakterion",
+     "note": "Moved to Constantinople in 1262 (Britannica's date; the atlas gives 1261).",
+     "src": [
+      "pa-063"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1267,
+     "to": 1310,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-patriarchal-academy",
+     "note": "Ordained; taught the liberal arts at the patriarchal academy of Hagia Sophia.",
+     "src": [
+      "pa-063"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1310,
+     "to": 1310,
+     "kind": "death",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-063"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "john-duns-scotus",
+   "name": "John Duns Scotus",
+   "born": 1265,
+   "born_approx": true,
+   "died": 1308,
+   "died_approx": false,
+   "bio": "Scottish Franciscan theologian who taught at Oxford, Paris and Cologne.",
+   "fields": [
+    "theology",
+    "philosophy"
+   ],
+   "src": [
+    "pa-046"
+   ],
+   "stops": [
+    {
+     "from": 1265,
+     "to": 1265,
+     "kind": "birth",
+     "place": "Duns",
+     "lat": 55.7778,
+     "lon": -2.3439,
+     "inst": null,
+     "note": "Born 1263-1266.",
+     "src": [
+      "pa-046"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1285,
+     "to": 1287,
+     "kind": "teach",
+     "place": "Cambridge",
+     "lat": 52.2053,
+     "lon": 0.1218,
+     "inst": "u-cambridge",
+     "note": "Probably taught philosophy at Cambridge for two years.",
+     "src": [
+      "pa-046"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1287,
+     "to": 1289,
+     "kind": "study",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Probably in Paris in the Franciscan lectorate program.",
+     "src": [
+      "pa-046"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1290,
+     "to": 1301,
+     "kind": "study",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": "u-oxford",
+     "note": "Theological study at Oxford (ordained 1291); lectured on the Sentences 1298-99.",
+     "src": [
+      "pa-046"
+     ]
+    },
+    {
+     "from": 1302,
+     "to": 1303,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Lectured on the Sentences from October 1302.",
+     "src": [
+      "pa-046"
+     ]
+    },
+    {
+     "from": 1303,
+     "to": 1304,
+     "kind": "exile",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": null,
+     "note": "Expelled from France in June 1303.",
+     "src": [
+      "pa-046"
+     ]
+    },
+    {
+     "from": 1304,
+     "to": 1307,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Master of theology; regent 1306-1307.",
+     "src": [
+      "pa-046"
+     ]
+    },
+    {
+     "from": 1307,
+     "to": 1308,
+     "kind": "teach",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": "m-cologne",
+     "note": "Taught at the Franciscan studium generale in Cologne.",
+     "src": [
+      "pa-046"
+     ]
+    },
+    {
+     "from": 1308,
+     "to": 1308,
+     "kind": "death",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": null,
+     "note": "Died 8 November 1308.",
+     "src": [
+      "pa-046"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "johannes-andreae",
+   "name": "Johannes Andreae",
+   "born": 1271,
+   "born_approx": true,
+   "died": 1348,
+   "died_approx": false,
+   "bio": "Leading canonist of Bologna, author of standard commentaries on the Decretals.",
+   "fields": [
+    "canon law"
+   ],
+   "src": [
+    "pa-056"
+   ],
+   "stops": [
+    {
+     "from": 1285,
+     "to": 1298,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Studied civil and canon law; doctor of canon law 1298.",
+     "src": [
+      "pa-056"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1302,
+     "to": 1306,
+     "kind": "teach",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Teaching documented from 1302.",
+     "src": [
+      "pa-056"
+     ]
+    },
+    {
+     "from": 1306,
+     "to": 1309,
+     "kind": "teach",
+     "place": "Padua",
+     "lat": 45.4064,
+     "lon": 11.8768,
+     "inst": "u-padua",
+     "note": "Left for Padua when Bologna's university was suspended by interdict.",
+     "src": [
+      "pa-056"
+     ]
+    },
+    {
+     "from": 1309,
+     "to": 1348,
+     "kind": "teach",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Returned to Bologna in autumn 1309.",
+     "src": [
+      "pa-056"
+     ]
+    },
+    {
+     "from": 1348,
+     "to": 1348,
+     "kind": "death",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "Died of plague, 7 July 1348.",
+     "src": [
+      "pa-056"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "guido-da-baisio",
+     "inst": "u-bologna",
+     "place": "Bologna",
+     "from": 1290,
+     "to": 1298,
+     "kind": "teacher",
+     "src": [
+      "pa-056"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "guido-da-baisio",
+   "name": "Guido da Baisio",
+   "born": null,
+   "born_approx": true,
+   "died": 1313,
+   "died_approx": true,
+   "bio": "Canonist at Bologna, the 'Archdeacon', principal teacher of Johannes Andreae.",
+   "src": [
+    "pa-056"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "mondino-de-liuzzi",
+   "name": "Mondino de' Liuzzi",
+   "born": 1270,
+   "born_approx": true,
+   "died": 1326,
+   "died_approx": false,
+   "bio": "Bolognese physician whose Anathomia (1316) became the standard dissection manual.",
+   "fields": [
+    "medicine",
+    "anatomy"
+   ],
+   "src": [
+    "pa-057"
+   ],
+   "stops": [
+    {
+     "from": 1270,
+     "to": 1270,
+     "kind": "birth",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "Probably born in Bologna.",
+     "src": [
+      "pa-057"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1307,
+     "to": 1326,
+     "kind": "teach",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "First documented lectures 1307-08 (after private teaching with his uncle); city appointments 1321 and 1324.",
+     "src": [
+      "pa-057"
+     ]
+    },
+    {
+     "from": 1326,
+     "to": 1326,
+     "kind": "death",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-057"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "pietro-d-abano",
+   "name": "Pietro d'Abano",
+   "born": 1250,
+   "born_approx": true,
+   "died": 1315,
+   "died_approx": true,
+   "bio": "Paduan physician and philosopher who sought to reconcile Arabic medicine with natural philosophy.",
+   "fields": [
+    "medicine",
+    "philosophy",
+    "astrology"
+   ],
+   "src": [
+    "pa-058"
+   ],
+   "stops": [
+    {
+     "from": 1250,
+     "to": 1250,
+     "kind": "birth",
+     "place": "Abano",
+     "lat": 45.36,
+     "lon": 11.79,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-058"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1295,
+     "to": 1300,
+     "kind": "study",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "At Paris in the late 1290s, probably teaching; met Ramon Llull there in 1298.",
+     "src": [
+      "pa-058"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1300,
+     "to": 1302,
+     "kind": "travel",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Travelled to Constantinople to learn Greek.",
+     "src": [
+      "pa-058"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1306,
+     "to": 1315,
+     "kind": "teach",
+     "place": "Padua",
+     "lat": 45.4064,
+     "lon": 11.8768,
+     "inst": "u-padua",
+     "note": "Master at the Padua studium (requested 1306); faced inquisition proceedings.",
+     "src": [
+      "pa-058"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1315,
+     "to": 1315,
+     "kind": "death",
+     "place": "Padua",
+     "lat": 45.4064,
+     "lon": 11.8768,
+     "inst": null,
+     "note": "Died 1315 or 1316.",
+     "src": [
+      "pa-058"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "william-of-ockham",
+   "name": "William of Ockham",
+   "born": 1287,
+   "born_approx": true,
+   "died": 1347,
+   "died_approx": false,
+   "bio": "English Franciscan logician and political writer who fled Avignon to the court of Ludwig of Bavaria.",
+   "fields": [
+    "logic",
+    "philosophy",
+    "political thought"
+   ],
+   "src": [
+    "pa-047"
+   ],
+   "stops": [
+    {
+     "from": 1287,
+     "to": 1287,
+     "kind": "birth",
+     "place": "Ockham",
+     "lat": 51.3,
+     "lon": -0.45,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-047"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1295,
+     "to": 1317,
+     "kind": "study",
+     "place": "London",
+     "lat": 51.5074,
+     "lon": -0.1278,
+     "inst": null,
+     "note": "Given to the London Greyfriars as a boy; began theology c. 1310.",
+     "src": [
+      "pa-047"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1317,
+     "to": 1321,
+     "kind": "study",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": "u-oxford",
+     "note": "Lectured on the Sentences at Oxford from 1317 without completing his degree.",
+     "src": [
+      "pa-047"
+     ]
+    },
+    {
+     "from": 1321,
+     "to": 1324,
+     "kind": "teach",
+     "place": "London",
+     "lat": 51.5074,
+     "lon": -0.1278,
+     "inst": null,
+     "note": "Disputations at the London Greyfriars.",
+     "src": [
+      "pa-047"
+     ]
+    },
+    {
+     "from": 1324,
+     "to": 1328,
+     "kind": "travel",
+     "place": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055,
+     "inst": null,
+     "note": "Summoned to answer charges of heresy.",
+     "src": [
+      "pa-047"
+     ]
+    },
+    {
+     "from": 1328,
+     "to": 1329,
+     "kind": "exile",
+     "place": "Pisa",
+     "lat": 43.7228,
+     "lon": 10.4017,
+     "inst": null,
+     "note": "Fled Avignon with Michael of Cesena to Ludwig of Bavaria.",
+     "src": [
+      "pa-047"
+     ]
+    },
+    {
+     "from": 1329,
+     "to": 1347,
+     "kind": "exile",
+     "place": "Munich",
+     "lat": 48.1351,
+     "lon": 11.582,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-047"
+     ]
+    },
+    {
+     "from": 1347,
+     "to": 1347,
+     "kind": "death",
+     "place": "Munich",
+     "lat": 48.1351,
+     "lon": 11.582,
+     "inst": null,
+     "note": "Died 9/10 April 1347.",
+     "src": [
+      "pa-047"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "guy-de-chauliac",
+   "name": "Guy de Chauliac",
+   "born": 1300,
+   "born_approx": true,
+   "died": 1368,
+   "died_approx": false,
+   "bio": "French surgeon, physician to the Avignon popes and author of the Chirurgia magna.",
+   "fields": [
+    "medicine",
+    "surgery"
+   ],
+   "src": [
+    "pa-061"
+   ],
+   "stops": [
+    {
+     "from": 1300,
+     "to": 1300,
+     "kind": "birth",
+     "place": "Chauliac",
+     "lat": 44.7333,
+     "lon": 3.0667,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-061"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1315,
+     "to": 1325,
+     "kind": "study",
+     "place": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767,
+     "inst": "u-montpellier",
+     "note": "Studied at Toulouse, Montpellier, Paris and Bologna; years approximate.",
+     "src": [
+      "pa-061"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1342,
+     "to": 1368,
+     "kind": "office",
+     "place": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055,
+     "inst": null,
+     "note": "Physician to Pope Clement VI and two successors.",
+     "src": [
+      "pa-061"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1368,
+     "to": 1368,
+     "kind": "death",
+     "place": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055,
+     "inst": null,
+     "note": "Died 25 July 1368.",
+     "src": [
+      "pa-061"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "petrarch",
+   "name": "Petrarch",
+   "born": 1304,
+   "born_approx": false,
+   "died": 1374,
+   "died_approx": false,
+   "bio": "Italian poet and humanist scholar who studied law at Montpellier and Bologna.",
+   "fields": [
+    "poetry",
+    "humanism"
+   ],
+   "src": [
+    "pa-053",
+    "pa-072"
+   ],
+   "stops": [
+    {
+     "from": 1304,
+     "to": 1304,
+     "kind": "birth",
+     "place": "Arezzo",
+     "lat": 43.4633,
+     "lon": 11.8796,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1312,
+     "to": 1316,
+     "kind": "study",
+     "place": "Carpentras",
+     "lat": 44.0556,
+     "lon": 5.0481,
+     "inst": null,
+     "note": "Studied with Convenevole da Prato.",
+     "src": [
+      "pa-053"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1316,
+     "to": 1320,
+     "kind": "study",
+     "place": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767,
+     "inst": "u-montpellier",
+     "note": "Began law studies.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1320,
+     "to": 1326,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Studied law until his father's death in 1326.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1326,
+     "to": 1337,
+     "kind": "office",
+     "place": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055,
+     "inst": null,
+     "note": "In the service of the Colonna family.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1337,
+     "to": 1353,
+     "kind": "research",
+     "place": "Fontaine-de-Vaucluse",
+     "lat": 43.9222,
+     "lon": 5.1286,
+     "inst": null,
+     "note": "Settled at Vaucluse; crowned poet in Rome in 1341.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1353,
+     "to": 1361,
+     "kind": "office",
+     "place": "Milan",
+     "lat": 45.4642,
+     "lon": 9.19,
+     "inst": null,
+     "note": "Under the Visconti.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1362,
+     "to": 1368,
+     "kind": "research",
+     "place": "Venice",
+     "lat": 45.4408,
+     "lon": 12.3155,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1368,
+     "to": 1374,
+     "kind": "research",
+     "place": "Padua",
+     "lat": 45.4064,
+     "lon": 11.8768,
+     "inst": null,
+     "note": "Under the Carrara lords.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1374,
+     "to": 1374,
+     "kind": "death",
+     "place": "Arquà Petrarca",
+     "lat": 45.27,
+     "lon": 11.7167,
+     "inst": null,
+     "note": "Died 18/19 July 1374.",
+     "src": [
+      "pa-053",
+      "pa-072"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "convenevole-da-prato",
+     "inst": null,
+     "place": "Carpentras",
+     "from": 1312,
+     "to": 1316,
+     "kind": "teacher",
+     "src": [
+      "pa-053"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "francesco-petrarca",
+   "name": "Francesco Petrarca",
+   "born": 1304,
+   "born_approx": false,
+   "died": 1374,
+   "died_approx": false,
+   "bio": "Italian poet and humanist scholar (Petrarch) who studied law at Montpellier and Bologna.",
+   "fields": [
+    "poetry",
+    "humanism"
+   ],
+   "src": [
+    "pa-053",
+    "pa-072"
+   ],
+   "stops": [
+    {
+     "from": 1304,
+     "to": 1304,
+     "kind": "birth",
+     "place": "Arezzo",
+     "lat": 43.4633,
+     "lon": 11.8796,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1312,
+     "to": 1316,
+     "kind": "study",
+     "place": "Carpentras",
+     "lat": 44.0556,
+     "lon": 5.0481,
+     "inst": null,
+     "note": "Studied with Convenevole da Prato.",
+     "src": [
+      "pa-053"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1316,
+     "to": 1320,
+     "kind": "study",
+     "place": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767,
+     "inst": "u-montpellier",
+     "note": "Began law studies.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1320,
+     "to": 1326,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Studied law until his father's death in 1326.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1326,
+     "to": 1337,
+     "kind": "office",
+     "place": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055,
+     "inst": null,
+     "note": "In the service of the Colonna family.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1337,
+     "to": 1353,
+     "kind": "research",
+     "place": "Fontaine-de-Vaucluse",
+     "lat": 43.9222,
+     "lon": 5.1286,
+     "inst": null,
+     "note": "Settled at Vaucluse; crowned poet in Rome in 1341.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1353,
+     "to": 1361,
+     "kind": "office",
+     "place": "Milan",
+     "lat": 45.4642,
+     "lon": 9.19,
+     "inst": null,
+     "note": "Under the Visconti.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1362,
+     "to": 1368,
+     "kind": "research",
+     "place": "Venice",
+     "lat": 45.4408,
+     "lon": 12.3155,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1368,
+     "to": 1374,
+     "kind": "research",
+     "place": "Padua",
+     "lat": 45.4064,
+     "lon": 11.8768,
+     "inst": null,
+     "note": "Under the Carrara lords.",
+     "src": [
+      "pa-053"
+     ]
+    },
+    {
+     "from": 1374,
+     "to": 1374,
+     "kind": "death",
+     "place": "Arquà Petrarca",
+     "lat": 45.27,
+     "lon": 11.7167,
+     "inst": null,
+     "note": "Died 18/19 July 1374.",
+     "src": [
+      "pa-053",
+      "pa-072"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "convenevole-da-prato",
+     "inst": null,
+     "place": "Carpentras",
+     "from": 1312,
+     "to": 1316,
+     "kind": "teacher",
+     "src": [
+      "pa-053"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "convenevole-da-prato",
+   "name": "Convenevole da Prato",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Exiled Guelph grammar teacher of Petrarch at Carpentras.",
+   "src": [
+    "pa-053"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "theodore-metochites",
+   "name": "Theodore Metochites",
+   "born": 1270,
+   "born_approx": true,
+   "died": 1332,
+   "died_approx": false,
+   "bio": "Byzantine statesman and scholar who restored the Chora monastery and wrote on astronomy and philosophy.",
+   "fields": [
+    "astronomy",
+    "philosophy",
+    "government"
+   ],
+   "src": [
+    "pa-064"
+   ],
+   "stops": [
+    {
+     "from": 1270,
+     "to": 1270,
+     "kind": "birth",
+     "place": "Nicaea",
+     "lat": 40.4292,
+     "lon": 29.7211,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-064"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1298,
+     "to": 1298,
+     "kind": "travel",
+     "place": "Skopje",
+     "lat": 41.9981,
+     "lon": 21.4254,
+     "inst": null,
+     "note": "Embassy to the Serbian court.",
+     "src": [
+      "pa-064"
+     ]
+    },
+    {
+     "from": 1321,
+     "to": 1328,
+     "kind": "office",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Grand logothete, directing Byzantine affairs.",
+     "src": [
+      "pa-064"
+     ]
+    },
+    {
+     "from": 1331,
+     "to": 1332,
+     "kind": "research",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-chora",
+     "note": "Retired to the Chora monastery and directed its restoration (Britannica dates this to 1331; the atlas places his work there from 1316).",
+     "src": [
+      "pa-064"
+     ]
+    },
+    {
+     "from": 1332,
+     "to": 1332,
+     "kind": "death",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Died 13 March 1332.",
+     "src": [
+      "pa-064"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "jean-buridan",
+   "name": "Jean Buridan",
+   "born": 1300,
+   "born_approx": true,
+   "died": 1361,
+   "died_approx": true,
+   "bio": "Paris arts master, logician and natural philosopher, twice rector of the university.",
+   "fields": [
+    "logic",
+    "natural philosophy"
+   ],
+   "src": [
+    "pa-048"
+   ],
+   "stops": [
+    {
+     "from": 1300,
+     "to": 1300,
+     "kind": "birth",
+     "place": "Béthune",
+     "lat": 50.5303,
+     "lon": 2.6408,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-048"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1315,
+     "to": 1325,
+     "kind": "study",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Studied at the Collège du Cardinal Lemoine; master of arts by the mid-1320s.",
+     "src": [
+      "pa-048"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1325,
+     "to": 1358,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Taught arts; rector 1328 and 1340; last documented alive 1358.",
+     "src": [
+      "pa-048"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "cino-da-pistoia",
+   "name": "Cino da Pistoia",
+   "born": 1270,
+   "born_approx": true,
+   "died": 1336,
+   "died_approx": true,
+   "bio": "Jurist and poet of the dolce stil novo who taught law at several Italian universities.",
+   "fields": [
+    "law",
+    "poetry"
+   ],
+   "src": [
+    "pa-052"
+   ],
+   "stops": [
+    {
+     "from": 1270,
+     "to": 1270,
+     "kind": "birth",
+     "place": "Pistoia",
+     "lat": 43.933,
+     "lon": 10.917,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-052"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1290,
+     "to": 1314,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Studied law at Bologna; doctorate 1314 after six years of exile and political activity.",
+     "src": [
+      "pa-052"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1321,
+     "to": 1323,
+     "kind": "teach",
+     "place": "Siena",
+     "lat": 43.3188,
+     "lon": 11.3308,
+     "inst": "u-siena",
+     "note": "Taught law at Siena (years per the atlas; the source lists the post without dates).",
+     "src": [
+      "pa-052"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1326,
+     "to": 1330,
+     "kind": "teach",
+     "place": "Perugia",
+     "lat": 43.1107,
+     "lon": 12.3908,
+     "inst": "u-perugia",
+     "note": "Taught law at Perugia.",
+     "src": [
+      "pa-052"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1330,
+     "to": 1331,
+     "kind": "teach",
+     "place": "Naples",
+     "lat": 40.8518,
+     "lon": 14.2681,
+     "inst": "u-naples",
+     "note": "Taught law at Naples.",
+     "src": [
+      "pa-052"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1334,
+     "to": 1336,
+     "kind": "research",
+     "place": "Pistoia",
+     "lat": 43.933,
+     "lon": 10.917,
+     "inst": null,
+     "note": "Returned to Pistoia for the rest of his life.",
+     "src": [
+      "pa-052"
+     ]
+    },
+    {
+     "from": 1336,
+     "to": 1336,
+     "kind": "death",
+     "place": "Pistoia",
+     "lat": 43.933,
+     "lon": 10.917,
+     "inst": null,
+     "note": "Died 1336/37.",
+     "src": [
+      "pa-052"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "nikephoros-gregoras",
+   "name": "Nikephoros Gregoras",
+   "born": 1292,
+   "born_approx": true,
+   "died": 1360,
+   "died_approx": true,
+   "bio": "Byzantine scholar, astronomer and historian, opponent of Hesychasm.",
+   "fields": [
+    "astronomy",
+    "history",
+    "theology"
+   ],
+   "src": [
+    "pa-065"
+   ],
+   "stops": [
+    {
+     "from": 1292,
+     "to": 1292,
+     "kind": "birth",
+     "place": "Heraclea Pontica",
+     "lat": 41.2797,
+     "lon": 31.4167,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-065"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1321,
+     "to": 1351,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-chora",
+     "note": "Scholar in Constantinople in the circle of Andronicus II; Britannica confirms his court favour and later retreat to a monastery near the capital but does not name the Chora or his teaching there (years per the atlas).",
+     "src": [
+      "pa-065"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1326,
+     "to": 1326,
+     "kind": "travel",
+     "place": "Skopje",
+     "lat": 41.9981,
+     "lon": 21.4254,
+     "inst": null,
+     "note": "Embassy to King Stefan Uroš III of Serbia.",
+     "src": [
+      "pa-065"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1351,
+     "to": 1360,
+     "kind": "exile",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Excommunicated in 1351 and forced from public life.",
+     "src": [
+      "pa-065"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "gentile-da-foligno",
+   "name": "Gentile da Foligno",
+   "born": 1280,
+   "born_approx": true,
+   "died": 1348,
+   "died_approx": false,
+   "bio": "Physician and commentator on Avicenna who taught at Siena and Perugia and died treating plague victims.",
+   "fields": [
+    "medicine"
+   ],
+   "src": [
+    "pa-059"
+   ],
+   "stops": [
+    {
+     "from": 1280,
+     "to": 1280,
+     "kind": "birth",
+     "place": "Foligno",
+     "lat": 42.9561,
+     "lon": 12.7033,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-059"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1300,
+     "to": 1310,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Commonly believed to have studied medicine at Bologna.",
+     "src": [
+      "pa-059"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1322,
+     "to": 1324,
+     "kind": "teach",
+     "place": "Siena",
+     "lat": 43.3188,
+     "lon": 11.3308,
+     "inst": "u-siena",
+     "note": "Taught at Siena 22 March 1322 - 30 June 1324.",
+     "src": [
+      "pa-059"
+     ]
+    },
+    {
+     "from": 1325,
+     "to": 1339,
+     "kind": "teach",
+     "place": "Perugia",
+     "lat": 43.1107,
+     "lon": 12.3908,
+     "inst": "u-perugia",
+     "note": "Invited to Perugia late 1325 (the atlas start of 1322 overlaps his Siena post); attested 1338-1339.",
+     "src": [
+      "pa-059"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1340,
+     "to": 1345,
+     "kind": "office",
+     "place": "Padua",
+     "lat": 45.4064,
+     "lon": 11.8768,
+     "inst": null,
+     "note": "Called to Padua as physician to Ubertino da Carrara c. 1340.",
+     "src": [
+      "pa-059"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1348,
+     "to": 1348,
+     "kind": "death",
+     "place": "Foligno",
+     "lat": 42.9561,
+     "lon": 12.7033,
+     "inst": null,
+     "note": "Died 28 June 1348 while treating plague victims.",
+     "src": [
+      "pa-059"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "meister-eckhart",
+   "name": "Meister Eckhart",
+   "born": 1260,
+   "born_approx": true,
+   "died": 1328,
+   "died_approx": false,
+   "bio": "German Dominican theologian and mystic, twice master at Paris.",
+   "fields": [
+    "theology",
+    "mysticism"
+   ],
+   "src": [
+    "pa-066"
+   ],
+   "stops": [
+    {
+     "from": 1260,
+     "to": 1260,
+     "kind": "birth",
+     "place": "Tambach",
+     "lat": 50.79,
+     "lon": 10.61,
+     "inst": null,
+     "note": "Probably born in or near Tambach.",
+     "src": [
+      "pa-066"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1293,
+     "to": 1293,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Lectured on the Sentences at Paris.",
+     "src": [
+      "pa-066"
+     ]
+    },
+    {
+     "from": 1294,
+     "to": 1302,
+     "kind": "office",
+     "place": "Erfurt",
+     "lat": 50.9848,
+     "lon": 11.0299,
+     "inst": null,
+     "note": "Prior of the Erfurt Dominicans.",
+     "src": [
+      "pa-066"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1302,
+     "to": 1304,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Regent master in Paris.",
+     "src": [
+      "pa-066"
+     ]
+    },
+    {
+     "from": 1304,
+     "to": 1311,
+     "kind": "office",
+     "place": "Erfurt",
+     "lat": 50.9848,
+     "lon": 11.0299,
+     "inst": null,
+     "note": "Provincial of Saxonia.",
+     "src": [
+      "pa-066"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1311,
+     "to": 1313,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Second Paris regency.",
+     "src": [
+      "pa-066"
+     ]
+    },
+    {
+     "from": 1313,
+     "to": 1323,
+     "kind": "office",
+     "place": "Strasbourg",
+     "lat": 48.5734,
+     "lon": 7.7521,
+     "inst": null,
+     "note": "Vicar of the Master General.",
+     "src": [
+      "pa-066"
+     ]
+    },
+    {
+     "from": 1323,
+     "to": 1327,
+     "kind": "teach",
+     "place": "Cologne",
+     "lat": 50.9375,
+     "lon": 6.9603,
+     "inst": "m-cologne",
+     "note": "In Cologne from 1323-24; heresy proceedings from 1326.",
+     "src": [
+      "pa-066"
+     ]
+    },
+    {
+     "from": 1327,
+     "to": 1328,
+     "kind": "travel",
+     "place": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055,
+     "inst": null,
+     "note": "Appealed to the pope.",
+     "src": [
+      "pa-066"
+     ]
+    },
+    {
+     "from": 1328,
+     "to": 1328,
+     "kind": "death",
+     "place": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055,
+     "inst": null,
+     "note": "Probably died 28 January 1328.",
+     "src": [
+      "pa-066"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "bartolus-de-saxoferrato",
+   "name": "Bartolus de Saxoferrato",
+   "born": 1313,
+   "born_approx": true,
+   "died": 1357,
+   "died_approx": false,
+   "bio": "The most influential commentator on Roman law, professor at Pisa and Perugia.",
+   "fields": [
+    "law"
+   ],
+   "src": [
+    "pa-051",
+    "pa-069"
+   ],
+   "stops": [
+    {
+     "from": 1313,
+     "to": 1313,
+     "kind": "birth",
+     "place": "Venatura",
+     "lat": 43.415,
+     "lon": 12.87,
+     "inst": null,
+     "note": "Born near Sassoferrato.",
+     "src": [
+      "pa-051"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1327,
+     "to": 1332,
+     "kind": "study",
+     "place": "Perugia",
+     "lat": 43.1107,
+     "lon": 12.3908,
+     "inst": "u-perugia",
+     "note": "Heard Cino da Pistoia's lectures at about 14.",
+     "src": [
+      "pa-051"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1333,
+     "to": 1334,
+     "kind": "study",
+     "place": "Bologna",
+     "lat": 44.4949,
+     "lon": 11.3426,
+     "inst": "u-bologna",
+     "note": "Bachelor 1333, doctor 10 November 1334.",
+     "src": [
+      "pa-051"
+     ]
+    },
+    {
+     "from": 1336,
+     "to": 1338,
+     "kind": "office",
+     "place": "Todi",
+     "lat": 42.781,
+     "lon": 12.408,
+     "inst": null,
+     "note": "Assessor at Todi; legal adviser at Macerata in 1338.",
+     "src": [
+      "pa-051"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1339,
+     "to": 1343,
+     "kind": "teach",
+     "place": "Pisa",
+     "lat": 43.7228,
+     "lon": 10.4017,
+     "inst": "u-pisa",
+     "note": "Professor at Pisa.",
+     "src": [
+      "pa-051"
+     ]
+    },
+    {
+     "from": 1343,
+     "to": 1357,
+     "kind": "teach",
+     "place": "Perugia",
+     "lat": 43.1107,
+     "lon": 12.3908,
+     "inst": "u-perugia",
+     "note": "Professor at Perugia until death; met Charles IV at Pisa in 1355.",
+     "src": [
+      "pa-051",
+      "pa-069"
+     ]
+    },
+    {
+     "from": 1357,
+     "to": 1357,
+     "kind": "death",
+     "place": "Perugia",
+     "lat": 43.1107,
+     "lon": 12.3908,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-051",
+      "pa-069"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "cino-da-pistoia",
+     "inst": "u-perugia",
+     "place": "Perugia",
+     "from": 1327,
+     "to": 1330,
+     "kind": "attended lectures",
+     "src": [
+      "pa-051"
+     ]
+    },
+    {
+     "id": "jacopo-butrigario",
+     "inst": "u-bologna",
+     "place": "Bologna",
+     "from": 1333,
+     "to": 1334,
+     "kind": "doctoral advisor",
+     "src": [
+      "pa-051"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jacopo-butrigario",
+   "name": "Jacopo Butrigario",
+   "born": null,
+   "born_approx": true,
+   "died": 1348,
+   "died_approx": true,
+   "bio": "Bolognese jurist who presented Bartolus for his doctorate.",
+   "src": [
+    "pa-051"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "nicole-oresme",
+   "name": "Nicole Oresme",
+   "born": 1320,
+   "born_approx": true,
+   "died": 1382,
+   "died_approx": false,
+   "bio": "Paris master, Grand Master of the College of Navarre, adviser to Charles V and Bishop of Lisieux.",
+   "fields": [
+    "natural philosophy",
+    "mathematics",
+    "economics"
+   ],
+   "src": [
+    "pa-049"
+   ],
+   "stops": [
+    {
+     "from": 1320,
+     "to": 1320,
+     "kind": "birth",
+     "place": "Fleury-sur-Orne",
+     "lat": 49.1478,
+     "lon": -0.3756,
+     "inst": null,
+     "note": "Diocese of Bayeux, possibly at Allemagne.",
+     "src": [
+      "pa-049"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1338,
+     "to": 1348,
+     "kind": "study",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Master of arts by 1341/42; theology scholar at the College of Navarre in 1348.",
+     "src": [
+      "pa-049"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1348,
+     "to": 1362,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Grand Master of the College of Navarre from 1356.",
+     "src": [
+      "pa-049"
+     ]
+    },
+    {
+     "from": 1362,
+     "to": 1377,
+     "kind": "office",
+     "place": "Rouen",
+     "lat": 49.4431,
+     "lon": 1.0993,
+     "inst": null,
+     "note": "In the service of the dauphin; canon of Rouen 1362, dean 1364.",
+     "src": [
+      "pa-049"
+     ]
+    },
+    {
+     "from": 1377,
+     "to": 1382,
+     "kind": "office",
+     "place": "Lisieux",
+     "lat": 49.1466,
+     "lon": 0.2259,
+     "inst": null,
+     "note": "Bishop of Lisieux.",
+     "src": [
+      "pa-049"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "john-wyclif",
+   "name": "John Wyclif",
+   "born": 1331,
+   "born_approx": true,
+   "died": 1384,
+   "died_approx": false,
+   "bio": "Oxford theologian and church reformer whose writings were condemned and inspired the Lollards.",
+   "fields": [
+    "theology",
+    "philosophy"
+   ],
+   "src": [
+    "pa-050"
+   ],
+   "stops": [
+    {
+     "from": 1331,
+     "to": 1331,
+     "kind": "birth",
+     "place": "Richmond",
+     "lat": 54.403,
+     "lon": -1.737,
+     "inst": null,
+     "note": "Born after 1331 near Richmond, Yorkshire.",
+     "src": [
+      "pa-050"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1356,
+     "to": 1381,
+     "kind": "teach",
+     "place": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577,
+     "inst": "u-oxford",
+     "note": "Fellow of Merton 1356, master of Balliol 1360, doctor of divinity 1372/73 (the atlas start of 1345 is earlier than the record).",
+     "src": [
+      "pa-050"
+     ]
+    },
+    {
+     "from": 1374,
+     "to": 1374,
+     "kind": "travel",
+     "place": "Bruges",
+     "lat": 51.2093,
+     "lon": 3.2247,
+     "inst": null,
+     "note": "Diplomatic mission.",
+     "src": [
+      "pa-050"
+     ]
+    },
+    {
+     "from": 1381,
+     "to": 1384,
+     "kind": "research",
+     "place": "Lutterworth",
+     "lat": 52.456,
+     "lon": -1.2,
+     "inst": null,
+     "note": "Left Oxford for Lutterworth.",
+     "src": [
+      "pa-050"
+     ]
+    },
+    {
+     "from": 1384,
+     "to": 1384,
+     "kind": "death",
+     "place": "Lutterworth",
+     "lat": 52.456,
+     "lon": -1.2,
+     "inst": null,
+     "note": "Died 31 December 1384.",
+     "src": [
+      "pa-050"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "leo-the-mathematician",
+   "name": "Leo the Mathematician",
+   "born": 790,
+   "born_approx": true,
+   "died": 869,
+   "died_approx": true,
+   "bio": "Byzantine scholar and mathematician who taught at the Magnaura, briefly served as Metropolitan of Thessalonica and headed the Magnaura school founded by Bardas.",
+   "fields": [
+    "mathematics",
+    "philosophy",
+    "astronomy"
+   ],
+   "src": [
+    "pa-073",
+    "pa-074"
+   ],
+   "stops": [
+    {
+     "from": 790,
+     "to": 790,
+     "kind": "birth",
+     "place": "Thessaly",
+     "lat": 39.639,
+     "lon": 22.4191,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-073",
+      "pa-074"
+     ],
+     "approx": true
+    },
+    {
+     "from": 805,
+     "to": 815,
+     "kind": "study",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Educated in Constantinople as a youth.",
+     "src": [
+      "pa-073",
+      "pa-074"
+     ],
+     "approx": true
+    },
+    {
+     "from": 815,
+     "to": 825,
+     "kind": "study",
+     "place": "Andros",
+     "lat": 37.84,
+     "lon": 24.938,
+     "inst": null,
+     "note": "Learned mathematics from an old monk in the monasteries of Andros.",
+     "src": [
+      "pa-073",
+      "pa-074"
+     ],
+     "approx": true
+    },
+    {
+     "from": 825,
+     "to": 838,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Taught privately in Constantinople.",
+     "src": [
+      "pa-073",
+      "pa-074"
+     ],
+     "approx": true
+    },
+    {
+     "from": 838,
+     "to": 840,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-magnaura",
+     "note": "Taught at the Magnaura, given a school by Emperor Theophilos.",
+     "src": [
+      "pa-073",
+      "pa-074"
+     ],
+     "approx": true
+    },
+    {
+     "from": 840,
+     "to": 843,
+     "kind": "office",
+     "place": "Thessalonica",
+     "lat": 40.6401,
+     "lon": 22.9444,
+     "inst": null,
+     "note": "Metropolitan of Thessalonica, removed when Iconoclasm ended.",
+     "src": [
+      "pa-073",
+      "pa-074"
+     ]
+    },
+    {
+     "from": 855,
+     "to": 869,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-magnaura",
+     "note": "Head of the new Magnaura school under Bardas from c. 855 (the atlas gives 849).",
+     "src": [
+      "pa-074"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "michael-psellos",
+   "name": "Michael Psellos",
+   "born": 1017,
+   "born_approx": true,
+   "died": 1078,
+   "died_approx": true,
+   "bio": "Byzantine philosopher, historian and courtier who led philosophical teaching in Constantinople as 'Chief of the Philosophers'.",
+   "fields": [
+    "philosophy",
+    "history",
+    "rhetoric"
+   ],
+   "src": [
+    "pa-075"
+   ],
+   "stops": [
+    {
+     "from": 1017,
+     "to": 1017,
+     "kind": "birth",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Probably born in Constantinople; family from Nicomedia.",
+     "src": [
+      "pa-075"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1028,
+     "to": 1040,
+     "kind": "study",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Studied under John Mauropous, alongside John Xiphilinos and Constantine Leichoudes; also served as a provincial secretary and judge.",
+     "src": [
+      "pa-075"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1042,
+     "to": 1054,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-pandidakterion",
+     "note": "Adviser to Constantine IX and leading professor with the title Chief of the Philosophers (the atlas dates the post from 1046).",
+     "src": [
+      "pa-075"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1054,
+     "to": 1055,
+     "kind": "research",
+     "place": "Mount Olympus (Bithynia)",
+     "lat": 40.07,
+     "lon": 29.22,
+     "inst": null,
+     "note": "Entered the monastery on Mount Olympus.",
+     "src": [
+      "pa-075"
+     ]
+    },
+    {
+     "from": 1055,
+     "to": 1078,
+     "kind": "office",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Recalled to court; key adviser through the reigns of Isaac I, Constantine X and Michael VII.",
+     "src": [
+      "pa-075"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1078,
+     "to": 1078,
+     "kind": "death",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Most scholars place his death soon after 1078; some argue c. 1096.",
+     "src": [
+      "pa-075"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "john-mauropous",
+     "inst": null,
+     "place": "Constantinople",
+     "from": 1028,
+     "to": 1040,
+     "kind": "teacher",
+     "src": [
+      "pa-075"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-mauropous",
+   "name": "John Mauropous",
+   "born": 1000,
+   "born_approx": true,
+   "died": 1081,
+   "died_approx": true,
+   "bio": "Byzantine poet and teacher, later Metropolitan of Euchaita, who taught Psellos and Xiphilinos.",
+   "src": [
+    "pa-075",
+    "pa-076"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "john-xiphilinos",
+   "name": "John Xiphilinos",
+   "born": 1010,
+   "born_approx": true,
+   "died": 1075,
+   "died_approx": false,
+   "bio": "Byzantine jurist from Trebizond who headed the new law school of Constantinople and became Patriarch John VIII.",
+   "fields": [
+    "law",
+    "theology"
+   ],
+   "src": [
+    "pa-076"
+   ],
+   "stops": [
+    {
+     "from": 1010,
+     "to": 1010,
+     "kind": "birth",
+     "place": "Trebizond",
+     "lat": 41.0027,
+     "lon": 39.7168,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-076"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1028,
+     "to": 1040,
+     "kind": "study",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Studied in Constantinople under John Mauropous.",
+     "src": [
+      "pa-076",
+      "pa-075"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1047,
+     "to": 1054,
+     "kind": "teach",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": "b-constantinople-law",
+     "note": "Nomophylax, head of the law school (years per the atlas; the source gives no dates).",
+     "src": [
+      "pa-076"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1064,
+     "to": 1075,
+     "kind": "office",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Ecumenical Patriarch 1064-1075.",
+     "src": [
+      "pa-076"
+     ]
+    },
+    {
+     "from": 1075,
+     "to": 1075,
+     "kind": "death",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "Died 2 August 1075.",
+     "src": [
+      "pa-076"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "john-mauropous",
+     "inst": null,
+     "place": "Constantinople",
+     "from": 1028,
+     "to": 1040,
+     "kind": "teacher",
+     "src": [
+      "pa-076",
+      "pa-075"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "isleifur-gissurarson",
+   "name": "Ísleifur Gissurarson",
+   "born": 1006,
+   "born_approx": true,
+   "died": 1080,
+   "died_approx": false,
+   "bio": "First bishop of Iceland, educated in Germany, who founded the school at Skálholt.",
+   "fields": [
+    "theology",
+    "education"
+   ],
+   "src": [
+    "pa-077"
+   ],
+   "stops": [
+    {
+     "from": 1006,
+     "to": 1006,
+     "kind": "birth",
+     "place": "Skálholt",
+     "lat": 64.126,
+     "lon": -20.525,
+     "inst": null,
+     "note": "Born to the family that held Skálholt.",
+     "src": [
+      "pa-077"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1020,
+     "to": 1030,
+     "kind": "study",
+     "place": "Herford",
+     "lat": 52.114,
+     "lon": 8.673,
+     "inst": null,
+     "note": "Studied at Herford in Germany.",
+     "src": [
+      "pa-077"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1056,
+     "to": 1056,
+     "kind": "travel",
+     "place": "Bremen",
+     "lat": 53.0793,
+     "lon": 8.8017,
+     "inst": null,
+     "note": "Consecrated bishop of Iceland by Archbishop Adalbert of Bremen.",
+     "src": [
+      "pa-077"
+     ]
+    },
+    {
+     "from": 1056,
+     "to": 1080,
+     "kind": "teach",
+     "place": "Skálholt",
+     "lat": 64.126,
+     "lon": -20.525,
+     "inst": "c-skalholt",
+     "note": "Built up the see at his family homestead and founded a school there.",
+     "src": [
+      "pa-077"
+     ]
+    },
+    {
+     "from": 1080,
+     "to": 1080,
+     "kind": "death",
+     "place": "Skálholt",
+     "lat": 64.126,
+     "lon": -20.525,
+     "inst": null,
+     "note": "Died 5 July 1080.",
+     "src": [
+      "pa-077"
+     ]
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "jon-ogmundarson",
+   "name": "Jón Ögmundarson",
+   "born": 1052,
+   "born_approx": false,
+   "died": 1121,
+   "died_approx": false,
+   "bio": "First bishop of Hólar, pupil of Ísleifur at Skálholt.",
+   "src": [
+    "pa-077"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "isleifur-gissurarson",
+     "inst": "c-skalholt",
+     "place": "Skálholt",
+     "from": 1060,
+     "to": 1075,
+     "kind": "teacher",
+     "src": [
+      "pa-077"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "trota-of-salerno",
+   "name": "Trota of Salerno",
+   "born": null,
+   "born_approx": null,
+   "died": null,
+   "died_approx": null,
+   "bio": "Twelfth-century woman physician of Salerno, called magistra, author of the Practica secundum Trotam and source for the Trotula texts.",
+   "fields": [
+    "medicine"
+   ],
+   "src": [
+    "pa-078"
+   ],
+   "stops": [
+    {
+     "from": 1100,
+     "to": 1150,
+     "kind": "teach",
+     "place": "Salerno",
+     "lat": 40.6824,
+     "lon": 14.7681,
+     "inst": "m-salerno",
+     "note": "Practised medicine at Salerno in the first half of the 12th century; called 'magistra'. Monica Green judges her influence on formal teaching slight.",
+     "src": [
+      "pa-078"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "roger-frugardi",
+   "name": "Roger Frugardi",
+   "born": 1140,
+   "born_approx": true,
+   "died": 1195,
+   "died_approx": true,
+   "bio": "Salernitan surgeon whose Chirurgia (c. 1180) was the first major surgical textbook of medieval Europe.",
+   "fields": [
+    "surgery",
+    "medicine"
+   ],
+   "src": [
+    "pa-079"
+   ],
+   "stops": [
+    {
+     "from": 1170,
+     "to": 1180,
+     "kind": "teach",
+     "place": "Salerno",
+     "lat": 40.6824,
+     "lon": 14.7681,
+     "inst": "m-salerno",
+     "note": "Salernitan surgeon; wrote the Chirurgia c. 1180. The source does not explicitly say he taught.",
+     "src": [
+      "pa-079"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "rolando-da-parma",
+   "name": "Rolando da Parma",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Pupil of Roger Frugardi, professor at Bologna, who re-edited his Chirurgia in 1250.",
+   "src": [
+    "pa-079"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "roger-frugardi",
+     "inst": null,
+     "place": "Salerno",
+     "from": 1170,
+     "to": 1195,
+     "kind": "teacher",
+     "src": [
+      "pa-079"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "john-of-garland",
+   "name": "John of Garland",
+   "born": 1180,
+   "born_approx": true,
+   "died": 1252,
+   "died_approx": true,
+   "bio": "English grammarian and poet who taught in Paris and was among the first masters of the University of Toulouse.",
+   "fields": [
+    "grammar",
+    "poetry"
+   ],
+   "src": [
+    "pa-080"
+   ],
+   "stops": [
+    {
+     "from": 1202,
+     "to": 1229,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": "u-paris",
+     "note": "Came to Paris in 1202 to complete his studies and stayed as a teacher.",
+     "src": [
+      "pa-080"
+     ]
+    },
+    {
+     "from": 1229,
+     "to": 1232,
+     "kind": "teach",
+     "place": "Toulouse",
+     "lat": 43.6047,
+     "lon": 1.4442,
+     "inst": "u-toulouse",
+     "note": "Taught at the new University of Toulouse; fled in 1232 or 1233.",
+     "src": [
+      "pa-080"
+     ]
+    },
+    {
+     "from": 1233,
+     "to": 1252,
+     "kind": "teach",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Returned to Paris (the source gives no later posts).",
+     "src": [
+      "pa-080"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "nikephoros-blemmydes",
+   "name": "Nikephoros Blemmydes",
+   "born": 1197,
+   "born_approx": false,
+   "died": 1272,
+   "died_approx": true,
+   "bio": "Byzantine scholar of the Nicaean empire who tutored Theodore II Laskaris and taught George Akropolites.",
+   "fields": [
+    "philosophy",
+    "theology",
+    "natural science"
+   ],
+   "src": [
+    "pa-081"
+   ],
+   "stops": [
+    {
+     "from": 1197,
+     "to": 1197,
+     "kind": "birth",
+     "place": "Constantinople",
+     "lat": 41.0082,
+     "lon": 28.9784,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-081"
+     ]
+    },
+    {
+     "from": 1204,
+     "to": 1225,
+     "kind": "study",
+     "place": "Nicaea",
+     "lat": 40.4292,
+     "lon": 29.7211,
+     "inst": null,
+     "note": "Educated at Prusa, Nicaea, Smyrna and Scamander (under Prodromos) after his family left Constantinople.",
+     "src": [
+      "pa-081"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1230,
+     "to": 1258,
+     "kind": "teach",
+     "place": "Nicaea",
+     "lat": 40.4292,
+     "lon": 29.7211,
+     "inst": "b-nicaea",
+     "note": "Tutored Theodore II Laskaris and taught in a school he founded, where George Akropolites studied.",
+     "src": [
+      "pa-081"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1258,
+     "to": 1272,
+     "kind": "research",
+     "place": "Ephesus",
+     "lat": 37.9395,
+     "lon": 27.3417,
+     "inst": null,
+     "note": "Retired as a monk to a monastery he built near Ephesus.",
+     "src": [
+      "pa-081"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1272,
+     "to": 1272,
+     "kind": "death",
+     "place": "Ephesus",
+     "lat": 37.9395,
+     "lon": 27.3417,
+     "inst": null,
+     "note": "Died 1272 (c. 1269 in some accounts).",
+     "src": [
+      "pa-081"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": [
+    {
+     "id": "prodromos-of-skamandros",
+     "inst": null,
+     "place": "Scamander",
+     "from": 1215,
+     "to": 1225,
+     "kind": "teacher",
+     "src": [
+      "pa-081"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "prodromos-of-skamandros",
+   "name": "Prodromos of Skamandros",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Teacher of Nikephoros Blemmydes.",
+   "src": [
+    "pa-081"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "theodore-ii-laskaris",
+   "name": "Theodore II Laskaris",
+   "born": 1221,
+   "born_approx": false,
+   "died": 1258,
+   "died_approx": false,
+   "bio": "Emperor of Nicaea, tutored by Nikephoros Blemmydes.",
+   "src": [
+    "pa-081"
+   ],
+   "stops": [],
+   "teachers": [
+    {
+     "id": "nikephoros-blemmydes",
+     "inst": "b-nicaea",
+     "place": "Nicaea",
+     "from": 1235,
+     "to": 1245,
+     "kind": "teacher",
+     "src": [
+      "pa-081"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jacques-de-revigny",
+   "name": "Jacques de Révigny",
+   "born": 1235,
+   "born_approx": true,
+   "died": 1296,
+   "died_approx": false,
+   "bio": "French jurist of the Orléans school of Roman law, later Bishop of Verdun.",
+   "fields": [
+    "law"
+   ],
+   "src": [
+    "pa-082"
+   ],
+   "stops": [
+    {
+     "from": 1250,
+     "to": 1260,
+     "kind": "study",
+     "place": "Orléans",
+     "lat": 47.9029,
+     "lon": 1.9093,
+     "inst": "u-orleans",
+     "note": "Studied law at Orléans under Jean de Monchy, Guichard de Langres and Simon de Paris.",
+     "src": [
+      "pa-082"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1260,
+     "to": 1280,
+     "kind": "teach",
+     "place": "Orléans",
+     "lat": 47.9029,
+     "lon": 1.9093,
+     "inst": "u-orleans",
+     "note": "Teaching years per the atlas; the source used does not describe his teaching.",
+     "src": [
+      "pa-082"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1280,
+     "to": 1289,
+     "kind": "office",
+     "place": "Toul",
+     "lat": 48.675,
+     "lon": 5.8917,
+     "inst": null,
+     "note": "Archdeacon of Toul.",
+     "src": [
+      "pa-082"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1289,
+     "to": 1296,
+     "kind": "office",
+     "place": "Verdun",
+     "lat": 49.1598,
+     "lon": 5.3844,
+     "inst": null,
+     "note": "Bishop of Verdun.",
+     "src": [
+      "pa-082"
+     ]
+    }
+   ],
+   "teachers": [
+    {
+     "id": "jean-de-monchy",
+     "inst": "u-orleans",
+     "place": "Orléans",
+     "from": 1250,
+     "to": 1260,
+     "kind": "teacher",
+     "src": [
+      "pa-082"
+     ]
+    }
+   ]
+  },
+  {
+   "id": "jean-de-monchy",
+   "name": "Jean de Monchy",
+   "born": null,
+   "born_approx": true,
+   "died": null,
+   "died_approx": true,
+   "bio": "Law teacher at Orléans, master of Jacques de Révigny.",
+   "src": [
+    "pa-082"
+   ],
+   "stops": [],
+   "teachers": []
+  },
+  {
+   "id": "pierre-de-belleperche",
+   "name": "Pierre de Belleperche",
+   "born": 1230,
+   "born_approx": true,
+   "died": 1308,
+   "died_approx": true,
+   "bio": "Orléans law professor who became Chancellor of France under Philip IV and Bishop of Auxerre.",
+   "fields": [
+    "law"
+   ],
+   "src": [
+    "pa-083"
+   ],
+   "stops": [
+    {
+     "from": 1230,
+     "to": 1230,
+     "kind": "birth",
+     "place": "Lucenay-sur-Allier",
+     "lat": 46.5,
+     "lon": 3.35,
+     "inst": null,
+     "note": "Born at the Château de Villars (another source gives 1247).",
+     "src": [
+      "pa-083"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1270,
+     "to": 1296,
+     "kind": "teach",
+     "place": "Orléans",
+     "lat": 47.9029,
+     "lon": 1.9093,
+     "inst": "u-orleans",
+     "note": "Professor of civil law at Orléans (years per the atlas).",
+     "src": [
+      "pa-083"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1296,
+     "to": 1306,
+     "kind": "office",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Councillor in the Parlement, dean of Paris, chancellor and keeper of the seals of Philip IV.",
+     "src": [
+      "pa-083"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1306,
+     "to": 1308,
+     "kind": "office",
+     "place": "Auxerre",
+     "lat": 47.7986,
+     "lon": 3.5673,
+     "inst": null,
+     "note": "Bishop of Auxerre from 1306, rarely resident.",
+     "src": [
+      "pa-083"
+     ]
+    },
+    {
+     "from": 1308,
+     "to": 1308,
+     "kind": "death",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "",
+     "src": [
+      "pa-083"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "bernard-de-gordon",
+   "name": "Bernard de Gordon",
+   "born": null,
+   "born_approx": null,
+   "died": null,
+   "died_approx": null,
+   "bio": "Professor of medicine at Montpellier and author of the Lilium medicinae.",
+   "fields": [
+    "medicine"
+   ],
+   "src": [
+    "pa-084"
+   ],
+   "stops": [
+    {
+     "from": 1283,
+     "to": 1289,
+     "kind": "teach",
+     "place": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767,
+     "inst": "m-montpellier",
+     "note": "Teaching at Montpellier before the university charter; the source dates his professorship from 1285.",
+     "src": [
+      "pa-084"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1289,
+     "to": 1308,
+     "kind": "teach",
+     "place": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767,
+     "inst": "u-montpellier",
+     "note": "Professor of medicine; Lilium medicinae dated 1303.",
+     "src": [
+      "pa-084"
+     ],
+     "approx": true
+    }
+   ],
+   "teachers": []
+  },
+  {
+   "id": "arnau-de-vilanova",
+   "name": "Arnau de Vilanova",
+   "born": 1240,
+   "born_approx": true,
+   "died": 1311,
+   "died_approx": false,
+   "bio": "Catalan physician, Montpellier master, royal physician and religious reformer.",
+   "fields": [
+    "medicine",
+    "theology"
+   ],
+   "src": [
+    "pa-085"
+   ],
+   "stops": [
+    {
+     "from": 1240,
+     "to": 1240,
+     "kind": "birth",
+     "place": "Valencia",
+     "lat": 39.4699,
+     "lon": -0.3763,
+     "inst": null,
+     "note": "Born in Aragon, probably near Valencia.",
+     "src": [
+      "pa-085"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1260,
+     "to": 1266,
+     "kind": "study",
+     "place": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767,
+     "inst": null,
+     "note": "Student at Montpellier c. 1260.",
+     "src": [
+      "pa-085"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1281,
+     "to": 1289,
+     "kind": "office",
+     "place": "Barcelona",
+     "lat": 41.3874,
+     "lon": 2.1686,
+     "inst": null,
+     "note": "Physician to Peter III of Aragon from 1281.",
+     "src": [
+      "pa-085"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1289,
+     "to": 1301,
+     "kind": "teach",
+     "place": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767,
+     "inst": "u-montpellier",
+     "note": "Medical master at the newly chartered studium generale (documented 1291).",
+     "src": [
+      "pa-085"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1300,
+     "to": 1300,
+     "kind": "travel",
+     "place": "Paris",
+     "lat": 48.8566,
+     "lon": 2.3522,
+     "inst": null,
+     "note": "Diplomatic mission for James II (DSB supplement corrects 1299 to 1300).",
+     "src": [
+      "pa-085"
+     ]
+    },
+    {
+     "from": 1300,
+     "to": 1305,
+     "kind": "travel",
+     "place": "Rome",
+     "lat": 41.9028,
+     "lon": 12.4964,
+     "inst": null,
+     "note": "Moved between Provence and Rome.",
+     "src": [
+      "pa-085"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1309,
+     "to": 1311,
+     "kind": "office",
+     "place": "Sicily",
+     "lat": 38.1157,
+     "lon": 13.3615,
+     "inst": null,
+     "note": "In the service of Frederick of Trinacria.",
+     "src": [
+      "pa-085"
+     ],
+     "approx": true
+    },
+    {
+     "from": 1311,
+     "to": 1311,
+     "kind": "death",
+     "place": "Genoa",
+     "lat": 44.4056,
+     "lon": 8.9463,
+     "inst": null,
+     "note": "Died at sea off Genoa, 6 September 1311.",
+     "src": [
+      "pa-085"
+     ]
+    }
+   ],
+   "teachers": []
+  }
+ ]
+}

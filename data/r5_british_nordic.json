@@ -1,0 +1,5938 @@
+{
+ "region": "British Isles, Scandinavia, Iceland, Finland",
+ "institutions": [
+  {
+   "id": "u-oxford",
+   "name": "University of Oxford",
+   "alt": [
+    "Studium of Oxford",
+    "Universitas Oxoniensis"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1096,
+     "city": "Oxford",
+     "lat": 51.752,
+     "lon": -1.2577
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1096,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "The oldest university in the English-speaking world, which grew up from schools of the late 11th and 12th centuries and expanded rapidly after 1167. A leading centre of scholastic philosophy, natural philosophy and theology (Grosseteste, Scotus, Ockham, Wyclif), it was the Anglican establishment's university from the Reformation until the religious tests were abolished in the 19th century.",
+   "notes": "1096 is the conventional date for the first evidence of teaching; organised studium dates from c.1167-1200. No founding charter exists."
+  },
+  {
+   "id": "u-cambridge",
+   "name": "University of Cambridge",
+   "alt": [
+    "Universitas Cantabrigiensis"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1209,
+     "city": "Cambridge",
+     "lat": 52.2053,
+     "lon": 0.1218
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1209,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "secession",
+   "summary": "Founded by masters and students leaving Oxford in 1209, Cambridge became England's second university and received papal recognition as a studium generale in 1318. A centre of the English Reformation and later of mathematics and natural philosophy (Newton, Maxwell), it admitted women to examinations in the late 19th century.",
+   "notes": ""
+  },
+  {
+   "id": "u-northampton",
+   "name": "University of Northampton (medieval)",
+   "alt": [
+    "Studium of Northampton"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1261,
+     "city": "Northampton",
+     "lat": 52.2405,
+     "lon": -0.9027
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1261,
+   "start_approx": false,
+   "end": 1265,
+   "end_approx": false,
+   "founding_mode": "secession",
+   "summary": "A short-lived studium formed by masters and students who left Cambridge (with Oxford sympathisers) in 1260-61. Licensed by Henry III, it was suppressed in 1265 after its scholars fought against the king and Oxford petitioned against a rival.",
+   "notes": "Exact numbers and the degree of Oxford participation are uncertain."
+  },
+  {
+   "id": "u-stamford",
+   "name": "Stamford secession",
+   "alt": [
+    "Studium of Stamford"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1333,
+     "city": "Stamford",
+     "lat": 52.6519,
+     "lon": -0.48
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1333,
+   "start_approx": false,
+   "end": 1335,
+   "end_approx": false,
+   "founding_mode": "secession",
+   "summary": "A secession of mainly northern masters and students from Oxford, among them men of Brasenose Hall, who tried to set up a rival studium at Stamford. Edward III suppressed it in 1335; Oxford graduates swore never to lecture at Stamford until 1827.",
+   "notes": "Its status as a true university is doubtful; classed here as an attempted studium."
+  },
+  {
+   "id": "m-london-inns",
+   "name": "Inns of Court",
+   "alt": [
+    "Lincoln's Inn",
+    "Gray's Inn",
+    "Inner Temple",
+    "Middle Temple"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1340,
+     "city": "London",
+     "lat": 51.5165,
+     "lon": -0.115
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1340,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "Self-governing societies of common lawyers in London that from the 14th century trained students in English law through readings and moots. Called 'the third university of England', they never became a studium generale.",
+   "notes": "Origins are obscure; Lincoln's Inn records begin in 1422, but the inns were active by the mid-14th century."
+  },
+  {
+   "id": "m-london-rcp",
+   "name": "Royal College of Physicians of London",
+   "alt": [
+    "College of Physicians"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1518,
+     "city": "London",
+     "lat": 51.5138,
+     "lon": -0.0984
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1518,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Chartered by Henry VIII at Thomas Linacre's instance to license physicians in London. It sponsored anatomy lectures, notably the Lumleian lectures from 1582, at which William Harvey first taught the circulation of the blood.",
+   "notes": "The college moved several times within London (Knightrider St, Amen Corner 1614, Warwick Lane 1674, Pall Mall East 1825); a single City location is given."
+  },
+  {
+   "id": "m-london-gresham",
+   "name": "Gresham College",
+   "alt": [],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1597,
+     "city": "London",
+     "lat": 51.5157,
+     "lon": -0.0823
+    },
+    {
+     "from": 1768,
+     "city": "London",
+     "lat": 51.5134,
+     "lon": -0.0886
+    },
+    {
+     "from": 1843,
+     "city": "London",
+     "lat": 51.5155,
+     "lon": -0.0925
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1597,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded under Sir Thomas Gresham's will, it provided free public lectures in London by seven professors (divinity, astronomy, geometry, music, law, medicine, rhetoric). In the 17th century it was a hub of the new science and the Royal Society's first home.",
+   "notes": ""
+  },
+  {
+   "id": "a-northampton",
+   "name": "Northampton Academy",
+   "alt": [
+    "Doddridge's Academy",
+    "Daventry Academy"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1729,
+     "city": "Northampton",
+     "lat": 52.2405,
+     "lon": -0.9027
+    },
+    {
+     "from": 1752,
+     "city": "Daventry",
+     "lat": 52.2568,
+     "lon": -1.1617
+    },
+    {
+     "from": 1789,
+     "city": "Northampton",
+     "lat": 52.2405,
+     "lon": -0.9027
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1729,
+   "start_approx": false,
+   "end": 1798,
+   "end_approx": true,
+   "founding_mode": "private",
+   "summary": "The leading Dissenting academy of the 18th century, run by Philip Doddridge, offering a broad curriculum in English for ministers and lay students excluded from the universities. After Doddridge's death it moved to Daventry and later back to Northampton.",
+   "notes": "Opened at Market Harborough in mid-1729 and moved to Northampton in December 1729. After dissolution in 1798 the Coward Trust reopened it at Wymondley (1799)."
+  },
+  {
+   "id": "a-warrington",
+   "name": "Warrington Academy",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1757,
+     "city": "Warrington",
+     "lat": 53.39,
+     "lon": -2.597
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1757,
+   "start_approx": false,
+   "end": 1783,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "A rational Dissenting academy that offered a university-level education in classics, science and modern subjects to Nonconformists. Its tutors included Joseph Priestley and John Aikin; it closed in 1783 and was succeeded by Manchester Academy.",
+   "notes": ""
+  },
+  {
+   "id": "a-manchester",
+   "name": "Manchester Academy",
+   "alt": [
+    "Manchester New College",
+    "Manchester College, Oxford"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1786,
+     "city": "Manchester",
+     "lat": 53.4808,
+     "lon": -2.2426
+    },
+    {
+     "from": 1803,
+     "city": "York",
+     "lat": 53.959,
+     "lon": -1.0815
+    },
+    {
+     "from": 1840,
+     "city": "Manchester",
+     "lat": 53.4808,
+     "lon": -2.2426
+    },
+    {
+     "from": 1853,
+     "city": "London",
+     "lat": 51.524,
+     "lon": -0.131
+    },
+    {
+     "from": 1889,
+     "city": "Oxford",
+     "lat": 51.759,
+     "lon": -1.253
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1786,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Unitarian successor to Warrington Academy, it provided higher education for Dissenters and trained ministers. It moved repeatedly and settled in Oxford in 1889 (today Harris Manchester College).",
+   "notes": ""
+  },
+  {
+   "id": "a-hackney",
+   "name": "New College, Hackney",
+   "alt": [
+    "Hackney College"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1786,
+     "city": "Hackney",
+     "lat": 51.545,
+     "lon": -0.0553
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1786,
+   "start_approx": false,
+   "end": 1796,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "A short-lived rational Dissenting academy near London, offering a university curriculum. Associated with Richard Price and Joseph Priestley, it became notorious for radical sympathies during the French Revolution and collapsed financially.",
+   "notes": ""
+  },
+  {
+   "id": "t-woolwich",
+   "name": "Royal Military Academy, Woolwich",
+   "alt": [
+    "The Shop"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1741,
+     "city": "Woolwich",
+     "lat": 51.493,
+     "lon": 0.07
+    },
+    {
+     "from": 1806,
+     "city": "Woolwich",
+     "lat": 51.474,
+     "lon": 0.056
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1741,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by royal warrant to train officers of the Royal Artillery and Royal Engineers in mathematics, fortification and gunnery. It was Britain's leading school of applied mathematics and science in the 18th century.",
+   "notes": ""
+  },
+  {
+   "id": "t-sandhurst",
+   "name": "Royal Military College",
+   "alt": [
+    "Sandhurst"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1802,
+     "city": "Great Marlow",
+     "lat": 51.5713,
+     "lon": -0.7769
+    },
+    {
+     "from": 1812,
+     "city": "Sandhurst",
+     "lat": 51.3442,
+     "lon": -0.7758
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1802,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Officer-training college for the infantry and cavalry, founded on John Le Marchant's plans. Its senior department trained staff officers.",
+   "notes": "The senior department began at High Wycombe in 1799; the college was formally established by royal warrant in 1802."
+  },
+  {
+   "id": "t-greenwich",
+   "name": "Royal Naval College, Greenwich",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1873,
+     "city": "Greenwich",
+     "lat": 51.4827,
+     "lon": -0.006
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1873,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Established in the former Greenwich Hospital to give naval officers advanced education in mathematics, physics, engineering and naval architecture.",
+   "notes": ""
+  },
+  {
+   "id": "t-london-rcs",
+   "name": "Royal College of Science",
+   "alt": [
+    "Royal College of Chemistry",
+    "Normal School of Science"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1845,
+     "city": "London",
+     "lat": 51.5155,
+     "lon": -0.142
+    },
+    {
+     "from": 1872,
+     "city": "London",
+     "lat": 51.4988,
+     "lon": -0.1749
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1845,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Began as the Royal College of Chemistry under A.W. Hofmann, Britain's first school of research chemistry, absorbed by the state science schools and reorganised as the Normal School of Science (1881) and Royal College of Science (1890). T.H. Huxley made it the main training ground for science teachers.",
+   "notes": ""
+  },
+  {
+   "id": "t-london-rsm",
+   "name": "Royal School of Mines",
+   "alt": [
+    "Government School of Mines",
+    "Metropolitan School of Science applied to Mining and the Arts"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1851,
+     "city": "London",
+     "lat": 51.5085,
+     "lon": -0.136
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1851,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "State school of mining and geology founded with the Museum of Practical Geology in Jermyn Street. Huxley, Tyndall and Lyon Playfair taught there.",
+   "notes": ""
+  },
+  {
+   "id": "t-london-cgli",
+   "name": "City and Guilds Central Technical College",
+   "alt": [
+    "Central Institution"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1884,
+     "city": "London",
+     "lat": 51.499,
+     "lon": -0.176
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1884,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Engineering college founded by the City of London livery companies through the City and Guilds of London Institute. It trained engineers and technical teachers in South Kensington.",
+   "notes": ""
+  },
+  {
+   "id": "t-london-rvc",
+   "name": "Royal Veterinary College",
+   "alt": [
+    "London Veterinary College"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1791,
+     "city": "London",
+     "lat": 51.537,
+     "lon": -0.137
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1791,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "The first veterinary school in Britain, founded by the Odiham Agricultural Society in Camden Town. It received a royal charter in 1875.",
+   "notes": ""
+  },
+  {
+   "id": "t-cirencester",
+   "name": "Royal Agricultural College",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1845,
+     "city": "Cirencester",
+     "lat": 51.709,
+     "lon": -1.993
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1845,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "The first agricultural college in the English-speaking world, founded by local landowners and chartered by Queen Victoria.",
+   "notes": ""
+  },
+  {
+   "id": "t-coopers-hill",
+   "name": "Royal Indian Engineering College",
+   "alt": [
+    "Coopers Hill"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1871,
+     "city": "Egham",
+     "lat": 51.433,
+     "lon": -0.552
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1871,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded by the India Office to train civil engineers for the Public Works Department in India; it closed in 1906.",
+   "notes": ""
+  },
+  {
+   "id": "u-london-ucl",
+   "name": "University College London",
+   "alt": [
+    "London University (1826-36)"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1826,
+     "city": "London",
+     "lat": 51.5246,
+     "lon": -0.134
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1826,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded as 'London University' by Henry Brougham, Thomas Campbell and Dissenting and utilitarian supporters to provide university education without religious tests. It was the first English university institution to admit students regardless of religion and, from 1878, women on equal terms.",
+   "notes": ""
+  },
+  {
+   "id": "u-london-kings",
+   "name": "King's College London",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1829,
+     "city": "London",
+     "lat": 51.5115,
+     "lon": -0.116
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1829,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Anglicans, with the Duke of Wellington's support and a royal charter from George IV, as a Church of England response to the 'godless' London University. It developed strong science, engineering and medical teaching.",
+   "notes": ""
+  },
+  {
+   "id": "u-london",
+   "name": "University of London",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1836,
+     "city": "London",
+     "lat": 51.511,
+     "lon": -0.1175
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1836,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Chartered as an examining and degree-granting body for University College, King's College and other affiliated institutions. Its external degrees (from 1858) and its admission of women to degrees (1878) made it the most open university in Britain.",
+   "notes": "Location given as Somerset House; the university's offices moved to Burlington Gardens in 1870 and to the Imperial Institute in 1900. Bedford College (1849) was independent and is recorded here as an access event."
+  },
+  {
+   "id": "u-durham",
+   "name": "University of Durham",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1832,
+     "city": "Durham",
+     "lat": 54.7753,
+     "lon": -1.5849
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1832,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded by the Dean and Chapter of Durham Cathedral and Bishop Van Mildert, with an Act of Parliament, as England's third university. Anglican in character, it later incorporated colleges of medicine and science in Newcastle.",
+   "notes": ""
+  },
+  {
+   "id": "u-newcastle",
+   "name": "Durham College of Science, Newcastle",
+   "alt": [
+    "College of Physical Science",
+    "Armstrong College"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1871,
+     "city": "Newcastle upon Tyne",
+     "lat": 54.979,
+     "lon": -1.615
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1871,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Science college founded by the University of Durham with the North of England Institute of Mining Engineers. Renamed Durham College of Science in 1883 and Armstrong College in 1904.",
+   "notes": ""
+  },
+  {
+   "id": "u-lampeter",
+   "name": "St David's College, Lampeter",
+   "alt": [
+    "St David's University College"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1822,
+     "city": "Lampeter",
+     "lat": 52.113,
+     "lon": -4.08
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1822,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded by Bishop Thomas Burgess of St Davids to train Welsh Anglican clergy, it was the oldest degree-awarding institution in Wales.",
+   "notes": "Foundation stone 1822; opened 1827; royal charter 1828."
+  },
+  {
+   "id": "u-manchester-owens",
+   "name": "Owens College",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1851,
+     "city": "Manchester",
+     "lat": 53.479,
+     "lon": -2.252
+    },
+    {
+     "from": 1873,
+     "city": "Manchester",
+     "lat": 53.4668,
+     "lon": -2.2339
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1851,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded from the bequest of merchant John Owens, it became the leading English civic college and the first college of the Victoria University. It was strong in chemistry, physics and engineering.",
+   "notes": ""
+  },
+  {
+   "id": "u-victoria",
+   "name": "Victoria University",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1880,
+     "city": "Manchester",
+     "lat": 53.4668,
+     "lon": -2.2339
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1880,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "England's first civic federal university, chartered with Owens College as its first college and later joined by Liverpool and Leeds. It admitted women to degrees from the start and was dissolved into separate universities in 1903-04.",
+   "notes": ""
+  },
+  {
+   "id": "u-liverpool",
+   "name": "University College Liverpool",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1881,
+     "city": "Liverpool",
+     "lat": 53.406,
+     "lon": -2.966
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1881,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Civic college founded by Liverpool citizens, which joined the Victoria University in 1884 and became the University of Liverpool in 1903.",
+   "notes": ""
+  },
+  {
+   "id": "u-leeds",
+   "name": "Yorkshire College",
+   "alt": [
+    "Yorkshire College of Science"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1874,
+     "city": "Leeds",
+     "lat": 53.8067,
+     "lon": -1.555
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1874,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded as a college of science for Yorkshire's industries, it broadened into arts and medicine, joined the Victoria University in 1887 and became the University of Leeds in 1904.",
+   "notes": ""
+  },
+  {
+   "id": "u-birmingham-mason",
+   "name": "Mason College",
+   "alt": [
+    "Mason Science College",
+    "Mason University College"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1880,
+     "city": "Birmingham",
+     "lat": 52.481,
+     "lon": -1.902
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1880,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Science college founded by industrialist Josiah Mason, it became Mason University College in 1897 and the University of Birmingham by royal charter in 1900.",
+   "notes": "Foundation deed 1870 and foundation stone 1875; formal opening 1 October 1880."
+  },
+  {
+   "id": "u-bristol",
+   "name": "University College Bristol",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1876,
+     "city": "Bristol",
+     "lat": 51.4584,
+     "lon": -2.603
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1876,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Civic college that admitted women from its foundation; it became the University of Bristol in 1909.",
+   "notes": ""
+  },
+  {
+   "id": "u-sheffield",
+   "name": "Firth College",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1879,
+     "city": "Sheffield",
+     "lat": 53.3811,
+     "lon": -1.4701
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1879,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Arts and science college founded by steel manufacturer Mark Firth; merged into University College Sheffield in 1897 and the University of Sheffield in 1905.",
+   "notes": ""
+  },
+  {
+   "id": "u-nottingham",
+   "name": "University College Nottingham",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1881,
+     "city": "Nottingham",
+     "lat": 52.9548,
+     "lon": -1.15
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1881,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Civic college founded by Nottingham corporation out of university-extension lectures; it prepared students for London degrees.",
+   "notes": ""
+  },
+  {
+   "id": "u-aberystwyth",
+   "name": "University College of Wales, Aberystwyth",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1872,
+     "city": "Aberystwyth",
+     "lat": 52.4153,
+     "lon": -4.0829
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1872,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "The first university college in Wales, funded largely by public subscription including 'the pennies of the poor'. A constituent of the University of Wales from 1893.",
+   "notes": ""
+  },
+  {
+   "id": "u-cardiff",
+   "name": "University College of South Wales and Monmouthshire",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1883,
+     "city": "Cardiff",
+     "lat": 51.4816,
+     "lon": -3.1791
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1883,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "University college founded after the Aberdare Report with Treasury support; a constituent of the University of Wales from 1893.",
+   "notes": ""
+  },
+  {
+   "id": "u-bangor",
+   "name": "University College of North Wales, Bangor",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1884,
+     "city": "Bangor",
+     "lat": 53.2274,
+     "lon": -4.1293
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1884,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "University college founded after the Aberdare Report; a constituent of the University of Wales from 1893.",
+   "notes": ""
+  },
+  {
+   "id": "u-wales",
+   "name": "University of Wales",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1893,
+     "city": "Cardiff",
+     "lat": 51.4816,
+     "lon": -3.1791
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1893,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Federal degree-awarding university uniting the colleges at Aberystwyth, Bangor and Cardiff, which admitted women on equal terms from the start.",
+   "notes": "A federal body without a single seat; the registry's location is nominal."
+  },
+  {
+   "id": "u-st-andrews",
+   "name": "University of St Andrews",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1413,
+     "city": "St Andrews",
+     "lat": 56.3398,
+     "lon": -2.7967
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1413,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Scotland's first university, founded by Bishop Henry Wardlaw and confirmed by Antipope Benedict XIII. It became a centre of the Scottish Reformation and was organised around the colleges of St Salvator, St Leonard and St Mary.",
+   "notes": "Teaching began in 1410 and Wardlaw's charter dates from 1411; the papal bulls of 1413 are taken as founding."
+  },
+  {
+   "id": "u-glasgow",
+   "name": "University of Glasgow",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1451,
+     "city": "Glasgow",
+     "lat": 55.8623,
+     "lon": -4.2348
+    },
+    {
+     "from": 1460,
+     "city": "Glasgow",
+     "lat": 55.859,
+     "lon": -4.2393
+    },
+    {
+     "from": 1870,
+     "city": "Glasgow",
+     "lat": 55.8721,
+     "lon": -4.2882
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1451,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by bull of Nicholas V at the request of Bishop William Turnbull and James II. Reorganised by Andrew Melville in 1577, it became a leading centre of the Scottish Enlightenment and of 19th-century physics and engineering.",
+   "notes": ""
+  },
+  {
+   "id": "u-aberdeen-kings",
+   "name": "King's College, Aberdeen",
+   "alt": [
+    "University of Aberdeen (King's)"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1495,
+     "city": "Old Aberdeen",
+     "lat": 57.1645,
+     "lon": -2.1013
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1495,
+   "start_approx": false,
+   "end": 1860,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by Bishop William Elphinstone under a bull of Alexander VI, modelled on Paris and Orléans, with Hector Boece as first principal. It merged with Marischal College in 1860 to form the University of Aberdeen.",
+   "notes": ""
+  },
+  {
+   "id": "u-aberdeen-marischal",
+   "name": "Marischal College",
+   "alt": [
+    "Marischal University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1593,
+     "city": "Aberdeen",
+     "lat": 57.1497,
+     "lon": -2.096
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1593,
+   "start_approx": false,
+   "end": 1860,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Protestant university founded in the burgh of Aberdeen by George Keith, 5th Earl Marischal, as a rival to King's College. It merged with King's in 1860.",
+   "notes": ""
+  },
+  {
+   "id": "u-aberdeen",
+   "name": "University of Aberdeen",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1860,
+     "city": "Aberdeen",
+     "lat": 57.1645,
+     "lon": -2.1013
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1860,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Formed under the Universities (Scotland) Act 1858 by uniting King's College and Marischal College.",
+   "notes": ""
+  },
+  {
+   "id": "u-edinburgh",
+   "name": "University of Edinburgh",
+   "alt": [
+    "Tounis College",
+    "King James's College"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1583,
+     "city": "Edinburgh",
+     "lat": 55.9475,
+     "lon": -3.1873
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1583,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Founded by the town council under a royal charter of James VI as a Protestant 'Tounis College'. Its medical school, established in 1726, made it a leading European centre of medicine and the Scottish Enlightenment.",
+   "notes": ""
+  },
+  {
+   "id": "u-fraserburgh",
+   "name": "University of Fraserburgh",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1592,
+     "city": "Fraserburgh",
+     "lat": 57.693,
+     "lon": -2.005
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1592,
+   "start_approx": false,
+   "end": 1605,
+   "end_approx": true,
+   "founding_mode": "private",
+   "summary": "A college founded by Sir Alexander Fraser of Philorth under parliamentary charter. It functioned briefly under principal Charles Ferme and ended when he was imprisoned for attending the Aberdeen General Assembly.",
+   "notes": "End date uncertain; teaching ceased c.1605."
+  },
+  {
+   "id": "u-dundee",
+   "name": "University College Dundee",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1881,
+     "city": "Dundee",
+     "lat": 56.458,
+     "lon": -2.982
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1881,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded by Mary Ann Baxter, open to both sexes, and affiliated with St Andrews from 1897.",
+   "notes": ""
+  },
+  {
+   "id": "t-glasgow-anderson",
+   "name": "Anderson's Institution",
+   "alt": [
+    "Andersonian University",
+    "Glasgow and West of Scotland Technical College"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1796,
+     "city": "Glasgow",
+     "lat": 55.86,
+     "lon": -4.25
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1796,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded under the will of natural philosopher John Anderson for 'useful learning', it pioneered science lectures for working men and women. It became the Glasgow and West of Scotland Technical College in 1887.",
+   "notes": ""
+  },
+  {
+   "id": "t-edinburgh-watt",
+   "name": "School of Arts of Edinburgh",
+   "alt": [
+    "Watt Institution",
+    "Heriot-Watt College"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1821,
+     "city": "Edinburgh",
+     "lat": 55.948,
+     "lon": -3.189
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1821,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "One of the first mechanics' institutes, founded by Leonard Horner to teach science to artisans. It became Heriot-Watt College in 1885.",
+   "notes": ""
+  },
+  {
+   "id": "t-edinburgh-vet",
+   "name": "Edinburgh Veterinary College",
+   "alt": [
+    "Dick Vet",
+    "Royal (Dick) Veterinary College"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1823,
+     "city": "Edinburgh",
+     "lat": 55.946,
+     "lon": -3.19
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1823,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded by William Dick, it became one of Britain's main veterinary schools.",
+   "notes": ""
+  },
+  {
+   "id": "a-edinburgh-newcollege",
+   "name": "New College, Edinburgh",
+   "alt": [
+    "Free Church College"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1843,
+     "city": "Edinburgh",
+     "lat": 55.9497,
+     "lon": -3.1955
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1843,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Theological college of the Free Church of Scotland founded after the Disruption of 1843, with Thomas Chalmers as first principal.",
+   "notes": ""
+  },
+  {
+   "id": "u-dublin-stpatricks",
+   "name": "University of Dublin (medieval)",
+   "alt": [
+    "St Patrick's Cathedral studium"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1320,
+     "city": "Dublin",
+     "lat": 53.3395,
+     "lon": -6.2715
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1320,
+   "start_approx": false,
+   "end": 1534,
+   "end_approx": true,
+   "founding_mode": "papal",
+   "summary": "A medieval university attached to St Patrick's Cathedral under a 1312 bull of Clement V, organised by Archbishop Alexander de Bicknor in 1320. It never flourished and faded away before the Reformation.",
+   "notes": "End date is conjectural; it had ceased functioning by the dissolution of the cathedral chapter in 1547."
+  },
+  {
+   "id": "u-drogheda",
+   "name": "University of Drogheda",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1465,
+     "city": "Drogheda",
+     "lat": 53.7179,
+     "lon": -6.3561
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1465,
+   "start_approx": false,
+   "end": 1470,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "A university authorised by the Irish Parliament on the model of Oxford, which appears never to have functioned effectively.",
+   "notes": "No evidence of sustained teaching; end date conjectural."
+  },
+  {
+   "id": "u-dublin",
+   "name": "Trinity College Dublin",
+   "alt": [
+    "University of Dublin",
+    "College of the Holy and Undivided Trinity"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1592,
+     "city": "Dublin",
+     "lat": 53.3438,
+     "lon": -6.2546
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1592,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by charter of Elizabeth I on the site of All Hallows priory as the sole college of the University of Dublin, to educate a Protestant elite. It remained the Anglican university of Ireland until tests were abolished in 1873.",
+   "notes": ""
+  },
+  {
+   "id": "m-dublin-rcsi",
+   "name": "Royal College of Surgeons in Ireland",
+   "alt": [],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1784,
+     "city": "Dublin",
+     "lat": 53.3394,
+     "lon": -6.262
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1784,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Chartered by George III to regulate surgery in Ireland, it opened a school of surgery in 1789 and moved to St Stephen's Green in 1810. It admitted women to its licence in 1885.",
+   "notes": ""
+  },
+  {
+   "id": "m-maynooth",
+   "name": "St Patrick's College, Maynooth",
+   "alt": [
+    "Royal College of St Patrick"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1795,
+     "city": "Maynooth",
+     "lat": 53.3813,
+     "lon": -6.5918
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1795,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Catholic seminary founded by Act of the Irish Parliament, after the French Revolution closed Irish colleges on the Continent. It became the largest seminary in the world and was made a pontifical university in 1896.",
+   "notes": ""
+  },
+  {
+   "id": "u-belfast-queens",
+   "name": "Queen's College, Belfast",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1845,
+     "city": "Belfast",
+     "lat": 54.5844,
+     "lon": -5.9342
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 1845,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "One of three non-denominational Queen's Colleges established by Peel's government to provide higher education to Irish Catholics and Presbyterians. It became Queen's University of Belfast in 1908.",
+   "notes": "Incorporated 1845; opened to students in 1849."
+  },
+  {
+   "id": "u-cork-queens",
+   "name": "Queen's College, Cork",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1845,
+     "city": "Cork",
+     "lat": 51.8935,
+     "lon": -8.4919
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1845,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Non-denominational Queen's College condemned by the Catholic hierarchy as 'godless'; George Boole was its first professor of mathematics.",
+   "notes": "Incorporated 1845; opened 1849."
+  },
+  {
+   "id": "u-galway-queens",
+   "name": "Queen's College, Galway",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1845,
+     "city": "Galway",
+     "lat": 53.2785,
+     "lon": -9.061
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1845,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The western Queen's College, non-denominational and state-funded; it struggled for students owing to Catholic opposition.",
+   "notes": "Incorporated 1845; opened 1849."
+  },
+  {
+   "id": "u-queens-ireland",
+   "name": "Queen's University in Ireland",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1850,
+     "city": "Dublin",
+     "lat": 53.3429,
+     "lon": -6.2674
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1850,
+   "start_approx": false,
+   "end": 1882,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Federal examining university for the three Queen's Colleges. It was dissolved in 1882 and replaced by the Royal University of Ireland.",
+   "notes": ""
+  },
+  {
+   "id": "u-catholic-ireland",
+   "name": "Catholic University of Ireland",
+   "alt": [
+    "University College Dublin (from 1883)"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1854,
+     "city": "Dublin",
+     "lat": 53.338,
+     "lon": -6.259
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1854,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Founded by the Irish Catholic bishops, with papal encouragement, as a Catholic alternative to Trinity and the Queen's Colleges, with John Henry Newman as first rector. Lacking a charter, it could not grant recognised degrees; its University College was run by the Jesuits from 1883.",
+   "notes": ""
+  },
+  {
+   "id": "u-royal-ireland",
+   "name": "Royal University of Ireland",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1880,
+     "city": "Dublin",
+     "lat": 53.335,
+     "lon": -6.259
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1880,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Examining university created by the University Education (Ireland) Act 1879 and chartered in 1880, open to candidates of any college or none. It awarded degrees to women from 1884 and was replaced by the National University in 1908.",
+   "notes": ""
+  },
+  {
+   "id": "t-dublin-rcs",
+   "name": "Royal College of Science for Ireland",
+   "alt": [
+    "Museum of Irish Industry"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1867,
+     "city": "Dublin",
+     "lat": 53.339,
+     "lon": -6.253
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 1867,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "State college of applied science on St Stephen's Green, developed from the Museum of Irish Industry, training engineers, chemists and science teachers.",
+   "notes": ""
+  },
+  {
+   "id": "u-uppsala",
+   "name": "Uppsala University",
+   "alt": [
+    "Academia Upsaliensis"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1477,
+     "city": "Uppsala",
+     "lat": 59.8586,
+     "lon": 17.6389
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1477,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Scandinavia's first university, founded by bull of Sixtus IV at the request of Archbishop Jakob Ulvsson. It collapsed during the Reformation but was refounded in 1595 and, endowed by Gustavus Adolphus, became the intellectual centre of Sweden's age of greatness and of Linnaean natural history.",
+   "notes": ""
+  },
+  {
+   "id": "u-lund",
+   "name": "Lund University",
+   "alt": [
+    "Regia Academia Carolina"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1666,
+     "city": "Lund",
+     "lat": 55.7047,
+     "lon": 13.191
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1666,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Charles XI after Sweden acquired Scania, to integrate the province culturally. Closed during the Scanian War, it reopened in 1682 and became Sweden's second university.",
+   "notes": ""
+  },
+  {
+   "id": "m-stockholm-karolinska",
+   "name": "Karolinska Institute",
+   "alt": [
+    "Karolinska Institutet",
+    "Carolinska Medico Chirurgiska Institutet"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1810,
+     "city": "Stockholm",
+     "lat": 59.3326,
+     "lon": 18.0649
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1810,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Charles XIII to train army surgeons after the high medical losses of the Finnish War. It became a leading medical school, with Berzelius among its early professors.",
+   "notes": ""
+  },
+  {
+   "id": "t-stockholm-kth",
+   "name": "Royal Institute of Technology",
+   "alt": [
+    "Teknologiska institutet",
+    "KTH"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1827,
+     "city": "Stockholm",
+     "lat": 59.335,
+     "lon": 18.06
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1827,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Sweden's main technical school, founded as the Technological Institute and renamed the Royal Institute of Technology in 1877.",
+   "notes": ""
+  },
+  {
+   "id": "t-gothenburg-chalmers",
+   "name": "Chalmers Institute",
+   "alt": [
+    "Chalmersska Slöjdeskolan",
+    "Chalmers tekniska läroanstalt"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1829,
+     "city": "Gothenburg",
+     "lat": 57.7089,
+     "lon": 11.9746
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1829,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded with the bequest of William Chalmers, director of the Swedish East India Company, as an industrial school; it developed into a technical college.",
+   "notes": ""
+  },
+  {
+   "id": "t-falun",
+   "name": "Falun Mining School",
+   "alt": [
+    "Bergsskolan i Falun"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1819,
+     "city": "Falun",
+     "lat": 60.6065,
+     "lon": 15.6355
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1819,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Sweden's school of mining at the Great Copper Mountain; its higher course moved to KTH in 1869.",
+   "notes": ""
+  },
+  {
+   "id": "t-stockholm-karlberg",
+   "name": "Karlberg Military Academy",
+   "alt": [
+    "Krigsakademien"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1792,
+     "city": "Stockholm",
+     "lat": 59.342,
+     "lon": 18.028
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1792,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Swedish officer-training academy in Karlberg Palace.",
+   "notes": ""
+  },
+  {
+   "id": "u-stockholm",
+   "name": "Stockholm University College",
+   "alt": [
+    "Stockholms högskola"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1878,
+     "city": "Stockholm",
+     "lat": 59.342,
+     "lon": 18.059
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1878,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "A privately and municipally funded institution for free research and public lectures, without the conservative traditions of Uppsala and Lund. Sofia Kovalevskaya became its professor of mathematics.",
+   "notes": ""
+  },
+  {
+   "id": "u-gothenburg",
+   "name": "Gothenburg University College",
+   "alt": [
+    "Göteborgs högskola"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1891,
+     "city": "Gothenburg",
+     "lat": 57.698,
+     "lon": 11.972
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1891,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Founded through donations by Gothenburg citizens, initially teaching humanities. It became a full university in 1954.",
+   "notes": ""
+  },
+  {
+   "id": "u-copenhagen",
+   "name": "University of Copenhagen",
+   "alt": [
+    "Københavns Universitet"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1479,
+     "city": "Copenhagen",
+     "lat": 55.6794,
+     "lon": 12.5724
+    }
+   ],
+   "modern_country": "Denmark",
+   "start": 1479,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Christian I under a 1475 bull of Sixtus IV, it lapsed during the Reformation and was refounded in 1537 as a Lutheran university. It was the sole university of Denmark-Norway until 1811.",
+   "notes": ""
+  },
+  {
+   "id": "t-copenhagen-polytechnic",
+   "name": "Polytechnic College",
+   "alt": [
+    "Polyteknisk Læreanstalt"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1829,
+     "city": "Copenhagen",
+     "lat": 55.679,
+     "lon": 12.572
+    }
+   ],
+   "modern_country": "Denmark",
+   "start": 1829,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Denmark's polytechnic, founded on H.C. Ørsted's initiative to teach applied natural science, with Ørsted as director until 1850.",
+   "notes": ""
+  },
+  {
+   "id": "t-copenhagen-vet",
+   "name": "Royal Veterinary School",
+   "alt": [
+    "Veterinærskolen"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1773,
+     "city": "Copenhagen",
+     "lat": 55.672,
+     "lon": 12.594
+    }
+   ],
+   "modern_country": "Denmark",
+   "start": 1773,
+   "start_approx": false,
+   "end": 1856,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Peter Christian Abildgaard, one of the first veterinary schools in Europe. It merged into the Royal Veterinary and Agricultural College in 1856.",
+   "notes": ""
+  },
+  {
+   "id": "t-copenhagen-agri",
+   "name": "Royal Veterinary and Agricultural College",
+   "alt": [
+    "Landbohøjskolen"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1856,
+     "city": "Frederiksberg",
+     "lat": 55.681,
+     "lon": 12.541
+    }
+   ],
+   "modern_country": "Denmark",
+   "start": 1856,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Danish college of veterinary science, agriculture and forestry.",
+   "notes": ""
+  },
+  {
+   "id": "a-soro",
+   "name": "Sorø Academy",
+   "alt": [
+    "Sorø Akademi"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1623,
+     "city": "Sorø",
+     "lat": 55.432,
+     "lon": 11.555
+    }
+   ],
+   "modern_country": "Denmark",
+   "start": 1623,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Knightly academy founded by Christian IV in the former Cistercian abbey to educate the nobility, briefly a rival to the university. Closed and revived several times, it became a school in 1822.",
+   "notes": ""
+  },
+  {
+   "id": "u-christiania",
+   "name": "Royal Frederick University",
+   "alt": [
+    "Det Kongelige Frederiks Universitet",
+    "University of Christiania"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1811,
+     "city": "Christiania",
+     "lat": 59.9105,
+     "lon": 10.737
+    },
+    {
+     "from": 1852,
+     "city": "Christiania",
+     "lat": 59.9157,
+     "lon": 10.7353
+    }
+   ],
+   "modern_country": "Norway",
+   "start": 1811,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Norway's first university, founded by Frederick VI after long Norwegian demands. It trained the officials of the independent Norway after 1814.",
+   "notes": ""
+  },
+  {
+   "id": "t-kongsberg",
+   "name": "Kongsberg Mining Seminary",
+   "alt": [
+    "Bergseminaret"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1757,
+     "city": "Kongsberg",
+     "lat": 59.6689,
+     "lon": 9.6502
+    }
+   ],
+   "modern_country": "Norway",
+   "start": 1757,
+   "start_approx": false,
+   "end": 1814,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Mining academy at the Kongsberg silver mines, one of the earliest in Europe. Its teaching moved to the new university in Christiania.",
+   "notes": ""
+  },
+  {
+   "id": "t-christiania-krigsskolen",
+   "name": "Norwegian Military Academy",
+   "alt": [
+    "Krigsskolen"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1750,
+     "city": "Christiania",
+     "lat": 59.91,
+     "lon": 10.74
+    }
+   ],
+   "modern_country": "Norway",
+   "start": 1750,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Officer and military-engineering school, which also educated Norway's first civil engineers and surveyors.",
+   "notes": ""
+  },
+  {
+   "id": "a-bessastadir",
+   "name": "Bessastaðir School",
+   "alt": [
+    "Bessastaðaskóli",
+    "Lærði skólinn",
+    "Reykjavík Grammar School"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1805,
+     "city": "Bessastaðir",
+     "lat": 64.105,
+     "lon": -21.995
+    },
+    {
+     "from": 1846,
+     "city": "Reykjavík",
+     "lat": 64.1466,
+     "lon": -21.9426
+    }
+   ],
+   "modern_country": "Iceland",
+   "start": 1805,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Iceland's sole learned school in the early 19th century, successor to the cathedral schools of Skálholt and Hólar. It trained the generation of the Icelandic national revival before moving to Reykjavík.",
+   "notes": ""
+  },
+  {
+   "id": "m-reykjavik-prestaskolinn",
+   "name": "Pastoral Seminary of Reykjavík",
+   "alt": [
+    "Prestaskólinn"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1847,
+     "city": "Reykjavík",
+     "lat": 64.1466,
+     "lon": -21.9426
+    }
+   ],
+   "modern_country": "Iceland",
+   "start": 1847,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Iceland's first institution of higher education, training Lutheran clergy; it merged into the University of Iceland in 1911.",
+   "notes": ""
+  },
+  {
+   "id": "m-reykjavik-medical",
+   "name": "Reykjavík Medical School",
+   "alt": [
+    "Læknaskólinn"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1876,
+     "city": "Reykjavík",
+     "lat": 64.1466,
+     "lon": -21.9426
+    }
+   ],
+   "modern_country": "Iceland",
+   "start": 1876,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Medical school for training Icelandic physicians; it merged into the University of Iceland in 1911.",
+   "notes": ""
+  },
+  {
+   "id": "u-turku-helsinki",
+   "name": "Royal Academy of Turku / Imperial Alexander University",
+   "alt": [
+    "Academia Aboensis",
+    "University of Helsinki"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1640,
+     "city": "Turku",
+     "lat": 60.4527,
+     "lon": 22.2782
+    },
+    {
+     "from": 1828,
+     "city": "Helsinki",
+     "lat": 60.1693,
+     "lon": 24.9497
+    }
+   ],
+   "modern_country": "Finland",
+   "start": 1640,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded in Åbo during Queen Christina's minority on the initiative of Governor-General Per Brahe, it was Finland's only university. After the 1827 Turku fire it was moved to the new capital, Helsinki, as the Imperial Alexander University, where it nurtured the Finnish national movement.",
+   "notes": ""
+  },
+  {
+   "id": "t-helsinki-polytechnic",
+   "name": "Helsinki Polytechnic",
+   "alt": [
+    "Helsinki Technical School",
+    "Polytechnic Institute of Finland"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1849,
+     "city": "Helsinki",
+     "lat": 60.169,
+     "lon": 24.94
+    }
+   ],
+   "modern_country": "Finland",
+   "start": 1849,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Finland's technical school, which became the Polytechnic Institute in 1879 and the Helsinki University of Technology in 1908.",
+   "notes": ""
+  }
+ ],
+ "events": [
+  {
+   "id": "u-oxford-1096-founding",
+   "inst": "u-oxford",
+   "year": 1096,
+   "approx": true,
+   "type": "founding",
+   "title": "Earliest teaching at Oxford",
+   "desc": "Conventional date for the first recorded teaching in Oxford; the studium grew up spontaneously around the town's churches and religious houses.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oxford-1167-migration",
+   "inst": "u-oxford",
+   "year": 1167,
+   "approx": true,
+   "type": "migration",
+   "title": "English scholars recalled from Paris",
+   "desc": "Henry II's quarrel with Becket and ban on English clerks studying in Paris brought many masters and students to Oxford, turning it into a studium generale.",
+   "from_inst": "u-paris",
+   "related": []
+  },
+  {
+   "id": "u-oxford-1209-destruction",
+   "inst": "u-oxford",
+   "year": 1209,
+   "approx": false,
+   "type": "destruction",
+   "title": "Dispersal of 1209",
+   "desc": "After townsmen hanged two or three clerks in reprisal for a killing, the masters suspended teaching and dispersed; some went to Reading and others to Cambridge, founding the studium there.",
+   "from_inst": null,
+   "related": [
+    "u-cambridge"
+   ]
+  },
+  {
+   "id": "u-oxford-1214-charter",
+   "inst": "u-oxford",
+   "year": 1214,
+   "approx": false,
+   "type": "charter",
+   "title": "Legatine ordinance",
+   "desc": "The papal legate Nicholas of Tusculum restored the studium, imposing penance and payments on the town and providing for a chancellor, the first formal recognition of the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oxford-1355-destruction",
+   "inst": "u-oxford",
+   "year": 1355,
+   "approx": false,
+   "type": "destruction",
+   "title": "St Scholastica Day riot",
+   "desc": "A tavern brawl on 10 February escalated into three days of fighting in which some 63 scholars were killed and halls sacked; the town was subjected to an annual penance and the university given control over much of town life.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oxford-1411-confessional",
+   "inst": "u-oxford",
+   "year": 1411,
+   "approx": false,
+   "type": "confessional",
+   "title": "Suppression of Lollardy",
+   "desc": "Archbishop Arundel's visitation enforced his 1409 Constitutions against Wycliffite teaching, ending Oxford's role as a centre of Lollard thought.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oxford-1535-confessional",
+   "inst": "u-oxford",
+   "year": 1535,
+   "approx": false,
+   "type": "confessional",
+   "title": "Henrician Reformation injunctions",
+   "desc": "Thomas Cromwell's royal visitation abolished the teaching of canon law and scholastic commentaries and imposed the royal supremacy; Regius chairs followed in 1546 and Christ Church was refounded the same year.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oxford-1571-charter",
+   "inst": "u-oxford",
+   "year": 1571,
+   "approx": false,
+   "type": "charter",
+   "title": "Act of Incorporation",
+   "desc": "Parliament incorporated the university and confirmed its privileges; from 1581 subscription to the Thirty-Nine Articles was required at matriculation, excluding Catholics and Dissenters.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oxford-1636-reform",
+   "inst": "u-oxford",
+   "year": 1636,
+   "approx": false,
+   "type": "reform",
+   "title": "Laudian Code",
+   "desc": "Chancellor William Laud's statutes codified the university's constitution and curriculum, which remained in force until the 19th-century reforms.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oxford-1854-access",
+   "inst": "u-oxford",
+   "year": 1854,
+   "approx": false,
+   "type": "access",
+   "title": "Oxford University Act",
+   "desc": "The Act reformed governance and abolished religious tests at matriculation and for the BA, opening the university to Dissenters as undergraduates.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-oxford-1871-access",
+   "inst": "u-oxford",
+   "year": 1871,
+   "approx": false,
+   "type": "access",
+   "title": "Universities Tests Act",
+   "desc": "Abolished religious tests for most degrees, fellowships and offices at Oxford, Cambridge and Durham (except divinity).",
+   "from_inst": null,
+   "related": [
+    "u-cambridge",
+    "u-durham"
+   ]
+  },
+  {
+   "id": "u-oxford-1879-access",
+   "inst": "u-oxford",
+   "year": 1879,
+   "approx": false,
+   "type": "access",
+   "title": "First women's halls",
+   "desc": "Lady Margaret Hall and Somerville Hall opened for women students, who could attend lectures and from 1884 sit some university examinations, though they could not take degrees until 1920.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1209-founding",
+   "inst": "u-cambridge",
+   "year": 1209,
+   "approx": false,
+   "type": "founding",
+   "title": "Scholars from Oxford settle at Cambridge",
+   "desc": "Masters fleeing the Oxford suspendium of 1209 began teaching in Cambridge, where a studium survived after most returned to Oxford in 1214.",
+   "from_inst": "u-oxford",
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1229-migration",
+   "inst": "u-cambridge",
+   "year": 1229,
+   "approx": false,
+   "type": "migration",
+   "title": "Influx from Paris",
+   "desc": "During the Paris strike of 1229-31 Henry III invited the dispersing masters to England, and many settled at Cambridge (and Oxford).",
+   "from_inst": "u-paris",
+   "related": [
+    "u-oxford"
+   ]
+  },
+  {
+   "id": "u-cambridge-1231-charter",
+   "inst": "u-cambridge",
+   "year": 1231,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal writs of Henry III",
+   "desc": "Henry III's writs placed scholars under the chancellor's jurisdiction and regulated lodging rents, the first royal protection of the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1318-charter",
+   "inst": "u-cambridge",
+   "year": 1318,
+   "approx": false,
+   "type": "charter",
+   "title": "Papal recognition",
+   "desc": "Pope John XXII's bull confirmed Cambridge as a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1381-destruction",
+   "inst": "u-cambridge",
+   "year": 1381,
+   "approx": false,
+   "type": "destruction",
+   "title": "Peasants' Revolt",
+   "desc": "Townspeople allied with the rebels sacked Corpus Christi College and burnt university charters and records on Market Hill.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1535-confessional",
+   "inst": "u-cambridge",
+   "year": 1535,
+   "approx": false,
+   "type": "confessional",
+   "title": "Henrician injunctions",
+   "desc": "The royal injunctions abolished canon law degrees and imposed the royal supremacy; Cambridge became a seedbed of English Protestantism and Trinity College was founded in 1546.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1570-reform",
+   "inst": "u-cambridge",
+   "year": 1570,
+   "approx": false,
+   "type": "reform",
+   "title": "Elizabethan statutes",
+   "desc": "New statutes concentrated power in the heads of houses, shaping the university's constitution until the 19th century; the university was incorporated by Act of Parliament in 1571.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1856-access",
+   "inst": "u-cambridge",
+   "year": 1856,
+   "approx": false,
+   "type": "access",
+   "title": "Cambridge University Act",
+   "desc": "Removed religious tests for matriculation and bachelor's degrees, admitting Dissenters as graduates.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1869-access",
+   "inst": "u-cambridge",
+   "year": 1869,
+   "approx": false,
+   "type": "access",
+   "title": "College for women at Hitchin",
+   "desc": "Emily Davies opened a college for women at Hitchin, which moved to Girton in 1873 and prepared women for Cambridge examinations.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1871-access",
+   "inst": "u-cambridge",
+   "year": 1871,
+   "approx": false,
+   "type": "access",
+   "title": "Universities Tests Act",
+   "desc": "Abolished religious tests for most degrees and posts, completing the opening of Cambridge to non-Anglicans.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1871-access-2",
+   "inst": "u-cambridge",
+   "year": 1871,
+   "approx": false,
+   "type": "access",
+   "title": "Newnham lectures",
+   "desc": "Anne Clough's house for women attending lectures opened; it became Newnham College in 1880.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cambridge-1881-access",
+   "inst": "u-cambridge",
+   "year": 1881,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted to the Tripos",
+   "desc": "Grace of 1881 formally admitted women from Girton and Newnham to the Tripos examinations, though not to degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-northampton-1261-founding",
+   "inst": "u-northampton",
+   "year": 1261,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal licence for the Northampton studium",
+   "desc": "Henry III permitted seceding masters from Cambridge to establish a university at Northampton.",
+   "from_inst": "u-cambridge",
+   "related": [
+    "u-oxford"
+   ]
+  },
+  {
+   "id": "u-northampton-1264-destruction",
+   "inst": "u-northampton",
+   "year": 1264,
+   "approx": false,
+   "type": "destruction",
+   "title": "Siege of Northampton",
+   "desc": "Students fought on the baronial side when Henry III stormed the town in April 1264.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-northampton-1265-suppression",
+   "inst": "u-northampton",
+   "year": 1265,
+   "approx": false,
+   "type": "suppression",
+   "title": "Royal dissolution",
+   "desc": "Henry III ordered the studium dissolved, citing harm to Oxford; the scholars returned to Oxford and Cambridge.",
+   "from_inst": null,
+   "related": [
+    "u-oxford"
+   ]
+  },
+  {
+   "id": "u-stamford-1333-founding",
+   "inst": "u-stamford",
+   "year": 1333,
+   "approx": false,
+   "type": "founding",
+   "title": "Oxford secession to Stamford",
+   "desc": "Masters and students left Oxford after factional disputes and began teaching at Stamford.",
+   "from_inst": "u-oxford",
+   "related": []
+  },
+  {
+   "id": "u-stamford-1335-suppression",
+   "inst": "u-stamford",
+   "year": 1335,
+   "approx": false,
+   "type": "suppression",
+   "title": "Suppressed by Edward III",
+   "desc": "The king ordered the scholars back to Oxford and the studium was broken up.",
+   "from_inst": null,
+   "related": [
+    "u-oxford"
+   ]
+  },
+  {
+   "id": "m-london-inns-1340-founding",
+   "inst": "m-london-inns",
+   "year": 1340,
+   "approx": true,
+   "type": "founding",
+   "title": "Emergence of the inns",
+   "desc": "Societies of apprentices at law took up residence in hostels between the City and Westminster, forming the four inns.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-london-inns-1852-reform",
+   "inst": "m-london-inns",
+   "year": 1852,
+   "approx": false,
+   "type": "reform",
+   "title": "Council of Legal Education",
+   "desc": "The four inns established a joint Council of Legal Education with lectures and examinations for the Bar, compulsory from 1872.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-london-rcp-1518-founding",
+   "inst": "m-london-rcp",
+   "year": 1518,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "Henry VIII's letters patent incorporated the College of Physicians at Linacre's petition.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-london-rcp-1582-reform",
+   "inst": "m-london-rcp",
+   "year": 1582,
+   "approx": false,
+   "type": "reform",
+   "title": "Lumleian lectures",
+   "desc": "Lord Lumley and Richard Caldwell endowed surgical/anatomical lectures given at the college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-london-gresham-1597-founding",
+   "inst": "m-london-gresham",
+   "year": 1597,
+   "approx": false,
+   "type": "founding",
+   "title": "First lectures",
+   "desc": "Lectures began in Gresham's mansion in Bishopsgate, administered by the City and the Mercers' Company.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-london-gresham-1660-reform",
+   "inst": "m-london-gresham",
+   "year": 1660,
+   "approx": false,
+   "type": "reform",
+   "title": "Royal Society founded at Gresham",
+   "desc": "After a lecture by Christopher Wren in November 1660, the group that became the Royal Society was formed and met at Gresham College until 1710.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-london-gresham-1768-relocation",
+   "inst": "m-london-gresham",
+   "year": 1768,
+   "approx": false,
+   "type": "relocation",
+   "title": "Gresham House demolished",
+   "desc": "The mansion was sold to the Crown and demolished, and the lectures moved to a room over the Royal Exchange.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-london-gresham-1843-relocation",
+   "inst": "m-london-gresham",
+   "year": 1843,
+   "approx": false,
+   "type": "relocation",
+   "title": "New college building",
+   "desc": "A purpose-built Gresham College opened on Gresham Street.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-northampton-1729-founding",
+   "inst": "a-northampton",
+   "year": 1729,
+   "approx": false,
+   "type": "founding",
+   "title": "Doddridge opens his academy",
+   "desc": "Philip Doddridge began teaching at Market Harborough and moved the academy to Northampton at the end of 1729.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-northampton-1752-relocation",
+   "inst": "a-northampton",
+   "year": 1752,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Daventry",
+   "desc": "Under Caleb Ashworth the academy moved to Daventry, where Joseph Priestley studied (1752-55).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-northampton-1789-relocation",
+   "inst": "a-northampton",
+   "year": 1789,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Northampton",
+   "desc": "The academy returned to Northampton under John Horsey.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-northampton-1798-suppression",
+   "inst": "a-northampton",
+   "year": 1798,
+   "approx": true,
+   "type": "suppression",
+   "title": "Dissolved by the Coward Trustees",
+   "desc": "Concerned at heterodox teaching, the trustees closed the academy; its successor opened at Wymondley in 1799.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-warrington-1757-founding",
+   "inst": "a-warrington",
+   "year": 1757,
+   "approx": false,
+   "type": "founding",
+   "title": "Academy opened",
+   "desc": "Opened by Lancashire and Cheshire Dissenters under John Seddon with John Taylor as divinity tutor.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-warrington-1783-suppression",
+   "inst": "a-warrington",
+   "year": 1783,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "Financial difficulties and indiscipline led to closure; its library and ethos passed to Manchester Academy (1786).",
+   "from_inst": null,
+   "related": [
+    "a-manchester"
+   ]
+  },
+  {
+   "id": "a-manchester-1786-founding",
+   "inst": "a-manchester",
+   "year": 1786,
+   "approx": false,
+   "type": "founding",
+   "title": "Manchester Academy opened",
+   "desc": "Founded by Manchester Dissenters as successor to Warrington Academy.",
+   "from_inst": "a-warrington",
+   "related": []
+  },
+  {
+   "id": "a-manchester-1803-relocation",
+   "inst": "a-manchester",
+   "year": 1803,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to York",
+   "desc": "The academy moved to York under Charles Wellbeloved.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-manchester-1840-relocation",
+   "inst": "a-manchester",
+   "year": 1840,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Manchester",
+   "desc": "Returned to Manchester as Manchester New College, affiliated to the University of London.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-manchester-1853-relocation",
+   "inst": "a-manchester",
+   "year": 1853,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to London",
+   "desc": "Moved to University Hall, Gordon Square, near University College.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-manchester-1889-relocation",
+   "inst": "a-manchester",
+   "year": 1889,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Oxford",
+   "desc": "Settled in Oxford as Manchester College, opening new buildings in 1893.",
+   "from_inst": null,
+   "related": [
+    "u-oxford"
+   ]
+  },
+  {
+   "id": "a-hackney-1786-founding",
+   "inst": "a-hackney",
+   "year": 1786,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened by London Dissenters as a university-level academy for ministers and laymen.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-hackney-1796-suppression",
+   "inst": "a-hackney",
+   "year": 1796,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "Debts and suspicion of political radicalism forced closure.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-woolwich-1741-founding",
+   "inst": "t-woolwich",
+   "year": 1741,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal warrant",
+   "desc": "George II's warrant established the academy within the Royal Arsenal.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-woolwich-1806-relocation",
+   "inst": "t-woolwich",
+   "year": 1806,
+   "approx": false,
+   "type": "relocation",
+   "title": "New buildings on Woolwich Common",
+   "desc": "The academy moved into James Wyatt's buildings on Woolwich Common.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-sandhurst-1802-founding",
+   "inst": "t-sandhurst",
+   "year": 1802,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal warrant",
+   "desc": "Royal Military College established with its junior department at Great Marlow.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-sandhurst-1812-relocation",
+   "inst": "t-sandhurst",
+   "year": 1812,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Sandhurst",
+   "desc": "The college moved into new buildings at Sandhurst, Berkshire.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-greenwich-1873-founding",
+   "inst": "t-greenwich",
+   "year": 1873,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Admiralty order in council created the college, which absorbed the Royal Naval College at Portsmouth.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-london-rcs-1845-founding",
+   "inst": "t-london-rcs",
+   "year": 1845,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal College of Chemistry opened",
+   "desc": "Founded by subscription with Prince Albert's patronage, with A.W. Hofmann as professor, in Oxford Street.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-london-rcs-1853-reform",
+   "inst": "t-london-rcs",
+   "year": 1853,
+   "approx": false,
+   "type": "reform",
+   "title": "Taken over by the state",
+   "desc": "The College of Chemistry was absorbed into the government's Metropolitan School of Science applied to Mining and the Arts.",
+   "from_inst": null,
+   "related": [
+    "t-london-rsm"
+   ]
+  },
+  {
+   "id": "t-london-rcs-1872-relocation",
+   "inst": "t-london-rcs",
+   "year": 1872,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to South Kensington",
+   "desc": "Chemistry and biology teaching moved into new buildings in South Kensington.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-london-rcs-1881-reform",
+   "inst": "t-london-rcs",
+   "year": 1881,
+   "approx": false,
+   "type": "reform",
+   "title": "Normal School of Science",
+   "desc": "Reorganised under Huxley as the Normal School of Science for training teachers; renamed Royal College of Science in 1890.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-london-rsm-1851-founding",
+   "inst": "t-london-rsm",
+   "year": 1851,
+   "approx": false,
+   "type": "founding",
+   "title": "Government School of Mines opened",
+   "desc": "Opened with the Museum of Practical Geology under Henry De la Beche.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-london-rsm-1863-reform",
+   "inst": "t-london-rsm",
+   "year": 1863,
+   "approx": false,
+   "type": "reform",
+   "title": "Renamed Royal School of Mines",
+   "desc": "The school took its permanent name and focused on mining and metallurgy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-london-cgli-1884-founding",
+   "inst": "t-london-cgli",
+   "year": 1884,
+   "approx": false,
+   "type": "founding",
+   "title": "Central Institution opened",
+   "desc": "Opened in Alfred Waterhouse's building in Exhibition Road.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-london-rvc-1791-founding",
+   "inst": "t-london-rvc",
+   "year": 1791,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Founded with Charles Vial de Sainbel, trained at Lyon, as first professor.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-london-rvc-1875-charter",
+   "inst": "t-london-rvc",
+   "year": 1875,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal charter",
+   "desc": "Granted a royal charter as the Royal Veterinary College.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-cirencester-1845-founding",
+   "inst": "t-cirencester",
+   "year": 1845,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "Founded with a royal charter and opened to students in 1846.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-coopers-hill-1871-founding",
+   "inst": "t-coopers-hill",
+   "year": 1871,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened at Coopers Hill near Egham under the Secretary of State for India.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-london-ucl-1826-founding",
+   "inst": "u-london-ucl",
+   "year": 1826,
+   "approx": false,
+   "type": "founding",
+   "title": "Deed of settlement",
+   "desc": "London University was established as a joint-stock company; teaching began in Gower Street in October 1828.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-london-ucl-1836-charter",
+   "inst": "u-london-ucl",
+   "year": 1836,
+   "approx": false,
+   "type": "charter",
+   "title": "Chartered as University College",
+   "desc": "Denied degree-granting powers, it was incorporated as University College, one of the two colleges of the new University of London.",
+   "from_inst": null,
+   "related": [
+    "u-london",
+    "u-london-kings"
+   ]
+  },
+  {
+   "id": "u-london-ucl-1878-access",
+   "inst": "u-london-ucl",
+   "year": 1878,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted to classes",
+   "desc": "Following the University of London's admission of women to degrees, UCL opened most of its classes to women.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-london-kings-1829-founding",
+   "inst": "u-london-kings",
+   "year": 1829,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "George IV's charter founded the college; teaching began in the Strand in October 1831.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-london-kings-1836-charter",
+   "inst": "u-london-kings",
+   "year": 1836,
+   "approx": false,
+   "type": "charter",
+   "title": "College of the University of London",
+   "desc": "Became one of the two original colleges of the University of London.",
+   "from_inst": null,
+   "related": [
+    "u-london"
+   ]
+  },
+  {
+   "id": "u-london-1836-founding",
+   "inst": "u-london",
+   "year": 1836,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "William IV's charter created the University of London as an examining body for UCL and King's.",
+   "from_inst": null,
+   "related": [
+    "u-london-ucl",
+    "u-london-kings"
+   ]
+  },
+  {
+   "id": "u-london-1849-access",
+   "inst": "u-london",
+   "year": 1849,
+   "approx": false,
+   "type": "access",
+   "title": "Bedford College for women",
+   "desc": "Elizabeth Jesser Reid founded the Ladies' College in Bedford Square, the first higher-education college for women in Britain; its students later took London degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-london-1858-reform",
+   "inst": "u-london",
+   "year": 1858,
+   "approx": false,
+   "type": "reform",
+   "title": "External degrees",
+   "desc": "A new charter opened degrees to candidates regardless of where they had studied.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-london-1878-access",
+   "inst": "u-london",
+   "year": 1878,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted to degrees",
+   "desc": "A supplemental charter made London the first British university to admit women to its degrees; the first four women graduated BA in 1880.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-london-1898-reform",
+   "inst": "u-london",
+   "year": 1898,
+   "approx": false,
+   "type": "reform",
+   "title": "University of London Act",
+   "desc": "Reconstituted the university as a teaching federation of schools, taking effect in 1900.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-durham-1832-founding",
+   "inst": "u-durham",
+   "year": 1832,
+   "approx": false,
+   "type": "founding",
+   "title": "Act of Parliament",
+   "desc": "An Act enabled the Dean and Chapter to found the university; teaching began in October 1833.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-durham-1837-charter",
+   "inst": "u-durham",
+   "year": 1837,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal charter",
+   "desc": "William IV's charter confirmed the university and its degree-granting powers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-durham-1871-reform",
+   "inst": "u-durham",
+   "year": 1871,
+   "approx": false,
+   "type": "reform",
+   "title": "College of Physical Science in Newcastle",
+   "desc": "The university founded the College of Physical Science in Newcastle to teach science and mining.",
+   "from_inst": null,
+   "related": [
+    "u-newcastle"
+   ]
+  },
+  {
+   "id": "u-durham-1895-access",
+   "inst": "u-durham",
+   "year": 1895,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted to degrees",
+   "desc": "A supplemental charter allowed women to take Durham degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-newcastle-1871-founding",
+   "inst": "u-newcastle",
+   "year": 1871,
+   "approx": false,
+   "type": "founding",
+   "title": "College of Physical Science founded",
+   "desc": "Opened to teach mathematics, physics, chemistry and geology for the mining industry.",
+   "from_inst": null,
+   "related": [
+    "u-durham"
+   ]
+  },
+  {
+   "id": "u-lampeter-1822-founding",
+   "inst": "u-lampeter",
+   "year": 1822,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation stone laid",
+   "desc": "Bishop Burgess laid the foundation stone; the college opened to students in 1827.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lampeter-1852-charter",
+   "inst": "u-lampeter",
+   "year": 1852,
+   "approx": false,
+   "type": "charter",
+   "title": "Degree of BD",
+   "desc": "A royal charter authorised the college to confer the Bachelor of Divinity; the BA followed in 1865.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-manchester-owens-1851-founding",
+   "inst": "u-manchester-owens",
+   "year": 1851,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened in Richard Cobden's former house in Quay Street, without religious tests.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-manchester-owens-1873-relocation",
+   "inst": "u-manchester-owens",
+   "year": 1873,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Oxford Road",
+   "desc": "Moved to Alfred Waterhouse's new buildings on Oxford Road.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-manchester-owens-1880-reform",
+   "inst": "u-manchester-owens",
+   "year": 1880,
+   "approx": false,
+   "type": "reform",
+   "title": "First college of Victoria University",
+   "desc": "Became the founding college of the federal Victoria University.",
+   "from_inst": null,
+   "related": [
+    "u-victoria"
+   ]
+  },
+  {
+   "id": "u-manchester-owens-1883-access",
+   "inst": "u-manchester-owens",
+   "year": 1883,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were admitted to classes through a separate department for women.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-victoria-1880-founding",
+   "inst": "u-victoria",
+   "year": 1880,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "Chartered in April 1880 with Owens College as its sole college.",
+   "from_inst": null,
+   "related": [
+    "u-manchester-owens"
+   ]
+  },
+  {
+   "id": "u-victoria-1884-reform",
+   "inst": "u-victoria",
+   "year": 1884,
+   "approx": false,
+   "type": "reform",
+   "title": "University College Liverpool joins",
+   "desc": "Liverpool became the second constituent college.",
+   "from_inst": null,
+   "related": [
+    "u-liverpool"
+   ]
+  },
+  {
+   "id": "u-victoria-1887-reform",
+   "inst": "u-victoria",
+   "year": 1887,
+   "approx": false,
+   "type": "reform",
+   "title": "Yorkshire College joins",
+   "desc": "The Yorkshire College, Leeds, became the third constituent college.",
+   "from_inst": null,
+   "related": [
+    "u-leeds"
+   ]
+  },
+  {
+   "id": "u-liverpool-1881-founding",
+   "inst": "u-liverpool",
+   "year": 1881,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "Chartered in 1881; teaching began in a former lunatic asylum on Brownlow Hill in January 1882.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leeds-1874-founding",
+   "inst": "u-leeds",
+   "year": 1874,
+   "approx": false,
+   "type": "founding",
+   "title": "Yorkshire College of Science opened",
+   "desc": "Opened by local manufacturers and the Clothworkers' Company.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-birmingham-mason-1880-founding",
+   "inst": "u-birmingham-mason",
+   "year": 1880,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Mason Science College opened in Edmund Street, initially teaching only sciences.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-birmingham-mason-1897-reform",
+   "inst": "u-birmingham-mason",
+   "year": 1897,
+   "approx": false,
+   "type": "reform",
+   "title": "Mason University College",
+   "desc": "Incorporated as a university college with arts and medicine.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-birmingham-mason-1900-charter",
+   "inst": "u-birmingham-mason",
+   "year": 1900,
+   "approx": false,
+   "type": "charter",
+   "title": "University of Birmingham",
+   "desc": "Royal charter created the University of Birmingham, the first English civic university with its own charter.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bristol-1876-founding",
+   "inst": "u-bristol",
+   "year": 1876,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Founded with support from Balliol and New College, Oxford; open to men and women.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-sheffield-1879-founding",
+   "inst": "u-sheffield",
+   "year": 1879,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened by Prince Leopold.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-nottingham-1881-founding",
+   "inst": "u-nottingham",
+   "year": 1881,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened in buildings on Shakespeare Street provided by the town.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aberystwyth-1872-founding",
+   "inst": "u-aberystwyth",
+   "year": 1872,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened in the unfinished Castle Hotel building with 26 students under Thomas Charles Edwards.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aberystwyth-1885-destruction",
+   "inst": "u-aberystwyth",
+   "year": 1885,
+   "approx": false,
+   "type": "destruction",
+   "title": "Fire at the Old College",
+   "desc": "A fire destroyed much of the college building; it was rebuilt by subscription.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cardiff-1883-founding",
+   "inst": "u-cardiff",
+   "year": 1883,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened in the old Infirmary building in Cardiff.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bangor-1884-founding",
+   "inst": "u-bangor",
+   "year": 1884,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened in the Penrhyn Arms hotel.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-wales-1893-founding",
+   "inst": "u-wales",
+   "year": 1893,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "Chartered as a federal university with three constituent colleges.",
+   "from_inst": null,
+   "related": [
+    "u-aberystwyth",
+    "u-bangor",
+    "u-cardiff"
+   ]
+  },
+  {
+   "id": "u-st-andrews-1413-founding",
+   "inst": "u-st-andrews",
+   "year": 1413,
+   "approx": false,
+   "type": "founding",
+   "title": "Bulls of Benedict XIII",
+   "desc": "Avignon pope Benedict XIII issued bulls confirming the studium generale already teaching since 1410.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-andrews-1450-reform",
+   "inst": "u-st-andrews",
+   "year": 1450,
+   "approx": false,
+   "type": "reform",
+   "title": "St Salvator's College",
+   "desc": "Bishop James Kennedy founded St Salvator's; St Leonard's (1512) and St Mary's (1538) followed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-andrews-1560-confessional",
+   "inst": "u-st-andrews",
+   "year": 1560,
+   "approx": false,
+   "type": "confessional",
+   "title": "Reformation",
+   "desc": "The Reformation Parliament abolished papal authority; the university became Protestant and Catholic masters were removed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-andrews-1579-reform",
+   "inst": "u-st-andrews",
+   "year": 1579,
+   "approx": false,
+   "type": "reform",
+   "title": "New Foundation",
+   "desc": "Parliament reorganised the colleges, making St Mary's a Protestant divinity college, where Andrew Melville became principal in 1580.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-andrews-1747-reform",
+   "inst": "u-st-andrews",
+   "year": 1747,
+   "approx": false,
+   "type": "reform",
+   "title": "United College",
+   "desc": "St Salvator's and St Leonard's merged into the United College.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-andrews-1858-reform",
+   "inst": "u-st-andrews",
+   "year": 1858,
+   "approx": false,
+   "type": "reform",
+   "title": "Universities (Scotland) Act",
+   "desc": "Created university courts and general councils and modernised governance.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-andrews-1892-access",
+   "inst": "u-st-andrews",
+   "year": 1892,
+   "approx": false,
+   "type": "access",
+   "title": "Women matriculate",
+   "desc": "Under the 1889 Act's ordinances women were admitted to graduation; St Andrews had offered the LLA for women since 1877.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-st-andrews-1897-reform",
+   "inst": "u-st-andrews",
+   "year": 1897,
+   "approx": false,
+   "type": "reform",
+   "title": "Affiliation of University College Dundee",
+   "desc": "University College Dundee became part of the university.",
+   "from_inst": null,
+   "related": [
+    "u-dundee"
+   ]
+  },
+  {
+   "id": "u-glasgow-1451-founding",
+   "inst": "u-glasgow",
+   "year": 1451,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Nicholas V",
+   "desc": "Papal bull founded the university, which first taught in the cathedral chapter house.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-glasgow-1460-relocation",
+   "inst": "u-glasgow",
+   "year": 1460,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to the High Street",
+   "desc": "Lord Hamilton's gift of land on the High Street gave the university its home for four centuries.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-glasgow-1577-reform",
+   "inst": "u-glasgow",
+   "year": 1577,
+   "approx": false,
+   "type": "reform",
+   "title": "Nova Erectio",
+   "desc": "The new foundation under Andrew Melville revived the near-defunct Protestant university with a reformed curriculum.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-glasgow-1727-reform",
+   "inst": "u-glasgow",
+   "year": 1727,
+   "approx": false,
+   "type": "reform",
+   "title": "End of regenting",
+   "desc": "Specialised professorships replaced regents who taught every subject, a model for Enlightenment teaching.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-glasgow-1870-relocation",
+   "inst": "u-glasgow",
+   "year": 1870,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Gilmorehill",
+   "desc": "The university moved to George Gilbert Scott's buildings at Gilmorehill in the West End.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-glasgow-1892-access",
+   "inst": "u-glasgow",
+   "year": 1892,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Queen Margaret College for women (1883) was incorporated and women became eligible for degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aberdeen-kings-1495-founding",
+   "inst": "u-aberdeen-kings",
+   "year": 1495,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Alexander VI",
+   "desc": "Papal bull at the request of James IV and Bishop Elphinstone; teaching began c.1500.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aberdeen-kings-1569-confessional",
+   "inst": "u-aberdeen-kings",
+   "year": 1569,
+   "approx": false,
+   "type": "confessional",
+   "title": "Purge of Catholic masters",
+   "desc": "The Regent Moray's commissioners deprived the Catholic principal and regents.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aberdeen-kings-1641-reform",
+   "inst": "u-aberdeen-kings",
+   "year": 1641,
+   "approx": false,
+   "type": "reform",
+   "title": "Caroline University",
+   "desc": "Charles I united King's and Marischal as the 'King Charles University'; the union was annulled in 1661.",
+   "from_inst": null,
+   "related": [
+    "u-aberdeen-marischal"
+   ]
+  },
+  {
+   "id": "u-aberdeen-marischal-1593-founding",
+   "inst": "u-aberdeen-marischal",
+   "year": 1593,
+   "approx": false,
+   "type": "founding",
+   "title": "Earl Marischal's charter",
+   "desc": "Founded by charter of the Earl Marischal, ratified by Parliament.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aberdeen-marischal-1753-reform",
+   "inst": "u-aberdeen-marischal",
+   "year": 1753,
+   "approx": false,
+   "type": "reform",
+   "title": "Curriculum reform",
+   "desc": "Marischal reordered its curriculum to put natural philosophy before moral philosophy, a notable Enlightenment reform.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aberdeen-1860-founding",
+   "inst": "u-aberdeen",
+   "year": 1860,
+   "approx": false,
+   "type": "founding",
+   "title": "University of Aberdeen constituted",
+   "desc": "The union took effect on 15 September 1860 under the 1858 Act.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aberdeen-1860-merger",
+   "inst": "u-aberdeen",
+   "year": 1860,
+   "approx": false,
+   "type": "merger",
+   "title": "Union of King's and Marischal",
+   "desc": "King's (arts, divinity) and Marischal (law, medicine) were united.",
+   "from_inst": null,
+   "related": [
+    "u-aberdeen-kings",
+    "u-aberdeen-marischal"
+   ]
+  },
+  {
+   "id": "u-aberdeen-1892-access",
+   "inst": "u-aberdeen",
+   "year": 1892,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were admitted to graduation under the 1889 Act.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-edinburgh-1583-founding",
+   "inst": "u-edinburgh",
+   "year": 1583,
+   "approx": false,
+   "type": "founding",
+   "title": "Tounis College opens",
+   "desc": "Teaching began in October 1583 under Robert Rollock, following James VI's charter of 1582 to the town council.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-edinburgh-1726-reform",
+   "inst": "u-edinburgh",
+   "year": 1726,
+   "approx": false,
+   "type": "reform",
+   "title": "Faculty of Medicine",
+   "desc": "The town council established a medical faculty, inaugurating the Monro dynasty of anatomists.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-edinburgh-1858-reform",
+   "inst": "u-edinburgh",
+   "year": 1858,
+   "approx": false,
+   "type": "reform",
+   "title": "Universities (Scotland) Act",
+   "desc": "The university was freed from town council control and given a university court.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-edinburgh-1869-access",
+   "inst": "u-edinburgh",
+   "year": 1869,
+   "approx": false,
+   "type": "access",
+   "title": "The Edinburgh Seven",
+   "desc": "Sophia Jex-Blake and six other women matriculated in medicine, the first women at a British university; the Court of Session reversed their admission in 1873.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-edinburgh-1892-access",
+   "inst": "u-edinburgh",
+   "year": 1892,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted to graduation",
+   "desc": "Women were admitted to degrees under the 1889 Act.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-fraserburgh-1592-founding",
+   "inst": "u-fraserburgh",
+   "year": 1592,
+   "approx": false,
+   "type": "founding",
+   "title": "Act of Parliament",
+   "desc": "Parliament ratified Fraser's right to found a university in his burgh.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-fraserburgh-1605-suppression",
+   "inst": "u-fraserburgh",
+   "year": 1605,
+   "approx": true,
+   "type": "suppression",
+   "title": "Principal imprisoned",
+   "desc": "Charles Ferme was imprisoned after the 1605 Aberdeen Assembly and the college lapsed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dundee-1881-founding",
+   "inst": "u-dundee",
+   "year": 1881,
+   "approx": false,
+   "type": "founding",
+   "title": "Endowment and foundation",
+   "desc": "Mary Ann Baxter's gift founded the college; classes began in 1883.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-glasgow-anderson-1796-founding",
+   "inst": "t-glasgow-anderson",
+   "year": 1796,
+   "approx": false,
+   "type": "founding",
+   "title": "Institution founded",
+   "desc": "Founded under Anderson's will; Thomas Garnett and George Birkbeck gave its first lectures.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-glasgow-anderson-1887-reform",
+   "inst": "t-glasgow-anderson",
+   "year": 1887,
+   "approx": false,
+   "type": "reform",
+   "title": "Technical College",
+   "desc": "Merged with other Glasgow institutions to form the Glasgow and West of Scotland Technical College.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-edinburgh-watt-1821-founding",
+   "inst": "t-edinburgh-watt",
+   "year": 1821,
+   "approx": false,
+   "type": "founding",
+   "title": "School of Arts founded",
+   "desc": "Opened with evening lectures in chemistry and mechanics.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-edinburgh-watt-1885-reform",
+   "inst": "t-edinburgh-watt",
+   "year": 1885,
+   "approx": false,
+   "type": "reform",
+   "title": "Heriot-Watt College",
+   "desc": "Reconstituted with funds from George Heriot's Trust.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-edinburgh-vet-1823-founding",
+   "inst": "t-edinburgh-vet",
+   "year": 1823,
+   "approx": false,
+   "type": "founding",
+   "title": "First lectures",
+   "desc": "William Dick began veterinary lectures with support from the Highland Society.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-edinburgh-newcollege-1843-founding",
+   "inst": "a-edinburgh-newcollege",
+   "year": 1843,
+   "approx": false,
+   "type": "founding",
+   "title": "College opened",
+   "desc": "Opened in November 1843; its Mound building was completed in 1850.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dublin-stpatricks-1320-founding",
+   "inst": "u-dublin-stpatricks",
+   "year": 1320,
+   "approx": false,
+   "type": "founding",
+   "title": "Statutes of Archbishop Bicknor",
+   "desc": "Bicknor issued statutes under the papal bull of 1312 and the first degrees were conferred.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dublin-stpatricks-1534-suppression",
+   "inst": "u-dublin-stpatricks",
+   "year": 1534,
+   "approx": true,
+   "type": "suppression",
+   "title": "Lapse",
+   "desc": "The studium faded during the Henrician Reformation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-drogheda-1465-founding",
+   "inst": "u-drogheda",
+   "year": 1465,
+   "approx": false,
+   "type": "founding",
+   "title": "Act of the Irish Parliament",
+   "desc": "Parliament at Drogheda enacted the establishment of a university with Oxford's privileges.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dublin-1592-founding",
+   "inst": "u-dublin",
+   "year": 1592,
+   "approx": false,
+   "type": "founding",
+   "title": "Charter of Elizabeth I",
+   "desc": "Elizabeth I's charter founded the college; students were admitted in 1594.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dublin-1637-reform",
+   "inst": "u-dublin",
+   "year": 1637,
+   "approx": false,
+   "type": "reform",
+   "title": "Laudian statutes",
+   "desc": "New charter and statutes under Archbishop Laud and Provost Bedell's successors strengthened the provost and royal control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dublin-1689-suppression",
+   "inst": "u-dublin",
+   "year": 1689,
+   "approx": false,
+   "type": "suppression",
+   "title": "Seized under James II",
+   "desc": "Jacobite forces occupied the college as a barracks and prison and most fellows fled until 1690.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dublin-1793-access",
+   "inst": "u-dublin",
+   "year": 1793,
+   "approx": false,
+   "type": "access",
+   "title": "Catholics admitted to degrees",
+   "desc": "The Catholic Relief Act allowed Catholics to take degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dublin-1873-access",
+   "inst": "u-dublin",
+   "year": 1873,
+   "approx": false,
+   "type": "access",
+   "title": "Fawcett's Act",
+   "desc": "Abolished religious tests for all posts except in divinity.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-dublin-rcsi-1784-founding",
+   "inst": "m-dublin-rcsi",
+   "year": 1784,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "George III's charter separated the surgeons from the barbers' guild; teaching began in 1789.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-dublin-rcsi-1885-access",
+   "inst": "m-dublin-rcsi",
+   "year": 1885,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "The college began admitting women to its licentiate examinations.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-maynooth-1795-founding",
+   "inst": "m-maynooth",
+   "year": 1795,
+   "approx": false,
+   "type": "founding",
+   "title": "Act of the Irish Parliament",
+   "desc": "The Maynooth Act established and funded the college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-maynooth-1845-reform",
+   "inst": "m-maynooth",
+   "year": 1845,
+   "approx": false,
+   "type": "reform",
+   "title": "Maynooth Grant",
+   "desc": "Peel's government tripled and made permanent the state grant.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-maynooth-1869-suppression",
+   "inst": "m-maynooth",
+   "year": 1869,
+   "approx": false,
+   "type": "suppression",
+   "title": "Grant withdrawn",
+   "desc": "Disestablishment of the Church of Ireland ended the state endowment.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-maynooth-1896-charter",
+   "inst": "m-maynooth",
+   "year": 1896,
+   "approx": false,
+   "type": "charter",
+   "title": "Pontifical university",
+   "desc": "Leo XIII granted the power to confer pontifical degrees.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-belfast-queens-1845-founding",
+   "inst": "u-belfast-queens",
+   "year": 1845,
+   "approx": false,
+   "type": "founding",
+   "title": "Queen's Colleges (Ireland) Act",
+   "desc": "The Act and charter founded the college, which opened in October 1849.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-belfast-queens-1850-reform",
+   "inst": "u-belfast-queens",
+   "year": 1850,
+   "approx": false,
+   "type": "reform",
+   "title": "College of the Queen's University",
+   "desc": "Became a constituent college of the Queen's University in Ireland.",
+   "from_inst": null,
+   "related": [
+    "u-queens-ireland"
+   ]
+  },
+  {
+   "id": "u-belfast-queens-1882-access",
+   "inst": "u-belfast-queens",
+   "year": 1882,
+   "approx": true,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were admitted to classes.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cork-queens-1845-founding",
+   "inst": "u-cork-queens",
+   "year": 1845,
+   "approx": false,
+   "type": "founding",
+   "title": "Queen's Colleges (Ireland) Act",
+   "desc": "The Act and charter founded the college, which opened in 1849.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cork-queens-1850-reform",
+   "inst": "u-cork-queens",
+   "year": 1850,
+   "approx": false,
+   "type": "reform",
+   "title": "College of the Queen's University",
+   "desc": "Became a constituent college of the Queen's University in Ireland.",
+   "from_inst": null,
+   "related": [
+    "u-queens-ireland"
+   ]
+  },
+  {
+   "id": "u-cork-queens-1886-access",
+   "inst": "u-cork-queens",
+   "year": 1886,
+   "approx": true,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were admitted to lectures.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-galway-queens-1845-founding",
+   "inst": "u-galway-queens",
+   "year": 1845,
+   "approx": false,
+   "type": "founding",
+   "title": "Queen's Colleges (Ireland) Act",
+   "desc": "The Act and charter founded the college, which opened in 1849.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-galway-queens-1850-reform",
+   "inst": "u-galway-queens",
+   "year": 1850,
+   "approx": false,
+   "type": "reform",
+   "title": "College of the Queen's University",
+   "desc": "Became a constituent college of the Queen's University in Ireland.",
+   "from_inst": null,
+   "related": [
+    "u-queens-ireland"
+   ]
+  },
+  {
+   "id": "u-galway-queens-1888-access",
+   "inst": "u-galway-queens",
+   "year": 1888,
+   "approx": true,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were admitted to the college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-queens-ireland-1850-founding",
+   "inst": "u-queens-ireland",
+   "year": 1850,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "Chartered as the degree-granting body for the Queen's Colleges.",
+   "from_inst": null,
+   "related": [
+    "u-belfast-queens",
+    "u-cork-queens",
+    "u-galway-queens"
+   ]
+  },
+  {
+   "id": "u-queens-ireland-1882-suppression",
+   "inst": "u-queens-ireland",
+   "year": 1882,
+   "approx": false,
+   "type": "suppression",
+   "title": "Dissolved",
+   "desc": "Dissolved and replaced by the Royal University of Ireland.",
+   "from_inst": null,
+   "related": [
+    "u-royal-ireland"
+   ]
+  },
+  {
+   "id": "u-catholic-ireland-1854-founding",
+   "inst": "u-catholic-ireland",
+   "year": 1854,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening under Newman",
+   "desc": "The university opened on St Stephen's Green with Newman as rector.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-catholic-ireland-1855-reform",
+   "inst": "u-catholic-ireland",
+   "year": 1855,
+   "approx": false,
+   "type": "reform",
+   "title": "Medical school",
+   "desc": "The Catholic University School of Medicine opened in Cecilia Street.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-catholic-ireland-1883-confessional",
+   "inst": "u-catholic-ireland",
+   "year": 1883,
+   "approx": false,
+   "type": "confessional",
+   "title": "Jesuit management",
+   "desc": "University College was handed to the Society of Jesus, preparing students for Royal University degrees.",
+   "from_inst": null,
+   "related": [
+    "u-royal-ireland"
+   ]
+  },
+  {
+   "id": "u-royal-ireland-1880-founding",
+   "inst": "u-royal-ireland",
+   "year": 1880,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "Chartered under the 1879 Act; its first examinations were held in 1882.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-royal-ireland-1884-access",
+   "inst": "u-royal-ireland",
+   "year": 1884,
+   "approx": false,
+   "type": "access",
+   "title": "First women graduates",
+   "desc": "Nine women graduated BA, the first women to take degrees in Ireland.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-dublin-rcs-1867-founding",
+   "inst": "t-dublin-rcs",
+   "year": 1867,
+   "approx": false,
+   "type": "founding",
+   "title": "College established",
+   "desc": "Constituted by the Department of Science and Art.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-uppsala-1477-founding",
+   "inst": "u-uppsala",
+   "year": 1477,
+   "approx": false,
+   "type": "founding",
+   "title": "Bull of Sixtus IV",
+   "desc": "Papal bull of 1477; the university opened that autumn with a Bologna-modelled charter.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-uppsala-1527-confessional",
+   "inst": "u-uppsala",
+   "year": 1527,
+   "approx": true,
+   "type": "confessional",
+   "title": "Reformation decline",
+   "desc": "After the Diet of Västerås subordinated the church to Gustav Vasa, the already moribund university ceased to function.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-uppsala-1595-refoundation",
+   "inst": "u-uppsala",
+   "year": 1595,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Refoundation",
+   "desc": "Following the Uppsala Synod of 1593, which adopted the Augsburg Confession, Duke Charles confirmed the university's restoration as a Lutheran institution.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-uppsala-1624-charter",
+   "inst": "u-uppsala",
+   "year": 1624,
+   "approx": false,
+   "type": "charter",
+   "title": "Gustavian donation",
+   "desc": "Gustavus Adolphus endowed the university with his family estates; new constitutions followed in 1626.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-uppsala-1702-destruction",
+   "inst": "u-uppsala",
+   "year": 1702,
+   "approx": false,
+   "type": "destruction",
+   "title": "Uppsala fire",
+   "desc": "The great fire destroyed much of the town, the castle and cathedral and damaged university buildings including Rudbeck's collections.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-uppsala-1852-reform",
+   "inst": "u-uppsala",
+   "year": 1852,
+   "approx": false,
+   "type": "reform",
+   "title": "New statutes",
+   "desc": "New statutes modernised faculties and examinations.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-uppsala-1870-access",
+   "inst": "u-uppsala",
+   "year": 1870,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were permitted to take the studentexamen and matriculate; Betty Pettersson enrolled in 1872.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lund-1666-founding",
+   "inst": "u-lund",
+   "year": 1666,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal charter",
+   "desc": "Charles XI's charter founded the university; it was inaugurated in January 1668.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lund-1676-suppression",
+   "inst": "u-lund",
+   "year": 1676,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure during the Scanian War",
+   "desc": "Teaching ceased when Danish forces invaded Scania.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lund-1682-refoundation",
+   "inst": "u-lund",
+   "year": 1682,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Reopening",
+   "desc": "The university reopened after the peace.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lund-1880-access",
+   "inst": "u-lund",
+   "year": 1880,
+   "approx": true,
+   "type": "access",
+   "title": "First woman student",
+   "desc": "Women began to study at Lund following the 1870 reform.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-stockholm-karolinska-1810-founding",
+   "inst": "m-stockholm-karolinska",
+   "year": 1810,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal decree",
+   "desc": "Founded as a training academy for army surgeons.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-stockholm-karolinska-1861-reform",
+   "inst": "m-stockholm-karolinska",
+   "year": 1861,
+   "approx": false,
+   "type": "reform",
+   "title": "Equal status with universities",
+   "desc": "Granted the right to examine for the medical licentiate on a par with the universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-stockholm-kth-1827-founding",
+   "inst": "t-stockholm-kth",
+   "year": 1827,
+   "approx": false,
+   "type": "founding",
+   "title": "Teknologiska institutet opens",
+   "desc": "Opened in Stockholm on 11 November 1827.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-stockholm-kth-1877-reform",
+   "inst": "t-stockholm-kth",
+   "year": 1877,
+   "approx": false,
+   "type": "reform",
+   "title": "Royal Institute of Technology",
+   "desc": "Reorganised and renamed Kungliga Tekniska högskolan, absorbing the Falun mining school's higher course in 1869.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-gothenburg-chalmers-1829-founding",
+   "inst": "t-gothenburg-chalmers",
+   "year": 1829,
+   "approx": false,
+   "type": "founding",
+   "title": "School opened",
+   "desc": "Chalmersska Slöjdeskolan opened on 5 November 1829.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-falun-1819-founding",
+   "inst": "t-falun",
+   "year": 1819,
+   "approx": false,
+   "type": "founding",
+   "title": "School opened",
+   "desc": "Founded to train mining officials.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-stockholm-karlberg-1792-founding",
+   "inst": "t-stockholm-karlberg",
+   "year": 1792,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal decree",
+   "desc": "Founded as the Kungliga Krigsakademien.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-stockholm-1878-founding",
+   "inst": "u-stockholm",
+   "year": 1878,
+   "approx": false,
+   "type": "founding",
+   "title": "Lectures begin",
+   "desc": "Founded on the initiative of Stockholm city and donors; science lectures began in 1878.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-stockholm-1884-access",
+   "inst": "u-stockholm",
+   "year": 1884,
+   "approx": false,
+   "type": "access",
+   "title": "Kovalevskaya appointed",
+   "desc": "Sofia Kovalevskaya was appointed lecturer, becoming professor in 1889, the first woman to hold a full chair in modern Northern Europe.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-gothenburg-1891-founding",
+   "inst": "u-gothenburg",
+   "year": 1891,
+   "approx": false,
+   "type": "founding",
+   "title": "Teaching begins",
+   "desc": "Opened with lectures in the humanities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-copenhagen-1479-founding",
+   "inst": "u-copenhagen",
+   "year": 1479,
+   "approx": false,
+   "type": "founding",
+   "title": "Inauguration",
+   "desc": "Opened on 1 June 1479 by Christian I, under the papal bull of 1475.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-copenhagen-1537-confessional",
+   "inst": "u-copenhagen",
+   "year": 1537,
+   "approx": false,
+   "type": "confessional",
+   "title": "Lutheran refoundation",
+   "desc": "After teaching had ceased c.1531, Christian III reopened the university as a Lutheran institution with Melanchthonian statutes (charter 1539).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-copenhagen-1728-destruction",
+   "inst": "u-copenhagen",
+   "year": 1728,
+   "approx": false,
+   "type": "destruction",
+   "title": "Copenhagen fire",
+   "desc": "The great fire destroyed the university buildings, library and Rømer's papers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-copenhagen-1788-reform",
+   "inst": "u-copenhagen",
+   "year": 1788,
+   "approx": false,
+   "type": "reform",
+   "title": "New statutes",
+   "desc": "New foundation statutes reformed teaching and examinations.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-copenhagen-1807-destruction",
+   "inst": "u-copenhagen",
+   "year": 1807,
+   "approx": false,
+   "type": "destruction",
+   "title": "British bombardment",
+   "desc": "The British bombardment of Copenhagen destroyed several buildings, including the Frue Kirke beside the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-copenhagen-1875-access",
+   "inst": "u-copenhagen",
+   "year": 1875,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were permitted to study and take degrees; Nielsine Nielsen was the first female graduate (1885).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-copenhagen-polytechnic-1829-founding",
+   "inst": "t-copenhagen-polytechnic",
+   "year": 1829,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening",
+   "desc": "Opened on 5 November 1829.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-copenhagen-vet-1773-founding",
+   "inst": "t-copenhagen-vet",
+   "year": 1773,
+   "approx": false,
+   "type": "founding",
+   "title": "School opened",
+   "desc": "Opened at Christianshavn under Abildgaard.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-copenhagen-agri-1856-founding",
+   "inst": "t-copenhagen-agri",
+   "year": 1856,
+   "approx": false,
+   "type": "founding",
+   "title": "College established",
+   "desc": "Founded in new buildings at Frederiksberg.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-copenhagen-agri-1856-merger",
+   "inst": "t-copenhagen-agri",
+   "year": 1856,
+   "approx": false,
+   "type": "merger",
+   "title": "Absorption of the Veterinary School",
+   "desc": "The Royal Veterinary School was merged into the new college.",
+   "from_inst": null,
+   "related": [
+    "t-copenhagen-vet"
+   ]
+  },
+  {
+   "id": "a-soro-1623-founding",
+   "inst": "a-soro",
+   "year": 1623,
+   "approx": false,
+   "type": "founding",
+   "title": "Knightly academy",
+   "desc": "Christian IV founded the academy for young noblemen.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-soro-1665-suppression",
+   "inst": "a-soro",
+   "year": 1665,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "Closed after financial decline.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-soro-1747-refoundation",
+   "inst": "a-soro",
+   "year": 1747,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Refounded",
+   "desc": "Revived by Frederick V with Ludvig Holberg's bequest as an academy for nobles.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-soro-1813-destruction",
+   "inst": "a-soro",
+   "year": 1813,
+   "approx": false,
+   "type": "destruction",
+   "title": "Fire",
+   "desc": "Fire destroyed the main building.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-christiania-1811-founding",
+   "inst": "u-christiania",
+   "year": 1811,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal decree",
+   "desc": "Frederick VI's decree of 2 September 1811 founded the university; teaching began in 1813.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-christiania-1852-relocation",
+   "inst": "u-christiania",
+   "year": 1852,
+   "approx": false,
+   "type": "relocation",
+   "title": "New buildings on Karl Johans gate",
+   "desc": "The university moved into its new neoclassical buildings in the city centre.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-christiania-1882-access",
+   "inst": "u-christiania",
+   "year": 1882,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "A law opened examen artium and degrees to women; Cecilie Thoresen matriculated in 1882.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-kongsberg-1757-founding",
+   "inst": "t-kongsberg",
+   "year": 1757,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal foundation",
+   "desc": "Founded by Frederick V to train mining officials.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-kongsberg-1814-suppression",
+   "inst": "t-kongsberg",
+   "year": 1814,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "Closed and its functions transferred to the university.",
+   "from_inst": null,
+   "related": [
+    "u-christiania"
+   ]
+  },
+  {
+   "id": "t-christiania-krigsskolen-1750-founding",
+   "inst": "t-christiania-krigsskolen",
+   "year": 1750,
+   "approx": false,
+   "type": "founding",
+   "title": "Mathematical school founded",
+   "desc": "Founded as the Norwegian Mathematical School.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-bessastadir-1805-founding",
+   "inst": "a-bessastadir",
+   "year": 1805,
+   "approx": false,
+   "type": "founding",
+   "title": "School moved to Bessastaðir",
+   "desc": "The Reykjavík Latin school was re-established at Bessastaðir.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-bessastadir-1846-relocation",
+   "inst": "a-bessastadir",
+   "year": 1846,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Reykjavík",
+   "desc": "The school moved to a new building in Reykjavík as the Lærði skólinn.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-reykjavik-prestaskolinn-1847-founding",
+   "inst": "m-reykjavik-prestaskolinn",
+   "year": 1847,
+   "approx": false,
+   "type": "founding",
+   "title": "Seminary opened",
+   "desc": "Opened in Reykjavík under Pétur Pétursson.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-reykjavik-medical-1876-founding",
+   "inst": "m-reykjavik-medical",
+   "year": 1876,
+   "approx": false,
+   "type": "founding",
+   "title": "School established",
+   "desc": "Established by law; it grew from instruction given by the director of health since 1862.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turku-helsinki-1640-founding",
+   "inst": "u-turku-helsinki",
+   "year": 1640,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal Academy of Turku",
+   "desc": "Founded by royal decree of 26 March 1640 and inaugurated that July.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turku-helsinki-1713-destruction",
+   "inst": "u-turku-helsinki",
+   "year": 1713,
+   "approx": false,
+   "type": "destruction",
+   "title": "Great Wrath",
+   "desc": "Russian occupation during the Great Northern War closed the academy; staff fled to Sweden.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turku-helsinki-1722-refoundation",
+   "inst": "u-turku-helsinki",
+   "year": 1722,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Reopening",
+   "desc": "Teaching resumed after the Peace of Nystad (1721).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turku-helsinki-1809-reform",
+   "inst": "u-turku-helsinki",
+   "year": 1809,
+   "approx": false,
+   "type": "reform",
+   "title": "Imperial Academy of Turku",
+   "desc": "With Finland's annexation to Russia the academy came under the Emperor and received generous funding.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turku-helsinki-1827-destruction",
+   "inst": "u-turku-helsinki",
+   "year": 1827,
+   "approx": false,
+   "type": "destruction",
+   "title": "Great Fire of Turku",
+   "desc": "The fire destroyed most of the town and the university's main building and library.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turku-helsinki-1828-relocation",
+   "inst": "u-turku-helsinki",
+   "year": 1828,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Helsinki",
+   "desc": "Nicholas I ordered the university moved to Helsinki as the Imperial Alexander University.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-turku-helsinki-1870-access",
+   "inst": "u-turku-helsinki",
+   "year": 1870,
+   "approx": false,
+   "type": "access",
+   "title": "First woman student",
+   "desc": "Emma Irene Åström was admitted by dispensation and graduated in 1882.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-helsinki-polytechnic-1849-founding",
+   "inst": "t-helsinki-polytechnic",
+   "year": 1849,
+   "approx": false,
+   "type": "founding",
+   "title": "Technical school opened",
+   "desc": "Opened as the Helsinki Technical Real School.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-helsinki-polytechnic-1879-reform",
+   "inst": "t-helsinki-polytechnic",
+   "year": 1879,
+   "approx": false,
+   "type": "reform",
+   "title": "Polytechnic Institute",
+   "desc": "Raised to the Polytechnic Institute.",
+   "from_inst": null,
+   "related": []
+  }
+ ],
+ "thinkers": [
+  {
+   "name": "Robert Grosseteste",
+   "inst": "u-oxford",
+   "from": 1225,
+   "to": 1235,
+   "approx": true,
+   "role": "taught; first head of the schools",
+   "note": "Lectured to the Oxford Franciscans; probably chancellor."
+  },
+  {
+   "name": "Roger Bacon",
+   "inst": "u-oxford",
+   "from": 1230,
+   "to": 1257,
+   "approx": true,
+   "role": "studied and taught",
+   "note": "Franciscan natural philosopher; also taught in Paris."
+  },
+  {
+   "name": "John Duns Scotus",
+   "inst": "u-oxford",
+   "from": 1288,
+   "to": 1301,
+   "approx": true,
+   "role": "studied and lectured on the Sentences",
+   "note": ""
+  },
+  {
+   "name": "William of Ockham",
+   "inst": "u-oxford",
+   "from": 1310,
+   "to": 1324,
+   "approx": true,
+   "role": "studied and lectured",
+   "note": "Summoned to Avignon in 1324."
+  },
+  {
+   "name": "John Wyclif",
+   "inst": "u-oxford",
+   "from": 1345,
+   "to": 1381,
+   "approx": true,
+   "role": "studied, master of Balliol, taught theology",
+   "note": "Condemned 1382; withdrew to Lutterworth."
+  },
+  {
+   "name": "Desiderius Erasmus",
+   "inst": "u-oxford",
+   "from": 1499,
+   "to": 1500,
+   "approx": true,
+   "role": "visited",
+   "note": "Met John Colet at Oxford."
+  },
+  {
+   "name": "Thomas More",
+   "inst": "u-oxford",
+   "from": 1492,
+   "to": 1494,
+   "approx": true,
+   "role": "studied",
+   "note": "At Canterbury College or St Mary Hall."
+  },
+  {
+   "name": "William Tyndale",
+   "inst": "u-oxford",
+   "from": 1506,
+   "to": 1515,
+   "approx": true,
+   "role": "studied at Magdalen Hall",
+   "note": ""
+  },
+  {
+   "name": "Thomas Hobbes",
+   "inst": "u-oxford",
+   "from": 1603,
+   "to": 1608,
+   "approx": false,
+   "role": "studied at Magdalen Hall",
+   "note": ""
+  },
+  {
+   "name": "John Locke",
+   "inst": "u-oxford",
+   "from": 1652,
+   "to": 1684,
+   "approx": false,
+   "role": "studied and senior student of Christ Church",
+   "note": "Expelled from his studentship 1684."
+  },
+  {
+   "name": "Robert Boyle",
+   "inst": "u-oxford",
+   "from": 1655,
+   "to": 1668,
+   "approx": false,
+   "role": "conducted experiments",
+   "note": "Lived in Oxford with Hooke as assistant; not a member of the university."
+  },
+  {
+   "name": "Christopher Wren",
+   "inst": "u-oxford",
+   "from": 1661,
+   "to": 1673,
+   "approx": false,
+   "role": "Savilian professor of astronomy",
+   "note": ""
+  },
+  {
+   "name": "Edmond Halley",
+   "inst": "u-oxford",
+   "from": 1704,
+   "to": 1742,
+   "approx": false,
+   "role": "Savilian professor of geometry",
+   "note": "Also studied at Queen's 1673-76."
+  },
+  {
+   "name": "Adam Smith",
+   "inst": "u-oxford",
+   "from": 1740,
+   "to": 1746,
+   "approx": false,
+   "role": "Snell exhibitioner at Balliol",
+   "note": ""
+  },
+  {
+   "name": "John Henry Newman",
+   "inst": "u-oxford",
+   "from": 1817,
+   "to": 1845,
+   "approx": false,
+   "role": "studied; fellow of Oriel",
+   "note": "Leader of the Oxford Movement."
+  },
+  {
+   "name": "Desiderius Erasmus",
+   "inst": "u-cambridge",
+   "from": 1511,
+   "to": 1514,
+   "approx": false,
+   "role": "taught Greek at Queens'",
+   "note": ""
+  },
+  {
+   "name": "William Tyndale",
+   "inst": "u-cambridge",
+   "from": 1517,
+   "to": 1521,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Thomas Cranmer",
+   "inst": "u-cambridge",
+   "from": 1503,
+   "to": 1529,
+   "approx": true,
+   "role": "studied; fellow of Jesus",
+   "note": ""
+  },
+  {
+   "name": "Francis Bacon",
+   "inst": "u-cambridge",
+   "from": 1573,
+   "to": 1575,
+   "approx": false,
+   "role": "studied at Trinity",
+   "note": ""
+  },
+  {
+   "name": "John Milton",
+   "inst": "u-cambridge",
+   "from": 1625,
+   "to": 1632,
+   "approx": false,
+   "role": "studied at Christ's",
+   "note": ""
+  },
+  {
+   "name": "Isaac Newton",
+   "inst": "u-cambridge",
+   "from": 1661,
+   "to": 1696,
+   "approx": false,
+   "role": "studied; Lucasian professor 1669-1702",
+   "note": "Left for the Royal Mint in 1696."
+  },
+  {
+   "name": "Charles Babbage",
+   "inst": "u-cambridge",
+   "from": 1810,
+   "to": 1839,
+   "approx": false,
+   "role": "studied; Lucasian professor 1828-39",
+   "note": ""
+  },
+  {
+   "name": "Charles Darwin",
+   "inst": "u-cambridge",
+   "from": 1828,
+   "to": 1831,
+   "approx": false,
+   "role": "studied at Christ's",
+   "note": ""
+  },
+  {
+   "name": "William Thomson (Lord Kelvin)",
+   "inst": "u-cambridge",
+   "from": 1841,
+   "to": 1845,
+   "approx": false,
+   "role": "studied at Peterhouse",
+   "note": "Second Wrangler 1845."
+  },
+  {
+   "name": "James Clerk Maxwell",
+   "inst": "u-cambridge",
+   "from": 1850,
+   "to": 1879,
+   "approx": false,
+   "role": "studied; first Cavendish professor 1871-79",
+   "note": ""
+  },
+  {
+   "name": "Thomas More",
+   "inst": "m-london-inns",
+   "from": 1496,
+   "to": 1501,
+   "approx": false,
+   "role": "studied law at Lincoln's Inn",
+   "note": ""
+  },
+  {
+   "name": "Francis Bacon",
+   "inst": "m-london-inns",
+   "from": 1576,
+   "to": 1626,
+   "approx": true,
+   "role": "member of Gray's Inn; treasurer",
+   "note": ""
+  },
+  {
+   "name": "Mohandas K. Gandhi",
+   "inst": "m-london-inns",
+   "from": 1888,
+   "to": 1891,
+   "approx": false,
+   "role": "studied law at the Inner Temple",
+   "note": ""
+  },
+  {
+   "name": "William Harvey",
+   "inst": "m-london-rcp",
+   "from": 1615,
+   "to": 1656,
+   "approx": false,
+   "role": "Lumleian lecturer",
+   "note": "Expounded the circulation of the blood in his lectures from 1616."
+  },
+  {
+   "name": "Henry Briggs",
+   "inst": "m-london-gresham",
+   "from": 1597,
+   "to": 1620,
+   "approx": false,
+   "role": "first professor of geometry",
+   "note": ""
+  },
+  {
+   "name": "Christopher Wren",
+   "inst": "m-london-gresham",
+   "from": 1657,
+   "to": 1661,
+   "approx": false,
+   "role": "professor of astronomy",
+   "note": ""
+  },
+  {
+   "name": "Robert Hooke",
+   "inst": "m-london-gresham",
+   "from": 1665,
+   "to": 1703,
+   "approx": false,
+   "role": "professor of geometry",
+   "note": "Lived at the college."
+  },
+  {
+   "name": "Philip Doddridge",
+   "inst": "a-northampton",
+   "from": 1729,
+   "to": 1751,
+   "approx": false,
+   "role": "founded and taught",
+   "note": ""
+  },
+  {
+   "name": "Joseph Priestley",
+   "inst": "a-northampton",
+   "from": 1752,
+   "to": 1755,
+   "approx": false,
+   "role": "studied at Daventry",
+   "note": ""
+  },
+  {
+   "name": "Joseph Priestley",
+   "inst": "a-warrington",
+   "from": 1761,
+   "to": 1767,
+   "approx": false,
+   "role": "tutor in languages and belles lettres",
+   "note": ""
+  },
+  {
+   "name": "Joseph Priestley",
+   "inst": "a-hackney",
+   "from": 1791,
+   "to": 1794,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Richard Price",
+   "inst": "a-hackney",
+   "from": 1786,
+   "to": 1791,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "William Hazlitt",
+   "inst": "a-hackney",
+   "from": 1793,
+   "to": 1795,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "John Dalton",
+   "inst": "a-manchester",
+   "from": 1793,
+   "to": 1800,
+   "approx": false,
+   "role": "tutor in mathematics and natural philosophy",
+   "note": ""
+  },
+  {
+   "name": "Charles Hutton",
+   "inst": "t-woolwich",
+   "from": 1773,
+   "to": 1807,
+   "approx": false,
+   "role": "professor of mathematics",
+   "note": ""
+  },
+  {
+   "name": "Michael Faraday",
+   "inst": "t-woolwich",
+   "from": 1829,
+   "to": 1852,
+   "approx": false,
+   "role": "professor of chemistry",
+   "note": ""
+  },
+  {
+   "name": "Augustus De Morgan",
+   "inst": "u-london-ucl",
+   "from": 1828,
+   "to": 1866,
+   "approx": false,
+   "role": "professor of mathematics",
+   "note": "Resigned 1831-36."
+  },
+  {
+   "name": "Joseph Lister",
+   "inst": "u-london-ucl",
+   "from": 1844,
+   "to": 1852,
+   "approx": false,
+   "role": "studied arts and medicine",
+   "note": ""
+  },
+  {
+   "name": "William Stanley Jevons",
+   "inst": "u-london-ucl",
+   "from": 1851,
+   "to": 1880,
+   "approx": false,
+   "role": "studied; professor of political economy 1876-80",
+   "note": "Studied 1851-54 and 1859-62."
+  },
+  {
+   "name": "Charles Wheatstone",
+   "inst": "u-london-kings",
+   "from": 1834,
+   "to": 1875,
+   "approx": false,
+   "role": "professor of experimental philosophy",
+   "note": ""
+  },
+  {
+   "name": "James Clerk Maxwell",
+   "inst": "u-london-kings",
+   "from": 1860,
+   "to": 1865,
+   "approx": false,
+   "role": "professor of natural philosophy",
+   "note": ""
+  },
+  {
+   "name": "August Wilhelm von Hofmann",
+   "inst": "t-london-rcs",
+   "from": 1845,
+   "to": 1865,
+   "approx": false,
+   "role": "first director",
+   "note": ""
+  },
+  {
+   "name": "William Henry Perkin",
+   "inst": "t-london-rcs",
+   "from": 1853,
+   "to": 1856,
+   "approx": false,
+   "role": "studied under Hofmann",
+   "note": "Discovered mauveine 1856."
+  },
+  {
+   "name": "Thomas Henry Huxley",
+   "inst": "t-london-rcs",
+   "from": 1881,
+   "to": 1895,
+   "approx": false,
+   "role": "dean and professor of biology",
+   "note": ""
+  },
+  {
+   "name": "H. G. Wells",
+   "inst": "t-london-rcs",
+   "from": 1884,
+   "to": 1887,
+   "approx": false,
+   "role": "studied under Huxley",
+   "note": ""
+  },
+  {
+   "name": "Thomas Henry Huxley",
+   "inst": "t-london-rsm",
+   "from": 1854,
+   "to": 1881,
+   "approx": false,
+   "role": "lecturer in natural history",
+   "note": ""
+  },
+  {
+   "name": "Henry Roscoe",
+   "inst": "u-manchester-owens",
+   "from": 1857,
+   "to": 1885,
+   "approx": false,
+   "role": "professor of chemistry",
+   "note": ""
+  },
+  {
+   "name": "William Stanley Jevons",
+   "inst": "u-manchester-owens",
+   "from": 1863,
+   "to": 1876,
+   "approx": false,
+   "role": "tutor and professor",
+   "note": ""
+  },
+  {
+   "name": "Osborne Reynolds",
+   "inst": "u-manchester-owens",
+   "from": 1868,
+   "to": 1905,
+   "approx": false,
+   "role": "professor of engineering",
+   "note": ""
+  },
+  {
+   "name": "J. J. Thomson",
+   "inst": "u-manchester-owens",
+   "from": 1871,
+   "to": 1876,
+   "approx": false,
+   "role": "studied engineering and physics",
+   "note": ""
+  },
+  {
+   "name": "Oliver Lodge",
+   "inst": "u-liverpool",
+   "from": 1881,
+   "to": 1900,
+   "approx": false,
+   "role": "professor of physics",
+   "note": ""
+  },
+  {
+   "name": "John Mair",
+   "inst": "u-st-andrews",
+   "from": 1531,
+   "to": 1550,
+   "approx": true,
+   "role": "taught; provost of St Salvator's",
+   "note": "Also taught 1523-25."
+  },
+  {
+   "name": "Patrick Hamilton",
+   "inst": "u-st-andrews",
+   "from": 1523,
+   "to": 1528,
+   "approx": true,
+   "role": "studied and taught",
+   "note": "Burned for heresy 1528."
+  },
+  {
+   "name": "George Buchanan",
+   "inst": "u-st-andrews",
+   "from": 1525,
+   "to": 1570,
+   "approx": true,
+   "role": "studied; principal of St Leonard's 1566-70",
+   "note": "Long absences abroad."
+  },
+  {
+   "name": "Andrew Melville",
+   "inst": "u-st-andrews",
+   "from": 1580,
+   "to": 1607,
+   "approx": false,
+   "role": "principal of St Mary's",
+   "note": ""
+  },
+  {
+   "name": "James Gregory",
+   "inst": "u-st-andrews",
+   "from": 1668,
+   "to": 1674,
+   "approx": false,
+   "role": "professor of mathematics",
+   "note": ""
+  },
+  {
+   "name": "Thomas Chalmers",
+   "inst": "u-st-andrews",
+   "from": 1791,
+   "to": 1828,
+   "approx": false,
+   "role": "studied; professor of moral philosophy 1823-28",
+   "note": ""
+  },
+  {
+   "name": "Andrew Melville",
+   "inst": "u-glasgow",
+   "from": 1574,
+   "to": 1580,
+   "approx": false,
+   "role": "principal",
+   "note": ""
+  },
+  {
+   "name": "Francis Hutcheson",
+   "inst": "u-glasgow",
+   "from": 1711,
+   "to": 1746,
+   "approx": false,
+   "role": "studied; professor of moral philosophy 1729-46",
+   "note": ""
+  },
+  {
+   "name": "Adam Smith",
+   "inst": "u-glasgow",
+   "from": 1737,
+   "to": 1764,
+   "approx": false,
+   "role": "studied; professor of logic and moral philosophy 1751-64",
+   "note": ""
+  },
+  {
+   "name": "Joseph Black",
+   "inst": "u-glasgow",
+   "from": 1746,
+   "to": 1766,
+   "approx": false,
+   "role": "studied; professor of medicine and chemistry 1756-66",
+   "note": ""
+  },
+  {
+   "name": "James Watt",
+   "inst": "u-glasgow",
+   "from": 1757,
+   "to": 1763,
+   "approx": false,
+   "role": "mathematical instrument maker",
+   "note": ""
+  },
+  {
+   "name": "Thomas Reid",
+   "inst": "u-glasgow",
+   "from": 1764,
+   "to": 1780,
+   "approx": false,
+   "role": "professor of moral philosophy",
+   "note": ""
+  },
+  {
+   "name": "William John Macquorn Rankine",
+   "inst": "u-glasgow",
+   "from": 1855,
+   "to": 1872,
+   "approx": false,
+   "role": "professor of civil engineering",
+   "note": ""
+  },
+  {
+   "name": "William Thomson (Lord Kelvin)",
+   "inst": "u-glasgow",
+   "from": 1834,
+   "to": 1899,
+   "approx": false,
+   "role": "studied; professor of natural philosophy 1846-99",
+   "note": ""
+  },
+  {
+   "name": "Hector Boece",
+   "inst": "u-aberdeen-kings",
+   "from": 1500,
+   "to": 1536,
+   "approx": true,
+   "role": "first principal",
+   "note": ""
+  },
+  {
+   "name": "Thomas Reid",
+   "inst": "u-aberdeen-kings",
+   "from": 1751,
+   "to": 1764,
+   "approx": false,
+   "role": "regent",
+   "note": ""
+  },
+  {
+   "name": "Colin Maclaurin",
+   "inst": "u-aberdeen-marischal",
+   "from": 1717,
+   "to": 1725,
+   "approx": false,
+   "role": "professor of mathematics",
+   "note": ""
+  },
+  {
+   "name": "James Beattie",
+   "inst": "u-aberdeen-marischal",
+   "from": 1760,
+   "to": 1797,
+   "approx": false,
+   "role": "professor of moral philosophy",
+   "note": ""
+  },
+  {
+   "name": "James Clerk Maxwell",
+   "inst": "u-aberdeen-marischal",
+   "from": 1856,
+   "to": 1860,
+   "approx": false,
+   "role": "professor of natural philosophy",
+   "note": "Lost post at the 1860 merger."
+  },
+  {
+   "name": "Alexander Bain",
+   "inst": "u-aberdeen",
+   "from": 1860,
+   "to": 1880,
+   "approx": false,
+   "role": "professor of logic",
+   "note": ""
+  },
+  {
+   "name": "David Hume",
+   "inst": "u-edinburgh",
+   "from": 1723,
+   "to": 1725,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Colin Maclaurin",
+   "inst": "u-edinburgh",
+   "from": 1725,
+   "to": 1746,
+   "approx": false,
+   "role": "professor of mathematics",
+   "note": ""
+  },
+  {
+   "name": "Alexander Monro primus",
+   "inst": "u-edinburgh",
+   "from": 1720,
+   "to": 1758,
+   "approx": false,
+   "role": "professor of anatomy",
+   "note": ""
+  },
+  {
+   "name": "Adam Ferguson",
+   "inst": "u-edinburgh",
+   "from": 1759,
+   "to": 1785,
+   "approx": false,
+   "role": "professor of natural and moral philosophy",
+   "note": ""
+  },
+  {
+   "name": "Joseph Black",
+   "inst": "u-edinburgh",
+   "from": 1766,
+   "to": 1799,
+   "approx": false,
+   "role": "professor of chemistry",
+   "note": ""
+  },
+  {
+   "name": "Dugald Stewart",
+   "inst": "u-edinburgh",
+   "from": 1785,
+   "to": 1810,
+   "approx": false,
+   "role": "professor of moral philosophy",
+   "note": ""
+  },
+  {
+   "name": "Walter Scott",
+   "inst": "u-edinburgh",
+   "from": 1783,
+   "to": 1792,
+   "approx": true,
+   "role": "studied arts and law",
+   "note": ""
+  },
+  {
+   "name": "Charles Darwin",
+   "inst": "u-edinburgh",
+   "from": 1825,
+   "to": 1827,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Sir William Hamilton",
+   "inst": "u-edinburgh",
+   "from": 1836,
+   "to": 1856,
+   "approx": false,
+   "role": "professor of logic and metaphysics",
+   "note": ""
+  },
+  {
+   "name": "James Clerk Maxwell",
+   "inst": "u-edinburgh",
+   "from": 1847,
+   "to": 1850,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Joseph Lister",
+   "inst": "u-edinburgh",
+   "from": 1869,
+   "to": 1877,
+   "approx": false,
+   "role": "professor of clinical surgery",
+   "note": ""
+  },
+  {
+   "name": "Robert Louis Stevenson",
+   "inst": "u-edinburgh",
+   "from": 1867,
+   "to": 1875,
+   "approx": false,
+   "role": "studied engineering and law",
+   "note": ""
+  },
+  {
+   "name": "Arthur Conan Doyle",
+   "inst": "u-edinburgh",
+   "from": 1876,
+   "to": 1881,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Charles Ferme",
+   "inst": "u-fraserburgh",
+   "from": 1600,
+   "to": 1605,
+   "approx": true,
+   "role": "principal",
+   "note": ""
+  },
+  {
+   "name": "George Birkbeck",
+   "inst": "t-glasgow-anderson",
+   "from": 1799,
+   "to": 1804,
+   "approx": false,
+   "role": "professor of natural philosophy",
+   "note": "Gave free lectures to mechanics."
+  },
+  {
+   "name": "Thomas Graham",
+   "inst": "t-glasgow-anderson",
+   "from": 1830,
+   "to": 1837,
+   "approx": false,
+   "role": "professor of chemistry",
+   "note": ""
+  },
+  {
+   "name": "David Livingstone",
+   "inst": "t-glasgow-anderson",
+   "from": 1836,
+   "to": 1838,
+   "approx": false,
+   "role": "studied medicine and chemistry",
+   "note": ""
+  },
+  {
+   "name": "Thomas Chalmers",
+   "inst": "a-edinburgh-newcollege",
+   "from": 1843,
+   "to": 1847,
+   "approx": false,
+   "role": "first principal",
+   "note": ""
+  },
+  {
+   "name": "James Ussher",
+   "inst": "u-dublin",
+   "from": 1594,
+   "to": 1621,
+   "approx": true,
+   "role": "studied; fellow and professor of divinity",
+   "note": ""
+  },
+  {
+   "name": "Jonathan Swift",
+   "inst": "u-dublin",
+   "from": 1682,
+   "to": 1689,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "George Berkeley",
+   "inst": "u-dublin",
+   "from": 1700,
+   "to": 1724,
+   "approx": false,
+   "role": "studied; fellow",
+   "note": ""
+  },
+  {
+   "name": "Edmund Burke",
+   "inst": "u-dublin",
+   "from": 1744,
+   "to": 1748,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Oliver Goldsmith",
+   "inst": "u-dublin",
+   "from": 1745,
+   "to": 1749,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "William Rowan Hamilton",
+   "inst": "u-dublin",
+   "from": 1823,
+   "to": 1865,
+   "approx": false,
+   "role": "studied; Andrews professor of astronomy 1827-65",
+   "note": ""
+  },
+  {
+   "name": "Oscar Wilde",
+   "inst": "u-dublin",
+   "from": 1871,
+   "to": 1874,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "George Boole",
+   "inst": "u-cork-queens",
+   "from": 1849,
+   "to": 1864,
+   "approx": false,
+   "role": "professor of mathematics",
+   "note": ""
+  },
+  {
+   "name": "Thomas Andrews",
+   "inst": "u-belfast-queens",
+   "from": 1845,
+   "to": 1879,
+   "approx": false,
+   "role": "vice-president and professor of chemistry",
+   "note": ""
+  },
+  {
+   "name": "John Henry Newman",
+   "inst": "u-catholic-ireland",
+   "from": 1854,
+   "to": 1858,
+   "approx": false,
+   "role": "founding rector",
+   "note": ""
+  },
+  {
+   "name": "Gerard Manley Hopkins",
+   "inst": "u-catholic-ireland",
+   "from": 1884,
+   "to": 1889,
+   "approx": false,
+   "role": "professor of classics",
+   "note": "At University College."
+  },
+  {
+   "name": "James Joyce",
+   "inst": "u-catholic-ireland",
+   "from": 1898,
+   "to": 1902,
+   "approx": false,
+   "role": "studied at University College",
+   "note": "Took a Royal University degree."
+  },
+  {
+   "name": "Olaus Rudbeck the Elder",
+   "inst": "u-uppsala",
+   "from": 1648,
+   "to": 1702,
+   "approx": false,
+   "role": "studied; professor of medicine",
+   "note": ""
+  },
+  {
+   "name": "Emanuel Swedenborg",
+   "inst": "u-uppsala",
+   "from": 1699,
+   "to": 1709,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Carl Linnaeus",
+   "inst": "u-uppsala",
+   "from": 1728,
+   "to": 1778,
+   "approx": false,
+   "role": "studied; professor of medicine and botany 1741-78",
+   "note": ""
+  },
+  {
+   "name": "Anders Celsius",
+   "inst": "u-uppsala",
+   "from": 1730,
+   "to": 1744,
+   "approx": false,
+   "role": "professor of astronomy",
+   "note": ""
+  },
+  {
+   "name": "Jöns Jacob Berzelius",
+   "inst": "u-uppsala",
+   "from": 1796,
+   "to": 1802,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Erik Gustaf Geijer",
+   "inst": "u-uppsala",
+   "from": 1817,
+   "to": 1846,
+   "approx": false,
+   "role": "professor of history",
+   "note": ""
+  },
+  {
+   "name": "Anders Jonas Ångström",
+   "inst": "u-uppsala",
+   "from": 1833,
+   "to": 1874,
+   "approx": false,
+   "role": "studied; professor of physics",
+   "note": ""
+  },
+  {
+   "name": "Svante Arrhenius",
+   "inst": "u-uppsala",
+   "from": 1876,
+   "to": 1884,
+   "approx": false,
+   "role": "studied; doctorate 1884",
+   "note": ""
+  },
+  {
+   "name": "Samuel Pufendorf",
+   "inst": "u-lund",
+   "from": 1668,
+   "to": 1676,
+   "approx": false,
+   "role": "professor of natural and international law",
+   "note": ""
+  },
+  {
+   "name": "Carl Linnaeus",
+   "inst": "u-lund",
+   "from": 1727,
+   "to": 1728,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Esaias Tegnér",
+   "inst": "u-lund",
+   "from": 1799,
+   "to": 1826,
+   "approx": false,
+   "role": "studied; professor of Greek",
+   "note": ""
+  },
+  {
+   "name": "Jöns Jacob Berzelius",
+   "inst": "m-stockholm-karolinska",
+   "from": 1810,
+   "to": 1832,
+   "approx": false,
+   "role": "professor of chemistry and pharmacy",
+   "note": ""
+  },
+  {
+   "name": "Sofia Kovalevskaya",
+   "inst": "u-stockholm",
+   "from": 1884,
+   "to": 1891,
+   "approx": false,
+   "role": "professor of mathematics",
+   "note": ""
+  },
+  {
+   "name": "Gösta Mittag-Leffler",
+   "inst": "u-stockholm",
+   "from": 1881,
+   "to": 1911,
+   "approx": false,
+   "role": "professor of mathematics",
+   "note": ""
+  },
+  {
+   "name": "Svante Arrhenius",
+   "inst": "u-stockholm",
+   "from": 1891,
+   "to": 1905,
+   "approx": false,
+   "role": "lecturer, professor and rector",
+   "note": ""
+  },
+  {
+   "name": "Tycho Brahe",
+   "inst": "u-copenhagen",
+   "from": 1559,
+   "to": 1562,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Thomas Bartholin",
+   "inst": "u-copenhagen",
+   "from": 1646,
+   "to": 1680,
+   "approx": false,
+   "role": "professor of anatomy",
+   "note": ""
+  },
+  {
+   "name": "Niels Stensen (Steno)",
+   "inst": "u-copenhagen",
+   "from": 1656,
+   "to": 1659,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Ole Rømer",
+   "inst": "u-copenhagen",
+   "from": 1662,
+   "to": 1710,
+   "approx": false,
+   "role": "studied; professor of astronomy",
+   "note": "In Paris 1672-81."
+  },
+  {
+   "name": "Ludvig Holberg",
+   "inst": "u-copenhagen",
+   "from": 1702,
+   "to": 1754,
+   "approx": false,
+   "role": "studied; professor",
+   "note": "Professor from 1717."
+  },
+  {
+   "name": "N. F. S. Grundtvig",
+   "inst": "u-copenhagen",
+   "from": 1800,
+   "to": 1803,
+   "approx": false,
+   "role": "studied theology",
+   "note": ""
+  },
+  {
+   "name": "Rasmus Rask",
+   "inst": "u-copenhagen",
+   "from": 1807,
+   "to": 1832,
+   "approx": true,
+   "role": "studied; professor",
+   "note": ""
+  },
+  {
+   "name": "Hans Christian Ørsted",
+   "inst": "u-copenhagen",
+   "from": 1794,
+   "to": 1851,
+   "approx": false,
+   "role": "studied; professor of physics",
+   "note": ""
+  },
+  {
+   "name": "Søren Kierkegaard",
+   "inst": "u-copenhagen",
+   "from": 1830,
+   "to": 1841,
+   "approx": false,
+   "role": "studied theology",
+   "note": ""
+  },
+  {
+   "name": "Hans Christian Ørsted",
+   "inst": "t-copenhagen-polytechnic",
+   "from": 1829,
+   "to": 1850,
+   "approx": false,
+   "role": "founder and director",
+   "note": ""
+  },
+  {
+   "name": "B. S. Ingemann",
+   "inst": "a-soro",
+   "from": 1822,
+   "to": 1862,
+   "approx": false,
+   "role": "lecturer",
+   "note": ""
+  },
+  {
+   "name": "Christopher Hansteen",
+   "inst": "u-christiania",
+   "from": 1814,
+   "to": 1861,
+   "approx": false,
+   "role": "professor of astronomy",
+   "note": ""
+  },
+  {
+   "name": "Niels Henrik Abel",
+   "inst": "u-christiania",
+   "from": 1821,
+   "to": 1825,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Sophus Lie",
+   "inst": "u-christiania",
+   "from": 1859,
+   "to": 1898,
+   "approx": false,
+   "role": "studied; professor of mathematics",
+   "note": "Studied 1859-65, professor 1872-86; then Leipzig."
+  },
+  {
+   "name": "Fridtjof Nansen",
+   "inst": "u-christiania",
+   "from": 1880,
+   "to": 1882,
+   "approx": false,
+   "role": "studied zoology",
+   "note": ""
+  },
+  {
+   "name": "Sveinbjörn Egilsson",
+   "inst": "a-bessastadir",
+   "from": 1819,
+   "to": 1851,
+   "approx": false,
+   "role": "teacher; rector at Reykjavík",
+   "note": ""
+  },
+  {
+   "name": "Jónas Hallgrímsson",
+   "inst": "a-bessastadir",
+   "from": 1823,
+   "to": 1829,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Pétur Pétursson",
+   "inst": "m-reykjavik-prestaskolinn",
+   "from": 1847,
+   "to": 1866,
+   "approx": false,
+   "role": "first head",
+   "note": ""
+  },
+  {
+   "name": "Pehr Kalm",
+   "inst": "u-turku-helsinki",
+   "from": 1747,
+   "to": 1779,
+   "approx": false,
+   "role": "professor of economics and natural history",
+   "note": ""
+  },
+  {
+   "name": "Anders Chydenius",
+   "inst": "u-turku-helsinki",
+   "from": 1745,
+   "to": 1753,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Henrik Gabriel Porthan",
+   "inst": "u-turku-helsinki",
+   "from": 1755,
+   "to": 1804,
+   "approx": false,
+   "role": "studied; professor of eloquence",
+   "note": ""
+  },
+  {
+   "name": "Elias Lönnrot",
+   "inst": "u-turku-helsinki",
+   "from": 1822,
+   "to": 1862,
+   "approx": false,
+   "role": "studied; professor of Finnish 1853-62",
+   "note": "Studied at Turku, MD Helsinki 1832."
+  },
+  {
+   "name": "Johan Ludvig Runeberg",
+   "inst": "u-turku-helsinki",
+   "from": 1822,
+   "to": 1837,
+   "approx": false,
+   "role": "studied; docent",
+   "note": ""
+  },
+  {
+   "name": "Johan Vilhelm Snellman",
+   "inst": "u-turku-helsinki",
+   "from": 1822,
+   "to": 1863,
+   "approx": true,
+   "role": "studied; professor of philosophy 1856-63",
+   "note": ""
+  },
+  {
+   "name": "Zachris Topelius",
+   "inst": "u-turku-helsinki",
+   "from": 1833,
+   "to": 1878,
+   "approx": false,
+   "role": "studied; professor of history",
+   "note": ""
+  }
+ ]
+}

@@ -1,0 +1,3511 @@
+{
+ "group": "it",
+ "sources": {
+  "it-001": {
+   "title": "Our history",
+   "publisher": "Università di Bologna",
+   "url": "https://www.unibo.it/en/university/who-we-are/our-history",
+   "tier": 1
+  },
+  "it-002": {
+   "title": "University of Bologna",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Bologna",
+   "tier": 2
+  },
+  "it-003": {
+   "title": "University of Padua",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Padua",
+   "tier": 2
+  },
+  "it-004": {
+   "title": "The Universities of Europe in the Middle Ages, vol. II part 1 (Italy)",
+   "publisher": "H. Rashdall, Oxford 1895 (Internet Archive)",
+   "url": "https://archive.org/stream/universitiesofeu21rash/universitiesofeu21rash_djvu.txt",
+   "tier": 2
+  },
+  "it-005": {
+   "title": "Universities",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/15188a.htm",
+   "tier": 2
+  },
+  "it-006": {
+   "title": "Università",
+   "publisher": "Treccani, Enciclopedia Italiana",
+   "url": "https://www.treccani.it/enciclopedia/universita_(Enciclopedia-Italiana)/",
+   "tier": 2
+  },
+  "it-007": {
+   "title": "Università degli Studi di Siena, Rettorato",
+   "publisher": "Museo Galileo",
+   "url": "https://brunelleschi.imss.fi.it/itineraries/place/UniversitaStudiSienaRettorato.html",
+   "tier": 2
+  },
+  "it-008": {
+   "title": "University of Pavia",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/topic/University-of-Pavia",
+   "tier": 2
+  },
+  "it-009": {
+   "title": "History of the University of Pisa",
+   "publisher": "Università di Pisa",
+   "url": "https://www.unipi.it/en/about-us/about-us/history-of-the-university-of-pisa/",
+   "tier": 1
+  },
+  "it-010": {
+   "title": "The Founding of the University",
+   "publisher": "Università degli Studi di Perugia",
+   "url": "https://www.unipg.it/en/university/history",
+   "tier": 1
+  },
+  "it-011": {
+   "title": "Our history",
+   "publisher": "Università degli Studi di Ferrara",
+   "url": "https://www.unife.it/en/unife-world/history",
+   "tier": 1
+  },
+  "it-012": {
+   "title": "Storia",
+   "publisher": "Università degli Studi di Torino",
+   "url": "https://www.unito.it/ateneo/chi-siamo/storia",
+   "tier": 1
+  },
+  "it-013": {
+   "title": "History of the University",
+   "publisher": "Università di Pavia",
+   "url": "https://web-en.unipv.it/?p=17926",
+   "tier": 1
+  },
+  "it-014": {
+   "title": "Galileo Galilei",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Galileo/",
+   "tier": 2
+  },
+  "it-015": {
+   "title": "University of Pavia",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/11593a.htm",
+   "tier": 2
+  },
+  "it-016": {
+   "title": "University of Perugia",
+   "publisher": "Catholic Encyclopedia (1913), Catholic Answers",
+   "url": "https://catholic.com/encyclopedia/university-of-perugia",
+   "tier": 2
+  },
+  "it-017": {
+   "title": "University of Bologna",
+   "publisher": "Catholic Encyclopedia (1913), Catholic Answers",
+   "url": "https://catholic.com/encyclopedia/university-of-bologna",
+   "tier": 2
+  },
+  "it-018": {
+   "title": "University of Padua",
+   "publisher": "Catholic Encyclopedia (1913), Catholic Answers",
+   "url": "https://catholic.com/encyclopedia/university-of-padua",
+   "tier": 2
+  },
+  "it-019": {
+   "title": "University of Siena",
+   "publisher": "Catholic Encyclopedia (1913), Catholic Answers",
+   "url": "https://catholic.com/encyclopedia/university-of-siena",
+   "tier": 2
+  },
+  "it-020": {
+   "title": "University of Pisa",
+   "publisher": "Catholic Encyclopedia (1913), Catholic Answers",
+   "url": "https://catholic.com/encyclopedia/university-of-pisa",
+   "tier": 2
+  },
+  "it-021": {
+   "title": "History",
+   "publisher": "University of Malta",
+   "url": "https://www.um.edu.mt/about/history",
+   "tier": 1
+  },
+  "it-022": {
+   "title": "Le origini",
+   "publisher": "Politecnico di Milano",
+   "url": "https://www.polimi.it/il-politecnico/il-politecnico-nella-storia/le-origini",
+   "tier": 1
+  },
+  "it-023": {
+   "title": "History",
+   "publisher": "Politecnico di Torino",
+   "url": "https://www.polito.it/en/polito/about-us/history",
+   "tier": 1
+  },
+  "it-024": {
+   "title": "Scuola Normale Superiore (historical institutions of Piazza dei Cavalieri)",
+   "publisher": "Scuola Normale Superiore",
+   "url": "https://piazzadeicavalieri.sns.it/en/the-piazza-over-the-centuries/historical-institutions/scuola-normale-superiore/",
+   "tier": 1
+  },
+  "it-025": {
+   "title": "Nascita della Regia Scuola Superiore di Commercio",
+   "publisher": "Università Ca' Foscari Venezia",
+   "url": "https://www.unive.it/pag/fileadmin/user_upload/comunicazione/tour/documenti/fondo_storico/Nascita_della_Regia_Scuola_Superiore_di_Commercio.pdf",
+   "tier": 1
+  },
+  "it-026": {
+   "title": "Joseph-Louis Lagrange",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/",
+   "tier": 2
+  },
+  "it-027": {
+   "title": "Giuseppe Peano",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Peano/",
+   "tier": 2
+  },
+  "it-028": {
+   "title": "Vito Volterra",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Volterra/",
+   "tier": 2
+  },
+  "it-029": {
+   "title": "Paolo Ruffini",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ruffini/",
+   "tier": 2
+  },
+  "it-030": {
+   "title": "Lorenzo Mascheroni",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mascheroni/",
+   "tier": 2
+  },
+  "it-031": {
+   "title": "Christopher Clavius",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Clavius/",
+   "tier": 2
+  },
+  "it-032": {
+   "title": "Nicolaus Copernicus",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Copernicus/",
+   "tier": 2
+  },
+  "it-033": {
+   "title": "Francesco Maurolico",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Maurolico/",
+   "tier": 2
+  },
+  "it-034": {
+   "title": "Giovanni Alfonso Borelli",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Borelli/",
+   "tier": 2
+  },
+  "it-035": {
+   "title": "Ruggero Giuseppe Boscovich",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Boscovich/",
+   "tier": 2
+  },
+  "it-036": {
+   "title": "Galvani, Luigi",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/luigi-galvani/",
+   "tier": 2
+  },
+  "it-037": {
+   "title": "Malpighi, Marcello",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/marcello-malpighi/",
+   "tier": 2
+  },
+  "it-038": {
+   "title": "Volta, Alessandro",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/alessandro-volta/",
+   "tier": 2
+  },
+  "it-039": {
+   "title": "Carducci, Giosuè",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giosue-carducci/",
+   "tier": 2
+  },
+  "it-040": {
+   "title": "Vico, Giambattista",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giambattista-vico/",
+   "tier": 2
+  },
+  "it-041": {
+   "title": "Spallanzani, Lazzaro",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/lazzaro-spallanzani/",
+   "tier": 2
+  },
+  "it-042": {
+   "title": "Ramazzini, Bernardino",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/bernardino-ramazzini/",
+   "tier": 2
+  },
+  "it-043": {
+   "title": "Pomponazzi, Pietro",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/pietro-pomponazzi/",
+   "tier": 2
+  },
+  "it-044": {
+   "title": "Genovesi, Antonio",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/antonio-genovesi/",
+   "tier": 2
+  },
+  "it-045": {
+   "title": "Hieronymus Fabricius ab Aquapendente",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Hieronymus-Fabricius-ab-Aquapendente",
+   "tier": 2
+  },
+  "it-046": {
+   "title": "Giovanni Battista Morgagni",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Giovanni-Battista-Morgagni",
+   "tier": 2
+  },
+  "it-047": {
+   "title": "St. Thomas Aquinas",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/14663b.htm",
+   "tier": 2
+  },
+  "it-048": {
+   "title": "Francisco Suárez",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/14319a.htm",
+   "tier": 2
+  },
+  "it-049": {
+   "title": "Accursio",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/accursio/",
+   "tier": 2
+  },
+  "it-050": {
+   "title": "Cino da Pistoia",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/cino-da-pistoia/",
+   "tier": 2
+  },
+  "it-051": {
+   "title": "Bartolo da Sassoferrato",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/bartolo-da-sassoferrato/",
+   "tier": 2
+  },
+  "it-052": {
+   "title": "Aldrovandi, Ulisse",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/ulisse-aldrovandi/",
+   "tier": 2
+  },
+  "it-053": {
+   "title": "Cesalpino, Andrea",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/andrea-cesalpino/",
+   "tier": 2
+  },
+  "it-054": {
+   "title": "Ghini, Luca",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/luca-ghini/",
+   "tier": 2
+  },
+  "it-055": {
+   "title": "Lancisi, Giovanni Maria",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giovanni-maria-lancisi/",
+   "tier": 2
+  },
+  "it-056": {
+   "title": "Cannizzaro, Stanislao",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/stanislao-cannizzaro/",
+   "tier": 2
+  },
+  "it-057": {
+   "title": "Crisolora, Manuele",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/manuele-crisolora/",
+   "tier": 2
+  },
+  "it-058": {
+   "title": "Filelfo, Francesco",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/francesco-filelfo/",
+   "tier": 2
+  },
+  "it-059": {
+   "title": "Argiropulo, Giovanni",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giovanni-argiropulo/",
+   "tier": 2
+  },
+  "it-060": {
+   "title": "Valla, Lorenzo",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/lorenzo-valla/",
+   "tier": 2
+  },
+  "it-061": {
+   "title": "Piazzi, Giuseppe",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giuseppe-piazzi/",
+   "tier": 2
+  },
+  "it-062": {
+   "title": "Golgi, Camillo",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/camillo-golgi/",
+   "tier": 2
+  },
+  "it-063": {
+   "title": "Foscolo, Ugo",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/ugo-foscolo/",
+   "tier": 2
+  },
+  "it-064": {
+   "title": "Lombroso, Cesare",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/cesare-lombroso/",
+   "tier": 2
+  },
+  "it-065": {
+   "title": "Ferraris, Galileo",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/galileo-ferraris/",
+   "tier": 2
+  },
+  "it-066": {
+   "title": "Secchi, Angelo",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/angelo-secchi/",
+   "tier": 2
+  },
+  "it-067": {
+   "title": "Azzone",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/azzone/",
+   "tier": 2
+  },
+  "it-068": {
+   "title": "Odofredo",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/odofredo/",
+   "tier": 2
+  },
+  "it-069": {
+   "title": "Giovanni d'Andrea",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giovanni-d-andrea/",
+   "tier": 2
+  },
+  "it-070": {
+   "title": "Pietro d'Abano",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/pietro-d-abano/",
+   "tier": 2
+  },
+  "it-071": {
+   "title": "Petrarca, Francesco",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/francesco-petrarca/",
+   "tier": 2
+  },
+  "it-072": {
+   "title": "Vesalio, Andrea",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/andrea-vesalio/",
+   "tier": 2
+  },
+  "it-073": {
+   "title": "Harvey, William",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/william-harvey/",
+   "tier": 2
+  },
+  "it-074": {
+   "title": "De Sanctis, Francesco",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/francesco-de-sanctis/",
+   "tier": 2
+  },
+  "it-075": {
+   "title": "Settembrini, Luigi",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/luigi-settembrini/",
+   "tier": 2
+  },
+  "it-076": {
+   "title": "Labriola, Antonio",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/antonio-labriola/",
+   "tier": 2
+  },
+  "it-077": {
+   "title": "Villari, Pasquale",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/pasquale-villari/",
+   "tier": 2
+  },
+  "it-078": {
+   "title": "Boccaccio, Giovanni",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giovanni-boccaccio/",
+   "tier": 2
+  },
+  "it-079": {
+   "title": "Matteucci, Carlo",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/carlo-matteucci/",
+   "tier": 2
+  },
+  "it-080": {
+   "title": "Gentile, Giovanni",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giovanni-gentile/",
+   "tier": 2
+  },
+  "it-081": {
+   "title": "Leoniceno, Niccolò",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/niccolo-leoniceno/",
+   "tier": 2
+  },
+  "it-082": {
+   "title": "Mazzini, Giuseppe",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giuseppe-mazzini/",
+   "tier": 2
+  },
+  "it-083": {
+   "title": "Brioschi, Francesco",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/francesco-brioschi/",
+   "tier": 2
+  },
+  "it-084": {
+   "title": "Colombo, Giuseppe",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/giuseppe-colombo/",
+   "tier": 2
+  },
+  "it-085": {
+   "title": "Ferrara, Francesco",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/francesco-ferrara/",
+   "tier": 2
+  },
+  "it-086": {
+   "title": "Our History",
+   "publisher": "Pontificia Università Gregoriana",
+   "url": "https://www.unigre.it/en/university/about-us/our-history/",
+   "tier": 1
+  },
+  "it-087": {
+   "title": "Our History",
+   "publisher": "Sapienza Università di Roma",
+   "url": "https://www.uniroma1.it/en/pagina/our-history",
+   "tier": 1
+  },
+  "it-088": {
+   "title": "University of Modena and Reggio Emilia: from the origin to Francesco III's reform",
+   "publisher": "Rete dei Musei Universitari (Università di Modena e Reggio Emilia)",
+   "url": "https://of.unimore.it/ReteMusei/www.retemuseiuniversitari.unimore.it/site/en/home/stories/university-of-modena-and-reggio-emilia.html",
+   "tier": 1
+  },
+  "it-089": {
+   "title": "University of Cagliari",
+   "publisher": "Rete dei Musei Universitari",
+   "url": "https://of.unimore.it/ReteMusei/www.retemuseiuniversitari.unimore.it/site/en/home/stories/university-of-cagliari.html",
+   "tier": 1
+  },
+  "it-090": {
+   "title": "History",
+   "publisher": "Università degli Studi di Sassari",
+   "url": "https://www.uniss.it/en/node/3546",
+   "tier": 1
+  },
+  "it-091": {
+   "title": "Our University",
+   "publisher": "Università degli Studi di Messina",
+   "url": "https://international.unime.it/node/35",
+   "tier": 1
+  },
+  "it-092": {
+   "title": "History",
+   "publisher": "Università di Camerino",
+   "url": "https://www.unicam.it/en/english-version/university/history",
+   "tier": 1
+  },
+  "it-093": {
+   "title": "Origins–1824",
+   "publisher": "Università di Macerata",
+   "url": "https://www.unimc.it/en/the-university/history/origins-1824",
+   "tier": 1
+  },
+  "it-094": {
+   "title": "Our history",
+   "publisher": "Università di Napoli L'Orientale",
+   "url": "https://www.unior.it/en/university/our-history",
+   "tier": 1
+  },
+  "it-095": {
+   "title": "Parma",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/place/Parma-Italy",
+   "tier": 2
+  },
+  "it-096": {
+   "title": "Storia",
+   "publisher": "Università degli Studi di Padova",
+   "url": "https://www.unipd.it/en/storia",
+   "tier": 1
+  },
+  "it-097": {
+   "title": "Chi siamo",
+   "publisher": "Università degli Studi di Napoli Federico II",
+   "url": "https://www.unina.it/en/ateneo/chi-siamo",
+   "tier": 1
+  },
+  "it-098": {
+   "title": "Historical profile",
+   "publisher": "Università degli Studi di Palermo",
+   "url": "https://www.unipa.it/target/international-students/en/about/historical-profile/index.html",
+   "tier": 1
+  },
+  "it-099": {
+   "title": "Museo per la Storia dell'Università",
+   "publisher": "Università di Pavia",
+   "url": "https://museoperlastoria.unipv.it/?p=6636",
+   "tier": 1
+  },
+  "it-100": {
+   "title": "Costantino Africano",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/costantino-africano/",
+   "tier": 2
+  },
+  "it-101": {
+   "title": "Pomponio Leto",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/pomponio-leto/",
+   "tier": 2
+  },
+  "it-102": {
+   "title": "Avogadro, Amedeo (Enciclopedia Italiana)",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/amedeo-avogadro_(Enciclopedia-Italiana)/",
+   "tier": 2
+  },
+  "it-103": {
+   "title": "Guarino Veronese (Enciclopedia Italiana)",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/guarino-veronese_(Enciclopedia-Italiana)/",
+   "tier": 2
+  },
+  "it-104": {
+   "title": "The Reform of the Studium",
+   "publisher": "Università di Bologna",
+   "url": "https://www.unibo.it/en/university/who-we-are/our-history/nine-centuries-of-history/the-reform-of-the-studium",
+   "tier": 1
+  },
+  "it-105": {
+   "title": "University of Rome",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/13177a.htm",
+   "tier": 2
+  },
+  "it-106": {
+   "title": "Bassi, Laura (1711–1778)",
+   "publisher": "Women in World History, Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/people/science-and-technology/physics-biographies/laura-bassi",
+   "tier": 2
+  },
+  "it-107": {
+   "title": "Storia dell'Ateneo",
+   "publisher": "Università degli Studi di Torino",
+   "url": "https://www.unito.it/sites/default/files/allegati/14-07-2014/storia_ateneo.pdf",
+   "tier": 1
+  },
+  "it-108": {
+   "title": "History",
+   "publisher": "Università degli Studi di Salerno",
+   "url": "https://web.unisa.it/en/university/history",
+   "tier": 1
+  },
+  "it-109": {
+   "title": "Who we are",
+   "publisher": "Dipartimento di Ingegneria Civile, Edile e Ambientale, Università di Napoli Federico II",
+   "url": "https://www.civil-environmental.unina.it/who-we-are/",
+   "tier": 1
+  },
+  "it-110": {
+   "title": "La Scuola di Veterinaria di Torino (presentation)",
+   "publisher": "Università degli Studi di Torino",
+   "url": "https://www.unito.it/sites/default/files/presentazione_bergero_unito.pdf",
+   "tier": 1
+  },
+  "it-111": {
+   "title": "Istituto di Studi Superiori Pratici e di Perfezionamento",
+   "publisher": "Museo Galileo",
+   "url": "https://brunelleschi.imss.fi.it/museum/esim.asp?c=100195",
+   "tier": 2
+  },
+  "it-112": {
+   "title": "Brochure institutionnelle 2023",
+   "publisher": "Università di Corsica Pasquale Paoli",
+   "url": "https://www.universita.corsica/wp-content/uploads/2023/05/Brochure-institutionnelle-Universita%CC%80-2023_vi_MD_light.pdf",
+   "tier": 1
+  },
+  "it-113": {
+   "title": "Storia e profilo dell'Ateneo",
+   "publisher": "Università degli Studi di Firenze",
+   "url": "https://www.unifi.it/it/ateneo/chi-siamo/storia-e-profilo-dellateneo",
+   "tier": 1
+  },
+  "it-114": {
+   "title": "Le prime laureate in Italia (L. Moro, S. Sesti, Il Manifesto 2012)",
+   "publisher": "Associazione Donne e Scienza",
+   "url": "https://www.donnescienza.it/?p=808",
+   "tier": 3
+  },
+  "it-115": {
+   "title": "Naval Architecture and Marine Engineering Unit",
+   "publisher": "DITEN, Università di Genova",
+   "url": "https://diten.unige.it/en/naval_unit",
+   "tier": 1
+  },
+  "it-116": {
+   "title": "About us",
+   "publisher": "Dipartimento di Ingegneria Civile, Edile e Ambientale, Sapienza Università di Roma",
+   "url": "https://ici.web.uniroma1.it/en/about-us",
+   "tier": 1
+  },
+  "it-117": {
+   "title": "Palazzo di Brera (SIRBeC record LMD80-00089)",
+   "publisher": "Lombardia Beni Culturali, Regione Lombardia",
+   "url": "https://lombardiabeniculturali.it/architetture/schede-complete/LMD80-00089",
+   "tier": 1
+  },
+  "it-118": {
+   "title": "Falloppia, Gabriele",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/gabriele-falloppia/",
+   "tier": 2
+  },
+  "it-119": {
+   "title": "Kircher, Athanasius",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/athanasius-kircher/",
+   "tier": 2
+  },
+  "it-120": {
+   "title": "Alciato, Andrea (Enciclopedia Italiana)",
+   "publisher": "Treccani",
+   "url": "https://www.treccani.it/enciclopedia/andrea-alciato_(Enciclopedia-Italiana)/",
+   "tier": 2
+  },
+  "it-121": {
+   "title": "Università degli Studi di Pisa, Rettorato",
+   "publisher": "Museo Galileo",
+   "url": "https://brunelleschi.imss.fi.it/itineraries/place/UniversitaStudiPisaRettorato.html",
+   "tier": 2
+  },
+  "it-122": {
+   "title": "Complesso del Salvatore",
+   "publisher": "Università degli Studi di Napoli Federico II",
+   "url": "https://www.unina.it/en/w/complesso-del-salvatore",
+   "tier": 1
+  },
+  "it-123": {
+   "title": "A difficult relaunch",
+   "publisher": "Università di Bologna",
+   "url": "https://www.unibo.it/en/university/who-we-are/our-history/nine-centuries-of-history/a-difficult-relaunch",
+   "tier": 1
+  },
+  "it-124": {
+   "title": "Giovanni Pico della Mirandola",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/pico-della-mirandola/",
+   "tier": 2
+  },
+  "it-125": {
+   "title": "Nicolaus Cusanus",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/cusanus/",
+   "tier": 2
+  }
+ },
+ "institutions": {
+  "m-salerno": {
+   "src": [
+    "it-006",
+    "it-108"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bologna": {
+   "src": [
+    "it-001",
+    "it-002",
+    "it-017",
+    "it-123",
+    "it-104"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-modena": {
+   "src": [
+    "it-004",
+    "it-088"
+   ],
+   "fix": {},
+   "note": "The University dates Pillius's arrival from Bologna to 1175; Rashdall says only that it was before 1182. Continuity between the medieval studium and the 1682 foundation is disputed."
+  },
+  "u-reggio": {
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vicenza": {
+   "src": [
+    "it-004",
+    "it-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-arezzo": {
+   "src": [
+    "it-004",
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-padua": {
+   "src": [
+    "it-003",
+    "it-018",
+    "it-004",
+    "it-096"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples": {
+   "src": [
+    "it-004",
+    "it-006",
+    "it-097"
+   ],
+   "fix": {
+    "locations": [
+     {
+      "from": 1224,
+      "city": "Naples",
+      "lat": 40.8518,
+      "lon": 14.2681
+     },
+     {
+      "from": 1253,
+      "city": "Salerno",
+      "lat": 40.6824,
+      "lon": 14.7681
+     },
+     {
+      "from": 1258,
+      "city": "Naples",
+      "lat": 40.8518,
+      "lon": 14.2681
+     }
+    ]
+   },
+   "note": "Rashdall dates Conrad IV's attempt to move the studium to Salerno to 1253; how far it was carried out is unclear."
+  },
+  "u-vercelli": {
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-siena": {
+   "src": [
+    "it-007",
+    "it-019",
+    "it-004"
+   ],
+   "fix": {},
+   "note": "Earliest notice of the studium is dated 1240 by the University and 1241 by older reference works."
+  },
+  "u-rome-curia": {
+   "src": [
+    "it-004",
+    "it-105"
+   ],
+   "fix": {},
+   "note": "The curia was itinerant in central Italy after 1251 (Perugia, Viterbo, Orvieto, Anagni); 'Rome' stands for that phase. The Studium Curiae appears to have been suppressed in favour of the city university only under Leo X (1513–21)."
+  },
+  "u-piacenza": {
+   "src": [
+    "it-004",
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-macerata": {
+   "src": [
+    "it-006",
+    "it-093"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rome": {
+   "src": [
+    "it-004",
+    "it-006",
+    "it-087",
+    "it-105"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fermo": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-perugia": {
+   "src": [
+    "it-010",
+    "it-016"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-treviso": {
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-florence": {
+   "src": [
+    "it-006",
+    "it-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-camerino": {
+   "src": [
+    "it-092"
+   ],
+   "fix": {},
+   "note": "Early records were lost when the city archives were destroyed in 1259."
+  },
+  "u-verona": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-pisa": {
+   "src": [
+    "it-009",
+    "it-020",
+    "it-121"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cividale": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-pavia": {
+   "src": [
+    "it-013",
+    "it-015",
+    "it-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lucca": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-ferrara": {
+   "src": [
+    "it-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turin": {
+   "src": [
+    "it-012",
+    "it-107"
+   ],
+   "fix": {},
+   "note": "The university was closed after the French occupation of 1536 and reopened at Mondovì before returning to Turin in 1566."
+  },
+  "u-parma": {
+   "src": [
+    "it-006",
+    "it-095"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-catania": {
+   "src": [
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-genoa": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-urbino": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-messina": {
+   "src": [
+    "it-006",
+    "it-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-palermo": {
+   "src": [
+    "it-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-collegio-romano": {
+   "src": [
+    "it-086"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-sassari": {
+   "src": [
+    "it-090"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-milan-brera": {
+   "src": [
+    "it-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-malta": {
+   "src": [
+    "it-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cagliari": {
+   "src": [
+    "it-089"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-rome-propaganda": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "m-naples-orientale": {
+   "src": [
+    "it-094"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-turin-artillery": {
+   "src": [
+    "it-026"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-corte": {
+   "src": [
+    "it-112"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-venaria-vet": {
+   "src": [
+    "it-110"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-malta": {
+   "src": [
+    "it-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-palermo": {
+   "src": [
+    "it-006",
+    "it-098"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-milan-vet": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-pisa-sns": {
+   "src": [
+    "it-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-naples-ingegneria": {
+   "src": [
+    "it-109"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-florence-istituto": {
+   "src": [
+    "it-111",
+    "it-113"
+   ],
+   "fix": {
+    "summary": "Advanced institute created by the Tuscan provisional government, with sections of letters/philosophy, medicine and natural sciences. It awarded degrees and became the University of Florence in 1923–24."
+   },
+   "note": ""
+  },
+  "t-turin-applicazione": {
+   "src": [
+    "it-012",
+    "it-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-turin-museo": {
+   "src": [
+    "it-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-milan-politecnico": {
+   "src": [
+    "it-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-venice-cafoscari": {
+   "src": [
+    "it-025"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-genoa-navale": {
+   "src": [
+    "it-115"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-rome-ingegneri": {
+   "src": [
+    "it-116"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "m-salerno-950-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-108",
+    "it-006"
+   ],
+   "fix": {},
+   "note": "Origins are traditionally placed between the 9th and 10th centuries; Treccani dates its flourishing from the mid-11th century."
+  },
+  "u-bologna-1088-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-001",
+    "it-017"
+   ],
+   "fix": {},
+   "note": "1088 is the conventional date; Irnerius is placed c. 1100–1130."
+  },
+  "u-bologna-1158-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-002",
+    "it-006",
+    "it-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-modena-1182-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": "Rashdall: Pillius left Bologna for Modena some time before 1182."
+  },
+  "u-reggio-1188-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vicenza-1204-founding": {
+   "status": "corrected",
+   "src": [
+    "it-004",
+    "it-005"
+   ],
+   "fix": {
+    "desc": "Masters and students leaving Bologna begin teaching in Vicenza."
+   },
+   "note": "The 1204 migration is well attested; the sources do not connect it with Pillius, who was a civil lawyer."
+  },
+  "u-arezzo-1215-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004",
+    "it-006"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia gives 1213."
+  },
+  "u-bologna-1219-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-005",
+    "it-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-padua-1222-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-003",
+    "it-004",
+    "it-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples-1224-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004",
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-vercelli-1228-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004",
+    "it-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-salerno-1231-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-siena-1240-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-007"
+   ],
+   "fix": {},
+   "note": "Older reference works give 1241 for the first notice."
+  },
+  "u-rome-curia-1245-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": "Rashdall dates the foundation to 1244 or 1245."
+  },
+  "u-piacenza-1248-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004",
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rome-curia-1251-relocation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-siena-1252-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-004",
+    "it-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples-1252-relocation": {
+   "status": "corrected",
+   "src": [
+    "it-004"
+   ],
+   "fix": {
+    "year": 1253
+   },
+   "note": "Rashdall dates Conrad IV's attempt to move the studium to Salerno to 1253."
+  },
+  "u-arezzo-1255-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples-1258-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": "Manfred's restoration is dated 1258–59."
+  },
+  "u-naples-1266-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-salerno-1280-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-108"
+   ],
+   "fix": {},
+   "note": "Charles of Anjou granted the school its first statute."
+  },
+  "u-macerata-1290-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-006"
+   ],
+   "fix": {},
+   "note": "Treccani: founded around 1290."
+  },
+  "u-bologna-1291-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-017"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia dates Nicholas IV's grant to 1292; 1291 is the date usually given."
+  },
+  "u-rome-1303-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004",
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fermo-1303-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-perugia-1308-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-010",
+    "it-016",
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rome-curia-1309-relocation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-treviso-1318-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-perugia-1318-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-016",
+    "it-010"
+   ],
+   "fix": {},
+   "note": "Privileges of 1 August 1318 and 18 February 1321."
+  },
+  "u-florence-1321-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-siena-1321-migration": {
+   "status": "confirmed",
+   "src": [
+    "it-004",
+    "it-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-camerino-1336-founding": {
+   "status": "doubtful",
+   "src": [
+    "it-092"
+   ],
+   "fix": {},
+   "note": "The University places law teaching from the early 13th century; 1336 is the date of a papal nuncio's grant to the commune, not the start of teaching."
+  },
+  "u-verona-1339-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-pisa-1343-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-009",
+    "it-020",
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-florence-1349-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-006",
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cividale-1353-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-arezzo-1355-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-perugia-1355-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-010",
+    "it-016"
+   ],
+   "fix": {},
+   "note": "Two diplomas of 19 May 1355."
+  },
+  "u-siena-1357-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-007",
+    "it-004"
+   ],
+   "fix": {},
+   "note": "Diploma of 16 August 1357."
+  },
+  "u-pavia-1361-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-013",
+    "it-015",
+    "it-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bologna-1364-charter": {
+   "status": "corrected",
+   "src": [
+    "it-017",
+    "it-006"
+   ],
+   "fix": {
+    "year": 1360,
+    "desc": "Innocent VI authorises a theological faculty, completing the university's full complement of faculties."
+   },
+   "note": "The theology faculty dates from 1360; Cardinal Albornoz's Collegio di Spagna followed in 1364."
+  },
+  "u-florence-1364-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lucca-1369-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-camerino-1377-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-092"
+   ],
+   "fix": {},
+   "note": "Granted at the request of Gentile III da Varano."
+  },
+  "u-rome-curia-1377-relocation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-pavia-1389-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-ferrara-1391-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pavia-1398-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-015",
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turin-1404-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-012"
+   ],
+   "fix": {},
+   "note": "Bull of 27 October 1404; some reference works give 1405."
+  },
+  "u-padua-1405-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-096",
+    "it-004"
+   ],
+   "fix": {},
+   "note": "Venetian rule from the early 15th century; the 1407 prohibition was not checked."
+  },
+  "u-parma-1412-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Treccani gives 1422 for the Parma studium."
+  },
+  "u-turin-1412-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-pavia-1412-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-015"
+   ],
+   "fix": {},
+   "note": "Teaching was suspended 1404–1412 because of war."
+  },
+  "u-turin-1427-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-012"
+   ],
+   "fix": {},
+   "note": "Rashdall dates a first move to Chieri to 1421."
+  },
+  "u-rome-1431-merger": {
+   "status": "doubtful",
+   "src": [
+    "it-105"
+   ],
+   "fix": {},
+   "note": "The Catholic Encyclopedia suggests the Studium Curiae was suppressed in favour of the city university only under Leo X (1513–21)."
+  },
+  "u-rome-1431-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-087"
+   ],
+   "fix": {},
+   "note": "Eugenius IV reorganised the university and bought buildings at Sant'Eustachio; the wine tax was not checked."
+  },
+  "u-catania-1434-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turin-1434-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-012",
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turin-1436-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-ferrara-1442-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-catania-1444-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-004"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-genoa-1471-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Treccani dates the University of Genoa as such only from 1812."
+  },
+  "u-pisa-1473-merger": {
+   "status": "confirmed",
+   "src": [
+    "it-009",
+    "it-020",
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pisa-1497-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-121"
+   ],
+   "fix": {},
+   "note": "During the Pisan revolt the studio moved to Pistoia, Prato and Florence; the exact year of the move is approximate."
+  },
+  "u-urbino-1506-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-padua-1509-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-018"
+   ],
+   "fix": {},
+   "note": "Closed 1509–17."
+  },
+  "u-pisa-1515-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-121"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": ""
+  },
+  "u-padua-1517-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rome-1527-destruction": {
+   "status": "confirmed",
+   "src": [
+    "it-105"
+   ],
+   "fix": {},
+   "note": "The university stayed closed for the rest of Clement VII's pontificate."
+  },
+  "u-macerata-1540-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-093"
+   ],
+   "fix": {},
+   "note": "Bull of 1 July 1540; first degree conferred in 1541."
+  },
+  "u-pisa-1543-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-009",
+    "it-020"
+   ],
+   "fix": {},
+   "note": "The botanical garden is dated 1543 by the University and 1544 by the Catholic Encyclopedia."
+  },
+  "u-padua-1545-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-messina-1548-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-palermo-1549-founding": {
+   "status": "corrected",
+   "src": [
+    "it-098"
+   ],
+   "fix": {
+    "year": 1550
+   },
+   "note": "The University dates the Jesuit college to 1550."
+  },
+  "j-collegio-romano-1551-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-086"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-collegio-romano-1556-charter": {
+   "status": "corrected",
+   "src": [
+    "it-086"
+   ],
+   "fix": {
+    "year": 1552,
+    "desc": "Julius III grants the college the power to confer degrees in philosophy and theology; Paul IV renews it orally in 1556."
+   },
+   "note": "Degree-granting power was first given by Julius III in 1552 and renewed by Paul IV."
+  },
+  "u-turin-1560-relocation": {
+   "status": "corrected",
+   "src": [
+    "it-107"
+   ],
+   "fix": {
+    "year": 1558
+   },
+   "note": "The University dates the reopening at Mondovì to 1558, after closure under French occupation in 1536."
+  },
+  "u-sassari-1562-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": "Treccani gives 1556 as Sassari's date."
+  },
+  "u-bologna-1563-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-104"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-urbino-1564-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-turin-1566-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-107"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-milan-brera-1572-founding": {
+   "status": "corrected",
+   "src": [
+    "it-117"
+   ],
+   "fix": {
+    "year": 1571
+   },
+   "note": "After the suppression of the Umiliati in 1571, Pius V gave the complex to the Jesuits at Borromeo's request."
+  },
+  "j-collegio-romano-1584-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-086"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fermo-1585-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "j-malta-1592-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-021"
+   ],
+   "fix": {},
+   "note": "Founded 12 November 1592 by papal intervention."
+  },
+  "u-messina-1596-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-ferrara-1598-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-parma-1601-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-095"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cagliari-1606-founding": {
+   "status": "corrected",
+   "src": [
+    "it-089"
+   ],
+   "fix": {
+    "year": 1604
+   },
+   "note": "Royal consent to a university in Cagliari is dated 1604."
+  },
+  "u-cagliari-1607-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-089"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples-1615-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-sassari-1617-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-090"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "9 February 1617."
+  },
+  "u-cagliari-1620-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-089"
+   ],
+   "fix": {},
+   "note": "31 October 1620."
+  },
+  "u-cagliari-1626-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-089"
+   ],
+   "fix": {},
+   "note": "Charter signed 1 February 1626."
+  },
+  "m-rome-propaganda-1627-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-sassari-1632-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-rome-1660-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-087"
+   ],
+   "fix": {},
+   "note": "The University dates the Biblioteca Alessandrina to 1670."
+  },
+  "u-messina-1678-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-padua-1678-access": {
+   "status": "confirmed",
+   "src": [
+    "it-096"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-modena-1682-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-088"
+   ],
+   "fix": {},
+   "note": "Inaugurated in December 1682."
+  },
+  "u-catania-1693-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-turin-1720-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-107",
+    "it-012"
+   ],
+   "fix": {},
+   "note": "Move to the via Po palace in 1720 under Victor Amadeus II's reform."
+  },
+  "u-camerino-1727-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-092"
+   ],
+   "fix": {},
+   "note": "Bull Liberalium disciplinarum (1727)."
+  },
+  "m-naples-orientale-1732-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-094"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bologna-1732-access": {
+   "status": "corrected",
+   "src": [
+    "it-106"
+   ],
+   "fix": {
+    "desc": "Laura Bassi receives a doctorate in philosophy and a university professorship, the first woman to hold a university chair in Europe."
+   },
+   "note": "Degree in May 1732; professor of philosophy from October 1732."
+  },
+  "t-turin-artillery-1739-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples-1754-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-cagliari-1764-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-089"
+   ],
+   "fix": {},
+   "note": "New statute of 28 June 1764."
+  },
+  "u-corte-1765-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-112"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-sassari-1765-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-090"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-palermo-1767-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-098"
+   ],
+   "fix": {},
+   "note": "Expelled 1 December 1767."
+  },
+  "j-malta-1768-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-parma-1768-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-venaria-vet-1769-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-110"
+   ],
+   "fix": {},
+   "note": "Brugnone was appointed director by letters patent of 1 September 1769."
+  },
+  "u-malta-1769-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-021"
+   ],
+   "fix": {},
+   "note": "Decree of 22 November 1769, after a papal brief."
+  },
+  "u-corte-1769-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-pavia-1771-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-099"
+   ],
+   "fix": {},
+   "note": "Education plan 1771 and scientific plan 1773."
+  },
+  "u-modena-1772-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-088"
+   ],
+   "fix": {},
+   "note": "Reform of 13 September 1772."
+  },
+  "j-collegio-romano-1773-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-086"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-milan-brera-1773-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-117"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-genoa-1773-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples-1777-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-122"
+   ],
+   "fix": {},
+   "note": "The Jesuits were expelled in November 1767; the complex became a university seat in 1777."
+  },
+  "u-palermo-1779-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-milan-vet-1791-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-malta-1798-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pavia-1799-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-pavia-1800-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-malta-1800-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-021"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Sir Alexander Ball re-established it on 28 October 1800."
+  },
+  "u-bologna-1803-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-123"
+   ],
+   "fix": {},
+   "note": "In 1802 Bologna and Pavia were the only public universities recognised; in 1803 the university moved to Palazzo Poggi, home of the former Academy of Sciences of the Institute."
+  },
+  "u-palermo-1805-charter": {
+   "status": "confirmed",
+   "src": [
+    "it-098"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Royal despatch of 3 November 1805; diploma of 12 January 1806."
+  },
+  "u-genoa-1805-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-padua-1806-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples-1806-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-siena-1808-suppression": {
+   "status": "corrected",
+   "src": [
+    "it-007",
+    "it-019"
+   ],
+   "fix": {
+    "desc": "Under French rule the university is reduced to a school of medicine dependent on the University of Pisa."
+   },
+   "note": ""
+  },
+  "t-pisa-sns-1810-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pisa-1810-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-121",
+    "it-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-naples-ingegneria-1811-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-109"
+   ],
+   "fix": {},
+   "note": "Decree of 4 March 1811."
+  },
+  "m-salerno-1811-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-108"
+   ],
+   "fix": {},
+   "note": "Murat turned it into a Real Liceo."
+  },
+  "t-pisa-sns-1814-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-024"
+   ],
+   "fix": {},
+   "note": "Closed 9 November 1814."
+  },
+  "u-siena-1815-refoundation": {
+   "status": "corrected",
+   "src": [
+    "it-007",
+    "it-019"
+   ],
+   "fix": {
+    "year": 1814,
+    "approx": false
+   },
+   "note": ""
+  },
+  "u-turin-1821-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-107"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turin-1823-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-107"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": ""
+  },
+  "j-collegio-romano-1824-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-086"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rome-1824-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-105",
+    "it-093"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-perugia-1824-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-010",
+    "it-016"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-ferrara-1824-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-macerata-1824-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-093"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-camerino-1824-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-092"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-fermo-1826-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-messina-1838-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-pisa-sns-1846-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "it-024"
+   ],
+   "fix": {},
+   "note": "Inaugurated 15 November 1847."
+  },
+  "u-padua-1848-suppression": {
+   "status": "confirmed",
+   "src": [
+    "it-096"
+   ],
+   "fix": {},
+   "note": "The 8 February rising is confirmed; the closure itself was not checked."
+  },
+  "u-naples-1849-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-siena-1851-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-007",
+    "it-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pisa-1851-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-florence-istituto-1859-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-111"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-turin-applicazione-1859-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pavia-1859-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-modena-1859-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-088"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-turin-1859-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-107"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-genoa-1859-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-bologna-1860-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-002",
+    "it-123"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-perugia-1860-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-ferrara-1860-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-naples-1861-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-turin-museo-1862-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-023"
+   ],
+   "fix": {},
+   "note": "Founded as the Museo Industriale Italiano."
+  },
+  "t-pisa-sns-1862-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-024"
+   ],
+   "fix": {},
+   "note": "Royal decree of 17 August 1862."
+  },
+  "u-urbino-1862-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-milan-politecnico-1863-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-naples-ingegneria-1863-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-padua-1866-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-096"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-venice-cafoscari-1868-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-025"
+   ],
+   "fix": {},
+   "note": "Royal decree of 6 August 1868."
+  },
+  "t-genoa-navale-1870-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-115"
+   ],
+   "fix": {},
+   "note": "Renamed Regia Scuola d'Ingegneria Navale in 1905."
+  },
+  "u-rome-1870-reform": {
+   "status": "confirmed",
+   "src": [
+    "it-087"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-rome-ingegneri-1873-founding": {
+   "status": "confirmed",
+   "src": [
+    "it-116"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-collegio-romano-1873-relocation": {
+   "status": "confirmed",
+   "src": [
+    "it-086"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rome-1873-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-florence-istituto-1877-access": {
+   "status": "confirmed",
+   "src": [
+    "it-114"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-naples-orientale-1888-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "thinkers": {
+  "th0": {
+   "status": "corrected",
+   "src": [
+    "it-017",
+    "it-006"
+   ],
+   "fix": {
+    "from": 1100,
+    "to": 1130,
+    "approx": true
+   },
+   "note": "Irnerius is placed c. 1100–1130."
+  },
+  "th1": {
+   "status": "confirmed",
+   "src": [
+    "it-017"
+   ],
+   "fix": {},
+   "note": "The Decretum dates from about 1140."
+  },
+  "th2": {
+   "status": "confirmed",
+   "src": [
+    "it-067"
+   ],
+   "fix": {},
+   "note": "Leading glossator; his Summae date from c. 1208–10; died between 1220 and 1232."
+  },
+  "th3": {
+   "status": "corrected",
+   "src": [
+    "it-049"
+   ],
+   "fix": {
+    "from": 1213,
+    "to": 1253
+   },
+   "note": "Taught civil law 1213–53; died between 1259 and 1263."
+  },
+  "th4": {
+   "status": "confirmed",
+   "src": [
+    "it-068"
+   ],
+   "fix": {},
+   "note": "Taught at Bologna; died 1265. Start year approximate."
+  },
+  "th5": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th6": {
+   "status": "corrected",
+   "src": [
+    "it-069"
+   ],
+   "fix": {
+    "from": 1302,
+    "approx": false
+   },
+   "note": "Held the chair of canon law from 1302 until his death in 1348, except 1307–09 at Padua."
+  },
+  "th7": {
+   "status": "confirmed",
+   "src": [
+    "it-071"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Studied law at Bologna from 1320, abandoning it in 1326."
+  },
+  "th8": {
+   "status": "confirmed",
+   "src": [
+    "it-124"
+   ],
+   "fix": {},
+   "note": "Enrolled in canon law at about 14 and left within two years."
+  },
+  "th9": {
+   "status": "confirmed",
+   "src": [
+    "it-032"
+   ],
+   "fix": {},
+   "note": "Enrolled 19 October 1496; in Rome by 1500."
+  },
+  "th10": {
+   "status": "corrected",
+   "src": [
+    "it-043"
+   ],
+   "fix": {
+    "from": 1511
+   },
+   "note": "Moved to Bologna in 1511 and taught there until his death in 1525."
+  },
+  "th11": {
+   "status": "confirmed",
+   "src": [
+    "it-052"
+   ],
+   "fix": {},
+   "note": "Lecturer at Bologna; founded its botanical garden in 1568."
+  },
+  "th12": {
+   "status": "confirmed",
+   "src": [
+    "it-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th13": {
+   "status": "confirmed",
+   "src": [
+    "it-106"
+   ],
+   "fix": {},
+   "note": "Professor from October 1732; chair of experimental physics at the Institute of Sciences from 1776; died 1778."
+  },
+  "th14": {
+   "status": "corrected",
+   "src": [
+    "it-036"
+   ],
+   "fix": {
+    "from": 1769,
+    "to": 1797,
+    "approx": false
+   },
+   "note": "Taught anatomy and obstetrics 1769–1797; dismissed in 1797 for refusing the Cisalpine oath."
+  },
+  "th15": {
+   "status": "corrected",
+   "src": [
+    "it-039"
+   ],
+   "fix": {
+    "to": 1903
+   },
+   "note": "Held the chair of Italian literature 1860–1903."
+  },
+  "th16": {
+   "status": "confirmed",
+   "src": [
+    "it-070"
+   ],
+   "fix": {},
+   "note": "Professor in the early 14th century; tried for heresy in 1315."
+  },
+  "th17": {
+   "status": "confirmed",
+   "src": [
+    "it-125"
+   ],
+   "fix": {},
+   "note": "Doctorate in canon law, 1423."
+  },
+  "th18": {
+   "status": "confirmed",
+   "src": [
+    "it-124"
+   ],
+   "fix": {},
+   "note": "Left Padua in 1482."
+  },
+  "th19": {
+   "status": "confirmed",
+   "src": [
+    "it-043"
+   ],
+   "fix": {},
+   "note": "Taught from 1488 until the studium closed in the War of the League of Cambrai."
+  },
+  "th20": {
+   "status": "confirmed",
+   "src": [
+    "it-032"
+   ],
+   "fix": {},
+   "note": "Granted leave to study medicine in 1501; took no degree at Padua."
+  },
+  "th21": {
+   "status": "corrected",
+   "src": [
+    "it-072"
+   ],
+   "fix": {
+    "to": 1544
+   },
+   "note": "Doctorate and chair in December 1537; taught until 1544. The Fabrica was printed in 1543."
+  },
+  "th22": {
+   "status": "confirmed",
+   "src": [
+    "it-118"
+   ],
+   "fix": {},
+   "note": "Held Vesalius's former chair of anatomy; died in Padua in 1562. Start year not checked."
+  },
+  "th23": {
+   "status": "corrected",
+   "src": [
+    "it-045"
+   ],
+   "fix": {
+    "from": 1562
+   },
+   "note": "Britannica dates his succession to Falloppio's post to 1562; other accounts give 1565."
+  },
+  "th24": {
+   "status": "confirmed",
+   "src": [
+    "it-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th25": {
+   "status": "confirmed",
+   "src": [
+    "it-073"
+   ],
+   "fix": {},
+   "note": "Graduated in 1602 under Fabricius."
+  },
+  "th26": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th27": {
+   "status": "confirmed",
+   "src": [
+    "it-042"
+   ],
+   "fix": {},
+   "note": "Professor at Padua from 1700 until his death in 1714."
+  },
+  "th28": {
+   "status": "corrected",
+   "src": [
+    "it-046"
+   ],
+   "fix": {
+    "from": 1710,
+    "role": "taught medicine, then anatomy"
+   },
+   "note": "Professor of medicine from 1710 and of anatomy from 1715 until his death in 1771."
+  },
+  "th29": {
+   "status": "confirmed",
+   "src": [
+    "it-050"
+   ],
+   "fix": {},
+   "note": "Taught law at Siena, Perugia and Naples; exact years approximate."
+  },
+  "th30": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th31": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th32": {
+   "status": "corrected",
+   "src": [
+    "it-047"
+   ],
+   "fix": {
+    "approx": true
+   },
+   "note": "His student years are uncertain: the Catholic Encyclopedia gives c. 1236, modern biographies usually 1239–1244."
+  },
+  "th33": {
+   "status": "confirmed",
+   "src": [
+    "it-047"
+   ],
+   "fix": {},
+   "note": "In Naples from 1272, teaching and writing, until shortly before his death in 1274."
+  },
+  "th34": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th35": {
+   "status": "confirmed",
+   "src": [
+    "it-040"
+   ],
+   "fix": {},
+   "note": "Appointed reader of eloquence in 1699."
+  },
+  "th36": {
+   "status": "confirmed",
+   "src": [
+    "it-044"
+   ],
+   "fix": {},
+   "note": "First chair of political economy, 1754."
+  },
+  "th37": {
+   "status": "corrected",
+   "src": [
+    "it-075"
+   ],
+   "fix": {
+    "from": 1862
+   },
+   "note": "Professor of Italian literature from 1862 until his death in 1876."
+  },
+  "th38": {
+   "status": "corrected",
+   "src": [
+    "it-074"
+   ],
+   "fix": {
+    "from": 1872
+   },
+   "note": "Professor of comparative literature from 1872."
+  },
+  "th39": {
+   "status": "confirmed",
+   "src": [
+    "it-100"
+   ],
+   "fix": {},
+   "note": "Worked at Salerno as translator, probably also teaching, before retiring to Monte Cassino; dates approximate."
+  },
+  "th40": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th41": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th42": {
+   "status": "corrected",
+   "src": [
+    "it-101"
+   ],
+   "fix": {
+    "from": 1464,
+    "to": 1498
+   },
+   "note": "Taught at the Sapienza 1464–65 and again from 1473 (perhaps 1471) until his death in 1498."
+  },
+  "th43": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th44": {
+   "status": "confirmed",
+   "src": [
+    "it-053"
+   ],
+   "fix": {},
+   "note": "Called to the chair of medicine in 1592; died in Rome in 1603."
+  },
+  "th45": {
+   "status": "confirmed",
+   "src": [
+    "it-055"
+   ],
+   "fix": {},
+   "note": "Lecturer in anatomy from 1684; end date approximate."
+  },
+  "th46": {
+   "status": "confirmed",
+   "src": [
+    "it-056"
+   ],
+   "fix": {},
+   "note": "Called to Rome in 1871 to direct the new chemistry institute; died 1910."
+  },
+  "th47": {
+   "status": "corrected",
+   "src": [
+    "it-076"
+   ],
+   "fix": {
+    "from": 1873,
+    "role": "taught moral philosophy and pedagogy"
+   },
+   "note": "Professor at Rome from 1873 until his death in 1904."
+  },
+  "th48": {
+   "status": "corrected",
+   "src": [
+    "it-031"
+   ],
+   "fix": {
+    "from": 1564,
+    "approx": false
+   },
+   "note": "Taught mathematics from his ordination in 1564 until his death in 1612."
+  },
+  "th49": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th50": {
+   "status": "confirmed",
+   "src": [
+    "it-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th51": {
+   "status": "confirmed",
+   "src": [
+    "it-119"
+   ],
+   "fix": {},
+   "note": "Called in 1638 to teach mathematics, physics and oriental languages; died 1680."
+  },
+  "th52": {
+   "status": "confirmed",
+   "src": [
+    "it-066"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th53": {
+   "status": "confirmed",
+   "src": [
+    "it-050",
+    "it-010"
+   ],
+   "fix": {},
+   "note": "Taught law at Perugia, where Bartolus attended his lectures; exact years approximate."
+  },
+  "th54": {
+   "status": "corrected",
+   "src": [
+    "it-010"
+   ],
+   "fix": {
+    "to": 1348
+   },
+   "note": "The leading medical teacher at Perugia, he died there of plague in 1348."
+  },
+  "th55": {
+   "status": "confirmed",
+   "src": [
+    "it-051",
+    "it-010"
+   ],
+   "fix": {},
+   "note": "Taught at Perugia from 1343 until his death in 1357."
+  },
+  "th56": {
+   "status": "confirmed",
+   "src": [
+    "it-010"
+   ],
+   "fix": {},
+   "note": "Taught at Perugia from about 1348 for some thirty years, with periods elsewhere."
+  },
+  "th57": {
+   "status": "corrected",
+   "src": [
+    "it-051"
+   ],
+   "fix": {
+    "to": 1342
+   },
+   "note": "Taught at Pisa 1339–42."
+  },
+  "th58": {
+   "status": "corrected",
+   "src": [
+    "it-054"
+   ],
+   "fix": {
+    "to": 1554
+   },
+   "note": "Taught at Pisa from 1544 and returned to Bologna in 1554."
+  },
+  "th59": {
+   "status": "confirmed",
+   "src": [
+    "it-053"
+   ],
+   "fix": {},
+   "note": "Prefect of the botanical garden and professor of simples from 1555, later professor of medicine."
+  },
+  "th60": {
+   "status": "confirmed",
+   "src": [
+    "it-014"
+   ],
+   "fix": {},
+   "note": "Left without a degree."
+  },
+  "th61": {
+   "status": "confirmed",
+   "src": [
+    "it-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th62": {
+   "status": "confirmed",
+   "src": [
+    "it-079"
+   ],
+   "fix": {},
+   "note": "Offered the physics chair in 1840; died 1868."
+  },
+  "th63": {
+   "status": "corrected",
+   "src": [
+    "it-028"
+   ],
+   "fix": {
+    "to": 1893
+   },
+   "note": "Entered Pisa in 1878; professor from 1883; left for Turin in 1893."
+  },
+  "th64": {
+   "status": "confirmed",
+   "src": [
+    "it-078"
+   ],
+   "fix": {},
+   "note": "Public readings of Dante from October 1373, broken off in early 1374."
+  },
+  "th65": {
+   "status": "confirmed",
+   "src": [
+    "it-057"
+   ],
+   "fix": {
+    "approx": true
+   },
+   "note": "Taught Greek in Florence for a few years from 1397."
+  },
+  "th66": {
+   "status": "confirmed",
+   "src": [
+    "it-058"
+   ],
+   "fix": {},
+   "note": "Taught from 1429 until banished in 1434."
+  },
+  "th67": {
+   "status": "confirmed",
+   "src": [
+    "it-059"
+   ],
+   "fix": {},
+   "note": "Held the chair from 1456; returned 1477–81."
+  },
+  "th68": {
+   "status": "confirmed",
+   "src": [
+    "it-077"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": ""
+  },
+  "th69": {
+   "status": "confirmed",
+   "src": [
+    "it-114"
+   ],
+   "fix": {},
+   "note": "Graduated in medicine at Florence in 1877; start year approximate."
+  },
+  "th70": {
+   "status": "confirmed",
+   "src": [
+    "it-039"
+   ],
+   "fix": {},
+   "note": "Graduated at Pisa in 1856."
+  },
+  "th71": {
+   "status": "confirmed",
+   "src": [
+    "it-080"
+   ],
+   "fix": {},
+   "note": "Studied at the Scuola Normale under Donato Jaja; exact years not checked."
+  },
+  "th72": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th73": {
+   "status": "corrected",
+   "src": [
+    "it-060"
+   ],
+   "fix": {
+    "from": 1429,
+    "to": 1431
+   },
+   "note": "Taught eloquence at Pavia 1429–1431; left the city in 1433."
+  },
+  "th74": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th75": {
+   "status": "confirmed",
+   "src": [
+    "it-120"
+   ],
+   "fix": {},
+   "note": "Professor at Pavia from 1533, and again in 1541 and 1546."
+  },
+  "th76": {
+   "status": "confirmed",
+   "src": [
+    "it-013",
+    "it-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th77": {
+   "status": "corrected",
+   "src": [
+    "it-038"
+   ],
+   "fix": {
+    "from": 1778
+   },
+   "note": "Called to Pavia in 1778."
+  },
+  "th78": {
+   "status": "confirmed",
+   "src": [
+    "it-030"
+   ],
+   "fix": {},
+   "note": "Rector from 1789."
+  },
+  "th79": {
+   "status": "confirmed",
+   "src": [
+    "it-063"
+   ],
+   "fix": {},
+   "note": "Appointed 1809; the chair was soon abolished."
+  },
+  "th80": {
+   "status": "confirmed",
+   "src": [
+    "it-062"
+   ],
+   "fix": {},
+   "note": "Graduated 1865; professor of histology from 1880 and of general pathology from 1881."
+  },
+  "th81": {
+   "status": "confirmed",
+   "src": [
+    "it-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th82": {
+   "status": "corrected",
+   "src": [
+    "it-041"
+   ],
+   "fix": {
+    "from": 1755,
+    "role": "taught logic, metaphysics and Greek"
+   },
+   "note": "Treccani gives a Modena professorship of logic, metaphysics and Greek, 1755–69."
+  },
+  "th83": {
+   "status": "confirmed",
+   "src": [
+    "it-029"
+   ],
+   "fix": {},
+   "note": "Professor from 1788, with a break after 1798 for refusing the Cisalpine oath; rector from 1814."
+  },
+  "th84": {
+   "status": "confirmed",
+   "src": [
+    "it-103"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "In Ferrara from 1429 as tutor to Leonello d'Este; university lecturer from 29 March 1436 until his death in 1460."
+  },
+  "th85": {
+   "status": "confirmed",
+   "src": [
+    "it-081"
+   ],
+   "fix": {},
+   "note": "Professor of medicine at Ferrara from 1464; died there in 1524."
+  },
+  "th86": {
+   "status": "confirmed",
+   "src": [
+    "it-124"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th87": {
+   "status": "confirmed",
+   "src": [
+    "it-011"
+   ],
+   "fix": {},
+   "note": "Doctorate in canon law on 31 May 1503."
+  },
+  "th88": {
+   "status": "confirmed",
+   "src": [
+    "it-011"
+   ],
+   "fix": {},
+   "note": "Studied under Leoniceno and Manardo; the doctorate itself is undocumented."
+  },
+  "th89": {
+   "status": "confirmed",
+   "src": [
+    "it-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th90": {
+   "status": "confirmed",
+   "src": [
+    "it-102"
+   ],
+   "fix": {},
+   "note": "Chair from 1820, abolished 1822, restored to him after 1834 and held until 1850."
+  },
+  "th91": {
+   "status": "confirmed",
+   "src": [
+    "it-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th92": {
+   "status": "confirmed",
+   "src": [
+    "it-027"
+   ],
+   "fix": {},
+   "note": "Assistant from 1880, professor from 1890, until his death in 1932."
+  },
+  "th93": {
+   "status": "confirmed",
+   "src": [
+    "it-026"
+   ],
+   "fix": {},
+   "note": "Appointed 28 September 1755; left Turin for Berlin in 1766."
+  },
+  "th94": {
+   "status": "confirmed",
+   "src": [
+    "it-065"
+   ],
+   "fix": {},
+   "note": "Taught technical physics at the Museo Industriale; died 1897. Start year approximate."
+  },
+  "th95": {
+   "status": "corrected",
+   "src": [
+    "it-082"
+   ],
+   "fix": {
+    "from": 1819,
+    "approx": false
+   },
+   "note": "Entered the university in 1819, turned to law and graduated on 6 April 1827."
+  },
+  "th96": {
+   "status": "corrected",
+   "src": [
+    "it-035"
+   ],
+   "fix": {
+    "to": 1772,
+    "role": "taught mathematics and astronomy; designed and directed the Brera observatory"
+   },
+   "note": "Professor at Pavia from 1764 and director at Brera; removed as director in 1772 and left for Paris in 1773."
+  },
+  "th97": {
+   "status": "confirmed",
+   "src": [
+    "it-083",
+    "it-022"
+   ],
+   "fix": {},
+   "note": "Directed the institute from 1863 until his death in 1897."
+  },
+  "th98": {
+   "status": "corrected",
+   "src": [
+    "it-084"
+   ],
+   "fix": {
+    "from": 1865,
+    "approx": false,
+    "role": "taught mechanics; director from 1897"
+   },
+   "note": "Taught mechanics from 1865 and directed the Politecnico from 1897 until his death in 1921."
+  },
+  "th99": {
+   "status": "confirmed",
+   "src": [
+    "it-085"
+   ],
+   "fix": {},
+   "note": "Directed the school from 1868; died 1900."
+  },
+  "th100": {
+   "status": "confirmed",
+   "src": [
+    "it-033"
+   ],
+   "fix": {},
+   "note": "Appointed in 1569 at the Jesuit college that became the university; died 1575."
+  },
+  "th101": {
+   "status": "confirmed",
+   "src": [
+    "it-034"
+   ],
+   "fix": {},
+   "note": "Left for Pisa in February 1656."
+  },
+  "th102": {
+   "status": "confirmed",
+   "src": [
+    "it-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th103": {
+   "status": "corrected",
+   "src": [
+    "it-061"
+   ],
+   "fix": {
+    "from": 1780
+   },
+   "note": "Took the Palermo chair in 1780; directed the observatory from 1791."
+  },
+  "th104": {
+   "status": "confirmed",
+   "src": [
+    "it-056"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ }
+}

@@ -1,0 +1,5066 @@
+{
+ "region": "Byzantium & Orthodox East; Latin palace and cathedral schools",
+ "institutions": [
+  {
+   "id": "b-magnaura",
+   "name": "Magnaura School",
+   "alt": [
+    "School of the Magnaura",
+    "Higher school of Bardas"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 849,
+     "city": "Constantinople",
+     "lat": 41.0075,
+     "lon": 28.9781
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 849,
+   "start_approx": true,
+   "end": 1046,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "Higher school set up in the Magnaura hall of the Great Palace by the Caesar Bardas, with Leo the Mathematician at its head teaching philosophy and the mathematical sciences. It was the main centre of the 9th-century Byzantine revival of classical learning and was revived by Constantine VII in the 10th century.",
+   "notes": "Founding date conventional: sources give c. 849, 855/856 or 863 (Bardas was Caesar from 862). Continuity after Constantine VII is obscure; end set to the 1046 refoundation of imperial higher teaching (b-pandidakterion)."
+  },
+  {
+   "id": "b-pandidakterion",
+   "name": "Pandidakterion (Imperial School of Philosophy, Constantinople)",
+   "alt": [
+    "University of Constantinople",
+    "School of Philosophy of Constantine IX"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1046,
+     "city": "Constantinople",
+     "lat": 41.01,
+     "lon": 28.983
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1046,
+   "start_approx": true,
+   "end": 1453,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "The imperial higher school of philosophy refounded by Constantine IX Monomachos, with Michael Psellos as 'consul of the philosophers' and John Italos as his successor. Dispersed by the Latin sack of 1204, imperial higher teaching was restored after 1261 under George Akropolites and lasted until the Ottoman conquest.",
+   "notes": "This record treats imperial higher teaching in Constantinople from 1046 as one institution; the late-antique Pandidakterion of 425 lies outside the dataset range. Its continuity across 1204-1261 and in the Palaiologan period is a modelling choice; teaching was often attached to individual masters and monasteries."
+  },
+  {
+   "id": "b-constantinople-law",
+   "name": "Law School of Constantinople (Didaskaleion ton nomon)",
+   "alt": [
+    "Mouseion ton nomon",
+    "School of Law of Constantine IX"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1047,
+     "city": "Constantinople",
+     "lat": 41.0108,
+     "lon": 28.9867
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1047,
+   "start_approx": true,
+   "end": 1204,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "State law school established by Constantine IX Monomachos at the Mangana monastery of St George, headed by John Xiphilinos with the title nomophylax. It trained judges and officials and certified those admitted to legal practice.",
+   "notes": "The founding novel (Novella of Constantine IX, preserved via John Mauropous) is dated 1045 or 1047 in the literature. Its activity after the later 11th century is poorly documented; end set at 1204."
+  },
+  {
+   "id": "b-patriarchal-academy",
+   "name": "Patriarchal Academy of Constantinople",
+   "alt": [
+    "Patriarchal School",
+    "Great School of the Nation",
+    "Megali tou Genous Scholi",
+    "Phanar Greek Orthodox College"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1107,
+     "city": "Constantinople",
+     "lat": 41.0086,
+     "lon": 28.9802
+    },
+    {
+     "from": 1804,
+     "city": "Constantinople (Xirokrini)",
+     "lat": 41.033,
+     "lon": 28.944
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1107,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Higher school of the Ecumenical Patriarchate, organized in the 12th century around the 'teachers' of Hagia Sophia and re-established after 1453 by Patriarch Gennadios Scholarios. As the 'Great School of the Nation' it was the principal school of the Greek Orthodox world under Ottoman rule.",
+   "notes": "Tradition traces a patriarchal school to late antiquity; 1107 (Alexios I's edict on the patriarchal didaskaloi) is used as a conventional start. Refoundation date 1454 is traditional (Wikipedia's infobox gives 1597). Seat after 1454 varied (Phanar from c. 1601); moved to Xirokrini in 1804; present Phanar building 1881-83."
+  },
+  {
+   "id": "b-nicaea",
+   "name": "Imperial court schools of Nicaea",
+   "alt": [
+    "Nicaean schools",
+    "School of St Tryphon"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1204,
+     "city": "Nicaea",
+     "lat": 40.4292,
+     "lon": 29.7211
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1204,
+   "start_approx": true,
+   "end": 1261,
+   "end_approx": false,
+   "founding_mode": "imperial",
+   "summary": "Higher teaching sustained by the Laskarid emperors of Nicaea during the Latin occupation of Constantinople, notably by Nikephoros Blemmydes. It preserved Byzantine learning and trained the officials who restored the empire in 1261.",
+   "notes": "Teaching was dispersed among court, monasteries and individual masters (Blemmydes taught near Ephesus); Theodore II Laskaris founded schools at Nicaea in the 1250s. Treated as one record for mapping."
+  },
+  {
+   "id": "b-chora",
+   "name": "Chora Monastery school and library",
+   "alt": [
+    "Kariye",
+    "Monastery of Christ in Chora"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1316,
+     "city": "Constantinople",
+     "lat": 41.0312,
+     "lon": 28.9388
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1316,
+   "start_approx": true,
+   "end": 1453,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "The Chora monastery restored by the statesman Theodore Metochites, who endowed it with one of the great libraries of late Byzantium. Under Metochites and his pupil Nikephoros Gregoras it was a centre of astronomy and humanist scholarship.",
+   "notes": "Not a formal school; included as a centre of higher study. Restoration 1316-1321 approx."
+  },
+  {
+   "id": "b-mistra",
+   "name": "School of Plethon at Mistra",
+   "alt": [
+    "Mystras circle",
+    "Academy of Plethon"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1409,
+     "city": "Mistra",
+     "lat": 37.0731,
+     "lon": 22.3672
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1409,
+   "start_approx": true,
+   "end": 1460,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Circle of pupils gathered around the Neoplatonist philosopher George Gemistos Plethon at the court of the Despots of the Morea. Its pupils, above all Bessarion, carried Platonism to Italy.",
+   "notes": "Plethon's arrival at Mistra is dated c. 1407-1414. Ended with Plethon's death (1452) and the Ottoman conquest of the Morea (1460)."
+  },
+  {
+   "id": "b-patmos",
+   "name": "Patmian School",
+   "alt": [
+    "Patmias Scholi"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1713,
+     "city": "Patmos",
+     "lat": 37.3089,
+     "lon": 26.5469
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1713,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "School founded by the monk Makarios Kalogeras near the Monastery of St John on Patmos, one of the leading Greek schools of the 18th century. It drew students from across the Greek world.",
+   "notes": "Periods of decline after 1800; continued as a school into the 20th century."
+  },
+  {
+   "id": "b-athonite-academy",
+   "name": "Athonite Academy",
+   "alt": [
+    "Athonias",
+    "Athoniada"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1749,
+     "city": "Mount Athos (Vatopedi)",
+     "lat": 40.3134,
+     "lon": 24.2142
+    },
+    {
+     "from": 1845,
+     "city": "Karyes",
+     "lat": 40.2546,
+     "lon": 24.2441
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1749,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Academy founded by Vatopedi monastery with the support of Patriarch Cyril V, which under Eugenios Voulgaris taught modern philosophy and mathematics alongside theology. Conservative monastic opposition forced Voulgaris out and it declined, closing in 1821; it was revived at Karyes in the 1840s.",
+   "notes": "Revival date given as 1842 or 1845."
+  },
+  {
+   "id": "b-ioannina-gioumeios",
+   "name": "Gioumeios School, Ioannina",
+   "alt": [
+    "Gkiouma school"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1676,
+     "city": "Ioannina",
+     "lat": 39.665,
+     "lon": 20.8537
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1676,
+   "start_approx": true,
+   "end": 1820,
+   "end_approx": true,
+   "founding_mode": "private",
+   "summary": "Ioannina school endowed by the merchant Emmanuel Gioumas, one of the institutions that made Ioannina a leading Greek educational centre. Methodios Anthrakites studied and later taught there; it was afterwards associated with the conservative Balanos family.",
+   "notes": "Founding date c. 1676 conventional; end approximate (Ali Pasha's fall, 1820-22)."
+  },
+  {
+   "id": "b-ioannina-maroutsaia",
+   "name": "Maroutsaia School, Ioannina",
+   "alt": [
+    "Maroutsis School"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1742,
+     "city": "Ioannina",
+     "lat": 39.665,
+     "lon": 20.8537
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1742,
+   "start_approx": false,
+   "end": 1797,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "School founded with funds from the Maroutsis merchant family of Venice, where Eugenios Voulgaris first taught modern philosophy and experimental physics. It was a key early institution of the Modern Greek Enlightenment.",
+   "notes": ""
+  },
+  {
+   "id": "b-ioannina-kaplaneios",
+   "name": "Kaplaneios School, Ioannina",
+   "alt": [
+    "Kaplanis School"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1797,
+     "city": "Ioannina",
+     "lat": 39.665,
+     "lon": 20.8537
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1797,
+   "start_approx": false,
+   "end": 1820,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "School endowed by the brothers Zois and Manthos Kaplanis and directed by Athanasios Psalidas, who taught natural science and modern philosophy. It was destroyed in the fighting around Ali Pasha's fall.",
+   "notes": ""
+  },
+  {
+   "id": "b-smyrna-evangelical",
+   "name": "Evangelical School of Smyrna",
+   "alt": [
+    "Evangeliki Scholi"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1733,
+     "city": "Smyrna",
+     "lat": 38.4192,
+     "lon": 27.1287
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1733,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Greek school of Smyrna founded by the Orthodox community and placed under British consular protection in 1747. It became one of the most important Greek educational institutions of Asia Minor, with a noted library and museum.",
+   "notes": "Destroyed in 1922 (outside range)."
+  },
+  {
+   "id": "b-chios",
+   "name": "School of Chios",
+   "alt": [
+    "Gymnasium of Chios",
+    "Great School of Chios"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1788,
+     "city": "Chios",
+     "lat": 38.368,
+     "lon": 26.1358
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1788,
+   "start_approx": true,
+   "end": 1822,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Community higher school of Chios, directed by Athanasios Parios and later reorganized on Enlightenment lines by Neophytos Vamvas, with a library, laboratory and printing press. At its height it had several hundred students; it was destroyed in the Chios massacre.",
+   "notes": "An older community school existed; 1788 (Parios' directorship) used as start. Reorganized 1792 and again under Vamvas from 1815."
+  },
+  {
+   "id": "b-kydonies",
+   "name": "Academy of Kydonies",
+   "alt": [
+    "Ayvalik Academy",
+    "Kydonies School"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1800,
+     "city": "Kydonies (Ayvalik)",
+     "lat": 39.3172,
+     "lon": 26.6939
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1800,
+   "start_approx": true,
+   "end": 1821,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Greek academy of the self-governing town of Kydonies, which under Benjamin of Lesbos and Theophilos Kairis taught mathematics, physics and philosophy to hundreds of students. It was destroyed when Ottoman forces burned the town in 1821.",
+   "notes": "Founding variously 1798-1803."
+  },
+  {
+   "id": "b-ionian-academy",
+   "name": "Ionian Academy",
+   "alt": [
+    "Ionios Akadimia"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1824,
+     "city": "Corfu",
+     "lat": 39.6243,
+     "lon": 19.9217
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1824,
+   "start_approx": false,
+   "end": 1864,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The first modern Greek institution of higher education, founded in Corfu by the philhellene Lord Guilford under the British-protected United States of the Ionian Islands. It had faculties of theology, law, medicine and philosophy and declined after Guilford's death, being abolished after union with Greece.",
+   "notes": "Guilford planned it from 1811; formal opening 1824."
+  },
+  {
+   "id": "u-athens",
+   "name": "University of Athens",
+   "alt": [
+    "Othonian University",
+    "National University of Athens",
+    "National and Kapodistrian University of Athens"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1837,
+     "city": "Athens",
+     "lat": 37.9735,
+     "lon": 23.729
+    },
+    {
+     "from": 1841,
+     "city": "Athens",
+     "lat": 37.9806,
+     "lon": 23.733
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1837,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The first university of the Greek state and of the Eastern Mediterranean, founded by King Otto on the German model with faculties of theology, law, medicine and philosophy. It trained the professional and intellectual elite of the Greek world.",
+   "notes": ""
+  },
+  {
+   "id": "t-athens-polytechnic",
+   "name": "Athens Polytechnic (School of Arts)",
+   "alt": [
+    "Royal School of Arts",
+    "National Technical University of Athens",
+    "Metsovion Polytechneion"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1837,
+     "city": "Athens",
+     "lat": 37.989,
+     "lon": 23.732
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1837,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded as a Sunday school of building crafts and soon a school of arts and engineering, it grew into Greece's polytechnic. Benefactors from Metsovo funded its Patission Street complex.",
+   "notes": "Upgraded to a higher technical school in stages (1863, 1887)."
+  },
+  {
+   "id": "b-halki",
+   "name": "Theological School of Halki",
+   "alt": [
+    "Halki Seminary"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1844,
+     "city": "Halki (Heybeliada)",
+     "lat": 40.8786,
+     "lon": 29.092
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1844,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Principal theological school of the Ecumenical Patriarchate, founded by Patriarch Germanos IV on the site of the Holy Trinity monastery on Halki. It trained much of the Orthodox hierarchy.",
+   "notes": "Closed by Turkish law in 1971 (outside range)."
+  },
+  {
+   "id": "b-rizarios",
+   "name": "Rizarios Ecclesiastical School",
+   "alt": [
+    "Rizareios"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1844,
+     "city": "Athens",
+     "lat": 37.976,
+     "lon": 23.748
+    }
+   ],
+   "modern_country": "Greece",
+   "start": 1844,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Ecclesiastical school in Athens endowed by the Epirote brothers Manthos and Georgios Rizaris to train Orthodox clergy. It was a leading seminary of the Greek kingdom.",
+   "notes": ""
+  },
+  {
+   "id": "b-belgrade-velika-skola",
+   "name": "Belgrade Higher School (1808)",
+   "alt": [
+    "Velika škola",
+    "Visoka škola"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1808,
+     "city": "Belgrade",
+     "lat": 44.8176,
+     "lon": 20.4569
+    }
+   ],
+   "modern_country": "Serbia",
+   "start": 1808,
+   "start_approx": false,
+   "end": 1813,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Higher school founded in revolutionary Serbia by Ivan Jugović with Dositej Obradović's support, teaching law, history, mathematics and languages. It closed when the Ottomans reconquered Serbia in 1813.",
+   "notes": ""
+  },
+  {
+   "id": "u-belgrade",
+   "name": "Lyceum and Higher School of Belgrade",
+   "alt": [
+    "Liceum",
+    "Velika škola",
+    "University of Belgrade"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1838,
+     "city": "Kragujevac",
+     "lat": 44.0128,
+     "lon": 20.9114
+    },
+    {
+     "from": 1841,
+     "city": "Belgrade",
+     "lat": 44.8176,
+     "lon": 20.4569
+    }
+   ],
+   "modern_country": "Serbia",
+   "start": 1838,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded as the Lyceum of the Principality of Serbia in Kragujevac, moved to Belgrade, and reorganized in 1863 as the Velika škola with faculties of philosophy, law and engineering. It became the University of Belgrade in 1905.",
+   "notes": "University title only from 1905 (outside range); typed university as a multi-faculty higher school on the university model."
+  },
+  {
+   "id": "u-sofia",
+   "name": "Sofia Higher School",
+   "alt": [
+    "Higher Pedagogical Course",
+    "Visshe uchilishte",
+    "Sofia University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1888,
+     "city": "Sofia",
+     "lat": 42.6934,
+     "lon": 23.3349
+    }
+   ],
+   "modern_country": "Bulgaria",
+   "start": 1888,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded as a higher pedagogical course and soon the Higher School of the Principality of Bulgaria, it became the University of Sofia in 1904. It was the first Bulgarian institution of higher education.",
+   "notes": ""
+  },
+  {
+   "id": "a-robert-college",
+   "name": "Robert College",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1863,
+     "city": "Constantinople (Bebek)",
+     "lat": 41.077,
+     "lon": 29.044
+    },
+    {
+     "from": 1871,
+     "city": "Constantinople (Rumeli Hisarı)",
+     "lat": 41.0848,
+     "lon": 29.0563
+    }
+   ],
+   "modern_country": "Turkey",
+   "start": 1863,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "American college founded by Cyrus Hamlin and Christopher Robert, the oldest American school abroad. It educated much of the first Bulgarian political elite.",
+   "notes": ""
+  },
+  {
+   "id": "a-beirut",
+   "name": "Syrian Protestant College",
+   "alt": [
+    "American University of Beirut"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1866,
+     "city": "Beirut",
+     "lat": 33.9,
+     "lon": 35.48
+    }
+   ],
+   "modern_country": "Lebanon",
+   "start": 1866,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "College founded by American Protestant missionaries under Daniel Bliss and chartered in New York, with a medical school from 1867. Instruction was in Arabic until 1882, then English.",
+   "notes": "Founded by Americans; included as a Western Christian foundation in the map extent."
+  },
+  {
+   "id": "j-beirut",
+   "name": "Université Saint-Joseph",
+   "alt": [
+    "Saint Joseph University"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1875,
+     "city": "Beirut",
+     "lat": 33.889,
+     "lon": 35.513
+    }
+   ],
+   "modern_country": "Lebanon",
+   "start": 1875,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Jesuit college transferred from Ghazir to Beirut, granted pontifical degree powers by Leo XIII. A French faculty of medicine was added in 1883.",
+   "notes": ""
+  },
+  {
+   "id": "b-cairo-coptic",
+   "name": "Coptic Clerical College",
+   "alt": [
+    "Coptic Orthodox Theological Seminary"
+   ],
+   "type": "byzantine",
+   "locations": [
+    {
+     "from": 1893,
+     "city": "Cairo",
+     "lat": 30.0626,
+     "lon": 31.2497
+    }
+   ],
+   "modern_country": "Egypt",
+   "start": 1893,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Theological college of the Coptic Orthodox Church founded under Pope Cyril V to train clergy. It is included as the only significant Christian higher school in Egypt before 1900.",
+   "notes": "Oriental (not Byzantine) Orthodox; inclusion marginal."
+  },
+  {
+   "id": "p-aachen",
+   "name": "Palace School of Charlemagne",
+   "alt": [
+    "Schola palatina",
+    "Carolingian palace school"
+   ],
+   "type": "palace",
+   "locations": [
+    {
+     "from": 782,
+     "city": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 782,
+   "start_approx": true,
+   "end": 840,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "School of the Carolingian court, gathered by Charlemagne around Alcuin of York and other foreign scholars, and the engine of the Carolingian Renaissance. It educated the royal family and court nobility and set standards for script, Latin and liturgy across the empire.",
+   "notes": "The court was itinerant until Aachen became its main seat c. 794; Alcuin joined in 781/782. End conventional (death of Louis the Pious, 840)."
+  },
+  {
+   "id": "p-compiegne",
+   "name": "Palace School of Charles the Bald",
+   "alt": [
+    "West Frankish court school"
+   ],
+   "type": "palace",
+   "locations": [
+    {
+     "from": 843,
+     "city": "Compiègne",
+     "lat": 49.4179,
+     "lon": 2.8261
+    }
+   ],
+   "modern_country": "France",
+   "start": 843,
+   "start_approx": true,
+   "end": 877,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The court school of Charles the Bald, celebrated for the Irish master John Scottus Eriugena. It was a centre of Greek studies and theological controversy.",
+   "notes": "Court was itinerant (Compiègne, Laon, Quierzy); Compiègne used for mapping."
+  },
+  {
+   "id": "p-winchester",
+   "name": "Court School of Alfred the Great",
+   "alt": [
+    "Alfredian court school"
+   ],
+   "type": "palace",
+   "locations": [
+    {
+     "from": 886,
+     "city": "Winchester",
+     "lat": 51.0632,
+     "lon": -1.308
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 886,
+   "start_approx": true,
+   "end": 899,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Circle of scholars assembled by Alfred to restore learning after the Viking wars, including Asser, Grimbald and Plegmund. It produced Old English translations of key Latin works and taught noble youths to read.",
+   "notes": "Alfred's court was itinerant; Winchester conventional."
+  },
+  {
+   "id": "p-aachen-ottonian",
+   "name": "Ottonian Court School",
+   "alt": [
+    "Palace school of Otto I"
+   ],
+   "type": "palace",
+   "locations": [
+    {
+     "from": 940,
+     "city": "Aachen",
+     "lat": 50.7753,
+     "lon": 6.0839
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 940,
+   "start_approx": true,
+   "end": 965,
+   "end_approx": true,
+   "founding_mode": "royal",
+   "summary": "Court school of Otto I directed by his brother Bruno, later archbishop of Cologne. It trained the bishops of the Ottonian imperial church.",
+   "notes": "Itinerant court; Aachen used for mapping."
+  },
+  {
+   "id": "m-pavia-law",
+   "name": "Law School of Pavia",
+   "alt": [
+    "Pavian law school"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1000,
+     "city": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1000,
+   "start_approx": true,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "spontaneous",
+   "summary": "School of Lombard law associated with the royal palace court of Pavia, which produced the Liber Papiensis and its commentary (Expositio). Lanfranc studied there.",
+   "notes": "Dates conventional."
+  },
+  {
+   "id": "m-ravenna-law",
+   "name": "Law School of Ravenna",
+   "alt": [],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1000,
+     "city": "Ravenna",
+     "lat": 44.4184,
+     "lon": 12.2035
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 1000,
+   "start_approx": true,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "spontaneous",
+   "summary": "School of Roman law at Ravenna, traditionally the predecessor of Bologna. Peter Crassus' defence of Henry IV (1084) came from it.",
+   "notes": "Dates conventional."
+  },
+  {
+   "id": "c-tours",
+   "name": "Abbey School of Saint-Martin, Tours",
+   "alt": [
+    "Saint-Martin de Tours"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 796,
+     "city": "Tours",
+     "lat": 47.3936,
+     "lon": 0.6848
+    }
+   ],
+   "modern_country": "France",
+   "start": 796,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "The abbey school of St Martin where Alcuin, appointed abbot in 796, trained a generation of Carolingian scholars including Hrabanus Maurus. Its scriptorium developed Caroline minuscule book production; in the 11th century the cathedral/abbey schools of Tours were made famous by Berengar's dialectic.",
+   "notes": "Berengar taught at the school of Saint-Martin c. 1040-1088; end conventional."
+  },
+  {
+   "id": "c-fulda",
+   "name": "Abbey School of Fulda",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 744,
+     "city": "Fulda",
+     "lat": 50.5558,
+     "lon": 9.6808
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 744,
+   "start_approx": false,
+   "end": 1150,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "School of the abbey founded by Sturm for St Boniface, which under Hrabanus Maurus (master from c. 804, abbot 822-842) became the foremost school of East Francia. Its pupils included Walafrid Strabo, Lupus of Ferrières and Gottschalk.",
+   "notes": "School activity attested from the late 8th century; end conventional."
+  },
+  {
+   "id": "c-reichenau",
+   "name": "Abbey School of Reichenau",
+   "alt": [
+    "Augia Dives"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 724,
+     "city": "Reichenau",
+     "lat": 47.6989,
+     "lon": 9.0625
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 724,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Island abbey on Lake Constance founded by Pirmin, whose school, library and scriptorium were among the greatest of the Carolingian and Ottonian eras. Walafrid Strabo was abbot and Hermann the Lame taught mathematics and music there.",
+   "notes": ""
+  },
+  {
+   "id": "c-st-gall",
+   "name": "Abbey School of St Gall",
+   "alt": [
+    "Sankt Gallen",
+    "Saint-Gall"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 719,
+     "city": "St. Gallen",
+     "lat": 47.4233,
+     "lon": 9.3772
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 719,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Benedictine abbey whose inner (monastic) and outer schools, shown on the 9th-century Plan of St Gall, made it a leading centre of learning. Notker Balbulus, Ratpert, Tuotilo, Ekkehard I and Notker Labeo taught there.",
+   "notes": "Abbey library survives to the present; the school's high period ends c. 1100."
+  },
+  {
+   "id": "c-corbie",
+   "name": "Abbey School of Corbie",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 657,
+     "city": "Corbie",
+     "lat": 49.9078,
+     "lon": 2.5094
+    }
+   ],
+   "modern_country": "France",
+   "start": 657,
+   "start_approx": true,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Royal abbey on the Somme with one of the great Carolingian scriptoria and libraries. Paschasius Radbertus and Ratramnus taught there, and Ansgar, apostle of the North, was educated there.",
+   "notes": ""
+  },
+  {
+   "id": "c-corvey",
+   "name": "Abbey School of Corvey",
+   "alt": [
+    "Nova Corbeia"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 822,
+     "city": "Höxter",
+     "lat": 51.7778,
+     "lon": 9.4097
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 822,
+   "start_approx": false,
+   "end": 1150,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Saxon daughter house of Corbie and the leading school of 9th-10th-century Saxony. Widukind of Corvey wrote his Saxon history there.",
+   "notes": ""
+  },
+  {
+   "id": "c-ferrieres",
+   "name": "Abbey School of Ferrières",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 840,
+     "city": "Ferrières-en-Gâtinais",
+     "lat": 48.0889,
+     "lon": 2.7883
+    }
+   ],
+   "modern_country": "France",
+   "start": 840,
+   "start_approx": false,
+   "end": 900,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Abbey school that under Lupus of Ferrières (abbot 840-862) was the outstanding centre of classical text-collection in the 9th century. Heiric of Auxerre studied there.",
+   "notes": "Abbey older; start = Lupus's abbacy."
+  },
+  {
+   "id": "c-auxerre",
+   "name": "School of Saint-Germain d'Auxerre",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 840,
+     "city": "Auxerre",
+     "lat": 47.7986,
+     "lon": 3.5733
+    }
+   ],
+   "modern_country": "France",
+   "start": 840,
+   "start_approx": true,
+   "end": 950,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Abbey school that produced the commentary tradition of Haimo, Heiric and Remigius of Auxerre, widely used in medieval schools. Remigius later taught at Reims and Paris.",
+   "notes": ""
+  },
+  {
+   "id": "c-lyon",
+   "name": "Cathedral School of Lyon",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 798,
+     "city": "Lyon",
+     "lat": 45.7606,
+     "lon": 4.8272
+    }
+   ],
+   "modern_country": "France",
+   "start": 798,
+   "start_approx": true,
+   "end": 900,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school restored by Archbishop Leidrad at Charlemagne's request, later the base of Agobard and the deacon Florus. It was a centre of patristic learning and of opposition to Eriugena.",
+   "notes": ""
+  },
+  {
+   "id": "c-orleans",
+   "name": "Cathedral School of Orléans",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 798,
+     "city": "Orléans",
+     "lat": 47.902,
+     "lon": 1.9093
+    }
+   ],
+   "modern_country": "France",
+   "start": 798,
+   "start_approx": true,
+   "end": 1230,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Schools organized by Bishop Theodulf, whose capitulary required parish schools; in the 12th century Orléans became the foremost centre of classical authors. The schools later developed into the law university of Orléans.",
+   "notes": ""
+  },
+  {
+   "id": "c-reims",
+   "name": "Cathedral School of Reims",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 893,
+     "city": "Reims",
+     "lat": 49.2536,
+     "lon": 4.0339
+    }
+   ],
+   "modern_country": "France",
+   "start": 893,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school restored by Archbishop Fulk with Remigius of Auxerre and Hucbald. Under Gerbert of Aurillac (scholasticus c. 972-982) it became the most celebrated school in Europe; Bruno of Cologne, founder of the Carthusians, later taught there.",
+   "notes": ""
+  },
+  {
+   "id": "c-fleury",
+   "name": "Abbey School of Fleury",
+   "alt": [
+    "Saint-Benoît-sur-Loire"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 930,
+     "city": "Saint-Benoît-sur-Loire",
+     "lat": 47.81,
+     "lon": 2.305
+    }
+   ],
+   "modern_country": "France",
+   "start": 930,
+   "start_approx": true,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Loire abbey reformed by Odo of Cluny, whose school and library flourished under Abbo of Fleury. It supplied masters to English reformed houses such as Ramsey.",
+   "notes": ""
+  },
+  {
+   "id": "c-chartres",
+   "name": "Cathedral School of Chartres",
+   "alt": [
+    "School of Chartres"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 990,
+     "city": "Chartres",
+     "lat": 48.4478,
+     "lon": 1.4878
+    }
+   ],
+   "modern_country": "France",
+   "start": 990,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school raised to fame by Fulbert (bishop 1006-1028) and in the 12th century by Bernard, Thierry and Gilbert of Poitiers, associated with Platonism and the liberal arts. John of Salisbury was its bishop (1176-1180).",
+   "notes": "Whether a distinctive 'School of Chartres' existed in the 12th century is debated (R. W. Southern)."
+  },
+  {
+   "id": "c-laon",
+   "name": "Cathedral School of Laon",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 850,
+     "city": "Laon",
+     "lat": 49.5641,
+     "lon": 3.6199
+    }
+   ],
+   "modern_country": "France",
+   "start": 850,
+   "start_approx": true,
+   "end": 1150,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school with Irish masters such as Martin Hiberniensis in the 9th century; under Anselm of Laon and his brother Ralph (c. 1080-1117) it was the leading school of biblical theology and the source of the Glossa ordinaria.",
+   "notes": ""
+  },
+  {
+   "id": "c-paris-notre-dame",
+   "name": "Cathedral School of Notre-Dame, Paris",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1100,
+     "city": "Paris",
+     "lat": 48.853,
+     "lon": 2.3499
+    }
+   ],
+   "modern_country": "France",
+   "start": 1100,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school on the Île de la Cité where William of Champeaux, Abelard and Peter Lombard taught. Its chancellor's licence to teach became a key element in the formation of the University of Paris.",
+   "notes": ""
+  },
+  {
+   "id": "c-paris-st-victor",
+   "name": "School of Saint-Victor",
+   "alt": [
+    "Abbey of Saint-Victor"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1108,
+     "city": "Paris",
+     "lat": 48.8462,
+     "lon": 2.3561
+    }
+   ],
+   "modern_country": "France",
+   "start": 1108,
+   "start_approx": false,
+   "end": 1230,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "School of the Augustinian canons founded when William of Champeaux withdrew to St Victor. Hugh, Richard and Andrew of St Victor made it a centre of mystical theology and biblical exegesis.",
+   "notes": ""
+  },
+  {
+   "id": "c-paris-ste-genevieve",
+   "name": "Schools of Sainte-Geneviève",
+   "alt": [
+    "Mont Sainte-Geneviève"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1110,
+     "city": "Paris",
+     "lat": 48.8462,
+     "lon": 2.3464
+    }
+   ],
+   "modern_country": "France",
+   "start": 1110,
+   "start_approx": true,
+   "end": 1220,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Schools on the hill of Sainte-Geneviève, under the abbey's jurisdiction, where Abelard taught dialectic to large audiences. The abbey's chancellor also licensed masters on the Left Bank.",
+   "notes": ""
+  },
+  {
+   "id": "c-bec",
+   "name": "Abbey School of Bec",
+   "alt": [
+    "Le Bec-Hellouin"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1045,
+     "city": "Le Bec-Hellouin",
+     "lat": 49.2297,
+     "lon": 0.7183
+    }
+   ],
+   "modern_country": "France",
+   "start": 1045,
+   "start_approx": true,
+   "end": 1150,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Norman abbey whose external school, founded by Lanfranc, drew pupils from all over Europe. Under Anselm (prior 1063, abbot 1078) it was a centre of theology and philosophy.",
+   "notes": ""
+  },
+  {
+   "id": "c-liege",
+   "name": "Cathedral School of Liège",
+   "alt": [
+    "School of St Lambert"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 850,
+     "city": "Liège",
+     "lat": 50.6413,
+     "lon": 5.5718
+    }
+   ],
+   "modern_country": "Belgium",
+   "start": 850,
+   "start_approx": true,
+   "end": 1150,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school of St Lambert, where the Irish poet Sedulius Scottus worked in the 9th century; under Bishop Notger it became one of the leading schools of the empire.",
+   "notes": ""
+  },
+  {
+   "id": "c-utrecht",
+   "name": "Cathedral School of Utrecht",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 750,
+     "city": "Utrecht",
+     "lat": 52.0907,
+     "lon": 5.1214
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 750,
+   "start_approx": true,
+   "end": 1150,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Missionary school of Gregory of Utrecht, later the cathedral school. It educated Liudger and, in the 10th century, Bruno of Cologne.",
+   "notes": ""
+  },
+  {
+   "id": "c-cologne",
+   "name": "Cathedral School of Cologne",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 953,
+     "city": "Cologne",
+     "lat": 50.9413,
+     "lon": 6.9583
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 953,
+   "start_approx": false,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school strengthened by Archbishop Bruno, brother of Otto I, which trained bishops for the Ottonian church.",
+   "notes": ""
+  },
+  {
+   "id": "c-hildesheim",
+   "name": "Cathedral School of Hildesheim",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 970,
+     "city": "Hildesheim",
+     "lat": 52.149,
+     "lon": 9.947
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 970,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school where Bernward, later bishop and tutor of Otto III, was trained by Thangmar.",
+   "notes": ""
+  },
+  {
+   "id": "c-magdeburg",
+   "name": "Cathedral School of Magdeburg",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 968,
+     "city": "Magdeburg",
+     "lat": 52.1246,
+     "lon": 11.634
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 968,
+   "start_approx": false,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school of the archdiocese founded by Otto I as a base for the Slav mission. Under Ohtrich it rivalled Reims; Adalbert of Prague and Thietmar of Merseburg studied there.",
+   "notes": ""
+  },
+  {
+   "id": "c-wurzburg",
+   "name": "Cathedral School of Würzburg",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1000,
+     "city": "Würzburg",
+     "lat": 49.7939,
+     "lon": 9.9294
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 1000,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school of the Ottonian-Salian imperial church, noted in the 11th century for its poets and masters.",
+   "notes": "Thinly documented; dates conventional."
+  },
+  {
+   "id": "c-bamberg",
+   "name": "Cathedral School of Bamberg",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1007,
+     "city": "Bamberg",
+     "lat": 49.8907,
+     "lon": 10.8826
+    }
+   ],
+   "modern_country": "Germany",
+   "start": 1007,
+   "start_approx": false,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school founded with the diocese by Emperor Henry II, endowed with books from Otto III's library. It was a leading imperial school in the 11th century.",
+   "notes": ""
+  },
+  {
+   "id": "c-canterbury",
+   "name": "Cathedral School of Canterbury",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 669,
+     "city": "Canterbury",
+     "lat": 51.2798,
+     "lon": 1.0828
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 669,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "School founded by Archbishop Theodore and Abbot Hadrian teaching Latin, Greek, computus and law. Lanfranc and Anselm later revived learning at Christ Church.",
+   "notes": ""
+  },
+  {
+   "id": "c-york",
+   "name": "Cathedral School of York",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 735,
+     "city": "York",
+     "lat": 53.962,
+     "lon": -1.0819
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 735,
+   "start_approx": true,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school founded by Archbishop Egbert and taught by Ælbert, whose pupil Alcuin directed it before leaving for Charlemagne's court. Its library was the richest in 8th-century England.",
+   "notes": ""
+  },
+  {
+   "id": "c-winchester",
+   "name": "Old Minster School, Winchester",
+   "alt": [
+    "Winchester cathedral school"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 963,
+     "city": "Winchester",
+     "lat": 51.0607,
+     "lon": -1.3131
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 963,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Monastic cathedral school of Bishop Æthelwold, a centre of the Benedictine reform and of standard Old English. Ælfric of Eynsham was trained there.",
+   "notes": ""
+  },
+  {
+   "id": "c-ramsey",
+   "name": "Abbey School of Ramsey",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 969,
+     "city": "Ramsey",
+     "lat": 52.45,
+     "lon": -0.105
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 969,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Fenland abbey founded by Oswald, where Abbo of Fleury taught (985-987) and Byrhtferth wrote his computus manual.",
+   "notes": ""
+  },
+  {
+   "id": "c-iona",
+   "name": "Monastic School of Iona",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 563,
+     "city": "Iona",
+     "lat": 56.3346,
+     "lon": -6.3926
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 563,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Columba's monastery, head of a federation of monasteries in Ireland and Britain and a centre of Latin learning (Adomnán). Viking raids forced removal of the community to Kells.",
+   "notes": ""
+  },
+  {
+   "id": "c-armagh",
+   "name": "Monastic School of Armagh",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 650,
+     "city": "Armagh",
+     "lat": 54.3503,
+     "lon": -6.6528
+    }
+   ],
+   "modern_country": "United Kingdom",
+   "start": 650,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Patrician church whose school was the principal school of Ireland. The synod of Clane (1162) required Armagh's approval for all teachers of theology.",
+   "notes": ""
+  },
+  {
+   "id": "c-clonmacnoise",
+   "name": "Monastic School of Clonmacnoise",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 544,
+     "city": "Clonmacnoise",
+     "lat": 53.3264,
+     "lon": -7.9864
+    }
+   ],
+   "modern_country": "Ireland",
+   "start": 544,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Monastery on the Shannon founded by St Ciarán, a leading Irish centre of learning and annal-writing.",
+   "notes": ""
+  },
+  {
+   "id": "c-monte-cassino",
+   "name": "Abbey School of Monte Cassino",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 529,
+     "city": "Cassino",
+     "lat": 41.4903,
+     "lon": 13.8139
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 529,
+   "start_approx": true,
+   "end": 1200,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Benedict's foundation, where Paul the Deacon wrote and Constantine the African translated Arabic medical works under Abbot Desiderius.",
+   "notes": ""
+  },
+  {
+   "id": "c-bobbio",
+   "name": "Abbey School of Bobbio",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 614,
+     "city": "Bobbio",
+     "lat": 44.7714,
+     "lon": 9.3861
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 614,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Abbey founded by Columbanus whose library was among the richest in early medieval Italy; Gerbert was its abbot in 982.",
+   "notes": ""
+  },
+  {
+   "id": "c-pavia",
+   "name": "School of Pavia (Capitulary of Olona)",
+   "alt": [
+    "School of Dungal"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Pavia",
+     "lat": 45.1847,
+     "lon": 9.1582
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 950,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "Central school designated by Lothar I's Capitulary of Olona, with the Irish master Dungal, for students from much of Lombardy.",
+   "notes": ""
+  },
+  {
+   "id": "c-ivrea",
+   "name": "Cathedral School of Ivrea",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Ivrea",
+     "lat": 45.4667,
+     "lon": 7.8761
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "One of the regional schools established by Lothar I's Capitulary of Olona (825) at Ivrea. Later evidence of its teaching is sparse.",
+   "notes": "Existence attested mainly by the capitulary; end conventional."
+  },
+  {
+   "id": "c-turin",
+   "name": "Cathedral School of Turin",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Turin",
+     "lat": 45.073,
+     "lon": 7.6853
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "One of the regional schools established by Lothar I's Capitulary of Olona (825) at Turin. Later evidence of its teaching is sparse.",
+   "notes": "Existence attested mainly by the capitulary; end conventional."
+  },
+  {
+   "id": "c-cremona",
+   "name": "Cathedral School of Cremona",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Cremona",
+     "lat": 45.1335,
+     "lon": 10.0245
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "One of the regional schools established by Lothar I's Capitulary of Olona (825) at Cremona. Later evidence of its teaching is sparse.",
+   "notes": "Existence attested mainly by the capitulary; end conventional."
+  },
+  {
+   "id": "c-florence",
+   "name": "Cathedral School of Florence",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Florence",
+     "lat": 43.7731,
+     "lon": 11.256
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "One of the regional schools established by Lothar I's Capitulary of Olona (825) at Florence. Later evidence of its teaching is sparse.",
+   "notes": "Existence attested mainly by the capitulary; end conventional."
+  },
+  {
+   "id": "c-verona",
+   "name": "Cathedral School of Verona",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Verona",
+     "lat": 45.4467,
+     "lon": 10.9972
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "One of the regional schools established by Lothar I's Capitulary of Olona (825) at Verona. Later evidence of its teaching is sparse.",
+   "notes": "Existence attested mainly by the capitulary; end conventional."
+  },
+  {
+   "id": "c-vicenza",
+   "name": "Cathedral School of Vicenza",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Vicenza",
+     "lat": 45.547,
+     "lon": 11.5463
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "One of the regional schools established by Lothar I's Capitulary of Olona (825) at Vicenza. Later evidence of its teaching is sparse.",
+   "notes": "Existence attested mainly by the capitulary; end conventional."
+  },
+  {
+   "id": "c-cividale",
+   "name": "Cathedral School of Cividale",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Cividale del Friuli",
+     "lat": 46.0936,
+     "lon": 13.4317
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "One of the regional schools established by Lothar I's Capitulary of Olona (825) at Cividale. Later evidence of its teaching is sparse.",
+   "notes": "Existence attested mainly by the capitulary; end conventional."
+  },
+  {
+   "id": "c-fermo",
+   "name": "Cathedral School of Fermo",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 825,
+     "city": "Fermo",
+     "lat": 43.16,
+     "lon": 13.7181
+    }
+   ],
+   "modern_country": "Italy",
+   "start": 825,
+   "start_approx": false,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "One of the regional schools established by Lothar I's Capitulary of Olona (825) at Fermo. Later evidence of its teaching is sparse.",
+   "notes": "Existence attested mainly by the capitulary; end conventional."
+  },
+  {
+   "id": "c-vic",
+   "name": "Cathedral School of Vic",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 967,
+     "city": "Vic",
+     "lat": 41.9301,
+     "lon": 2.2549
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 967,
+   "start_approx": true,
+   "end": 1100,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Catalan cathedral school where Gerbert of Aurillac studied mathematics (967-970) under Bishop Atto. Catalonia transmitted Arabic mathematical learning to Latin Europe.",
+   "notes": ""
+  },
+  {
+   "id": "c-ripoll",
+   "name": "Abbey School of Ripoll",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 879,
+     "city": "Ripoll",
+     "lat": 42.201,
+     "lon": 2.1903
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 879,
+   "start_approx": false,
+   "end": 1150,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Catalan abbey founded by Wilfred the Hairy whose library held early Latin works on the astrolabe and Arabic science. Oliba made it a major centre in the 11th century.",
+   "notes": ""
+  },
+  {
+   "id": "c-toledo",
+   "name": "Cathedral School of Toledo",
+   "alt": [
+    "Toledo School of Translators"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1130,
+     "city": "Toledo",
+     "lat": 39.857,
+     "lon": -4.0237
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1130,
+   "start_approx": true,
+   "end": 1250,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Translation centre around the cathedral of Toledo under Archbishop Raymond, where Gerard of Cremona and Dominicus Gundissalinus rendered Arabic science and philosophy into Latin.",
+   "notes": "The 'school' was a milieu of translators, not a formal institution."
+  },
+  {
+   "id": "c-santiago",
+   "name": "Cathedral School of Santiago de Compostela",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1100,
+     "city": "Santiago de Compostela",
+     "lat": 42.8806,
+     "lon": -8.5446
+    }
+   ],
+   "modern_country": "Spain",
+   "start": 1100,
+   "start_approx": true,
+   "end": 1250,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school organized by Archbishop Diego Gelmírez, who sent clerics to study in France.",
+   "notes": ""
+  },
+  {
+   "id": "c-skalholt",
+   "name": "Cathedral School of Skálholt",
+   "alt": [
+    "Skálholtsskóli"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1056,
+     "city": "Skálholt",
+     "lat": 64.1264,
+     "lon": -20.5249
+    }
+   ],
+   "modern_country": "Iceland",
+   "start": 1056,
+   "start_approx": false,
+   "end": 1785,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "School at the first Icelandic see, founded by Bishop Ísleifur Gissurarson, which trained Iceland's clergy and scholars for seven centuries. After the 1784 earthquakes it was moved to Reykjavík.",
+   "notes": "Continued as the Latin school of Reykjavík (secondary level, out of scope)."
+  },
+  {
+   "id": "c-holar",
+   "name": "Cathedral School of Hólar",
+   "alt": [
+    "Hólaskóli"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1106,
+     "city": "Hólar",
+     "lat": 65.7339,
+     "lon": -19.1131
+    }
+   ],
+   "modern_country": "Iceland",
+   "start": 1106,
+   "start_approx": false,
+   "end": 1802,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "School at the northern Icelandic see founded by Jón Ögmundsson, who brought foreign masters to teach Latin and singing.",
+   "notes": ""
+  },
+  {
+   "id": "c-lund",
+   "name": "Cathedral School of Lund",
+   "alt": [
+    "Katedralskolan"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1085,
+     "city": "Lund",
+     "lat": 55.7047,
+     "lon": 13.191
+    }
+   ],
+   "modern_country": "Sweden",
+   "start": 1085,
+   "start_approx": false,
+   "end": 1536,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "School of the cathedral of Lund, archbishopric of all Scandinavia from 1103/04. It trained the Danish-Scanian clergy.",
+   "notes": "Continued as a Lutheran Latin school (out of scope)."
+  },
+  {
+   "id": "c-roskilde",
+   "name": "Cathedral School of Roskilde",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1020,
+     "city": "Roskilde",
+     "lat": 55.6419,
+     "lon": 12.0878
+    }
+   ],
+   "modern_country": "Denmark",
+   "start": 1020,
+   "start_approx": true,
+   "end": 1536,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Danish cathedral school established in the early 11th century.",
+   "notes": "Continued as a Latin school after 1536."
+  },
+  {
+   "id": "c-ribe",
+   "name": "Cathedral School of Ribe",
+   "alt": [
+    "Ribe Katedralskole"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1145,
+     "city": "Ribe",
+     "lat": 55.328,
+     "lon": 8.761
+    }
+   ],
+   "modern_country": "Denmark",
+   "start": 1145,
+   "start_approx": true,
+   "end": 1536,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school of Ribe, the oldest school in Denmark.",
+   "notes": "Still exists as a gymnasium."
+  },
+  {
+   "id": "c-nidaros",
+   "name": "Cathedral School of Nidaros",
+   "alt": [
+    "Trondheim Katedralskole"
+   ],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1152,
+     "city": "Trondheim",
+     "lat": 63.4269,
+     "lon": 10.3969
+    }
+   ],
+   "modern_country": "Norway",
+   "start": 1152,
+   "start_approx": true,
+   "end": 1537,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school founded with the archdiocese of Nidaros by Cardinal Nicholas Breakspear.",
+   "notes": "Continued as a Latin school after the Reformation."
+  },
+  {
+   "id": "c-esztergom",
+   "name": "Cathedral School of Esztergom",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1000,
+     "city": "Esztergom",
+     "lat": 47.797,
+     "lon": 18.7369
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1000,
+   "start_approx": true,
+   "end": 1300,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "School of the Hungarian primatial see founded by King Stephen I.",
+   "notes": ""
+  },
+  {
+   "id": "c-veszprem",
+   "name": "Cathedral School of Veszprém",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1200,
+     "city": "Veszprém",
+     "lat": 47.093,
+     "lon": 17.9093
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 1200,
+   "start_approx": true,
+   "end": 1276,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "Cathedral school teaching liberal arts and canon law, the most advanced in medieval Hungary.",
+   "notes": ""
+  },
+  {
+   "id": "c-pannonhalma",
+   "name": "Abbey School of Pannonhalma",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 996,
+     "city": "Pannonhalma",
+     "lat": 47.5531,
+     "lon": 17.76
+    }
+   ],
+   "modern_country": "Hungary",
+   "start": 996,
+   "start_approx": false,
+   "end": 1300,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Benedictine abbey founded by Prince Géza and Stephen I, the oldest school in Hungary.",
+   "notes": ""
+  },
+  {
+   "id": "c-gniezno",
+   "name": "Cathedral School of Gniezno",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1000,
+     "city": "Gniezno",
+     "lat": 52.5348,
+     "lon": 17.5826
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1000,
+   "start_approx": true,
+   "end": 1300,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "School of the Polish metropolitan see established at the Congress of Gniezno (1000).",
+   "notes": ""
+  },
+  {
+   "id": "c-krakow",
+   "name": "Cathedral School of Kraków",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1100,
+     "city": "Kraków",
+     "lat": 50.0544,
+     "lon": 19.9356
+    }
+   ],
+   "modern_country": "Poland",
+   "start": 1100,
+   "start_approx": true,
+   "end": 1364,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "Wawel cathedral school, attested by a library catalogue of 1110, which trained clergy before the founding of the university.",
+   "notes": ""
+  },
+  {
+   "id": "c-prague",
+   "name": "Cathedral School of Prague",
+   "alt": [],
+   "type": "cathedral",
+   "locations": [
+    {
+     "from": 1000,
+     "city": "Prague",
+     "lat": 50.0909,
+     "lon": 14.4005
+    }
+   ],
+   "modern_country": "Czech Republic",
+   "start": 1000,
+   "start_approx": true,
+   "end": 1348,
+   "end_approx": true,
+   "founding_mode": "ecclesiastical",
+   "summary": "St Vitus cathedral school, where Adalbert taught.",
+   "notes": ""
+  }
+ ],
+ "events": [
+  {
+   "id": "b-magnaura-849-founding",
+   "inst": "b-magnaura",
+   "year": 849,
+   "approx": true,
+   "type": "founding",
+   "title": "Bardas founds the Magnaura school",
+   "desc": "The Caesar Bardas organized salaried chairs of philosophy, geometry, astronomy and grammar in the Magnaura palace hall under Leo the Mathematician.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-magnaura-945-reform",
+   "inst": "b-magnaura",
+   "year": 945,
+   "approx": true,
+   "type": "reform",
+   "title": "Revival under Constantine VII",
+   "desc": "Constantine VII Porphyrogennetos, on beginning his sole rule, appointed state-paid teachers of philosophy, rhetoric, geometry and astronomy and supported their students.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-magnaura-1046-reform",
+   "inst": "b-magnaura",
+   "year": 1046,
+   "approx": true,
+   "type": "reform",
+   "title": "Superseded by Constantine IX's schools",
+   "desc": "Imperial higher teaching was reorganized by Constantine IX Monomachos into new schools of law and philosophy, ending the Magnaura as a distinct institution.",
+   "from_inst": null,
+   "related": [
+    "b-pandidakterion",
+    "b-constantinople-law"
+   ]
+  },
+  {
+   "id": "b-pandidakterion-1046-founding",
+   "inst": "b-pandidakterion",
+   "year": 1046,
+   "approx": true,
+   "type": "founding",
+   "title": "Constantine IX founds the School of Philosophy",
+   "desc": "Constantine IX Monomachos created the office of hypatos ton philosophon (consul of the philosophers), first held by Michael Psellos, to lead state-sponsored philosophical teaching.",
+   "from_inst": null,
+   "related": [
+    "b-magnaura",
+    "b-constantinople-law"
+   ]
+  },
+  {
+   "id": "b-pandidakterion-1082-confessional",
+   "inst": "b-pandidakterion",
+   "year": 1082,
+   "approx": false,
+   "type": "confessional",
+   "title": "Condemnation of John Italos",
+   "desc": "The consul of philosophers John Italos was tried and anathematized for Neoplatonic teachings under Alexios I, curbing independent philosophical teaching in the capital.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-pandidakterion-1204-destruction",
+   "inst": "b-pandidakterion",
+   "year": 1204,
+   "approx": false,
+   "type": "destruction",
+   "title": "Sack of Constantinople by the Fourth Crusade",
+   "desc": "The Latin conquest of April 1204 scattered the capital's teachers and libraries; higher learning continued in exile at Nicaea.",
+   "from_inst": null,
+   "related": [
+    "b-nicaea",
+    "b-patriarchal-academy",
+    "b-constantinople-law"
+   ]
+  },
+  {
+   "id": "b-pandidakterion-1261-refoundation",
+   "inst": "b-pandidakterion",
+   "year": 1261,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Restoration under Michael VIII",
+   "desc": "After the recovery of Constantinople, Michael VIII Palaiologos had George Akropolites teach philosophy and mathematics at state expense in the capital.",
+   "from_inst": null,
+   "related": [
+    "b-nicaea"
+   ]
+  },
+  {
+   "id": "b-pandidakterion-1453-destruction",
+   "inst": "b-pandidakterion",
+   "year": 1453,
+   "approx": false,
+   "type": "destruction",
+   "title": "Ottoman conquest of Constantinople",
+   "desc": "The fall of the city on 29 May 1453 ended Byzantine imperial higher teaching; many scholars fled to Italy.",
+   "from_inst": null,
+   "related": [
+    "b-chora",
+    "b-patriarchal-academy"
+   ]
+  },
+  {
+   "id": "b-constantinople-law-1047-founding",
+   "inst": "b-constantinople-law",
+   "year": 1047,
+   "approx": true,
+   "type": "founding",
+   "title": "Novella founding the law school",
+   "desc": "Constantine IX's novel established a salaried nomophylax (John Xiphilinos) to teach law, requiring advocates and notaries to obtain his certificate.",
+   "from_inst": null,
+   "related": [
+    "b-pandidakterion"
+   ]
+  },
+  {
+   "id": "b-constantinople-law-1204-destruction",
+   "inst": "b-constantinople-law",
+   "year": 1204,
+   "approx": true,
+   "type": "destruction",
+   "title": "Fourth Crusade",
+   "desc": "The sack of Constantinople ended whatever survived of the formal law school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-patriarchal-academy-1107-founding",
+   "inst": "b-patriarchal-academy",
+   "year": 1107,
+   "approx": true,
+   "type": "founding",
+   "title": "Alexios I organizes the patriarchal teachers",
+   "desc": "An edict of Alexios I Komnenos reorganized the order of patriarchal didaskaloi (teachers of the Gospel, the Apostle and the Psalter) at Hagia Sophia.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-patriarchal-academy-1204-destruction",
+   "inst": "b-patriarchal-academy",
+   "year": 1204,
+   "approx": false,
+   "type": "destruction",
+   "title": "Fourth Crusade sack",
+   "desc": "The Latin sack of Constantinople and the flight of the patriarch to Nicaea broke up the patriarchal school.",
+   "from_inst": null,
+   "related": [
+    "b-nicaea"
+   ]
+  },
+  {
+   "id": "b-patriarchal-academy-1454-refoundation",
+   "inst": "b-patriarchal-academy",
+   "year": 1454,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Re-establishment by Gennadios Scholarios",
+   "desc": "The first post-conquest patriarch, Gennadios II Scholarios, reopened the school with Matthaios Kamariotis as its master.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-patriarchal-academy-1624-reform",
+   "inst": "b-patriarchal-academy",
+   "year": 1624,
+   "approx": true,
+   "type": "reform",
+   "title": "Aristotelian curriculum of Korydalleus",
+   "desc": "Under Patriarch Cyril Loukaris, Theophilos Korydalleus reorganized teaching around Paduan neo-Aristotelianism, a curriculum that dominated Greek schools for over a century.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-patriarchal-academy-1661-reform",
+   "inst": "b-patriarchal-academy",
+   "year": 1661,
+   "approx": false,
+   "type": "reform",
+   "title": "Endowment by Manolakis Kastorianos",
+   "desc": "The furrier Manolakis of Kastoria endowed the school, restoring its finances and teaching.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-patriarchal-academy-1804-relocation",
+   "inst": "b-patriarchal-academy",
+   "year": 1804,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Xirokrini",
+   "desc": "The school moved to new premises at Xirokrini on the Golden Horn, becoming known as the Patriarchal School of Xirokrini.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-patriarchal-academy-1881-reform",
+   "inst": "b-patriarchal-academy",
+   "year": 1881,
+   "approx": false,
+   "type": "reform",
+   "title": "New building at the Phanar",
+   "desc": "Construction began (1881-83) of the large red-brick building above the Patriarchate, funded by Georgios Zarifis, housing the Great School of the Nation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-nicaea-1204-founding",
+   "inst": "b-nicaea",
+   "year": 1204,
+   "approx": true,
+   "type": "founding",
+   "title": "Learning re-established in exile at Nicaea",
+   "desc": "After the fall of Constantinople, scholars and the patriarchate gathered at the Laskarid court of Nicaea (capital from c. 1208), where court teaching was organized.",
+   "from_inst": null,
+   "related": [
+    "b-pandidakterion",
+    "b-patriarchal-academy"
+   ]
+  },
+  {
+   "id": "b-nicaea-1254-reform",
+   "inst": "b-nicaea",
+   "year": 1254,
+   "approx": true,
+   "type": "reform",
+   "title": "Schools of Theodore II Laskaris",
+   "desc": "Theodore II Laskaris, Blemmydes' pupil, founded schools of grammar and rhetoric at Nicaea, including at the church of St Tryphon.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-chora-1316-founding",
+   "inst": "b-chora",
+   "year": 1316,
+   "approx": true,
+   "type": "founding",
+   "title": "Restoration by Theodore Metochites",
+   "desc": "Theodore Metochites rebuilt and endowed the Chora monastery and its library, where he and Gregoras taught.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-chora-1453-destruction",
+   "inst": "b-chora",
+   "year": 1453,
+   "approx": false,
+   "type": "destruction",
+   "title": "Ottoman conquest",
+   "desc": "The monastery and its library were dispersed at the fall of Constantinople; the church later became a mosque.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-mistra-1409-founding",
+   "inst": "b-mistra",
+   "year": 1409,
+   "approx": true,
+   "type": "founding",
+   "title": "Plethon settles at Mistra",
+   "desc": "Gemistos Plethon, exiled from Constantinople, settled at the Despotate court and began teaching Platonic philosophy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-mistra-1460-destruction",
+   "inst": "b-mistra",
+   "year": 1460,
+   "approx": false,
+   "type": "destruction",
+   "title": "Ottoman conquest of the Morea",
+   "desc": "Mehmed II's conquest of the Despotate of the Morea ended the Mistra circle.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-patmos-1713-founding",
+   "inst": "b-patmos",
+   "year": 1713,
+   "approx": false,
+   "type": "founding",
+   "title": "Makarios Kalogeras founds the school",
+   "desc": "Makarios Kalogeras opened the school beside the Cave of the Apocalypse with patriarchal support.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-athonite-academy-1749-founding",
+   "inst": "b-athonite-academy",
+   "year": 1749,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation at Vatopedi",
+   "desc": "The academy opened in a building near Vatopedi with Neophytos Kafsokalyvitis as first head.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-athonite-academy-1753-reform",
+   "inst": "b-athonite-academy",
+   "year": 1753,
+   "approx": false,
+   "type": "reform",
+   "title": "Directorship of Eugenios Voulgaris",
+   "desc": "Voulgaris introduced Locke, Leibniz, Wolff and Newtonian physics; the school briefly drew around 200 students.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-athonite-academy-1759-confessional",
+   "inst": "b-athonite-academy",
+   "year": 1759,
+   "approx": true,
+   "type": "confessional",
+   "title": "Departure of Voulgaris under conservative pressure",
+   "desc": "Opposition from traditionalist monks forced Voulgaris to resign; the school declined.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-athonite-academy-1821-destruction",
+   "inst": "b-athonite-academy",
+   "year": 1821,
+   "approx": false,
+   "type": "destruction",
+   "title": "Closure at the Greek Revolution",
+   "desc": "The school closed when the War of Independence reached Mount Athos.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-athonite-academy-1845-refoundation",
+   "inst": "b-athonite-academy",
+   "year": 1845,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Revived at Karyes",
+   "desc": "The academy was re-established at Karyes, administrative centre of the Holy Mountain.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-athonite-academy-1845-relocation",
+   "inst": "b-athonite-academy",
+   "year": 1845,
+   "approx": true,
+   "type": "relocation",
+   "title": "Move to Karyes",
+   "desc": "The revived school was seated at Karyes rather than Vatopedi.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ioannina-gioumeios-1676-founding",
+   "inst": "b-ioannina-gioumeios",
+   "year": 1676,
+   "approx": true,
+   "type": "founding",
+   "title": "Endowment by Emmanuel Gioumas",
+   "desc": "The merchant Gioumas endowed a higher Greek school in Ioannina.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ioannina-maroutsaia-1742-founding",
+   "inst": "b-ioannina-maroutsaia",
+   "year": 1742,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation by the Maroutsis family",
+   "desc": "The school opened with Eugenios Voulgaris as its first master.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ioannina-maroutsaia-1797-merger",
+   "inst": "b-ioannina-maroutsaia",
+   "year": 1797,
+   "approx": false,
+   "type": "merger",
+   "title": "Succeeded by the Kaplaneios School",
+   "desc": "Financial difficulties closed the Maroutsaia; it was continued in the newly endowed Kaplaneios School.",
+   "from_inst": null,
+   "related": [
+    "b-ioannina-kaplaneios"
+   ]
+  },
+  {
+   "id": "b-ioannina-kaplaneios-1797-founding",
+   "inst": "b-ioannina-kaplaneios",
+   "year": 1797,
+   "approx": false,
+   "type": "founding",
+   "title": "Endowment by the Kaplanis brothers",
+   "desc": "The Kaplaneios opened under Athanasios Psalidas, continuing the Maroutsaia.",
+   "from_inst": null,
+   "related": [
+    "b-ioannina-maroutsaia"
+   ]
+  },
+  {
+   "id": "b-ioannina-kaplaneios-1820-destruction",
+   "inst": "b-ioannina-kaplaneios",
+   "year": 1820,
+   "approx": false,
+   "type": "destruction",
+   "title": "Siege of Ioannina",
+   "desc": "The school was destroyed when Ottoman forces besieged Ali Pasha in Ioannina (1820-22).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-smyrna-evangelical-1733-founding",
+   "inst": "b-smyrna-evangelical",
+   "year": 1733,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation of the school",
+   "desc": "The Orthodox community of Smyrna founded the school, with its first teacher Ierotheos Dendrinos.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-smyrna-evangelical-1747-charter",
+   "inst": "b-smyrna-evangelical",
+   "year": 1747,
+   "approx": false,
+   "type": "charter",
+   "title": "British protection",
+   "desc": "The school was placed under the protection of the British consulate, shielding it from Ottoman and ecclesiastical interference.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-chios-1788-founding",
+   "inst": "b-chios",
+   "year": 1788,
+   "approx": true,
+   "type": "founding",
+   "title": "Athanasios Parios heads the school",
+   "desc": "The community school of Chios was established as a higher school under Athanasios Parios.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-chios-1815-reform",
+   "inst": "b-chios",
+   "year": 1815,
+   "approx": false,
+   "type": "reform",
+   "title": "Reorganization by Neophytos Vamvas",
+   "desc": "Vamvas, a student of the Paris Enlightenment and friend of Korais, introduced sciences, a laboratory and a press.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-chios-1822-destruction",
+   "inst": "b-chios",
+   "year": 1822,
+   "approx": false,
+   "type": "destruction",
+   "title": "Massacre of Chios",
+   "desc": "Ottoman reprisals for the Chian uprising destroyed the school and killed or enslaved much of the population.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kydonies-1800-founding",
+   "inst": "b-kydonies",
+   "year": 1800,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation of the academy",
+   "desc": "The community of Kydonies founded the academy, soon directed by Benjamin of Lesbos.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-kydonies-1821-destruction",
+   "inst": "b-kydonies",
+   "year": 1821,
+   "approx": false,
+   "type": "destruction",
+   "title": "Burning of Kydonies",
+   "desc": "The town and academy were destroyed by Ottoman forces in June 1821 at the start of the Greek Revolution.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ionian-academy-1824-founding",
+   "inst": "b-ionian-academy",
+   "year": 1824,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the Academy",
+   "desc": "The Ionian Academy opened in Corfu with Frederick North, 5th Earl of Guilford, as chancellor.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ionian-academy-1827-reform",
+   "inst": "b-ionian-academy",
+   "year": 1827,
+   "approx": false,
+   "type": "reform",
+   "title": "Guilford's death and decline",
+   "desc": "After Guilford's death his library and endowment were withdrawn and the Academy was reduced in scope.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-ionian-academy-1864-suppression",
+   "inst": "b-ionian-academy",
+   "year": 1864,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished after union with Greece",
+   "desc": "On the cession of the Ionian Islands to Greece the Academy was closed, the University of Athens becoming the national university.",
+   "from_inst": null,
+   "related": [
+    "u-athens"
+   ]
+  },
+  {
+   "id": "u-athens-1837-founding",
+   "inst": "u-athens",
+   "year": 1837,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation of the Othonian University",
+   "desc": "Founded by royal decree and opened on 3 May 1837 in the house of the architect Kleanthis in Plaka with four faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-athens-1841-relocation",
+   "inst": "u-athens",
+   "year": 1841,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Hansen's building",
+   "desc": "The university moved to the new neoclassical building by Christian Hansen on Panepistimiou Street.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-athens-1862-reform",
+   "inst": "u-athens",
+   "year": 1862,
+   "approx": false,
+   "type": "reform",
+   "title": "Renamed National University",
+   "desc": "After the overthrow of King Otto the Othonian University was renamed the National University.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-athens-1890-access",
+   "inst": "u-athens",
+   "year": 1890,
+   "approx": false,
+   "type": "access",
+   "title": "Admission of women",
+   "desc": "Ioanna Stefanopoli became the first woman admitted to study at the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-athens-polytechnic-1837-founding",
+   "inst": "t-athens-polytechnic",
+   "year": 1837,
+   "approx": false,
+   "type": "founding",
+   "title": "Royal School of Arts opens",
+   "desc": "The school opened as a Sunday school teaching architectural drawing and building crafts.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-athens-polytechnic-1887-reform",
+   "inst": "t-athens-polytechnic",
+   "year": 1887,
+   "approx": true,
+   "type": "reform",
+   "title": "Higher technical school",
+   "desc": "Reorganized as a higher school of industrial arts training civil and mechanical engineers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-halki-1844-founding",
+   "inst": "b-halki",
+   "year": 1844,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation by Germanos IV",
+   "desc": "Patriarch Germanos IV opened the theological school in October 1844.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-rizarios-1844-founding",
+   "inst": "b-rizarios",
+   "year": 1844,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the Rizarios school",
+   "desc": "The school opened with the Rizaris brothers' endowment.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-belgrade-velika-skola-1808-founding",
+   "inst": "b-belgrade-velika-skola",
+   "year": 1808,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the Velika škola",
+   "desc": "The school opened in Belgrade on 13 September 1808 under the insurgent government of Karađorđe.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-belgrade-velika-skola-1813-destruction",
+   "inst": "b-belgrade-velika-skola",
+   "year": 1813,
+   "approx": false,
+   "type": "destruction",
+   "title": "Collapse of the First Serbian Uprising",
+   "desc": "The Ottoman reconquest of Belgrade ended the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-belgrade-1838-founding",
+   "inst": "u-belgrade",
+   "year": 1838,
+   "approx": false,
+   "type": "founding",
+   "title": "Lyceum founded in Kragujevac",
+   "desc": "Prince Miloš Obrenović's government founded the Lyceum with a philosophy course.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-belgrade-1841-relocation",
+   "inst": "u-belgrade",
+   "year": 1841,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Belgrade",
+   "desc": "The Lyceum moved with the capital to Belgrade.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-belgrade-1863-reform",
+   "inst": "u-belgrade",
+   "year": 1863,
+   "approx": false,
+   "type": "reform",
+   "title": "Reorganized as the Velika škola",
+   "desc": "The Lyceum was reorganized as the Higher School with faculties of philosophy, law and engineering.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-sofia-1888-founding",
+   "inst": "u-sofia",
+   "year": 1888,
+   "approx": false,
+   "type": "founding",
+   "title": "Higher Pedagogical Course opens",
+   "desc": "Opened on 1 October 1888 with a history-philology course; Aleksandar Teodorov-Balan was first rector.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-sofia-1892-reform",
+   "inst": "u-sofia",
+   "year": 1892,
+   "approx": true,
+   "type": "reform",
+   "title": "Faculty of law added",
+   "desc": "Physics-mathematics (1889) and law faculties were added, completing the Higher School.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-robert-college-1863-founding",
+   "inst": "a-robert-college",
+   "year": 1863,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening in Bebek",
+   "desc": "Hamlin opened the college in the buildings of the Bebek seminary.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-robert-college-1871-relocation",
+   "inst": "a-robert-college",
+   "year": 1871,
+   "approx": false,
+   "type": "relocation",
+   "title": "Move to Rumeli Hisarı",
+   "desc": "The college moved to its new campus above the Bosporus.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-beirut-1866-founding",
+   "inst": "a-beirut",
+   "year": 1866,
+   "approx": false,
+   "type": "founding",
+   "title": "Opening of the college",
+   "desc": "The college opened in December 1866 with Daniel Bliss as president.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-beirut-1882-reform",
+   "inst": "a-beirut",
+   "year": 1882,
+   "approx": false,
+   "type": "reform",
+   "title": "Switch to English instruction",
+   "desc": "Following the Darwin affair (Lewis affair), instruction changed from Arabic to English.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-beirut-1875-founding",
+   "inst": "j-beirut",
+   "year": 1875,
+   "approx": false,
+   "type": "founding",
+   "title": "Jesuit college established in Beirut",
+   "desc": "The Jesuits moved their seminary from Ghazir and opened the college in Beirut.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-beirut-1881-charter",
+   "inst": "j-beirut",
+   "year": 1881,
+   "approx": false,
+   "type": "charter",
+   "title": "Pontifical powers",
+   "desc": "Leo XIII granted the right to confer degrees in philosophy and theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-beirut-1883-reform",
+   "inst": "j-beirut",
+   "year": 1883,
+   "approx": false,
+   "type": "reform",
+   "title": "French faculty of medicine",
+   "desc": "A faculty of medicine was founded with French government support.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "b-cairo-coptic-1893-founding",
+   "inst": "b-cairo-coptic",
+   "year": 1893,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation of the college",
+   "desc": "Cyril V opened the clerical college in Cairo.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "p-aachen-782-founding",
+   "inst": "p-aachen",
+   "year": 782,
+   "approx": true,
+   "type": "founding",
+   "title": "Alcuin joins the court",
+   "desc": "Alcuin of York came to Charlemagne's court and took charge of teaching.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "p-aachen-817-reform",
+   "inst": "p-aachen",
+   "year": 817,
+   "approx": true,
+   "type": "reform",
+   "title": "Aachen monastic legislation",
+   "desc": "The Aachen reforms of Louis the Pious and Benedict of Aniane (816-817) restricted monastic schools to oblates, encouraging separate outer schools.",
+   "from_inst": null,
+   "related": [
+    "c-st-gall",
+    "c-fulda",
+    "c-reichenau"
+   ]
+  },
+  {
+   "id": "p-aachen-840-reform",
+   "inst": "p-aachen",
+   "year": 840,
+   "approx": true,
+   "type": "reform",
+   "title": "Division of the court after Louis the Pious",
+   "desc": "With Louis the Pious's death and the partition of the empire, court teaching passed to the successor kingdoms.",
+   "from_inst": null,
+   "related": [
+    "p-compiegne"
+   ]
+  },
+  {
+   "id": "p-compiegne-843-founding",
+   "inst": "p-compiegne",
+   "year": 843,
+   "approx": true,
+   "type": "founding",
+   "title": "Court school of Charles the Bald",
+   "desc": "After Verdun, Charles the Bald maintained scholars at his court.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "p-compiegne-877-reform",
+   "inst": "p-compiegne",
+   "year": 877,
+   "approx": false,
+   "type": "reform",
+   "title": "Death of Charles the Bald",
+   "desc": "The court school declined after Charles's death.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "p-winchester-886-founding",
+   "inst": "p-winchester",
+   "year": 886,
+   "approx": true,
+   "type": "founding",
+   "title": "Alfred gathers scholars",
+   "desc": "Alfred recruited Asser, Grimbald and John the Old Saxon to his court.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "p-winchester-890-reform",
+   "inst": "p-winchester",
+   "year": 890,
+   "approx": true,
+   "type": "reform",
+   "title": "Alfredian translation programme",
+   "desc": "Alfred's preface to the Pastoral Care announced that free-born youths should be taught to read English.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "p-aachen-ottonian-940-founding",
+   "inst": "p-aachen-ottonian",
+   "year": 940,
+   "approx": true,
+   "type": "founding",
+   "title": "Bruno directs court teaching",
+   "desc": "Bruno, Otto I's brother, became head of the royal chapel and court school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-pavia-law-1000-founding",
+   "inst": "m-pavia-law",
+   "year": 1000,
+   "approx": true,
+   "type": "founding",
+   "title": "Law teaching at the Pavian palace court",
+   "desc": "Judges of the palace court began systematic teaching of Lombard law.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-pavia-law-1070-reform",
+   "inst": "m-pavia-law",
+   "year": 1070,
+   "approx": true,
+   "type": "reform",
+   "title": "Expositio ad Librum Papiensem",
+   "desc": "The Pavian jurists composed the Expositio, integrating Roman law.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-ravenna-law-1000-founding",
+   "inst": "m-ravenna-law",
+   "year": 1000,
+   "approx": true,
+   "type": "founding",
+   "title": "Roman law teaching at Ravenna",
+   "desc": "Roman law studies attested in Ravenna.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-tours-796-founding",
+   "inst": "c-tours",
+   "year": 796,
+   "approx": false,
+   "type": "founding",
+   "title": "Alcuin becomes abbot of St Martin",
+   "desc": "Charlemagne made Alcuin abbot of St Martin's, where he organized the school and scriptorium until his death in 804.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-tours-853-destruction",
+   "inst": "c-tours",
+   "year": 853,
+   "approx": false,
+   "type": "destruction",
+   "title": "Viking sack of Tours",
+   "desc": "Viking raiders burned Tours and the abbey of St Martin in November 853.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-tours-1050-confessional",
+   "inst": "c-tours",
+   "year": 1050,
+   "approx": false,
+   "type": "confessional",
+   "title": "Condemnation of Berengar",
+   "desc": "Berengar of Tours' symbolic Eucharistic teaching was condemned at the councils of Rome and Vercelli; Lanfranc of Bec led the attack on it.",
+   "from_inst": null,
+   "related": [
+    "c-bec"
+   ]
+  },
+  {
+   "id": "c-fulda-744-founding",
+   "inst": "c-fulda",
+   "year": 744,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation of Fulda abbey",
+   "desc": "Sturm founded the abbey of Fulda on 12 March 744 under Boniface's direction; a school is attested soon after.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-fulda-822-reform",
+   "inst": "c-fulda",
+   "year": 822,
+   "approx": false,
+   "type": "reform",
+   "title": "Hrabanus Maurus becomes abbot",
+   "desc": "Hrabanus Maurus, Alcuin's pupil and Fulda's master, was elected abbot and greatly expanded the library and school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-fulda-829-confessional",
+   "inst": "c-fulda",
+   "year": 829,
+   "approx": false,
+   "type": "confessional",
+   "title": "Gottschalk released from his oblation",
+   "desc": "The Synod of Mainz freed Gottschalk from his monastic vows at Fulda against Hrabanus' wishes, beginning the predestination controversy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-reichenau-724-founding",
+   "inst": "c-reichenau",
+   "year": 724,
+   "approx": false,
+   "type": "founding",
+   "title": "Pirmin founds Reichenau",
+   "desc": "The missionary bishop Pirmin founded the abbey on Reichenau island in 724.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-reichenau-838-reform",
+   "inst": "c-reichenau",
+   "year": 838,
+   "approx": false,
+   "type": "reform",
+   "title": "Walafrid Strabo becomes abbot",
+   "desc": "Walafrid Strabo, pupil of Hrabanus at Fulda and tutor to Charles the Bald, became abbot of Reichenau.",
+   "from_inst": null,
+   "related": [
+    "c-fulda"
+   ]
+  },
+  {
+   "id": "c-st-gall-719-founding",
+   "inst": "c-st-gall",
+   "year": 719,
+   "approx": false,
+   "type": "founding",
+   "title": "Otmar founds the abbey",
+   "desc": "Otmar organized a Benedictine monastery at the hermitage of St Gallus in 719.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-st-gall-926-destruction",
+   "inst": "c-st-gall",
+   "year": 926,
+   "approx": false,
+   "type": "destruction",
+   "title": "Hungarian raid",
+   "desc": "Magyar raiders plundered St Gall; the library had been evacuated to Reichenau.",
+   "from_inst": null,
+   "related": [
+    "c-reichenau"
+   ]
+  },
+  {
+   "id": "c-st-gall-937-destruction",
+   "inst": "c-st-gall",
+   "year": 937,
+   "approx": false,
+   "type": "destruction",
+   "title": "Fire at St Gall",
+   "desc": "A fire started by a pupil destroyed much of the abbey.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-corbie-657-founding",
+   "inst": "c-corbie",
+   "year": 657,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation of Corbie",
+   "desc": "Queen Balthild founded the abbey c. 657-661.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-corbie-822-reform",
+   "inst": "c-corbie",
+   "year": 822,
+   "approx": false,
+   "type": "reform",
+   "title": "Foundation of Corvey",
+   "desc": "Monks from Corbie founded the daughter house of Corvey in Saxony.",
+   "from_inst": null,
+   "related": [
+    "c-corvey"
+   ]
+  },
+  {
+   "id": "c-corvey-822-founding",
+   "inst": "c-corvey",
+   "year": 822,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation of Corvey",
+   "desc": "Monks of Corbie founded Corvey on the Weser (refounded at its final site in 822).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-ferrieres-840-founding",
+   "inst": "c-ferrieres",
+   "year": 840,
+   "approx": false,
+   "type": "founding",
+   "title": "Lupus becomes abbot",
+   "desc": "Charles the Bald made Lupus abbot of Ferrières in 840.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-auxerre-840-founding",
+   "inst": "c-auxerre",
+   "year": 840,
+   "approx": true,
+   "type": "founding",
+   "title": "Haimo teaching at Saint-Germain",
+   "desc": "Haimo of Auxerre was teaching at Saint-Germain by c. 840.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-lyon-798-founding",
+   "inst": "c-lyon",
+   "year": 798,
+   "approx": true,
+   "type": "founding",
+   "title": "Leidrad restores the school",
+   "desc": "Archbishop Leidrad reported to Charlemagne that he had founded schools of chant and of reading at Lyon.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-orleans-798-founding",
+   "inst": "c-orleans",
+   "year": 798,
+   "approx": true,
+   "type": "founding",
+   "title": "Theodulf's capitulary",
+   "desc": "Bishop Theodulf of Orléans ordered schools in his diocese and taught at the cathedral.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-orleans-1230-merger",
+   "inst": "c-orleans",
+   "year": 1230,
+   "approx": true,
+   "type": "merger",
+   "title": "Succession by the law studium",
+   "desc": "The schools developed into the studium of Orléans, recognized as a university in 1306.",
+   "from_inst": null,
+   "related": [
+    "u-orleans"
+   ]
+  },
+  {
+   "id": "c-reims-893-founding",
+   "inst": "c-reims",
+   "year": 893,
+   "approx": true,
+   "type": "founding",
+   "title": "Fulk restores the school",
+   "desc": "Archbishop Fulk summoned Remigius of Auxerre and Hucbald of Saint-Amand to restore the cathedral school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-reims-972-reform",
+   "inst": "c-reims",
+   "year": 972,
+   "approx": true,
+   "type": "reform",
+   "title": "Gerbert becomes scholasticus",
+   "desc": "Gerbert introduced a full quadrivium using the abacus and armillary spheres.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-fleury-930-founding",
+   "inst": "c-fleury",
+   "year": 930,
+   "approx": true,
+   "type": "founding",
+   "title": "Odo of Cluny reforms Fleury",
+   "desc": "Odo of Cluny reformed the abbey c. 930, inaugurating its intellectual revival.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-chartres-990-founding",
+   "inst": "c-chartres",
+   "year": 990,
+   "approx": true,
+   "type": "founding",
+   "title": "Fulbert teaches at Chartres",
+   "desc": "Fulbert, Gerbert's pupil, began teaching at the cathedral school c. 990.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-reims-1079-reform",
+   "inst": "c-reims",
+   "year": 1079,
+   "approx": true,
+   "type": "reform",
+   "title": "Gregory VII on cathedral schools",
+   "desc": "A Roman synod under Gregory VII (1078/1079) ordered bishops to maintain teaching of letters in their churches.",
+   "from_inst": null,
+   "related": [
+    "c-chartres",
+    "c-laon",
+    "c-liege"
+   ]
+  },
+  {
+   "id": "c-chartres-1179-reform",
+   "inst": "c-chartres",
+   "year": 1179,
+   "approx": false,
+   "type": "reform",
+   "title": "Third Lateran Council",
+   "desc": "Canon 18 of Lateran III required every cathedral to maintain a master to teach clerics and poor scholars free of charge.",
+   "from_inst": null,
+   "related": [
+    "c-paris-notre-dame",
+    "c-reims",
+    "c-laon"
+   ]
+  },
+  {
+   "id": "c-chartres-1194-destruction",
+   "inst": "c-chartres",
+   "year": 1194,
+   "approx": false,
+   "type": "destruction",
+   "title": "Fire at Chartres",
+   "desc": "A fire destroyed most of the Romanesque cathedral and town; by then the school was being eclipsed by Paris.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-laon-850-founding",
+   "inst": "c-laon",
+   "year": 850,
+   "approx": true,
+   "type": "founding",
+   "title": "Irish masters at Laon",
+   "desc": "Martin Hiberniensis taught at Laon from c. 850.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-laon-1112-destruction",
+   "inst": "c-laon",
+   "year": 1112,
+   "approx": false,
+   "type": "destruction",
+   "title": "Commune revolt",
+   "desc": "The Laon communal uprising killed Bishop Gaudry and burned the cathedral.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-paris-notre-dame-1100-founding",
+   "inst": "c-paris-notre-dame",
+   "year": 1100,
+   "approx": true,
+   "type": "founding",
+   "title": "William of Champeaux teaches at Notre-Dame",
+   "desc": "William of Champeaux was master of the cathedral school c. 1100.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-paris-notre-dame-1200-merger",
+   "inst": "c-paris-notre-dame",
+   "year": 1200,
+   "approx": true,
+   "type": "merger",
+   "title": "Absorption into the University",
+   "desc": "Its masters formed the core of the universitas recognized by Philip Augustus in 1200.",
+   "from_inst": null,
+   "related": [
+    "u-paris"
+   ]
+  },
+  {
+   "id": "c-paris-st-victor-1108-founding",
+   "inst": "c-paris-st-victor",
+   "year": 1108,
+   "approx": false,
+   "type": "founding",
+   "title": "William of Champeaux at St Victor",
+   "desc": "William of Champeaux retired to the hermitage of St Victor and resumed teaching.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-paris-st-victor-1113-charter",
+   "inst": "c-paris-st-victor",
+   "year": 1113,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal endowment",
+   "desc": "Louis VI founded and endowed the abbey of St Victor.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-paris-st-victor-1230-merger",
+   "inst": "c-paris-st-victor",
+   "year": 1230,
+   "approx": true,
+   "type": "merger",
+   "title": "Overtaken by the University",
+   "desc": "Teaching at St Victor declined as the mendicant and secular masters of the University dominated theology.",
+   "from_inst": null,
+   "related": [
+    "u-paris"
+   ]
+  },
+  {
+   "id": "c-paris-ste-genevieve-1110-founding",
+   "inst": "c-paris-ste-genevieve",
+   "year": 1110,
+   "approx": true,
+   "type": "founding",
+   "title": "Abelard teaches on the hill",
+   "desc": "Abelard set up his school on the Mont Sainte-Geneviève c. 1110.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-paris-ste-genevieve-1220-merger",
+   "inst": "c-paris-ste-genevieve",
+   "year": 1220,
+   "approx": true,
+   "type": "merger",
+   "title": "Absorption into the University",
+   "desc": "The arts masters of the Left Bank were absorbed into the University of Paris.",
+   "from_inst": null,
+   "related": [
+    "u-paris"
+   ]
+  },
+  {
+   "id": "c-bec-1045-founding",
+   "inst": "c-bec",
+   "year": 1045,
+   "approx": true,
+   "type": "founding",
+   "title": "Lanfranc opens the school",
+   "desc": "Lanfranc of Pavia opened a school at Bec c. 1045.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-liege-850-founding",
+   "inst": "c-liege",
+   "year": 850,
+   "approx": true,
+   "type": "founding",
+   "title": "Sedulius Scottus at Liège",
+   "desc": "Sedulius Scottus arrived at Liège c. 848-850.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-liege-972-reform",
+   "inst": "c-liege",
+   "year": 972,
+   "approx": false,
+   "type": "reform",
+   "title": "Notger becomes bishop",
+   "desc": "Bishop Notger reorganized the cathedral and its schools.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-utrecht-750-founding",
+   "inst": "c-utrecht",
+   "year": 750,
+   "approx": true,
+   "type": "founding",
+   "title": "School of Gregory of Utrecht",
+   "desc": "Gregory, Boniface's disciple, ran a school for missionaries at Utrecht.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-utrecht-857-destruction",
+   "inst": "c-utrecht",
+   "year": 857,
+   "approx": false,
+   "type": "destruction",
+   "title": "Viking attack",
+   "desc": "Vikings sacked Utrecht; the bishops withdrew until 918-925.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-cologne-953-founding",
+   "inst": "c-cologne",
+   "year": 953,
+   "approx": false,
+   "type": "founding",
+   "title": "Bruno becomes archbishop",
+   "desc": "Bruno became archbishop of Cologne and made its school a nursery of the imperial episcopate.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-hildesheim-970-founding",
+   "inst": "c-hildesheim",
+   "year": 970,
+   "approx": true,
+   "type": "founding",
+   "title": "Thangmar teaching",
+   "desc": "Thangmar taught at the cathedral school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-magdeburg-968-founding",
+   "inst": "c-magdeburg",
+   "year": 968,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation with the archdiocese",
+   "desc": "Otto I's foundation of the archdiocese in 968 included a cathedral school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-wurzburg-1000-founding",
+   "inst": "c-wurzburg",
+   "year": 1000,
+   "approx": true,
+   "type": "founding",
+   "title": "School attested",
+   "desc": "A cathedral school at Würzburg is attested around 1000.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-bamberg-1007-founding",
+   "inst": "c-bamberg",
+   "year": 1007,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation with the diocese",
+   "desc": "Henry II founded the diocese of Bamberg in 1007.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-canterbury-669-founding",
+   "inst": "c-canterbury",
+   "year": 669,
+   "approx": true,
+   "type": "founding",
+   "title": "Theodore and Hadrian's school",
+   "desc": "Theodore of Tarsus and Hadrian opened the school after arriving in 669-670.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-canterbury-1011-destruction",
+   "inst": "c-canterbury",
+   "year": 1011,
+   "approx": false,
+   "type": "destruction",
+   "title": "Danish sack of Canterbury",
+   "desc": "Danes sacked Canterbury and captured Archbishop Ælfheah.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-york-735-founding",
+   "inst": "c-york",
+   "year": 735,
+   "approx": true,
+   "type": "founding",
+   "title": "Egbert's school",
+   "desc": "Archbishop Egbert organized the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-york-866-destruction",
+   "inst": "c-york",
+   "year": 866,
+   "approx": false,
+   "type": "destruction",
+   "title": "Viking capture of York",
+   "desc": "The Great Heathen Army captured York, dispersing the school and library.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-winchester-963-founding",
+   "inst": "c-winchester",
+   "year": 963,
+   "approx": false,
+   "type": "founding",
+   "title": "Æthelwold becomes bishop",
+   "desc": "Æthelwold became bishop and replaced the canons with monks.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-ramsey-969-founding",
+   "inst": "c-ramsey",
+   "year": 969,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation of Ramsey",
+   "desc": "Oswald and Ealdorman Æthelwine founded Ramsey abbey.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-iona-563-founding",
+   "inst": "c-iona",
+   "year": 563,
+   "approx": false,
+   "type": "founding",
+   "title": "Columba founds Iona",
+   "desc": "Columba founded the monastery on Iona.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-iona-806-destruction",
+   "inst": "c-iona",
+   "year": 806,
+   "approx": false,
+   "type": "destruction",
+   "title": "Viking massacre",
+   "desc": "Vikings killed sixty-eight monks; the community moved to Kells.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-armagh-650-founding",
+   "inst": "c-armagh",
+   "year": 650,
+   "approx": true,
+   "type": "founding",
+   "title": "School of Armagh",
+   "desc": "The church of Armagh had an organized school by the 7th century.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-armagh-832-destruction",
+   "inst": "c-armagh",
+   "year": 832,
+   "approx": false,
+   "type": "destruction",
+   "title": "Viking raids",
+   "desc": "Vikings raided Armagh three times in one month.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-armagh-1169-charter",
+   "inst": "c-armagh",
+   "year": 1169,
+   "approx": false,
+   "type": "charter",
+   "title": "High-king's lectorship",
+   "desc": "Rory O'Connor endowed the lector of Armagh to teach students from Ireland and Scotland.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-clonmacnoise-544-founding",
+   "inst": "c-clonmacnoise",
+   "year": 544,
+   "approx": true,
+   "type": "founding",
+   "title": "Ciarán founds Clonmacnoise",
+   "desc": "St Ciarán founded the monastery.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-clonmacnoise-845-destruction",
+   "inst": "c-clonmacnoise",
+   "year": 845,
+   "approx": true,
+   "type": "destruction",
+   "title": "Viking raids",
+   "desc": "Vikings under Turgesius sacked Clonmacnoise.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-monte-cassino-529-founding",
+   "inst": "c-monte-cassino",
+   "year": 529,
+   "approx": true,
+   "type": "founding",
+   "title": "Benedict founds Monte Cassino",
+   "desc": "Benedict founded the monastery c. 529.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-monte-cassino-883-destruction",
+   "inst": "c-monte-cassino",
+   "year": 883,
+   "approx": false,
+   "type": "destruction",
+   "title": "Saracen destruction",
+   "desc": "Saracens destroyed the abbey; it was restored in 949.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-bobbio-614-founding",
+   "inst": "c-bobbio",
+   "year": 614,
+   "approx": false,
+   "type": "founding",
+   "title": "Columbanus founds Bobbio",
+   "desc": "Columbanus founded Bobbio.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-pavia-825-founding",
+   "inst": "c-pavia",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I's capitulary created schools at Pavia, Ivrea, Turin, Cremona, Florence, Fermo, Verona, Vicenza and Cividale.",
+   "from_inst": null,
+   "related": [
+    "c-ivrea",
+    "c-turin",
+    "c-cremona",
+    "c-florence",
+    "c-verona",
+    "c-vicenza",
+    "c-cividale",
+    "c-fermo"
+   ]
+  },
+  {
+   "id": "c-ivrea-825-founding",
+   "inst": "c-ivrea",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I named Ivrea as a seat for one of the schools of Italy.",
+   "from_inst": null,
+   "related": [
+    "c-pavia"
+   ]
+  },
+  {
+   "id": "c-turin-825-founding",
+   "inst": "c-turin",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I named Turin as a seat for one of the schools of Italy.",
+   "from_inst": null,
+   "related": [
+    "c-pavia"
+   ]
+  },
+  {
+   "id": "c-cremona-825-founding",
+   "inst": "c-cremona",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I named Cremona as a seat for one of the schools of Italy.",
+   "from_inst": null,
+   "related": [
+    "c-pavia"
+   ]
+  },
+  {
+   "id": "c-florence-825-founding",
+   "inst": "c-florence",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I named Florence as a seat for one of the schools of Italy.",
+   "from_inst": null,
+   "related": [
+    "c-pavia"
+   ]
+  },
+  {
+   "id": "c-verona-825-founding",
+   "inst": "c-verona",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I named Verona as a seat for one of the schools of Italy.",
+   "from_inst": null,
+   "related": [
+    "c-pavia"
+   ]
+  },
+  {
+   "id": "c-vicenza-825-founding",
+   "inst": "c-vicenza",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I named Vicenza as a seat for one of the schools of Italy.",
+   "from_inst": null,
+   "related": [
+    "c-pavia"
+   ]
+  },
+  {
+   "id": "c-cividale-825-founding",
+   "inst": "c-cividale",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I named Cividale as a seat for one of the schools of Italy.",
+   "from_inst": null,
+   "related": [
+    "c-pavia"
+   ]
+  },
+  {
+   "id": "c-fermo-825-founding",
+   "inst": "c-fermo",
+   "year": 825,
+   "approx": false,
+   "type": "founding",
+   "title": "Capitulary of Olona",
+   "desc": "Lothar I named Fermo as a seat for one of the schools of Italy.",
+   "from_inst": null,
+   "related": [
+    "c-pavia"
+   ]
+  },
+  {
+   "id": "c-vic-967-founding",
+   "inst": "c-vic",
+   "year": 967,
+   "approx": true,
+   "type": "founding",
+   "title": "Gerbert studies at Vic",
+   "desc": "Gerbert was brought to Catalonia by Count Borrell and studied under Atto of Vic.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-ripoll-879-founding",
+   "inst": "c-ripoll",
+   "year": 879,
+   "approx": false,
+   "type": "founding",
+   "title": "Wilfred founds Ripoll",
+   "desc": "Count Wilfred the Hairy founded Santa Maria de Ripoll.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-toledo-1130-founding",
+   "inst": "c-toledo",
+   "year": 1130,
+   "approx": true,
+   "type": "founding",
+   "title": "Archbishop Raymond sponsors translations",
+   "desc": "Archbishop Raymond (1125-1152) patronized translators.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-santiago-1100-founding",
+   "inst": "c-santiago",
+   "year": 1100,
+   "approx": true,
+   "type": "founding",
+   "title": "Gelmírez organizes the school",
+   "desc": "Bishop Diego Gelmírez organized masters of grammar and liberal arts.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-skalholt-1056-founding",
+   "inst": "c-skalholt",
+   "year": 1056,
+   "approx": false,
+   "type": "founding",
+   "title": "Ísleifur's school",
+   "desc": "Ísleifur Gissurarson, first bishop of Iceland, taught at Skálholt.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-skalholt-1552-confessional",
+   "inst": "c-skalholt",
+   "year": 1552,
+   "approx": true,
+   "type": "confessional",
+   "title": "Lutheran Reformation",
+   "desc": "The Reformation imposed by Denmark turned the school into a Lutheran Latin school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-skalholt-1784-destruction",
+   "inst": "c-skalholt",
+   "year": 1784,
+   "approx": false,
+   "type": "destruction",
+   "title": "South Iceland earthquakes",
+   "desc": "Earthquakes destroyed most of Skálholt's buildings.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-skalholt-1785-suppression",
+   "inst": "c-skalholt",
+   "year": 1785,
+   "approx": false,
+   "type": "suppression",
+   "title": "Transfer to Reykjavík",
+   "desc": "The see and school were transferred to Reykjavík, ending the school at Skálholt.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-holar-1106-founding",
+   "inst": "c-holar",
+   "year": 1106,
+   "approx": false,
+   "type": "founding",
+   "title": "Jón Ögmundsson founds the school",
+   "desc": "Jón Ögmundsson, first bishop of Hólar, founded the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-holar-1551-confessional",
+   "inst": "c-holar",
+   "year": 1551,
+   "approx": false,
+   "type": "confessional",
+   "title": "Lutheran Reformation",
+   "desc": "After Jón Arason's execution in 1550, Hólar passed to Lutheran control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-holar-1802-suppression",
+   "inst": "c-holar",
+   "year": 1802,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closure",
+   "desc": "The school was closed and merged with the Reykjavík school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-lund-1085-founding",
+   "inst": "c-lund",
+   "year": 1085,
+   "approx": false,
+   "type": "founding",
+   "title": "Canute IV's charter",
+   "desc": "Canute IV's gift charter for Lund (1085) mentions a school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-lund-1536-confessional",
+   "inst": "c-lund",
+   "year": 1536,
+   "approx": false,
+   "type": "confessional",
+   "title": "Danish Reformation",
+   "desc": "The Reformation ended the Catholic chapter's control of the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-roskilde-1020-founding",
+   "inst": "c-roskilde",
+   "year": 1020,
+   "approx": true,
+   "type": "founding",
+   "title": "School attested",
+   "desc": "A cathedral school at Roskilde is attested in the early 11th century.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-roskilde-1536-confessional",
+   "inst": "c-roskilde",
+   "year": 1536,
+   "approx": false,
+   "type": "confessional",
+   "title": "Danish Reformation",
+   "desc": "The school passed to Lutheran control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-ribe-1145-founding",
+   "inst": "c-ribe",
+   "year": 1145,
+   "approx": true,
+   "type": "founding",
+   "title": "School attested",
+   "desc": "A cathedral school is attested c. 1145.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-ribe-1536-confessional",
+   "inst": "c-ribe",
+   "year": 1536,
+   "approx": false,
+   "type": "confessional",
+   "title": "Danish Reformation",
+   "desc": "The school passed to Lutheran control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-nidaros-1152-founding",
+   "inst": "c-nidaros",
+   "year": 1152,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation with the archdiocese",
+   "desc": "The archdiocese of Nidaros was established in 1152/53.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-nidaros-1537-confessional",
+   "inst": "c-nidaros",
+   "year": 1537,
+   "approx": false,
+   "type": "confessional",
+   "title": "Norwegian Reformation",
+   "desc": "The school passed to Lutheran control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-esztergom-1000-founding",
+   "inst": "c-esztergom",
+   "year": 1000,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation with the archbishopric",
+   "desc": "Stephen I founded the archbishopric of Esztergom c. 1000.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-esztergom-1241-destruction",
+   "inst": "c-esztergom",
+   "year": 1241,
+   "approx": false,
+   "type": "destruction",
+   "title": "Mongol invasion",
+   "desc": "The Mongols sacked Esztergom.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-veszprem-1200-founding",
+   "inst": "c-veszprem",
+   "year": 1200,
+   "approx": true,
+   "type": "founding",
+   "title": "School attested",
+   "desc": "The school is attested c. 1200.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-veszprem-1276-destruction",
+   "inst": "c-veszprem",
+   "year": 1276,
+   "approx": false,
+   "type": "destruction",
+   "title": "Sack by Péter Csák",
+   "desc": "Péter Csák's troops destroyed the school and library.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-pannonhalma-996-founding",
+   "inst": "c-pannonhalma",
+   "year": 996,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation of the abbey",
+   "desc": "The abbey was founded in 996.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-gniezno-1000-founding",
+   "inst": "c-gniezno",
+   "year": 1000,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation of the archbishopric",
+   "desc": "The archbishopric was established in 1000.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-gniezno-1038-destruction",
+   "inst": "c-gniezno",
+   "year": 1038,
+   "approx": true,
+   "type": "destruction",
+   "title": "Bohemian sack",
+   "desc": "Bretislaus I sacked Gniezno.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-krakow-1100-founding",
+   "inst": "c-krakow",
+   "year": 1100,
+   "approx": true,
+   "type": "founding",
+   "title": "School attested",
+   "desc": "The cathedral school is attested c. 1100.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-krakow-1215-reform",
+   "inst": "c-krakow",
+   "year": 1215,
+   "approx": false,
+   "type": "reform",
+   "title": "Fourth Lateran Council",
+   "desc": "Canon 11 of Lateran IV reaffirmed the requirement of masters.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-prague-1000-founding",
+   "inst": "c-prague",
+   "year": 1000,
+   "approx": true,
+   "type": "founding",
+   "title": "School attested",
+   "desc": "The cathedral school is attested c. 1000.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "c-prague-1348-merger",
+   "inst": "c-prague",
+   "year": 1348,
+   "approx": false,
+   "type": "merger",
+   "title": "Absorption into Charles University",
+   "desc": "Teaching passed to the new university.",
+   "from_inst": null,
+   "related": [
+    "u-prague"
+   ]
+  }
+ ],
+ "thinkers": [
+  {
+   "name": "Leo the Mathematician",
+   "inst": "b-magnaura",
+   "from": 849,
+   "to": 869,
+   "approx": true,
+   "role": "head of school",
+   "note": "Taught philosophy and mathematics."
+  },
+  {
+   "name": "Constantine-Cyril the Philosopher",
+   "inst": "b-magnaura",
+   "from": 843,
+   "to": 851,
+   "approx": true,
+   "role": "studied; taught philosophy",
+   "note": "Studied under Leo and Photios; later apostle to the Slavs."
+  },
+  {
+   "name": "Photios",
+   "inst": "b-magnaura",
+   "from": 850,
+   "to": 858,
+   "approx": true,
+   "role": "taught",
+   "note": "Teaching at the Magnaura is traditional but debated."
+  },
+  {
+   "name": "Michael Psellos",
+   "inst": "b-pandidakterion",
+   "from": 1046,
+   "to": 1054,
+   "approx": true,
+   "role": "consul of the philosophers",
+   "note": ""
+  },
+  {
+   "name": "John Italos",
+   "inst": "b-pandidakterion",
+   "from": 1055,
+   "to": 1082,
+   "approx": true,
+   "role": "consul of the philosophers",
+   "note": "Condemned 1082."
+  },
+  {
+   "name": "George Akropolites",
+   "inst": "b-pandidakterion",
+   "from": 1261,
+   "to": 1273,
+   "approx": true,
+   "role": "taught philosophy and mathematics",
+   "note": ""
+  },
+  {
+   "name": "George Pachymeres",
+   "inst": "b-pandidakterion",
+   "from": 1261,
+   "to": 1267,
+   "approx": true,
+   "role": "studied",
+   "note": "Pupil of Akropolites."
+  },
+  {
+   "name": "John Xiphilinos",
+   "inst": "b-constantinople-law",
+   "from": 1047,
+   "to": 1054,
+   "approx": true,
+   "role": "nomophylax (head of law school)",
+   "note": ""
+  },
+  {
+   "name": "Eustathios of Thessalonica",
+   "inst": "b-patriarchal-academy",
+   "from": 1166,
+   "to": 1175,
+   "approx": true,
+   "role": "master of the rhetors",
+   "note": ""
+  },
+  {
+   "name": "Matthaios Kamariotis",
+   "inst": "b-patriarchal-academy",
+   "from": 1454,
+   "to": 1490,
+   "approx": true,
+   "role": "head of school",
+   "note": ""
+  },
+  {
+   "name": "Theophilos Korydalleus",
+   "inst": "b-patriarchal-academy",
+   "from": 1624,
+   "to": 1641,
+   "approx": true,
+   "role": "director",
+   "note": ""
+  },
+  {
+   "name": "Alexandros Mavrokordatos",
+   "inst": "b-patriarchal-academy",
+   "from": 1665,
+   "to": 1672,
+   "approx": true,
+   "role": "taught philosophy and rhetoric",
+   "note": ""
+  },
+  {
+   "name": "Sevastos Kyminitis",
+   "inst": "b-patriarchal-academy",
+   "from": 1671,
+   "to": 1682,
+   "approx": true,
+   "role": "taught; director",
+   "note": ""
+  },
+  {
+   "name": "Eugenios Voulgaris",
+   "inst": "b-patriarchal-academy",
+   "from": 1759,
+   "to": 1761,
+   "approx": true,
+   "role": "director",
+   "note": ""
+  },
+  {
+   "name": "Dorotheos Proios",
+   "inst": "b-patriarchal-academy",
+   "from": 1804,
+   "to": 1821,
+   "approx": true,
+   "role": "director",
+   "note": "Hanged 1821."
+  },
+  {
+   "name": "Nikephoros Blemmydes",
+   "inst": "b-nicaea",
+   "from": 1230,
+   "to": 1258,
+   "approx": true,
+   "role": "taught",
+   "note": "Teacher of Akropolites and Theodore II."
+  },
+  {
+   "name": "Theodore Metochites",
+   "inst": "b-chora",
+   "from": 1316,
+   "to": 1332,
+   "approx": true,
+   "role": "founded; taught astronomy",
+   "note": ""
+  },
+  {
+   "name": "Nikephoros Gregoras",
+   "inst": "b-chora",
+   "from": 1321,
+   "to": 1351,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "George Gemistos Plethon",
+   "inst": "b-mistra",
+   "from": 1409,
+   "to": 1452,
+   "approx": true,
+   "role": "taught philosophy",
+   "note": ""
+  },
+  {
+   "name": "Bessarion",
+   "inst": "b-mistra",
+   "from": 1431,
+   "to": 1436,
+   "approx": true,
+   "role": "studied under Plethon",
+   "note": ""
+  },
+  {
+   "name": "Makarios Kalogeras",
+   "inst": "b-patmos",
+   "from": 1713,
+   "to": 1737,
+   "approx": true,
+   "role": "founded; taught",
+   "note": ""
+  },
+  {
+   "name": "Neophytos Kafsokalyvitis",
+   "inst": "b-athonite-academy",
+   "from": 1749,
+   "to": 1753,
+   "approx": true,
+   "role": "first director",
+   "note": ""
+  },
+  {
+   "name": "Eugenios Voulgaris",
+   "inst": "b-athonite-academy",
+   "from": 1753,
+   "to": 1759,
+   "approx": false,
+   "role": "director",
+   "note": ""
+  },
+  {
+   "name": "Kosmas the Aetolian",
+   "inst": "b-athonite-academy",
+   "from": 1753,
+   "to": 1759,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Methodios Anthrakites",
+   "inst": "b-ioannina-gioumeios",
+   "from": 1690,
+   "to": 1725,
+   "approx": true,
+   "role": "studied; later director",
+   "note": "Pupil of Georgios Sougdouris; condemned by the Patriarchate 1723, then director before moving to the Epiphaneios school (1725)."
+  },
+  {
+   "name": "Eugenios Voulgaris",
+   "inst": "b-ioannina-maroutsaia",
+   "from": 1742,
+   "to": 1753,
+   "approx": true,
+   "role": "taught; headmaster",
+   "note": "First master 1742; headmaster again 1750-53."
+  },
+  {
+   "name": "Athanasios Psalidas",
+   "inst": "b-ioannina-kaplaneios",
+   "from": 1797,
+   "to": 1820,
+   "approx": true,
+   "role": "director",
+   "note": ""
+  },
+  {
+   "name": "Adamantios Korais",
+   "inst": "b-smyrna-evangelical",
+   "from": 1760,
+   "to": 1771,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Athanasios Parios",
+   "inst": "b-chios",
+   "from": 1788,
+   "to": 1811,
+   "approx": false,
+   "role": "principal",
+   "note": ""
+  },
+  {
+   "name": "Neophytos Vamvas",
+   "inst": "b-chios",
+   "from": 1815,
+   "to": 1821,
+   "approx": true,
+   "role": "director",
+   "note": ""
+  },
+  {
+   "name": "Benjamin of Lesbos",
+   "inst": "b-kydonies",
+   "from": 1800,
+   "to": 1812,
+   "approx": true,
+   "role": "director",
+   "note": ""
+  },
+  {
+   "name": "Theophilos Kairis",
+   "inst": "b-kydonies",
+   "from": 1812,
+   "to": 1821,
+   "approx": true,
+   "role": "taught; director",
+   "note": ""
+  },
+  {
+   "name": "Frederick North, Earl of Guilford",
+   "inst": "b-ionian-academy",
+   "from": 1824,
+   "to": 1827,
+   "approx": false,
+   "role": "founded; chancellor",
+   "note": ""
+  },
+  {
+   "name": "Andreas Kalvos",
+   "inst": "b-ionian-academy",
+   "from": 1826,
+   "to": 1827,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Neophytos Vamvas",
+   "inst": "b-ionian-academy",
+   "from": 1828,
+   "to": 1836,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Neophytos Vamvas",
+   "inst": "u-athens",
+   "from": 1837,
+   "to": 1854,
+   "approx": false,
+   "role": "professor of philosophy; dean",
+   "note": ""
+  },
+  {
+   "name": "Konstantinos Schinas",
+   "inst": "u-athens",
+   "from": 1837,
+   "to": 1837,
+   "approx": false,
+   "role": "first rector",
+   "note": ""
+  },
+  {
+   "name": "Konstantinos Paparrigopoulos",
+   "inst": "u-athens",
+   "from": 1851,
+   "to": 1891,
+   "approx": true,
+   "role": "professor of history",
+   "note": ""
+  },
+  {
+   "name": "Spyridon Lambros",
+   "inst": "u-athens",
+   "from": 1887,
+   "to": 1900,
+   "approx": true,
+   "role": "professor of history",
+   "note": ""
+  },
+  {
+   "name": "Dositej Obradović",
+   "inst": "b-belgrade-velika-skola",
+   "from": 1808,
+   "to": 1811,
+   "approx": true,
+   "role": "founded; patron",
+   "note": "As Serbia's minister of education."
+  },
+  {
+   "name": "Josif Pančić",
+   "inst": "u-belgrade",
+   "from": 1853,
+   "to": 1892,
+   "approx": true,
+   "role": "professor of natural history; rector",
+   "note": ""
+  },
+  {
+   "name": "Jovan Cvijić",
+   "inst": "u-belgrade",
+   "from": 1884,
+   "to": 1888,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Aleksandar Teodorov-Balan",
+   "inst": "u-sofia",
+   "from": 1888,
+   "to": 1900,
+   "approx": true,
+   "role": "first rector; taught",
+   "note": ""
+  },
+  {
+   "name": "Ivan Shishmanov",
+   "inst": "u-sofia",
+   "from": 1889,
+   "to": 1900,
+   "approx": true,
+   "role": "professor",
+   "note": ""
+  },
+  {
+   "name": "Cyrus Hamlin",
+   "inst": "a-robert-college",
+   "from": 1863,
+   "to": 1877,
+   "approx": true,
+   "role": "founded; president",
+   "note": ""
+  },
+  {
+   "name": "Konstantin Stoilov",
+   "inst": "a-robert-college",
+   "from": 1866,
+   "to": 1871,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Daniel Bliss",
+   "inst": "a-beirut",
+   "from": 1866,
+   "to": 1900,
+   "approx": false,
+   "role": "president",
+   "note": ""
+  },
+  {
+   "name": "Cornelius Van Dyck",
+   "inst": "a-beirut",
+   "from": 1867,
+   "to": 1882,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Alcuin of York",
+   "inst": "c-york",
+   "from": 750,
+   "to": 781,
+   "approx": true,
+   "role": "studied; master",
+   "note": ""
+  },
+  {
+   "name": "Alcuin of York",
+   "inst": "p-aachen",
+   "from": 782,
+   "to": 796,
+   "approx": true,
+   "role": "head of palace school",
+   "note": ""
+  },
+  {
+   "name": "Alcuin of York",
+   "inst": "c-tours",
+   "from": 796,
+   "to": 804,
+   "approx": false,
+   "role": "abbot; taught",
+   "note": ""
+  },
+  {
+   "name": "Einhard",
+   "inst": "p-aachen",
+   "from": 791,
+   "to": 830,
+   "approx": true,
+   "role": "studied; courtier",
+   "note": ""
+  },
+  {
+   "name": "Peter of Pisa",
+   "inst": "p-aachen",
+   "from": 776,
+   "to": 799,
+   "approx": true,
+   "role": "taught grammar",
+   "note": ""
+  },
+  {
+   "name": "Paul the Deacon",
+   "inst": "p-aachen",
+   "from": 782,
+   "to": 787,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Paul the Deacon",
+   "inst": "c-monte-cassino",
+   "from": 787,
+   "to": 799,
+   "approx": true,
+   "role": "monk; wrote",
+   "note": ""
+  },
+  {
+   "name": "Theodulf of Orléans",
+   "inst": "c-orleans",
+   "from": 798,
+   "to": 818,
+   "approx": true,
+   "role": "bishop; founded schools",
+   "note": ""
+  },
+  {
+   "name": "Hrabanus Maurus",
+   "inst": "c-tours",
+   "from": 801,
+   "to": 803,
+   "approx": true,
+   "role": "studied under Alcuin",
+   "note": ""
+  },
+  {
+   "name": "Hrabanus Maurus",
+   "inst": "c-fulda",
+   "from": 804,
+   "to": 842,
+   "approx": true,
+   "role": "master; abbot",
+   "note": ""
+  },
+  {
+   "name": "Walafrid Strabo",
+   "inst": "c-fulda",
+   "from": 827,
+   "to": 829,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Walafrid Strabo",
+   "inst": "c-reichenau",
+   "from": 838,
+   "to": 849,
+   "approx": false,
+   "role": "abbot",
+   "note": ""
+  },
+  {
+   "name": "Gottschalk of Orbais",
+   "inst": "c-fulda",
+   "from": 815,
+   "to": 829,
+   "approx": true,
+   "role": "oblate",
+   "note": ""
+  },
+  {
+   "name": "Lupus of Ferrières",
+   "inst": "c-ferrieres",
+   "from": 840,
+   "to": 862,
+   "approx": false,
+   "role": "abbot",
+   "note": ""
+  },
+  {
+   "name": "John Scottus Eriugena",
+   "inst": "p-compiegne",
+   "from": 845,
+   "to": 877,
+   "approx": true,
+   "role": "head of palace school",
+   "note": ""
+  },
+  {
+   "name": "Heiric of Auxerre",
+   "inst": "c-auxerre",
+   "from": 865,
+   "to": 876,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Remigius of Auxerre",
+   "inst": "c-reims",
+   "from": 893,
+   "to": 900,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Notker Balbulus",
+   "inst": "c-st-gall",
+   "from": 860,
+   "to": 912,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Notker Labeo",
+   "inst": "c-st-gall",
+   "from": 990,
+   "to": 1022,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Asser",
+   "inst": "p-winchester",
+   "from": 885,
+   "to": 899,
+   "approx": true,
+   "role": "scholar at court",
+   "note": ""
+  },
+  {
+   "name": "Bruno of Cologne",
+   "inst": "p-aachen-ottonian",
+   "from": 940,
+   "to": 953,
+   "approx": true,
+   "role": "head of court school",
+   "note": ""
+  },
+  {
+   "name": "Gerbert of Aurillac",
+   "inst": "c-vic",
+   "from": 967,
+   "to": 970,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Gerbert of Aurillac",
+   "inst": "c-reims",
+   "from": 972,
+   "to": 982,
+   "approx": true,
+   "role": "scholasticus",
+   "note": ""
+  },
+  {
+   "name": "Abbo of Fleury",
+   "inst": "c-fleury",
+   "from": 988,
+   "to": 1004,
+   "approx": false,
+   "role": "abbot",
+   "note": ""
+  },
+  {
+   "name": "Abbo of Fleury",
+   "inst": "c-ramsey",
+   "from": 985,
+   "to": 987,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Fulbert of Chartres",
+   "inst": "c-chartres",
+   "from": 990,
+   "to": 1028,
+   "approx": true,
+   "role": "master; bishop",
+   "note": ""
+  },
+  {
+   "name": "Lanfranc",
+   "inst": "m-pavia-law",
+   "from": 1020,
+   "to": 1035,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Lanfranc",
+   "inst": "c-bec",
+   "from": 1045,
+   "to": 1063,
+   "approx": true,
+   "role": "master; prior",
+   "note": ""
+  },
+  {
+   "name": "Lanfranc",
+   "inst": "c-canterbury",
+   "from": 1070,
+   "to": 1089,
+   "approx": false,
+   "role": "archbishop",
+   "note": ""
+  },
+  {
+   "name": "Anselm of Canterbury",
+   "inst": "c-bec",
+   "from": 1060,
+   "to": 1093,
+   "approx": false,
+   "role": "monk; prior; abbot",
+   "note": ""
+  },
+  {
+   "name": "Anselm of Laon",
+   "inst": "c-laon",
+   "from": 1080,
+   "to": 1117,
+   "approx": true,
+   "role": "master",
+   "note": ""
+  },
+  {
+   "name": "Peter Abelard",
+   "inst": "c-laon",
+   "from": 1113,
+   "to": 1113,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Peter Abelard",
+   "inst": "c-paris-notre-dame",
+   "from": 1114,
+   "to": 1117,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Peter Abelard",
+   "inst": "c-paris-ste-genevieve",
+   "from": 1110,
+   "to": 1136,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Hugh of St Victor",
+   "inst": "c-paris-st-victor",
+   "from": 1120,
+   "to": 1141,
+   "approx": true,
+   "role": "master",
+   "note": ""
+  },
+  {
+   "name": "Bernard of Chartres",
+   "inst": "c-chartres",
+   "from": 1114,
+   "to": 1124,
+   "approx": true,
+   "role": "master",
+   "note": ""
+  },
+  {
+   "name": "Thierry of Chartres",
+   "inst": "c-chartres",
+   "from": 1121,
+   "to": 1150,
+   "approx": true,
+   "role": "chancellor",
+   "note": ""
+  },
+  {
+   "name": "William of Conches",
+   "inst": "c-chartres",
+   "from": 1120,
+   "to": 1154,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "John of Salisbury",
+   "inst": "c-chartres",
+   "from": 1176,
+   "to": 1180,
+   "approx": false,
+   "role": "bishop",
+   "note": ""
+  },
+  {
+   "name": "Peter Lombard",
+   "inst": "c-paris-notre-dame",
+   "from": 1135,
+   "to": 1159,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Gerard of Cremona",
+   "inst": "c-toledo",
+   "from": 1144,
+   "to": 1187,
+   "approx": true,
+   "role": "translator",
+   "note": ""
+  },
+  {
+   "name": "Constantine the African",
+   "inst": "c-monte-cassino",
+   "from": 1077,
+   "to": 1087,
+   "approx": true,
+   "role": "translated",
+   "note": ""
+  },
+  {
+   "name": "Ísleifur Gissurarson",
+   "inst": "c-skalholt",
+   "from": 1056,
+   "to": 1080,
+   "approx": false,
+   "role": "founded; taught",
+   "note": ""
+  },
+  {
+   "name": "Dungal",
+   "inst": "c-pavia",
+   "from": 825,
+   "to": 827,
+   "approx": true,
+   "role": "master",
+   "note": ""
+  }
+ ]
+}

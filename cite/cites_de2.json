@@ -1,0 +1,2010 @@
+{
+ "group": "de2",
+ "sources": {
+  "de2-001": {
+   "title": "Overview and timeline of the history of the University of Veterinary Medicine Vienna",
+   "publisher": "Vetmeduni Vienna",
+   "url": "https://vetmeduni.ac.at/en/university/profile/history/overview-and-timeline-of-the-history-of-the-university-of-veterinary-medicine-vienna",
+   "tier": 1
+  },
+  "de2-002": {
+   "title": "270 Jahre Offiziersausbildung",
+   "publisher": "Theresianische Militärakademie",
+   "url": "https://www.milak.at/ueber-uns/chronik/270-jahre-offiziersausbildung",
+   "tier": 1
+  },
+  "de2-003": {
+   "title": "Militärakademie",
+   "publisher": "Austria-Forum (AEIOU Österreich-Lexikon)",
+   "url": "https://austria-forum.org/af/AEIOU/Milit%C3%A4rakademie/Milit%C3%A4rakademie_english",
+   "tier": 2
+  },
+  "de2-004": {
+   "title": "History of TU Graz",
+   "publisher": "Graz University of Technology",
+   "url": "https://www.tugraz.at/en/tu-graz/university/history",
+   "tier": 1
+  },
+  "de2-005": {
+   "title": "Geschichte der TU Graz",
+   "publisher": "Technische Universität Graz",
+   "url": "https://www.tugraz.at/tu-graz/universitaet/geschichte",
+   "tier": 1
+  },
+  "de2-006": {
+   "title": "History of the University",
+   "publisher": "KIT Archive, Karlsruhe Institute of Technology",
+   "url": "https://www.archiv.kit.edu/english/114.php",
+   "tier": 1
+  },
+  "de2-007": {
+   "title": "Theresianum",
+   "publisher": "Austria-Forum (AEIOU Österreich-Lexikon)",
+   "url": "https://austria-forum.org/af/AEIOU/Theresianum/Theresianum_english",
+   "tier": 2
+  },
+  "de2-008": {
+   "title": "Orientalische Akademie",
+   "publisher": "Austria-Forum (AEIOU Österreich-Lexikon)",
+   "url": "https://austria-forum.org/af/AEIOU/Orientalische_Akademie/Orientalische_Akademie_english",
+   "tier": 2
+  },
+  "de2-009": {
+   "title": "Milestones of history",
+   "publisher": "TU Bergakademie Freiberg",
+   "url": "https://tu-freiberg.de/en/university/profile/history/milestones-history",
+   "tier": 1
+  },
+  "de2-010": {
+   "title": "A historical outline",
+   "publisher": "TU Bergakademie Freiberg",
+   "url": "https://tu-freiberg.de/en/university/history",
+   "tier": 1
+  },
+  "de2-011": {
+   "title": "Porträt der TU Clausthal",
+   "publisher": "TU Clausthal",
+   "url": "https://epic2-clone.awi.de/36982/1/Portraet_TUClausthal.pdf",
+   "tier": 1
+  },
+  "de2-012": {
+   "title": "Chronicle",
+   "publisher": "Stiftung Tierärztliche Hochschule Hannover",
+   "url": "https://www.tiho-hannover.de/en/universitaet/die-tiho/ueber-die-tiho/geschichte/chronicle",
+   "tier": 1
+  },
+  "de2-013": {
+   "title": "About the building",
+   "publisher": "Josephinum, Medical University of Vienna",
+   "url": "https://josephinum-dev.meduniwien.ac.at/en/the-josephinum/about-the-building",
+   "tier": 1
+  },
+  "de2-014": {
+   "title": "Josephinum",
+   "publisher": "Austria-Forum (AEIOU Österreich-Lexikon)",
+   "url": "https://austria-forum.org/af/AEIOU/Josephinum/Josephinum_english",
+   "tier": 2
+  },
+  "de2-015": {
+   "title": "The beginnings (history of TU Berlin)",
+   "publisher": "Technische Universität Berlin",
+   "url": "https://www.tu-berlin.de/menue/about_the_tu_berlin/profile_history/history/parameter/en/font3/mobil/",
+   "tier": 1
+  },
+  "de2-016": {
+   "title": "Germany - Free University of Berlin Faculty of Veterinary Medicine",
+   "publisher": "WikiVet",
+   "url": "https://en.wikivet.net/Germany_-_Free_University_of_Berlin_Faculty_of_Veterinary_Medicine",
+   "tier": 3
+  },
+  "de2-017": {
+   "title": "Our History",
+   "publisher": "TU Braunschweig",
+   "url": "https://www.tu-braunschweig.de/en/tu-braunschweig/our-profile/the-history-of-the-tu-braunschweig",
+   "tier": 1
+  },
+  "de2-018": {
+   "title": "Zeittafel zur Geschichte der TU Braunschweig",
+   "publisher": "Universitätsarchiv TU Braunschweig",
+   "url": "https://www.TU-Braunschweig.de/fileadmin/Redaktionsgruppen/Einrichtungen/UB/Archiv/Zeittafel_TU-Geschichte.pdf",
+   "tier": 1
+  },
+  "de2-019": {
+   "title": "Kurze Geschichte der TU Wien",
+   "publisher": "TU Wien",
+   "url": "https://www.tuwien.at/tu-wien/ueber-die-tuw/geschichte-der-tu-wien",
+   "tier": 1
+  },
+  "de2-020": {
+   "title": "19th Century",
+   "publisher": "TU Dresden",
+   "url": "https://tu-dresden.de/tu-dresden/profil/geschichte/19-jahrhundert",
+   "tier": 1
+  },
+  "de2-021": {
+   "title": "Annals of the University of Stuttgart",
+   "publisher": "Universität Stuttgart",
+   "url": "https://www.uni-stuttgart.de/en/university/profile/history/",
+   "tier": 1
+  },
+  "de2-022": {
+   "title": "Leibniz University Hannover",
+   "publisher": "DBpedia",
+   "url": "https://dbpedia.org/page/Leibniz_University_Hannover",
+   "tier": 3
+  },
+  "de2-023": {
+   "title": "Karmarsch, Karl (NDB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz40015.html",
+   "tier": 2
+  },
+  "de2-024": {
+   "title": "From Institution of Higher Education to University",
+   "publisher": "TU Darmstadt",
+   "url": "https://www.tu-darmstadt.de/universitaet/organisation_verwaltung/geschichte_persoenlichkeiten/geschichte_4/von_der_hochschule_zur_universitaet/index.en.jsp",
+   "tier": 1
+  },
+  "de2-025": {
+   "title": "History of our Alma Mater",
+   "publisher": "ÖH Montanuniversität Leoben",
+   "url": "https://www.oeh-leoben.at/en/good-to-know/history-of-alma-mater",
+   "tier": 3
+  },
+  "de2-026": {
+   "title": "150 years of TUM",
+   "publisher": "Technical University of Munich",
+   "url": "https://www.tum.de/en/about-tum/facts-and-figures/history/150-years-of-tum",
+   "tier": 1
+  },
+  "de2-027": {
+   "title": "Albert the Great",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/albert-great/",
+   "tier": 2
+  },
+  "de2-028": {
+   "title": "Meister Eckhart",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/meister-eckhart/",
+   "tier": 2
+  },
+  "de2-029": {
+   "title": "John Duns Scotus",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/duns-scotus/",
+   "tier": 2
+  },
+  "de2-030": {
+   "title": "Johannes Kepler",
+   "publisher": "The Galileo Project, Rice University",
+   "url": "https://galileo.rice.edu/sci/kepler.html",
+   "tier": 2
+  },
+  "de2-031": {
+   "title": "Johannes Sturm",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Johannes-Sturm",
+   "tier": 2
+  },
+  "de2-032": {
+   "title": "Johann Carl Friedrich Gauss",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gauss/",
+   "tier": 2
+  },
+  "de2-033": {
+   "title": "Joachim Jungius",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Jungius/",
+   "tier": 2
+  },
+  "de2-034": {
+   "title": "Heinrich Rudolf Hertz",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Hertz_Heinrich/",
+   "tier": 2
+  },
+  "de2-035": {
+   "title": "Johannes Althusius",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Johannes-Althusius",
+   "tier": 2
+  },
+  "de2-036": {
+   "title": "Abraham Gottlob Werner",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Abraham-Gottlob-Werner",
+   "tier": 2
+  },
+  "de2-037": {
+   "title": "Novalis",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Novalis",
+   "tier": 2
+  },
+  "de2-039": {
+   "title": "Hermann von Helmholtz",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Helmholtz/",
+   "tier": 2
+  },
+  "de2-040": {
+   "title": "Rudolf Diesel",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Rudolf-Diesel",
+   "tier": 2
+  },
+  "de2-041": {
+   "title": "St. Albertus Magnus",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/01264a.htm",
+   "tier": 2
+  },
+  "de2-042": {
+   "title": "Herborn",
+   "publisher": "Reformation Cities of Europe (Community of Protestant Churches in Europe)",
+   "url": "https://reformation-cities.org/cities/herborn/?lang=en",
+   "tier": 2
+  },
+  "de2-043": {
+   "title": "Das Akademische und Real-Gymnasium in Hamburg",
+   "publisher": "Universität Hamburg, Fachbereich Chemie",
+   "url": "https://www2.chemie.uni-hamburg.de/publikationen/AG/",
+   "tier": 1
+  },
+  "de2-044": {
+   "title": "Dozenten des Akademischen Gymnasiums in Hamburg (1613-1883)",
+   "publisher": "Universität Hamburg, Fachbereich Chemie",
+   "url": "https://www2.chemie.uni-hamburg.de/publikationen/AG/Dozenten.html",
+   "tier": 1
+  },
+  "de2-045": {
+   "title": "Johann Casimir (Herzog von Sachsen-Coburg) (ADB)",
+   "publisher": "Allgemeine Deutsche Biographie, via Wikisource",
+   "url": "https://de.wikisource.org/wiki/ADB:Johann_Casimir_(Herzog_von_Sachsen-Coburg)",
+   "tier": 2
+  },
+  "de2-046": {
+   "title": "The prominence of Danzig Academic Gymnasium as a cornerstone of scientific developments in Gdańsk",
+   "publisher": "Studia Historiae Scientiarum",
+   "url": "https://ojs.ejournals.eu/SHS/article/view/8009",
+   "tier": 2
+  },
+  "de2-047": {
+   "title": "Gimnazjum Akademickie (history)",
+   "publisher": "City of Toruń",
+   "url": "https://torun.pl/en/print/pdf/node/39373",
+   "tier": 1
+  },
+  "de2-048": {
+   "title": "Joachim Ernst, Fürst von Anhalt (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz53308.html",
+   "tier": 2
+  },
+  "de2-049": {
+   "title": "1800 to 1932 (History)",
+   "publisher": "Universität Hohenheim",
+   "url": "https://www.uni-hohenheim.de/en/history-1800-1899",
+   "tier": 1
+  },
+  "de2-050": {
+   "title": "RWTH Aachen Hauptgebäude",
+   "publisher": "KuLaDig (LVR Kultur.Landschaft.Digital)",
+   "url": "https://www.kuladig.de/Objektansicht/Drucken/O-8889-20110317-2",
+   "tier": 2
+  },
+  "de2-051": {
+   "title": "Einführung in die Bestandsübersicht",
+   "publisher": "Universitätsarchiv TU Dresden",
+   "url": "https://tu-dresden.de/ua/archiv-bestaende/bestaende/einfuehr_bestandsuebers",
+   "tier": 1
+  },
+  "de2-052": {
+   "title": "Geschichte (Professur für Tropische Forstwirtschaft)",
+   "publisher": "TU Dresden",
+   "url": "https://tu-dresden.de/bu/umwelt/forst/inter/tropen/die-professur/geschichte",
+   "tier": 1
+  },
+  "de2-053": {
+   "title": "History of our university",
+   "publisher": "Hochschule für nachhaltige Entwicklung Eberswalde",
+   "url": "https://hnee.de/en/university/profile/history",
+   "tier": 1
+  },
+  "de2-054": {
+   "title": "Pfeil, Wilhelm (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz74506.html",
+   "tier": 2
+  },
+  "de2-055": {
+   "title": "Thaer, Albrecht Daniel (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz74941.html",
+   "tier": 2
+  },
+  "de2-056": {
+   "title": "Clausewitz, Carl von (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz56746.html",
+   "tier": 2
+  },
+  "de2-057": {
+   "title": "The History of the KU Linz",
+   "publisher": "Katholische Privat-Universität Linz",
+   "url": "https://ku-linz.at/en/university/about_us",
+   "tier": 1
+  },
+  "de2-058": {
+   "title": "The Beginnings (history of the university)",
+   "publisher": "BOKU University, Vienna",
+   "url": "https://boku.ac.at/en/universitaetsleitung/rektorat/stabsstellen/oeffentlichkeitsarbeit/themen/history/history-of-the-university/anfangszeit",
+   "tier": 1
+  },
+  "de2-059": {
+   "title": "History of the University",
+   "publisher": "BOKU University, Vienna",
+   "url": "https://boku.ac.at/en/universitaetsleitung/rektorat/stabsstellen/oeffentlichkeitsarbeit/themen/history/history-of-the-university",
+   "tier": 1
+  },
+  "de2-060": {
+   "title": "Sammlung Mariabrunn",
+   "publisher": "Austrian Federal Ministry of Agriculture and Forestry",
+   "url": "https://www.bmluk.gv.at/themen/wald/bildung-forschung/sammlung-mariabrunn.html",
+   "tier": 1
+  },
+  "de2-061": {
+   "title": "Our history",
+   "publisher": "Staats- und Universitätsbibliothek Bremen",
+   "url": "https://m.suub.uni-bremen.de/home-english/about-us/our-history/",
+   "tier": 1
+  },
+  "de2-062": {
+   "title": "Opitz, Martin (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz73593.html",
+   "tier": 2
+  },
+  "de2-063": {
+   "title": "Die Festrede des Professors Chytraeus zur Eröffnung der Landschaftsschule in Graz (G. Reingrabner)",
+   "publisher": "Blätter für Heimatkunde, Historischer Verein für Steiermark",
+   "url": "https://www.historischerverein-stmk.at/wp-content/uploads/B_Jg66_Gustav-REINGRABNER-Die-Festrede-des-Professors-Chytraeus-zur-Er%C3%B6ffnung-der-Landschaftsschule-in-Graz.pdf",
+   "tier": 2
+  },
+  "de2-064": {
+   "title": "Exkurs: Johannes Kepler oder wie die Zeitumstände einen Lebenslauf prägen",
+   "publisher": "Bundeszentrale für politische Bildung",
+   "url": "https://www.bpb.de/themen/zeit-kulturgeschichte/reformation/235722/exkurs-johannes-kepler-oder-wie-die-zeitumstaende-einen-lebenslauf-praegen",
+   "tier": 2
+  },
+  "de2-065": {
+   "title": "Ursinus, Zacharias (New Schaff-Herzog Encyclopedia of Religious Knowledge)",
+   "publisher": "Christian Classics Ethereal Library",
+   "url": "https://ccel.org/ccel/schaff/encyc12/htm/iii.v.xiv.htm",
+   "tier": 2
+  },
+  "de2-066": {
+   "title": "Johann Casimir, Pfalzgraf (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/pnd118835335.html",
+   "tier": 2
+  },
+  "de2-067": {
+   "title": "Goercke, Johann (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz21411.html",
+   "tier": 2
+  },
+  "de2-068": {
+   "title": "Kloster Hornbach",
+   "publisher": "KuLaDig (Kultur.Landschaft.Digital)",
+   "url": "https://www.kuladig.de/Objektansicht/Drucken/KLD-283516",
+   "tier": 2
+  },
+  "de2-069": {
+   "title": "Elektrotechnisches Institut (TH Darmstadt)",
+   "publisher": "VDE – Verband der Elektrotechnik",
+   "url": "https://www.vde.com/de/geschichte/karte/hessen/elektrotechnisches-institut",
+   "tier": 2
+  },
+  "de2-070": {
+   "title": "Redtenbacher, Ferdinand (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz75827.html",
+   "tier": 2
+  },
+  "de2-071": {
+   "title": "Geschichte des Lehrstuhls für Thermodynamik der TU München",
+   "publisher": "Verein für Historische Kälte- und Klimatechnik / TU München",
+   "url": "https://www.vhkk.org/page/geschichte/pdf/Gesch.Lehrstuhl_Thermodynamik_TU_Muenchen.pdf",
+   "tier": 2
+  },
+  "de2-072": {
+   "title": "Alsted, Johann Heinrich (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz685.html",
+   "tier": 2
+  },
+  "de2-073": {
+   "title": "Reuleaux, Franz (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz74610.html",
+   "tier": 2
+  },
+  "de2-074": {
+   "title": "Peter Tunner (res montanarum, vol. 17)",
+   "publisher": "res montanarum, Montanhistorischer Verein Österreich",
+   "url": "https://opac.geologie.ac.at/ais312/dokumente/res-montanarum-Band-17_9_15.pdf",
+   "tier": 2
+  },
+  "de2-075": {
+   "title": "Cotta, Heinrich (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz69596.html",
+   "tier": 2
+  },
+  "de2-076": {
+   "title": "Olevian, Caspar (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz73410.html",
+   "tier": 2
+  },
+  "de2-077": {
+   "title": "Winkler, Clemens (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz142892.html",
+   "tier": 2
+  },
+  "de2-078": {
+   "title": "Hammer-Purgstall, Joseph Freiherr von (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz27905.html",
+   "tier": 2
+  },
+  "de2-079": {
+   "title": "Sturm, Johann (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz81869.html",
+   "tier": 2
+  },
+  "de2-080": {
+   "title": "Album studiosorum of Ducal Pedagogium, Carolingian Gymnasium and Academic Gymnasium in Szczecin",
+   "publisher": "Książnica Pomorska, Szczecin",
+   "url": "https://album.ksiaznica.szczecin.pl/en/",
+   "tier": 1
+  },
+  "de2-081": {
+   "title": "Virchow, Rudolf Carl (Complete Dictionary of Scientific Biography)",
+   "publisher": "Encyclopedia.com",
+   "url": "https://encyclopedia.com/people/medicine/medicine-biographies/rudolf-carl-virchow",
+   "tier": 2
+  },
+  "de2-082": {
+   "title": "Zanchi, Hieronymus (ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/sfz11004.html",
+   "tier": 2
+  },
+  "de2-083": {
+   "title": "Bucer, Martin (NDB/ADB)",
+   "publisher": "Deutsche Biographie",
+   "url": "https://www.deutsche-biographie.de/pnd118516507.html",
+   "tier": 2
+  },
+  "de2-084": {
+   "title": "John Calvin",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/03195b.htm",
+   "tier": 2
+  },
+  "de2-085": {
+   "title": "Peter Martyr Vermigli",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Peter-Martyr-Vermigli",
+   "tier": 2
+  },
+  "de2-086": {
+   "title": "Karl Friedrich Schinkel",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Karl-Friedrich-Schinkel",
+   "tier": 2
+  }
+ },
+ "institutions": {
+  "m-cologne": {
+   "src": [
+    "de2-027",
+    "de2-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-strasbourg": {
+   "src": [
+    "de2-031",
+    "de2-079"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-stettin": {
+   "src": [
+    "de2-080"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-danzig": {
+   "src": [
+    "de2-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-hornbach": {
+   "src": [
+    "de2-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-lauingen": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-thorn": {
+   "src": [
+    "de2-047"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-graz": {
+   "src": [
+    "de2-063",
+    "de2-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-neustadt": {
+   "src": [
+    "de2-066",
+    "de2-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-zerbst": {
+   "src": [
+    "de2-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-herborn": {
+   "src": [
+    "de2-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-steinfurt": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-coburg": {
+   "src": [
+    "de2-045"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-bremen": {
+   "src": [
+    "de2-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-hamburg": {
+   "src": [
+    "de2-043",
+    "de2-044"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-beuthen": {
+   "src": [
+    "de2-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-hamm": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "j-linz": {
+   "src": [
+    "de2-057"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-lingen": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-braunschweig": {
+   "src": [
+    "de2-017",
+    "de2-018"
+   ],
+   "fix": {
+    "summary": "Founded by Duke Charles I of Brunswick as an intermediate school between gymnasium and university with mathematics, sciences and modern languages; it became a polytechnic in 1862 and a TH in 1878. Gauss studied here."
+   },
+   "note": ""
+  },
+  "t-vienna-theresianum": {
+   "src": [
+    "de2-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-wiener-neustadt": {
+   "src": [
+    "de2-002",
+    "de2-003"
+   ],
+   "fix": {
+    "note": "Founding resolution of 14 December 1751; opened 11 November 1752."
+   },
+   "note": ""
+  },
+  "t-vienna-oriental": {
+   "src": [
+    "de2-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-freiberg": {
+   "src": [
+    "de2-009",
+    "de2-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vienna-vet": {
+   "src": [
+    "de2-001"
+   ],
+   "fix": {
+    "start": 1765,
+    "note": "Founding instrument issued 1765; teaching began 1767.",
+    "summary": "Founded by Maria Theresa in 1765 as the Pferde-Curen- und Operationsschule, one of the oldest veterinary schools; raised to university level in 1896."
+   },
+   "note": ""
+  },
+  "t-berlin-bergakademie": {
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-clausthal": {
+   "src": [
+    "de2-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-hanover-vet": {
+   "src": [
+    "de2-012"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vienna-josephinum": {
+   "src": [
+    "de2-013",
+    "de2-014"
+   ],
+   "fix": {
+    "note": "Closed 1849–1854; ceased training army doctors in 1874."
+   },
+   "note": ""
+  },
+  "t-berlin-vet": {
+   "src": [
+    "de2-016"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-pepiniere": {
+   "src": [
+    "de2-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-bauakademie": {
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-moglin": {
+   "src": [
+    "de2-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-kriegsakademie": {
+   "src": [
+    "de2-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-tharandt": {
+   "src": [
+    "de2-051",
+    "de2-052",
+    "de2-075"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-graz": {
+   "src": [
+    "de2-004",
+    "de2-005"
+   ],
+   "fix": {
+    "summary": "Founded by Archduke John as a museum and teaching institute for sciences; its teaching became a Technische Hochschule in 1864 and was taken over by the state in 1874."
+   },
+   "note": ""
+  },
+  "t-mariabrunn": {
+   "src": [
+    "de2-058",
+    "de2-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vienna": {
+   "src": [
+    "de2-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-hohenheim": {
+   "src": [
+    "de2-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-gewerbe": {
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-eberswalde": {
+   "src": [
+    "de2-053",
+    "de2-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-karlsruhe": {
+   "src": [
+    "de2-006",
+    "de2-070"
+   ],
+   "fix": {
+    "summary": "The first polytechnic school in Germany, founded by the Grand Duchy of Baden on the model of the École polytechnique. Raised to Hochschule rank in 1865 and named Technische Hochschule in 1885; Hertz demonstrated electromagnetic waves here."
+   },
+   "note": ""
+  },
+  "t-dresden": {
+   "src": [
+    "de2-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-stuttgart": {
+   "src": [
+    "de2-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-hanover": {
+   "src": [
+    "de2-023",
+    "de2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-darmstadt": {
+   "src": [
+    "de2-024",
+    "de2-069"
+   ],
+   "fix": {
+    "summary": "Hessian trade school of 1836, polytechnic from 1869 and TH from 1877; in 1882 it established the world's first chair of electrical engineering."
+   },
+   "note": ""
+  },
+  "t-leoben": {
+   "src": [
+    "de2-025",
+    "de2-074"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-munich": {
+   "src": [
+    "de2-026",
+    "de2-071"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-aachen": {
+   "src": [
+    "de2-050"
+   ],
+   "fix": {
+    "summary": "Prussian polytechnic for the Rhenish-Westphalian industrial region, opened in 1870; titled Technische Hochschule from 1879/80."
+   },
+   "note": ""
+  },
+  "t-vienna-boku": {
+   "src": [
+    "de2-005",
+    "de2-059",
+    "de2-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin": {
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "m-cologne-1248-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-027",
+    "de2-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-strasbourg-1538-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-031"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-stettin-1543-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-080"
+   ],
+   "note": "Founded 1543, opened 1544.",
+   "fix": {}
+  },
+  "a-danzig-1558-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-046"
+   ],
+   "note": "Founding year confirmed; the friary site was not checked.",
+   "fix": {}
+  },
+  "a-hornbach-1559-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-lauingen-1561-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-strasbourg-1566-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-079"
+   ],
+   "note": "The academy was formally opened on 1 May 1567.",
+   "fix": {}
+  },
+  "a-thorn-1568-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-047"
+   ],
+   "note": "Initiated by mayor Jan Stroband.",
+   "fix": {}
+  },
+  "a-graz-1574-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-063"
+   ],
+   "note": "Opened 2 July 1574.",
+   "fix": {}
+  },
+  "a-neustadt-1578-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-066",
+    "de2-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-zerbst-1582-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-048"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-herborn-1584-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-042"
+   ],
+   "note": "Founded by Count John VI with Caspar Olevian, who brought Johannes Piscator to Herborn.",
+   "fix": {}
+  },
+  "a-neustadt-1584-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de2-066"
+   ],
+   "note": "After Louis VI died in October 1583, John Casimir took over in Heidelberg and reformed its schools in 1584.",
+   "fix": {}
+  },
+  "a-steinfurt-1591-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-thorn-1594-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-047"
+   ],
+   "note": "Reform completed in 1594 under Henryk Stroband.",
+   "fix": {}
+  },
+  "a-zerbst-1596-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-graz-1598-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de2-063",
+    "de2-064"
+   ],
+   "note": "On 23 September 1598 all Protestant preachers and teachers were ordered to leave Graz.",
+   "fix": {}
+  },
+  "a-coburg-1605-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-045"
+   ],
+   "note": "Inaugurated 3 July 1605; a full university had been planned but no imperial privilege was granted.",
+   "fix": {}
+  },
+  "a-bremen-1610-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-061"
+   ],
+   "note": "Founded 1610 under Matthias Martinius.",
+   "fix": {}
+  },
+  "a-hamburg-1613-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-043"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-beuthen-1614-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-lauingen-1616-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-beuthen-1628-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-hamm-1657-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-stettin-1667-reform": {
+   "status": "confirmed",
+   "src": [
+    "de2-080"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-linz-1669-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-057"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-linz-1672-reform": {
+   "status": "confirmed",
+   "src": [
+    "de2-057"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-lingen-1697-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-braunschweig-1745-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-017",
+    "de2-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vienna-theresianum-1746-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-wiener-neustadt-1752-founding": {
+   "status": "corrected",
+   "src": [
+    "de2-002",
+    "de2-003"
+   ],
+   "fix": {
+    "desc": "Maria Theresa's resolution of 14 December 1751 created the academy, which opened in the castle of Wiener Neustadt on 11 November 1752."
+   },
+   "note": "The founding decree dates from 14 December 1751; the academy opened in 1752."
+  },
+  "t-vienna-oriental-1754-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-freiberg-1765-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-009",
+    "de2-010"
+   ],
+   "fix": {},
+   "note": "Founded on a proposal by Heynitz and Oppel to Prince Regent Xaver."
+  },
+  "t-vienna-vet-1767-founding": {
+   "status": "corrected",
+   "src": [
+    "de2-001"
+   ],
+   "fix": {
+    "year": 1765,
+    "desc": "Maria Theresa issued the founding instrument of the k.k. Pferde-Curen- und Operationsschule on 24 March 1765; teaching began in 1767."
+   },
+   "note": "The university dates its founding to 1765; instruction began in 1767."
+  },
+  "t-berlin-bergakademie-1770-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-linz-1773-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de2-057"
+   ],
+   "note": "The state took over theological teaching after the Jesuits were suppressed.",
+   "fix": {}
+  },
+  "t-clausthal-1775-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-hanover-vet-1778-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-012"
+   ],
+   "fix": {},
+   "note": "Founded by order of George III as Elector of Hanover."
+  },
+  "t-vienna-theresianum-1783-suppression": {
+   "status": "corrected",
+   "src": [
+    "de2-007"
+   ],
+   "fix": {
+    "desc": "Joseph II closed the academy."
+   },
+   "note": "The date of its reopening is given differently in the sources (1791 or 1797)."
+  },
+  "t-vienna-josephinum-1785-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-013",
+    "de2-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-vet-1790-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-016"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-pepiniere-1795-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-067"
+   ],
+   "note": "Founded at the instigation of the army surgeon Johann Goercke; renamed Friedrich-Wilhelms-Institut in 1818.",
+   "fix": {}
+  },
+  "t-vienna-theresianum-1797-refoundation": {
+   "status": "doubtful",
+   "src": [
+    "de2-007"
+   ],
+   "fix": {},
+   "note": "The Austrian national lexicon dates the reopening, as the Theresianisch-Leopoldinische Akademie, to 1791 under Leopold II; other accounts give 1797 under Francis II."
+  },
+  "t-berlin-bauakademie-1799-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-moglin-1806-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-kriegsakademie-1810-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-bremen-1810-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de2-061"
+   ],
+   "note": "Students enrolled from 1610 to 1810; the reason for the end was not checked.",
+   "fix": {}
+  },
+  "t-tharandt-1811-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-052"
+   ],
+   "note": "Cotta's private forestry school dates from 1811.",
+   "fix": {}
+  },
+  "t-graz-1811-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-004",
+    "de2-005"
+   ],
+   "fix": {},
+   "note": "Archduke John handed over his deed of donation on 26 November 1811."
+  },
+  "t-mariabrunn-1813-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-060"
+   ],
+   "note": "The Mariabrunn teaching collection dates back to 1813.",
+   "fix": {}
+  },
+  "t-vienna-1815-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-tharandt-1816-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-051",
+    "de2-052"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-herborn-1817-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de2-042"
+   ],
+   "note": "The school closed in 1817; the theological seminary that grew out of it survives.",
+   "fix": {}
+  },
+  "a-danzig-1817-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de2-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-hohenheim-1818-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-049"
+   ],
+   "note": "Founded 20 November 1818 by King William I and Queen Catherine during the famine.",
+   "fix": {}
+  },
+  "t-moglin-1819-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-055"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-lingen-1819-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-gewerbe-1821-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-eberswalde-1821-founding": {
+   "status": "corrected",
+   "src": [
+    "de2-053",
+    "de2-054"
+   ],
+   "fix": {
+    "desc": "Prussia established forestry teaching at the University of Berlin under Wilhelm Pfeil."
+   },
+   "note": "Sources credit Pfeil, appointed to the Berlin forestry chair in 1821, with the start of this teaching."
+  },
+  "t-karlsruhe-1825-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-006"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-dresden-1828-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-020"
+   ],
+   "fix": {},
+   "note": "Founded 1 May 1828."
+  },
+  "t-stuttgart-1829-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-eberswalde-1830-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de2-054",
+    "de2-053"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-hanover-1831-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-023",
+    "de2-022"
+   ],
+   "fix": {},
+   "note": "Opened 2 May 1831."
+  },
+  "t-darmstadt-1836-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-leoben-1840-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-025"
+   ],
+   "fix": {},
+   "note": "Opened 4 November 1840 as the Steiermärkisch-Ständische Montanlehranstalt."
+  },
+  "t-hohenheim-1847-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-049"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-leoben-1849-relocation": {
+   "status": "confirmed",
+   "src": [
+    "de2-025",
+    "de2-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-bergakademie-1860-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-braunschweig-1862-reform": {
+   "status": "confirmed",
+   "src": [
+    "de2-017",
+    "de2-018"
+   ],
+   "fix": {},
+   "note": "Renamed Polytechnische Schule on 7 June 1862."
+  },
+  "t-clausthal-1864-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-karlsruhe-1865-charter": {
+   "status": "corrected",
+   "src": [
+    "de2-006"
+   ],
+   "fix": {
+    "desc": "Raised to the rank of a Hochschule; the name Technische Hochschule followed in 1885."
+   },
+   "note": ""
+  },
+  "t-berlin-gewerbe-1866-reform": {
+   "status": "unverified",
+   "src": [
+    "de2-073"
+   ],
+   "note": "Reuleaux's NDB entry calls it the Gewerbeakademie during his directorship from 1868; the 1866 renaming year itself was not checked.",
+   "fix": {}
+  },
+  "t-munich-1868-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-026"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-aachen-1870-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-050"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-freiberg-1871-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-vienna-boku-1872-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vienna-1872-charter": {
+   "status": "corrected",
+   "src": [
+    "de2-019"
+   ],
+   "fix": {
+    "desc": "Renamed Technische Hochschule on 10 April 1872."
+   },
+   "note": "An elected rector had already replaced the government-appointed director under the statute of 1865 (first rector 1866)."
+  },
+  "t-graz-1872-charter": {
+   "status": "corrected",
+   "src": [
+    "de2-004",
+    "de2-005"
+   ],
+   "fix": {
+    "year": 1864,
+    "desc": "The Joanneum's teaching institute was raised to the Landschaftlich Technische Hochschule am Joanneum."
+   },
+   "note": "The state took it over as the k.k. Technische Hochschule in Graz in 1874."
+  },
+  "t-vienna-josephinum-1874-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de2-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vienna-boku-1875-merger": {
+   "status": "confirmed",
+   "src": [
+    "de2-058"
+   ],
+   "note": "The Mariabrunn academy was closed in 1875 and its forestry teaching moved into the Hochschule.",
+   "fix": {}
+  },
+  "t-munich-1877-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-071"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-darmstadt-1877-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-braunschweig-1877-charter": {
+   "status": "corrected",
+   "src": [
+    "de2-017",
+    "de2-018"
+   ],
+   "fix": {
+    "year": 1878,
+    "desc": "Renamed Herzogliche Technische Hochschule Carolo-Wilhelmina on 5 March 1878."
+   },
+   "note": "In 1877 the new building opened as the Polytechnikum Carolo-Wilhelmina; the TH title followed in 1878."
+  },
+  "t-berlin-1879-founding": {
+   "status": "confirmed",
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-hanover-1879-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-022"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-1879-merger": {
+   "status": "remove",
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": "Duplicates the 1879 founding of the Technische Hochschule by the same merger."
+  },
+  "t-aachen-1880-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-050"
+   ],
+   "note": "The title Technische Hochschule was granted in 1879 and confirmed by the constitution of 1880.",
+   "fix": {}
+  },
+  "t-darmstadt-1882-reform": {
+   "status": "confirmed",
+   "src": [
+    "de2-069"
+   ],
+   "note": "Kittler took up the chair on 1 November 1882.",
+   "fix": {}
+  },
+  "a-hamburg-1883-suppression": {
+   "status": "confirmed",
+   "src": [
+    "de2-043"
+   ],
+   "note": "Dissolution in 1883 confirmed; continuation of its lectures not checked.",
+   "fix": {}
+  },
+  "t-dresden-1890-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-stuttgart-1890-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-vienna-oriental-1898-reform": {
+   "status": "confirmed",
+   "src": [
+    "de2-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-berlin-1899-charter": {
+   "status": "confirmed",
+   "src": [
+    "de2-015"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "thinkers": {
+  "th438": {
+   "status": "confirmed",
+   "src": [
+    "de2-027",
+    "de2-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th439": {
+   "status": "confirmed",
+   "src": [
+    "de2-041"
+   ],
+   "fix": {},
+   "note": "Came to Cologne with Albert in 1248 as his assistant."
+  },
+  "th440": {
+   "status": "confirmed",
+   "src": [
+    "de2-029"
+   ],
+   "fix": {},
+   "note": "Taught at the Franciscan studium in Cologne from 1307 and died there on 8 November 1308."
+  },
+  "th441": {
+   "status": "confirmed",
+   "src": [
+    "de2-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th551": {
+   "status": "confirmed",
+   "src": [
+    "de2-076"
+   ],
+   "note": "Professor at Herborn from 1584 until his death on 15 March 1587.",
+   "fix": {}
+  },
+  "th552": {
+   "status": "confirmed",
+   "src": [
+    "de2-035"
+   ],
+   "fix": {},
+   "note": "Taught at Herborn until 1604, when he became syndic of Emden."
+  },
+  "th553": {
+   "status": "confirmed",
+   "src": [
+    "de2-072"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th554": {
+   "status": "confirmed",
+   "src": [
+    "de2-042"
+   ],
+   "note": "Studied under Alsted at Herborn 1611–1613.",
+   "fix": {}
+  },
+  "th558": {
+   "status": "confirmed",
+   "src": [
+    "de2-030"
+   ],
+   "fix": {},
+   "note": "Taught mathematics at Graz from 1594; left Graz in 1600 during the Counter-Reformation."
+  },
+  "th564": {
+   "status": "confirmed",
+   "src": [
+    "de2-079",
+    "de2-031"
+   ],
+   "note": "Rector from 1538 until the council forced him out in 1581.",
+   "fix": {}
+  },
+  "th565": {
+   "status": "confirmed",
+   "src": [
+    "de2-083"
+   ],
+   "note": "Lecturer on Scripture in Strasbourg from 1524, whose lectures fed into Sturm's school; left for England under the Interim in 1549.",
+   "fix": {}
+  },
+  "th566": {
+   "status": "confirmed",
+   "src": [
+    "de2-084"
+   ],
+   "note": "In Strasbourg 1538 to September 1541; from 1539 he lectured on the New Testament.",
+   "fix": {}
+  },
+  "th567": {
+   "status": "confirmed",
+   "src": [
+    "de2-085"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th643": {
+   "status": "confirmed",
+   "src": [
+    "de2-033"
+   ],
+   "fix": {},
+   "note": "Came to Hamburg in 1629 as professor of natural science, later rector; died there in 1657."
+  },
+  "th644": {
+   "status": "confirmed",
+   "src": [
+    "de2-044"
+   ],
+   "note": "Professor of oriental languages 1727–1768.",
+   "fix": {}
+  },
+  "th645": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th646": {
+   "status": "confirmed",
+   "src": [
+    "de2-065"
+   ],
+   "note": "Taught at the Casimirianum from May 1578 until his death in March 1583.",
+   "fix": {}
+  },
+  "th647": {
+   "status": "confirmed",
+   "src": [
+    "de2-082"
+   ],
+   "note": "Professor of New Testament exegesis from May 1578; stayed on in Neustadt when the school returned to Heidelberg.",
+   "fix": {}
+  },
+  "th648": {
+   "status": "corrected",
+   "src": [
+    "de2-062"
+   ],
+   "fix": {
+    "from": 1617,
+    "to": 1618
+   },
+   "note": "Attended from about 1617 before moving to Frankfurt an der Oder in 1618."
+  },
+  "th649": {
+   "status": "confirmed",
+   "src": [
+    "de2-036",
+    "de2-010"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th650": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th651": {
+   "status": "confirmed",
+   "src": [
+    "de2-010",
+    "de2-037"
+   ],
+   "fix": {},
+   "note": "Studied at Freiberg from late 1797 to May 1799."
+  },
+  "th652": {
+   "status": "confirmed",
+   "src": [
+    "de2-077"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th653": {
+   "status": "corrected",
+   "src": [
+    "de2-086"
+   ],
+   "fix": {
+    "from": 1800,
+    "to": 1802,
+    "approx": false
+   },
+   "note": "Studied at the Bauakademie 1800–1802."
+  },
+  "th654": {
+   "status": "corrected",
+   "src": [
+    "de2-073"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Taught machine science from 1864; director 1868–1879."
+  },
+  "th655": {
+   "status": "confirmed",
+   "src": [
+    "de2-056"
+   ],
+   "note": "Administrative director, May 1818 to August 1830; teaching was directed by a separate commission.",
+   "fix": {}
+  },
+  "th656": {
+   "status": "corrected",
+   "src": [
+    "de2-039"
+   ],
+   "fix": {
+    "to": 1843
+   },
+   "note": "Studied at the Friedrich-Wilhelms-Institut 1838–1843."
+  },
+  "th657": {
+   "status": "confirmed",
+   "src": [
+    "de2-081"
+   ],
+   "note": "Studied at the Pépinière from 1839 and graduated in 1843.",
+   "fix": {}
+  },
+  "th658": {
+   "status": "confirmed",
+   "src": [
+    "de2-070"
+   ],
+   "note": "Taught at Karlsruhe from 1841 until his death in 1863; director from 1857.",
+   "fix": {}
+  },
+  "th659": {
+   "status": "unverified",
+   "src": [
+    "de2-070"
+   ],
+   "note": "Listed among Redtenbacher's students; years not confirmed.",
+   "fix": {}
+  },
+  "th660": {
+   "status": "confirmed",
+   "src": [
+    "de2-034"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th661": {
+   "status": "confirmed",
+   "src": [
+    "de2-071"
+   ],
+   "note": "Extraordinary professor from 1868, full professor 1872; left in 1879 to lead his refrigeration company.",
+   "fix": {}
+  },
+  "th662": {
+   "status": "unverified",
+   "src": [
+    "de2-071",
+    "de2-040"
+   ],
+   "note": "Studied under Linde at Munich; exact years not confirmed.",
+   "fix": {}
+  },
+  "th663": {
+   "status": "confirmed",
+   "src": [
+    "de2-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th664": {
+   "status": "confirmed",
+   "src": [
+    "de2-032",
+    "de2-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th665": {
+   "status": "confirmed",
+   "src": [
+    "de2-075"
+   ],
+   "note": "Moved his school to Tharandt in 1811 and led it until his death in 1844.",
+   "fix": {}
+  },
+  "th666": {
+   "status": "confirmed",
+   "src": [
+    "de2-055"
+   ],
+   "note": "Taught at Möglin from 1806 until his death in October 1828.",
+   "fix": {}
+  },
+  "th667": {
+   "status": "confirmed",
+   "src": [
+    "de2-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th668": {
+   "status": "corrected",
+   "src": [
+    "de2-078"
+   ],
+   "fix": {
+    "from": 1789,
+    "approx": false
+   },
+   "note": "Entered the academy in 1789 and left for the internunciature in Constantinople in spring 1799."
+  },
+  "th669": {
+   "status": "confirmed",
+   "src": [
+    "de2-074"
+   ],
+   "fix": {},
+   "note": "Professor at Vordernberg from 1840; gave up teaching in 1866 but remained director until 1874."
+  }
+ }
+}

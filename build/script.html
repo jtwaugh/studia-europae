@@ -1,0 +1,627 @@
+<script id="data" type="application/json">__DATA__</script>
+<script>
+(()=>{
+const D=JSON.parse(document.getElementById('data').textContent);
+const W=__W__,H=__H__,FIT=__FIT__;
+const T0=800,T1=1900;
+const EVT={founding:'Founding',charter:'Charter or privilege',migration:'Migration or secession',relocation:'Relocation',merger:'Merger',suppression:'Suppression',destruction:'Destruction',refoundation:'Refoundation',confessional:'Confessional change',reform:'Reform',split:'Split',access:'Access widened'};
+const INT={university:'University',cathedral:'Cathedral or monastic school',palace:'Palace school',byzantine:'Byzantine or Orthodox school',professional:'Professional school',jesuit:'Jesuit college',protestant:'Protestant academy',technical:'Technical school'};
+const MODE={spontaneous:'Grew up by custom',papal:'Papal bull',imperial:'Imperial charter',royal:'Royal charter',princely:'Territorial prince',municipal:'City council',ecclesiastical:'Bishop, chapter or order',state:'State act',private:'Private foundation',secession:'Secession of masters and students',other:'Other'};
+const SH={
+ university:'M1,0A1,1 0 1 1 -1,0A1,1 0 1 1 1,0Z',
+ cathedral:'M-.85,-.85H.85V.85H-.85Z',
+ palace:'M0,-1.15L.3,-.38L1.1,-.36L.48,.14L.7,.93L0,.47L-.7,.93L-.48,.14L-1.1,-.36L-.3,-.38Z',
+ byzantine:'M0,-1.2L1.05,0L0,1.2L-1.05,0Z',
+ professional:'M0,-1.15L1.05,.75H-1.05Z',
+ jesuit:'M0,1.15L1.05,-.75H-1.05Z',
+ protestant:'M1,0L.5,.87H-.5L-1,0L-.5,-.87H.5Z',
+ technical:'M-.35,-1H.35V-.35H1V.35H.35V1H-.35V.35H-1V-.35H-.35Z'};
+const ERAS=[[1378,1417,'Western Schism'],[1517,1555,'Reformation'],[1618,1648,'Thirty Years’ War'],[1773,1774,'Jesuits suppressed'],[1789,1815,'Napoleonic era'],[1848,1849,'1848']];
+const col=t=>`var(--ev-${t})`;
+const $=s=>document.querySelector(s);
+const NS='http://www.w3.org/2000/svg';
+const el=(n,a={},p)=>{const e=document.createElementNS(NS,n);for(const k in a)e.setAttribute(k,a[k]);if(p)p.appendChild(e);return e};
+const esc=s=>String(s??'').replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
+const yfmt=(y,a)=>(a?'c. ':'')+y;
+const shapeSvg=(t,sz=12)=>`<svg width="${sz}" height="${sz}" viewBox="-1.3 -1.3 2.6 2.6" aria-hidden="true"><path d="${SH[t]}" fill="var(--mk)"/></svg>`;
+
+const I={}; D.inst.forEach(i=>{I[i.id]=i; i.ev=[]; i.th=[]; i.inbound=[];});
+D.ev.forEach(e=>{I[e.i].ev.push(e); if(e.fr&&I[e.fr]) I[e.fr].inbound.push(e); e.rel.forEach(r=>I[r]&&r!==e.i&&I[r].inbound.push(e));});
+D.th.forEach(t=>I[t.i].th.push(t));
+D.inst.forEach(i=>i.th.sort((a,b)=>(a.f??0)-(b.f??0)));
+const locAt=(i,y)=>{let l=i.L[0];for(const x of i.L){if(x.f<=y)l=x;else break}return l};
+const alive=(i,y)=>i.s<=y&&(i.e==null||y<i.e);
+
+// ---------- state ----------
+const S={year:1300,playing:false,speed:12,trail:25,ghost:true,evOn:new Set(Object.keys(EVT)),itOn:new Set(Object.keys(INT)),
+  allYears:false,region:'',vstat:'',sel:null,selEv:null,qset:null,pWhen:0,pSort:'born',pFG:new Set(),pSourced:true,pLinked:false,pMap:false,view:{x:0,y:0,w:W,h:H}};
+try{const sv=JSON.parse(localStorage.getItem('studia')||'{}'); if(sv.speed)S.speed=sv.speed; if(sv.trail)S.trail=sv.trail;}catch(e){}
+
+// ---------- map ----------
+const svg=$('#map'), wrap=$('#mapwrap');
+function project(lon,lat){ // spherical Lambert conformal conic matching the base map
+  const R=6371,r=Math.PI/180,phi1=38*r,phi2=62*r,phi0=50*r,l0=14*r;
+  const n=Math.log(Math.cos(phi1)/Math.cos(phi2))/Math.log(Math.tan(Math.PI/4+phi2/2)/Math.tan(Math.PI/4+phi1/2));
+  const F=Math.cos(phi1)*Math.pow(Math.tan(Math.PI/4+phi1/2),n)/n;
+  const rho=p=>R*F/Math.pow(Math.tan(Math.PI/4+p/2),n);
+  const rr=rho(lat*r),r0=rho(phi0),th=n*(lon*r-l0);
+  return [(rr*Math.sin(th)+3000)/2.5,(2950-(r0-rr*Math.cos(th)))/2.5];
+}
+const marks=$('#marks'), mlbls=$('#mlbls');
+D.inst.forEach(i=>{
+  const g=el('g',{class:'mk','data-id':i.id},marks);
+  el('circle',{class:'hit',r:2.4},g);
+  i.shape=el('path',{class:'shape',d:SH[i.t]||SH.university},g);
+  i.g=g; i.lbl=el('text',{class:'mlbl'},mlbls);
+});
+
+// tooltip
+const tip=$('#tip');
+function showTip(i,ev){const l=locAt(i,S.year);
+  tip.innerHTML=`<b>${esc(i.n)}</b><div class="sub">${esc(l.c)} · ${INT[i.t]} · ${yfmt(i.s,i.sa)}–${i.e?yfmt(i.e,i.ea):''}</div>`;
+  tip.hidden=false; moveTip(ev);}
+function moveTip(ev){const r=wrap.getBoundingClientRect();let x=ev.clientX-r.left+14,y=ev.clientY-r.top+12;if(x>r.width-290)x-=304;if(y>r.height-70)y-=60;tip.style.left=x+'px';tip.style.top=y+'px'}
+const hideTip=()=>{tip.hidden=true};
+
+// view
+function fit(){const r=wrap.getBoundingClientRect(),ar=r.width/Math.max(1,r.height);let [x,y,w,h]=FIT;const cx=x+w/2,cy=y+h/2;if(w/h<ar)w=h*ar;else h=w/ar;S.view={x:cx-w/2,y:cy-h/2,w,h};applyView()}
+function applyView(){const v=S.view;svg.setAttribute('viewBox',`${v.x} ${v.y} ${v.w} ${v.h}`);U=upp();render()}
+let U=1;
+function upp(){const r=svg.getBoundingClientRect();return Math.max(S.view.w/Math.max(1,r.width),S.view.h/Math.max(1,r.height))}
+function zoomAt(f,cx,cy){const v=S.view,nw=Math.min(W*1.4,Math.max(80,v.w*f)),k=nw/v.w;S.view={x:cx-(cx-v.x)*k,y:cy-(cy-v.y)*k,w:nw,h:v.h*k};applyView()}
+function clientToSvg(cx,cy){const r=svg.getBoundingClientRect(),v=S.view,u=upp(),ox=(r.width*u-v.w)/2,oy=(r.height*u-v.h)/2;return [v.x-ox+(cx-r.left)*u,v.y-oy+(cy-r.top)*u]}
+svg.addEventListener('wheel',ev=>{ev.preventDefault();const [x,y]=clientToSvg(ev.clientX,ev.clientY);zoomAt(Math.exp(ev.deltaY*0.0015),x,y)},{passive:false});
+
+// pointer: a press that does not move is a click (select or clear); a press that moves pans.
+// Capture starts only once the pointer has moved, so presses on markers keep their target.
+const ptrs=new Map(); let drag=null, downTarget=null, moved=false;
+svg.addEventListener('pointerdown',ev=>{
+  if(ev.button!==undefined&&ev.button!==0&&ev.pointerType==='mouse')return;
+  ptrs.set(ev.pointerId,{x:ev.clientX,y:ev.clientY});
+  if(ptrs.size===1){moved=false;downTarget=ev.target;drag={x:ev.clientX,y:ev.clientY,v:{...S.view}}}
+  else if(ptrs.size===2){moved=true;const [a,b]=[...ptrs.values()];drag={pinch:Math.hypot(a.x-b.x,a.y-b.y),v:{...S.view},c:clientToSvg((a.x+b.x)/2,(a.y+b.y)/2)}}
+});
+svg.addEventListener('pointermove',ev=>{
+  const mk=ev.target.closest&&ev.target.closest('.mk');
+  if(!ptrs.size){ if(mk){showTip(I[mk.dataset.id],ev)} else hideTip(); return }
+  if(!ptrs.has(ev.pointerId)||!drag)return;
+  ptrs.set(ev.pointerId,{x:ev.clientX,y:ev.clientY});
+  if(ptrs.size===1&&!drag.pinch){const dx=ev.clientX-drag.x,dy=ev.clientY-drag.y;
+    if(!moved&&Math.hypot(dx,dy)>4){moved=true;svg.classList.add('drag');hideTip();try{svg.setPointerCapture(ev.pointerId)}catch(e){}}
+    if(moved){const u=upp();S.view={...drag.v,x:drag.v.x-dx*u,y:drag.v.y-dy*u};applyView()}}
+  else if(ptrs.size===2&&drag.pinch){const [a,b]=[...ptrs.values()],d=Math.hypot(a.x-b.x,a.y-b.y),v=drag.v,nw=Math.min(W*1.4,Math.max(80,v.w*drag.pinch/d)),kk=nw/v.w;
+    S.view={x:drag.c[0]-(drag.c[0]-v.x)*kk,y:drag.c[1]-(drag.c[1]-v.y)*kk,w:nw,h:v.h*kk};applyView()}
+});
+function endPtr(ev,cancel){
+  if(!ptrs.has(ev.pointerId))return; ptrs.delete(ev.pointerId);
+  if(ptrs.size===0){
+    if(!moved&&!cancel){const mk=downTarget&&downTarget.closest&&downTarget.closest('.mk');
+      if(mk){const id=nearestMark(ev.clientX,ev.clientY)||mk.dataset.id;if(S.person)selectPerson(null);select(id,{pause:true})} else if(S.sel&&!S.person) select(null);}
+    drag=null;downTarget=null;svg.classList.remove('drag');
+  } else if(ptrs.size===1){const [a]=[...ptrs.values()];drag={x:a.x,y:a.y,v:{...S.view}}}
+}
+// overlapping marks: take the one whose centre is closest to the pointer
+function nearestMark(cx,cy){const [x,y]=clientToSvg(cx,cy);let best=null,bd=Infinity;
+  for(const i of D.inst){if(!i._shown)continue;const l=locAt(i,Math.max(S.year,i.s));const d=Math.hypot(l.x-x,l.y-y);if(d<bd){bd=d;best=i.id}}
+  return bd<14*U?best:null}
+svg.addEventListener('pointerup',ev=>endPtr(ev,false));
+svg.addEventListener('pointercancel',ev=>endPtr(ev,true));
+svg.addEventListener('pointerleave',()=>{if(!ptrs.size)hideTip()});
+$('#zin').onclick=()=>{const v=S.view;zoomAt(0.7,v.x+v.w/2,v.y+v.h/2)};
+$('#zout').onclick=()=>{const v=S.view;zoomAt(1/0.7,v.x+v.w/2,v.y+v.h/2)};
+$('#zfit').onclick=fit;
+let fitted=false;
+new ResizeObserver(()=>{U=upp();render();drawTimeline()}).observe(wrap);
+
+// ---------- filtering ----------
+const sourced=e=>e.src&&e.src.length&&e.st&&e.st!=='unverified';
+const vOK=e=>!S.vstat||(S.vstat==='src'?sourced(e):S.vstat==='fix'?(e.st==='corrected'||e.st==='doubtful'):!sourced(e));
+const evVisible=e=>S.evOn.has(e.t)&&S.itOn.has(I[e.i].t)&&(!S.region||I[e.i].cc===S.region)&&vOK(e)&&(!S.qset||S.qset.has(e.i));
+const instVisible=i=>i.id===S.sel||(S.itOn.has(i.t)&&(!S.region||i.cc===S.region)&&(!S.qset||S.qset.has(i.id)));
+
+// ---------- render ----------
+const ringsG=$('#rings'), arcsG=$('#arcs');
+const ringPool=new Map(), arcPool=new Map();
+const [selOuter,selInner]=document.querySelectorAll('#sel circle');
+function render(){
+  const y=S.year, tr=S.trail, r0=4.6*U;
+  const recent=new Map(), live=[];
+  for(const e of D.ev){ if(e.y>y)break; if(e.y<y-tr)continue; if(!evVisible(e))continue; live.push(e); recent.set(e.i,e); }
+  const showLbl=false; // no place-name labels; only the selected school is named
+  let nAlive=0;
+  for(const i of D.inst){
+    const isSel=i.id===S.sel, vis=instVisible(i), isAlive=alive(i,y), started=i.s<=y;
+    if(isAlive&&S.itOn.has(i.t))nAlive++;
+    const show=isSel||(vis&&started&&(isAlive||S.ghost));
+    if(!show){ if(i._shown!==false){i.g.style.display='none';i.lbl.style.display='none';i._shown=false} continue; }
+    if(i._shown!==true){i.g.style.display='';i._shown=true}
+    const l=locAt(i,Math.max(y,i.s)), ghost=!isAlive;
+    const k=(ghost&&!isSel?0.72:1)*(i.t==='university'?1:0.88)*(isSel?1.35:1)*r0;
+    const tf=`translate(${l.x} ${l.y}) scale(${k})`; if(i._tf!==tf){i.g.setAttribute('transform',tf);i._tf=tf}
+    if(i._ghost!==ghost){i.g.classList.toggle('ghost',ghost);i._ghost=ghost}
+    const re=recent.get(i.id), fill=re?col(re.t):'var(--mk)'; if(i._fill!==fill){i.shape.style.fill=fill;i._fill=fill}
+    if(isSel){selInner.setAttribute('cx',l.x);selInner.setAttribute('cy',l.y);selInner.setAttribute('r',k*2.1);selOuter.setAttribute('cx',l.x);selOuter.setAttribute('cy',l.y);selOuter.setAttribute('r',k*2.1)}
+    if(showLbl||isSel){const lw=(isSel?i.n.length*7:0)*U, left=isSel&&(l.x+k*2.6+lw>S.view.x+S.view.w-50*U);i.lbl.style.display='';i.lbl.setAttribute('text-anchor',left?'end':'start');i.lbl.setAttribute('x',l.x+(left?-1:1)*k*(isSel?2.6:1.7));i.lbl.setAttribute('y',l.y+k*0.45);i.lbl.setAttribute('font-size',(isSel?13:11.5)*U);
+      const txt=isSel?i.n:l.c; if(i.lbl.textContent!==txt)i.lbl.textContent=txt; i.lbl.setAttribute('class','mlbl'+(ghost?' ghost':'')+(isSel?' sel':''));}
+    else i.lbl.style.display='none';
+  }
+  $('#sel').style.display=S.sel?'':'none';
+  if(S.sel){const s=I[S.sel];mlbls.appendChild(s.lbl)}
+  // rings
+  const keep=new Set();
+  for(const e of live){
+    const i=I[e.i]; const a=(y-e.y)/tr, l=locAt(i,e.y);
+    keep.add(e.id); let c=ringPool.get(e.id); if(!c){c=el('circle',{class:'ring',stroke:col(e.t)},ringsG);ringPool.set(e.id,c)}
+    c.setAttribute('cx',l.x);c.setAttribute('cy',l.y);c.setAttribute('r',r0*(1.3+3.2*Math.sqrt(a)));
+    c.setAttribute('stroke-width',2.2-1.4*a); c.setAttribute('opacity',(1-a)*0.95);
+  }
+  for(const [k,c] of ringPool) if(!keep.has(k)){c.remove();ringPool.delete(k)}
+  // arcs
+  const keepA=new Set();
+  for(const e of live){
+    if(!['migration','relocation','merger'].includes(e.t)&&!(e.t==='founding'&&e.fr))continue;
+    const i=I[e.i], to=locAt(i,e.y); let srcs=[];
+    if((e.t==='migration'||e.t==='founding')&&e.fr) srcs=[locAt(I[e.fr],e.y-0.1)];
+    else if(e.t==='relocation'){const idx=i.L.findIndex(l=>l.f===e.y); if(idx>0)srcs=[i.L[idx-1]];}
+    else if(e.t==='merger') srcs=e.rel.map(r=>locAt(I[r],e.y-0.1));
+    srcs.forEach((f,n)=>{ if(!f||(f.x===to.x&&f.y===to.y))return;
+      const key=e.id+':'+n; keepA.add(key); let p=arcPool.get(key);
+      if(!p){p=el('path',{class:'arc',stroke:col(e.t),'marker-end':'url(#arrow)'},arcsG);arcPool.set(key,p)}
+      const mx=(f.x+to.x)/2,my=(f.y+to.y)/2,dx=to.x-f.x,dy=to.y-f.y;
+      p.setAttribute('d',`M${f.x},${f.y}Q${mx-dy*0.22},${my+dx*0.22} ${to.x},${to.y}`);
+      p.setAttribute('opacity',Math.max(0,1-(y-e.y)/tr)*0.9);
+    });
+  }
+  for(const [k,p] of arcPool) if(!keepA.has(k)){p.remove();arcPool.delete(k)}
+  // year stamp
+  const yi=Math.floor(y);
+  $('#stampyr').firstChild.nodeValue=yi;
+  const era=ERAS.find(([a,b,n])=>n&&yi>=a&&yi<=b);
+  $('#stampsub').innerHTML=`${nAlive} school${nAlive===1?'':'s'} in existence${era?` · <span class="era">${esc(era[2])}</span>`:''}`;
+  if(yi!==S._ly){S._ly=yi;$('#range-now').textContent='Up to '+yi;$('#pwhen-now').textContent='Alive in '+yi;if(S.pWhen)schedPeople()}
+  renderPerson(); renderPeopleDots(); updateLogTime(); moveHandle();
+}
+
+// ---------- legend ----------
+$('#legend').innerHTML=`<div><span class="eyebrow">Colour: latest event within the trail</span><div class="row">${Object.keys(EVT).map(t=>`<span class="it"><span class="dot" style="background:${col(t)}"></span>${EVT[t]}</span>`).join('')}</div></div>
+<div><span class="eyebrow">Shape: kind of school</span><div class="row">${Object.keys(INT).map(t=>`<span class="it">${shapeSvg(t,13)}${INT[t]}</span>`).join('')}</div></div>
+<p>Dark marks have had no event within the trail. Hollow marks are schools that have closed. Arrows show secessions, moves and mergers.</p>`;
+$('#legendbtn').onclick=()=>{const L=$('#legend');L.hidden=!L.hidden;$('#legendbtn').setAttribute('aria-expanded',String(!L.hidden))};
+
+// ---------- timeline ----------
+const tl=$('#tl'); let TLW=800; const TLH=96, PADL=2, PADR=6;
+const tx=y=>PADL+(y-T0)/(T1-T0)*(TLW-PADL-PADR);
+const xt=x=>T0+(x-PADL)/(TLW-PADL-PADR)*(T1-T0);
+let handle;
+function drawTimeline(){
+  const r=tl.getBoundingClientRect(); TLW=Math.max(200,r.width); tl.setAttribute('viewBox',`0 0 ${TLW} ${TLH}`); tl.innerHTML='';
+  const top=28, base=74, hh=base-top-2;
+  // era bands with labels placed on two rows to avoid collisions
+  const eg=el('g',{class:'era'},tl); const rowEnd=[-1e9,-1e9];
+  ERAS.forEach(([a,b,n])=>{const x=tx(a),w=Math.max(2,tx(b)-tx(a));el('rect',{x,y:top-4,width:w,height:base-top+4},eg);
+    if(!n)return; const wtxt=n.length*5.6+8, sx=Math.min(x,TLW-PADR-wtxt); const row=rowEnd[0]<sx?0:rowEnd[1]<sx?1:-1; if(row<0)return;
+    el('text',{x:sx,y:row?21:10},eg).textContent=n; rowEnd[row]=sx+wtxt;});
+  // stacked decade bars
+  const bins={}, types=Object.keys(EVT);
+  D.ev.forEach(e=>{if(!evVisible(e)||e.y<T0)return;const b=Math.floor(e.y/10)*10;(bins[b]=bins[b]||{})[e.t]=(bins[b][e.t]||0)+1});
+  let mx=1; for(const b in bins)mx=Math.max(mx,types.reduce((s,t)=>s+(bins[b][t]||0),0));
+  const bw=Math.max(1,tx(810)-tx(800)-0.6);
+  for(const b in bins){let yy=base;types.forEach(t=>{const n=bins[b][t];if(!n)return;const h=n/mx*hh;yy-=h;el('rect',{x:tx(+b),y:yy,width:bw,height:h,fill:col(t)},tl)})}
+  // schools in existence
+  const counts=[]; let amax=1;
+  for(let y=T0;y<=T1;y+=5){const c=D.inst.filter(i=>S.itOn.has(i.t)&&(!S.qset||S.qset.has(i.id))&&alive(i,y)).length;counts.push([y,c]);amax=Math.max(amax,c)}
+  el('path',{class:'tl-active',d:'M'+counts.map(([y,c])=>`${tx(y).toFixed(1)},${(base-c/amax*hh).toFixed(1)}`).join('L')},tl);
+  const ax=el('g',{class:'tl-axis'},tl); el('line',{x1:PADL,x2:TLW-PADR,y1:base,y2:base},ax);
+  const step=TLW<520?200:100;
+  for(let y=T0;y<=T1;y+=step){el('line',{x1:tx(y),x2:tx(y),y1:base,y2:base+4},ax);el('text',{x:tx(y),y:base+16,'text-anchor':y===T0?'start':y===T1?'end':'middle'},ax).textContent=y}
+  $('#tlnote').textContent=`Bars: events per decade · Line: schools open, peak ${amax}`;
+  if(S.person){const p=PP[S.person],st=personRoute(p);const a=p.b??(st[0]&&st[0].f),b=p.d??(st.length&&st[st.length-1].f);
+    if(a!=null&&b!=null){el('rect',{x:tx(Math.max(T0,a)),y:top-6,width:Math.max(3,tx(Math.min(T1,b))-tx(Math.max(T0,a))),height:base-top+6,fill:'none',stroke:'var(--accent)','stroke-width':1.5,rx:2},tl);
+      el('text',{x:tx(Math.max(T0,a))+3,y:21,'font-size':10.5,fill:'var(--accent)','font-weight':600},tl).textContent=p.n;}}
+  handle=el('g',{class:'tl-handle'},tl); el('line',{y1:top-6,y2:base+2},handle); el('rect',{x:-20,y:base+4,width:40,height:16,rx:3},handle); el('text',{y:base+16},handle);
+  moveHandle();
+}
+function moveHandle(){if(!handle)return;handle.setAttribute('transform',`translate(${tx(S.year)} 0)`);handle.querySelector('text').textContent=Math.floor(S.year)}
+let tdrag=false;
+tl.addEventListener('pointerdown',ev=>{tdrag=true;tl.setPointerCapture(ev.pointerId);if(S.playing)setPlaying(false);scrub(ev)});
+tl.addEventListener('pointermove',ev=>{if(tdrag)scrub(ev)});
+tl.addEventListener('pointerup',()=>tdrag=false);
+function scrub(ev){const r=tl.getBoundingClientRect();setYear(Math.round(xt((ev.clientX-r.left)/r.width*TLW)))}
+function setYear(y){S.year=Math.max(T0,Math.min(T1,y));render()}
+
+// ---------- playback ----------
+let last=0;
+function frame(ts){if(!S.playing)return;const dt=last?Math.min(0.1,(ts-last)/1000):0;last=ts;S.year+=dt*S.speed;
+  if(S.year>=T1){S.year=T1;setPlaying(false);return} render(); requestAnimationFrame(frame)}
+function setPlaying(p){if(S.playing===p)return;S.playing=p;last=0;$('#play').setAttribute('aria-label',p?'Pause':'Play');
+  $('#playicon').innerHTML=p?'<path d="M4 3h4v14H4zM12 3h4v14h-4z"/>':'<path d="M5 3l12 7-12 7z"/>';
+  if(p){if(S.year>=T1)S.year=T0;requestAnimationFrame(frame)}else{S.year=Math.floor(S.year);render()}}
+$('#play').onclick=()=>setPlaying(!S.playing);
+const save=()=>{try{localStorage.setItem('studia',JSON.stringify({speed:S.speed,trail:S.trail}))}catch(e){}};
+function seg(id,key,after){const box=$(id);const sync=()=>box.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',String(+b.dataset.v===S[key])));
+  box.addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;S[key]=+b.dataset.v;sync();save();after&&after()});sync()}
+seg('#speed','speed'); seg('#trail','trail',()=>{render();updateLogTime(true)});
+$('#ghost').onchange=e=>{S.ghost=e.target.checked;render()};
+document.addEventListener('keydown',ev=>{if(ev.target.matches('input,select,textarea'))return;
+  if(ev.code==='Space'){ev.preventDefault();setPlaying(!S.playing)}
+  else if(ev.key==='ArrowRight'){ev.preventDefault();setPlaying(false);setYear(Math.floor(S.year)+(ev.shiftKey?10:1))}
+  else if(ev.key==='ArrowLeft'){ev.preventDefault();setPlaying(false);setYear(Math.ceil(S.year)-(ev.shiftKey?10:1))}
+  else if(ev.key==='Escape'){if(S.person){selectPerson(null);tab('ppl')}else select(null)}});
+
+// ---------- filters ----------
+const PRE={all:Object.keys(EVT),found:['founding','charter','refoundation'],close:['suppression','destruction'],reorg:['reform','merger','split','confessional','access'],move:['migration','relocation']};
+const PRENAME={found:'Foundings',close:'Closures',reorg:'Reforms',move:'Moves'};
+function chips(){
+  const ce={},ci={};D.ev.forEach(e=>{ce[e.t]=(ce[e.t]||0)+1});D.inst.forEach(i=>{ci[i.t]=(ci[i.t]||0)+1});
+  $('#evchips').innerHTML=Object.keys(EVT).map(t=>`<button class="chip ${S.evOn.has(t)?'':'off'}" data-t="${t}" aria-pressed="${S.evOn.has(t)}"><span class="dot" style="background:${col(t)}"></span>${EVT[t]} <span class="ct">${ce[t]||0}</span></button>`).join('');
+  $('#itchips').innerHTML=Object.keys(INT).map(t=>`<button class="chip ${S.itOn.has(t)?'':'off'}" data-t="${t}" aria-pressed="${S.itOn.has(t)}">${shapeSvg(t,11)}${INT[t]} <span class="ct">${ci[t]||0}</span></button>`).join('');
+  $('#evall').textContent=S.evOn.size===12?'Hide all':'Show all'; $('#itall').textContent=S.itOn.size===8?'Hide all':'Show all';
+  const pre=Object.keys(PRE).find(k=>PRE[k].length===S.evOn.size&&PRE[k].every(x=>S.evOn.has(x)));
+  document.querySelectorAll('#presets button').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.pre===pre)));
+  // removable chips for everything that differs from the default view
+  const act=[];
+  if(pre&&pre!=='all')act.push(['pre',PRENAME[pre]]);
+  else if(!pre)act.push(['ev',`${S.evOn.size} of 12 event types`]);
+  if(S.itOn.size<8)act.push(['it',S.itOn.size===1?INT[[...S.itOn][0]]:`${S.itOn.size} of 8 kinds of school`]);
+  if(S.region)act.push(['region',S.region]);
+  if(S.vstat)act.push(['vstat',$('#vstat').selectedOptions[0].textContent]);
+  const n=act.length; const fc=$('#fcount'); fc.hidden=!n; fc.textContent=n;
+  $('#activef').hidden=!n;
+  $('#activef').innerHTML=act.map(([k,l])=>`<button data-clear="${k}" aria-label="Remove filter: ${esc(l)}">${esc(l)}</button>`).join('')+(n>1?'<button class="clr" data-clear="all">Clear all</button>':'');
+}
+const toggleIn=(set,t)=>{set.has(t)?set.delete(t):set.add(t)};
+$('#evchips').addEventListener('click',ev=>{const b=ev.target.closest('.chip');if(!b)return;toggleIn(S.evOn,b.dataset.t);refilter()});
+$('#itchips').addEventListener('click',ev=>{const b=ev.target.closest('.chip');if(!b)return;toggleIn(S.itOn,b.dataset.t);refilter()});
+$('#evall').onclick=()=>{S.evOn=S.evOn.size===12?new Set():new Set(Object.keys(EVT));refilter()};
+$('#itall').onclick=()=>{S.itOn=S.itOn.size===8?new Set():new Set(Object.keys(INT));refilter()};
+$('#fbtn').onclick=()=>{const f=$('#filters');f.hidden=!f.hidden;$('#fbtn').setAttribute('aria-expanded',String(!f.hidden))};
+$('#presets').addEventListener('click',ev=>{const b=ev.target.closest('[data-pre]');if(!b)return;S.evOn=new Set(PRE[b.dataset.pre]);refilter()});
+$('#activef').addEventListener('click',ev=>{const b=ev.target.closest('[data-clear]');if(!b)return;const k=b.dataset.clear;
+  if(k==='pre'||k==='ev'||k==='all')S.evOn=new Set(Object.keys(EVT));
+  if(k==='it'||k==='all')S.itOn=new Set(Object.keys(INT));
+  if(k==='region'||k==='all'){S.region='';$('#region').value=''}
+  if(k==='vstat'||k==='all'){S.vstat='';$('#vstat').value=''}
+  refilter()});
+(()=>{const cc={};D.inst.forEach(i=>{if(i.cc)cc[i.cc]=(cc[i.cc]||0)+1});
+  $('#region').insertAdjacentHTML('beforeend',Object.keys(cc).sort().map(c=>`<option value="${esc(c)}">${esc(c)} (${cc[c]})</option>`).join(''));})();
+$('#region').onchange=e=>{S.region=e.target.value;refilter()};
+$('#vstat').onchange=e=>{S.vstat=e.target.value;refilter()};
+const rangeSync=()=>document.querySelectorAll('#range button').forEach(b=>b.setAttribute('aria-pressed',String((b.dataset.v==='1')===S.allYears)));
+$('#range').addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;S.allYears=b.dataset.v==='1';rangeSync();updateLogTime(true)});
+rangeSync();
+function refilter(){chips();rebuildLog();drawTimeline();render()}
+
+// ---------- log ----------
+const logEl=$('#log'); let logItems=[], logGroups=[], logK=-1;
+function rebuildLog(){
+  const list=D.ev.filter(evVisible).slice().reverse();
+  logEl.innerHTML=''; logItems=[]; logGroups=[]; logK=-1;
+  if(!list.length){logEl.innerHTML='<div class="empty">No events match these filters. Remove a filter above to see more.</div>';$('#logcount').textContent='';return}
+  const frag=document.createDocumentFragment(); let g=null;
+  list.forEach(e=>{const i=I[e.i],l=locAt(i,e.y),dec=Math.floor(e.y/10)*10;
+    if(!g||g.dec!==dec){const hd=document.createElement('div');hd.className='dec';hd.innerHTML=`<span>${dec}s</span><span class="n"></span>`;frag.appendChild(hd);g={dec,hd,min:e.y,items:[]};logGroups.push(g)}
+    const b=document.createElement('button');b.className='ev';b.dataset.id=e.id;b.dataset.i=e.i;
+    const src=sourced(e);
+    b.innerHTML=`<span class="yr ${e.a?'ap':''}">${e.y}</span><span class="dot${src?'':' hollow'}" style="${src?`background:${col(e.t)}`:`color:${col(e.t)}`}" title="${EVT[e.t]}${src?'':', not yet sourced'}"></span><span class="tt">${esc(e.ti||EVT[e.t])}</span><span class="wh">${esc(i.n)}${i.n.includes(l.c)?'':', '+esc(l.c)} · <span class="k">${EVT[e.t]}</span></span>`;
+    b.onclick=()=>{setPlaying(false);setYear(e.y);select(e.i,{pan:true,ev:e.id})};
+    frag.appendChild(b);g.items.push(b);g.min=e.y;logItems.push({b,y:e.y,id:e.id,g});
+  });
+  logEl.appendChild(frag); updateLogTime(true); markLog();
+}
+function updateLogTime(force){
+  if(!logItems.length)return;
+  const y=Math.floor(S.year);
+  let k=0; if(!S.allYears){let lo=0,hi=logItems.length;while(lo<hi){const m=(lo+hi)>>1;if(logItems[m].y>y)lo=m+1;else hi=m}k=lo}
+  if(k!==logK||force){
+    const a=force?0:Math.min(k,logK),b=force?logItems.length:Math.max(k,logK);
+    for(let n=a;n<b;n++)logItems[n].b.hidden=n<k;
+    logK=k;
+    logGroups.forEach(g=>{const vis=g.items.filter(b=>!b.hidden).length;g.hd.hidden=!vis;g.hd.lastChild.textContent=vis+(vis===1?' event':' events')});
+  }
+  $('#logcount').textContent=' '+(logItems.length-k);
+  for(let n=k;n<Math.min(logItems.length,k+60);n++)logItems[n].b.classList.toggle('recent',y-logItems[n].y<S.trail&&!S.allYears);
+  if(S.playing&&!S.allYears)logEl.scrollTop=0;
+}
+function markLog(){logItems.forEach(it=>it.b.classList.toggle('on',it.id===S.selEv))}
+
+// ---------- search ----------
+const q=$('#q'), sres=$('#sres');
+const norm=s=>String(s||'').normalize('NFD').replace(/[̀-ͯ]/g,'').toLowerCase();
+D.inst.forEach(i=>{i._q=norm([i.n,...i.alt,...i.L.map(l=>l.c),i.cc].join(' '))});
+D.th.forEach(t=>{t._q=norm(t.n)});
+function applySearch(){
+  const s=norm(q.value.trim());
+  if(!s){S.qset=null;sres.hidden=true;$('#qnote').hidden=true;refilter();return}
+  const insts=D.inst.filter(i=>i._q.includes(s)), people={};
+  D.th.filter(t=>t._q.includes(s)).forEach(t=>{(people[t.n]=people[t.n]||[]).push(t)});
+  const qs=new Set(insts.map(i=>i.id));Object.values(people).flat().forEach(t=>qs.add(t.i));
+  S.qset=qs;
+  $('#qnote').hidden=false;$('#qnote').innerHTML=`<span>Showing ${qs.size} school${qs.size===1?'':'s'} matching “${esc(q.value.trim())}”</span><button id="qclear">Clear</button>`;
+  $('#qclear').onclick=()=>{q.value='';applySearch()};
+  const rows=[...Object.entries(people).slice(0,8).map(([n,ts])=>`<button ${PP[ts[0].p]?`data-p="${ts[0].p}"`:''} data-i="${ts[0].i}"><span class="k">Person</span><span><b>${esc(n)}</b><br><span class="sub">${ts.map(t=>esc(I[t.i].L[0].c)+(t.f?' '+t.f:'')).join(' · ')}</span></span></button>`),
+    ...insts.slice(0,12).map(i=>`<button data-i="${i.id}"><span class="k">${i.t==='university'?'Univ.':'School'}</span><span><b>${esc(i.n)}</b><br><span class="sub">${esc(i.L.map(l=>l.c).join(' → '))} · ${yfmt(i.s,i.sa)}</span></span></button>`)];
+  sres.innerHTML=rows.length?rows.join(''):'<div class="empty">Nothing found.</div>'; sres.hidden=false; refilter();
+}
+q.addEventListener('input',applySearch);
+q.addEventListener('keydown',ev=>{if(ev.key==='Enter'){const b=sres.querySelector('button[data-i]');if(b)b.click()}else if(ev.key==='Escape'){sres.hidden=true}});
+sres.addEventListener('click',ev=>{const b=ev.target.closest('button[data-i]');if(!b)return;sres.hidden=true;if(b.dataset.p){selectPerson(b.dataset.p);return}if(S.person)selectPerson(null);goTo(b.dataset.i)});
+document.addEventListener('pointerdown',ev=>{if(!ev.target.closest('.search'))sres.hidden=true});
+q.addEventListener('focus',()=>{if(q.value.trim()&&sres.innerHTML)sres.hidden=false});
+
+// ---------- tabs ----------
+function tab(n){['log','det','ppl','about'].forEach(k=>{$('#tab-'+k).classList.toggle('on',n===k);$('#pane-'+k).hidden=n!==k})}
+$('#tab-log').onclick=()=>tab('log'); $('#tab-det').onclick=()=>tab('det'); $('#tab-about').onclick=()=>tab('about'); $('#tab-ppl').onclick=()=>{tab('ppl');if(!S.person){$('#pdetail').hidden=true;$('#plistwrap').hidden=false}};
+$('#stats').textContent=`${D.inst.length} schools · ${D.ev.length} events · ${D.th.length} residencies recorded.`;
+
+// ---------- selection ----------
+// One entry point. Any selection the user makes pauses playback, opens the panel,
+// and brings the school into view at a year when it exists.
+function goTo(id,evId){const i=I[id];setPlaying(false);if(S.year<i.s||(i.e!=null&&S.year>=i.e&&!S.ghost))setYear(i.s);select(id,{pan:true,ev:evId})}
+function select(id,opt={}){
+  if(id&&S.person){S.person=null;$('#pdetail').hidden=true;$('#plistwrap').hidden=false;drawTimeline()}
+  if(id&&(opt.pause!==false))setPlaying(false);
+  S.sel=id||null; S.selEv=id?(opt.ev||null):null;
+  try{history.replaceState(null,'',id?'#'+id:location.pathname+location.search)}catch(e){}
+  markLog();
+  if(!id){hideTip();render();$('#detail').innerHTML='<div class="empty">Click a school on the map, or an entry in the event log, to see its history, its seats and the people who studied or taught there.</div>';if(!$('#pane-det').hidden)tab('log');return}
+  const i=I[id]; hideTip(); detail(i,opt.ev); tab('det');
+  if(opt.pan){const l=locAt(i,Math.max(S.year,i.s)),v=S.view;
+    if(l.x<v.x+v.w*.12||l.x>v.x+v.w*.88||l.y<v.y+v.h*.12||l.y>v.y+v.h*.88){S.view={...v,x:l.x-v.w/2,y:l.y-v.h/2};applyView();return}}
+  render();
+}
+function detail(i,evId){
+  const C=Cites();
+  const seats=i.L.map((l,n)=>`${n?'<span aria-hidden="true">→</span>':''}<span>${esc(l.c)} <span class="y">${l.f}</span></span>`).join('');
+  const span=`${yfmt(i.s,i.sa)} – ${i.e?yfmt(i.e,i.ea):'still open in 1900'}`;
+  const evs=i.ev.slice().sort((a,b)=>a.y-b.y), inbound=i.inbound.filter(e=>e.i!==i.id);
+  const N=Math.min(i.th.length,16), LW=360, LH=22+N*11+6, lx=y=>6+(Math.max(T0,Math.min(T1,y))-T0)/(T1-T0)*(LW-12);
+  let life=`<svg class="life" viewBox="0 0 ${LW} ${LH+12}" role="img" aria-label="Lifespan, events and residents">`;
+  life+=`<line x1="6" x2="${LW-6}" y1="12" y2="12" stroke="var(--line)"/>`;
+  life+=`<rect x="${lx(i.s)}" y="8" width="${Math.max(2,lx(i.e??T1)-lx(i.s))}" height="8" rx="2" fill="var(--accent-soft)" stroke="var(--accent)" stroke-width=".6"/>`;
+  evs.forEach(e=>{life+=`<circle cx="${lx(e.y)}" cy="12" r="3.2" fill="${col(e.t)}" stroke="var(--panel)" stroke-width=".8"><title>${e.y} ${esc(e.ti)}</title></circle>`});
+  i.th.slice(0,N).forEach((t,n)=>{const a=t.f??t.to,b=t.to??t.f;if(a==null)return;const yy=22+n*11,x1=lx(a),x2=x1+Math.max(2.5,lx(b)-lx(a)),right=x2<LW*0.62;
+    life+=`<rect x="${x1}" y="${yy}" width="${x2-x1}" height="6" rx="1.5" fill="var(--accent)" opacity=".7"><title>${esc(t.n)} ${a}–${b}</title></rect>`;
+    life+=`<text x="${right?x2+4:x1-4}" y="${yy+6}" text-anchor="${right?'start':'end'}" style="font-size:9.5px;fill:var(--ink)">${esc(t.n)}</text>`});
+  [800,1000,1200,1400,1600,1800].forEach(y=>{life+=`<text x="${lx(y)}" y="${LH+10}" text-anchor="${y===800?'start':'middle'}">${y}</text>`});
+  life+='</svg>';
+  const link=id=>I[id]?`<button class="lnk" data-sel="${id}">${esc(I[id].n)}</button>`:'';
+  const evRow=e=>{const rl=e.rel.filter(r=>r!==e.fr&&r!==e.i);
+    return `<div class="dev${e.id===evId?' on':''}" role="button" tabindex="0" data-y="${e.y}" data-ev="${e.id}"><span class="yr ${e.a?'ap':''}">${yfmt(e.y,e.a)}</span><span class="dot" style="background:${col(e.t)}"></span><span class="tt">${esc(e.ti||EVT[e.t])}${C.ref(e.src)}${stTag(e.st)}</span><span class="ds">${esc(e.d)}</span>${e.cn?`<span class="cn">${esc(e.cn)}</span>`:''}${(e.fr||rl.length)?`<span class="lk">${e.fr?'From '+link(e.fr):''}${rl.length?(e.fr?' · ':'')+'With '+rl.map(link).join(', '):''}</span>`:''}</div>`};
+  $('#detail').innerHTML=`
+    <div class="dhead"><span class="kicker eyebrow">${shapeSvg(i.t,13)}${INT[i.t]}</span><button class="xbtn" id="xclose" aria-label="Close and return to the event log">Close</button></div>
+    <h2>${esc(i.n)}</h2>
+    ${i.alt.length?`<div class="alt">${i.alt.map(esc).join(' · ')}</div>`:''}
+    <dl class="facts">
+      <dt>Years</dt><dd>${span}</dd>
+      <dt>Seat${i.L.length>1?'s':''}</dt><dd class="seats">${seats}</dd>
+      <dt>Founded by</dt><dd>${MODE[i.m]||esc(i.m)}</dd>
+      <dt>Today</dt><dd>${esc(i.cc)}</dd>
+    </dl>
+    <p>${esc(i.sum)}${C.ref(i.src)}</p>
+    ${i.note?`<p class="note">${esc(i.note)}</p>`:''}${i.cnote?`<p class="note">${esc(i.cnote)}</p>`:''}
+    <h3 class="eyebrow">Lifespan${i.th.length?' and residents':''}</h3>${life}
+    <h3 class="eyebrow">Events · ${evs.length}</h3>
+    ${evs.map(evRow).join('')}
+    ${inbound.length?`<h3 class="eyebrow">In other schools’ histories</h3>${inbound.map(e=>`<div class="dev" role="button" tabindex="0" data-y="${e.y}"><span class="yr ${e.a?'ap':''}">${yfmt(e.y,e.a)}</span><span class="dot" style="background:${col(e.t)}"></span><span class="tt">${esc(e.ti)}</span><span class="lk">${link(e.i)}</span></div>`).join('')}`:''}
+    <h3 class="eyebrow">People in residence · ${i.th.length}</h3>
+    ${i.th.length?i.th.map(t=>`<div class="thk"><span class="nm">${t.person?`<button class="lnk" data-p="${t.person}">${esc(t.n)}</button>`:esc(t.n)}${C.ref(t.src)}${stTag(t.st)}</span><span class="yrs">${t.a?'c. ':''}${t.f??'?'}${t.to&&t.to!==t.f?'–'+t.to:''}</span><span class="rl">${esc(t.r)}${t.no?'. '+esc(t.no):''}${others(t)}</span></div>`).join(''):'<p class="note">No famous residents recorded yet.</p>'}
+    <h3 class="eyebrow">Sources</h3>${C.list()}`;
+  $('#detail').scrollTop=0;
+  $('#xclose').onclick=()=>{select(null);tab('log')};
+  if(evId){const b=$('#detail').querySelector(`[data-ev="${CSS.escape(evId)}"]`);if(b)b.scrollIntoView({block:'center'})}
+}
+function others(t){const o=D.th.filter(x=>x.n===t.n&&x.i!==t.i);return o.length?`<br>Also at ${o.map(x=>`<button class="lnk" data-sel="${x.i}">${esc(I[x.i].L[0].c)}</button>`).join(', ')}`:''}
+function devActivate(d){setPlaying(false);setYear(+d.dataset.y);if(d.dataset.ev){S.selEv=d.dataset.ev;document.querySelectorAll('#detail .dev').forEach(x=>x.classList.toggle('on',x===d));markLog()}}
+$('#detail').addEventListener('click',ev=>{
+  const pp=ev.target.closest('[data-p]'); if(pp){ev.stopPropagation();selectPerson(pp.dataset.p);return}
+  if(ev.target.closest('a[data-cite]'))return;
+  const s=ev.target.closest('[data-sel]'); if(s){ev.stopPropagation();goTo(s.dataset.sel);return}
+  const d=ev.target.closest('.dev'); if(d)devActivate(d);
+});
+$('#detail').addEventListener('keydown',ev=>{const d=ev.target.closest('.dev');if(d&&(ev.key==='Enter'||ev.key===' ')){ev.preventDefault();devActivate(d)}});
+
+// ---------- people & citations ----------
+const SRC=D.src||{};
+const KIND={birth:'Born',study:'Studied',teach:'Taught',office:'Office',travel:'Travel',exile:'Exile',research:'Research',death:'Died'};
+const kc=k=>`var(--k-${k})`;
+const PP={}; (D.people||[]).forEach(p=>{PP[p.id]=p;p.st_=[];});
+(D.people||[]).forEach(p=>p.te.forEach(t=>{if(PP[t.id])PP[t.id].st_.push({id:p.id,i:t.i,pl:t.pl,f:t.f,to:t.to,k:t.k,no:t.no,src:t.src})}));
+const lifeTxt=p=>{const b=p.b!=null?yfmt(p.b,p.ba):'',dd=p.d!=null?yfmt(p.d,p.da):'';return (b||dd)?`${b||'?'}–${dd||'?'}`:(p.stops.length?`active ${p.stops[0].f}`:'')};
+// residency -> person
+D.th.forEach(t=>{if(t.p&&PP[t.p])t.person=t.p});
+S.person=null; S.linT=true; S.linS=true;
+
+// citation numbering for one panel
+function Cites(){const order=[],idx={};
+  return {ref(list){const ns=(list||[]).filter(s=>SRC[s]).map(s=>{if(!(s in idx)){idx[s]=order.length+1;order.push(s)}return idx[s]});
+      return ns.length?`<sup class="c">${ns.map(n=>`<a href="#src-${n}" data-cite="${n}">[${n}]</a>`).join('')}</sup>`:''},
+    list(){return order.length?`<ol class="srcs">${order.map((s,n)=>{const o=SRC[s];return `<li id="src-${n+1}">${esc(o.t)}${o.p?`, <i>${esc(o.p)}</i>`:''}. <a href="${esc(o.u)}" target="_blank" rel="noopener">${esc(o.u.replace(/^https?:\/\/(www\.)?/,'').slice(0,70))}</a></li>`}).join('')}</ol>`:'<p class="note">No sources attached yet.</p>'}}}
+const stTag=s=>s&&s!=='confirmed'?`<span class="st ${s}">${s==='doubtful'?'disputed':s}</span>`:'';
+document.addEventListener('click',ev=>{const a=ev.target.closest('a[data-cite]');if(!a)return;ev.preventDefault();
+  const pane=a.closest('.detail');const li=pane&&pane.querySelector('#src-'+a.dataset.cite);if(li){li.scrollIntoView({block:'center',behavior:'smooth'});li.style.background='var(--accent-soft)';setTimeout(()=>li.style.background='',1600)}});
+
+// ---------- map drawing for the selected person ----------
+const pplG=$('#ppl');
+function personRoute(p){return p.stops.filter(s=>s.x!=null)}
+function renderPerson(){
+  pplG.innerHTML=''; svg.classList.toggle('pmode',!!S.person);
+  if(!S.person)return;
+  const p=PP[S.person], y=S.year, r=8*U;
+  const curve=(a,b,bend=0.18)=>{const mx=(a.x+b.x)/2,my=(a.y+b.y)/2,dx=b.x-a.x,dy=b.y-a.y;return `M${a.x},${a.y}Q${mx-dy*bend},${my+dx*bend} ${b.x},${b.y}`};
+  // lineage routes
+  const lin=(ids,cls)=>ids.forEach(id=>{const q=PP[id];if(!q)return;const st=personRoute(q);if(!st.length)return;
+    for(let n=1;n<st.length;n++){if(st[n].x===st[n-1].x&&st[n].y===st[n-1].y)continue;el('path',{class:'lpath '+cls,d:curve(st[n-1],st[n],0.12)},pplG)}
+    const seen=new Set();st.forEach(s=>{const k=s.x+','+s.y;if(seen.has(k))return;seen.add(k);el('circle',{class:'ldot '+cls,cx:s.x,cy:s.y,r:r*0.45},pplG)});
+    const last=st[st.length-1];el('text',{class:'llbl '+cls,x:last.x+r*0.8,y:last.y-r*0.6,'font-size':10.5*U},pplG).textContent=q.n;});
+  if(S.linT)lin([...new Set(p.te.map(t=>t.id))],'t');
+  if(S.linS)lin([...new Set(p.st_.map(t=>t.id))],'s');
+  const st=personRoute(p); if(!st.length)return;
+  const seenPair={};
+  for(let n=1;n<st.length;n++){const a=st[n-1],b=st[n];if(a.x===b.x&&a.y===b.y)continue;
+    const key=[a.x,a.y,b.x,b.y].map(v=>Math.round(v)).join(','), rkey=[b.x,b.y,a.x,a.y].map(v=>Math.round(v)).join(',');
+    const k=(seenPair[key]||0)+(seenPair[rkey]||0); seenPair[key]=(seenPair[key]||0)+1;
+    el('path',{class:'ppath'+(b.f>y?' later':''),d:curve(a,b,0.14+0.09*k),'marker-end':b.f>y?'':'url(#parrow)'},pplG)}
+  // group stops at the same place
+  const groups=[];st.forEach((s,n)=>{let g=groups.find(g=>Math.hypot(g.x-s.x,g.y-s.y)<0.5*r);if(!g){g={x:s.x,y:s.y,items:[]};groups.push(g)}g.items.push({s,n:n+1})});
+  groups.forEach(g=>{const first=g.items[0].s, later=first.f>y;
+    const c=el('circle',{class:'pstop'+(later?' later':''),cx:g.x,cy:g.y,r:r*(g.items.length>1?1.25:1),fill:kc(first.k)},pplG);
+    c.addEventListener('click',ev=>{ev.stopPropagation();setPlaying(false);setYear(first.f)});
+    const nums=g.items.map(i=>i.n).join(',');
+    el('text',{class:'pnum',x:g.x,y:g.y+r*0.36,'font-size':(nums.length>3?8:10)*U},pplG).textContent=nums.length>5?g.items[0].n+'…':nums;
+    const lbl=[...new Set(g.items.map(i=>i.s.i?I[i.s.i].L[0].c:i.s.pl))][0]||first.pl;
+    el('text',{class:'plbl'+(later?' later':''),x:g.x+r*(g.items.length>1?1.6:1.3),y:g.y+r*0.4,'font-size':11.5*U},pplG).textContent=`${lbl} ${g.items[0].s.f}`;});
+}
+
+// ---------- people list ----------
+const plist=$('#plist');
+const FGS=['Theology','Philosophy','Law & politics','Medicine','Mathematics','Astronomy & physics','Chemistry & earth','Life sciences','Letters & history','Engineering'];
+const span=p=>{const st=personRoute(p);const a=p.b??(st[0]&&st[0].f),b=p.d??(st.length?(st[st.length-1].to??st[st.length-1].f):null);return [a,b]};
+const aliveAt=(p,y)=>{const [a,b]=span(p);if(a==null)return false;return a<=y&&y<=(b??a+70)};
+function whereAt(p,y){const st=personRoute(p);let cur=null;for(const s of st){if(s.f<=y)cur=s;else break}
+  if(!cur)return null; if(cur.k==='death'&&cur.f<y)return null; return cur}
+const nowTxt=(s,y)=>{if(!s)return '';const k={birth:'born at',study:'studying at',teach:'teaching at',office:'in office at',travel:'travelling, at',exile:'in exile at',research:'working at',death:'died at'}[s.k]||'at';
+  return `${k} <b>${esc(s.i?I[s.i].n:s.pl)}</b>`};
+function peopleRows(){
+  const s=norm($('#pq').value.trim()), y=Math.floor(S.year);
+  let rows=(D.people||[]).filter(p=>(!S.pSourced||!p.fallback)&&(!S.pLinked||p.te.length||p.st_.length)
+    &&(!S.pFG.size||(p.fg||[]).some(g=>S.pFG.has(g)))
+    &&(!s||norm(p.n).includes(s)||(p.fl||[]).some(f=>norm(f).includes(s)))
+    &&(!S.pWhen||aliveAt(p,y)));
+  const key=p=>span(p)[0]??9999;
+  if(S.pSort==='name')rows.sort((a,b)=>a.n.localeCompare(b.n));
+  else if(S.pSort==='links')rows.sort((a,b)=>(b.te.length+b.st_.length)-(a.te.length+a.st_.length)||key(a)-key(b));
+  else rows.sort((a,b)=>key(a)-key(b));
+  return rows;
+}
+function buildPeopleList(){
+  const rows=peopleRows(), y=Math.floor(S.year), total=(D.people||[]).length;
+  $('#pcount').textContent=`${rows.length} of ${total} people${S.pWhen?` alive in ${y}`:''}`;
+  if(!rows.length){plist.innerHTML=`<div class="empty">${S.pWhen?`Nobody matching these filters is recorded as alive in ${y}.`:'No people match these filters.'}</div>`;return}
+  let html='',cent=null;
+  rows.slice(0,500).forEach(p=>{
+    if(S.pSort==='born'){const c=Math.floor((span(p)[0]??0)/100);if(c!==cent){cent=c;const n=rows.filter(q=>Math.floor((span(q)[0]??0)/100)===c).length;html+=`<div class="dec"><span>${c*100}s</span><span class="n">${n} ${n===1?'person':'people'}</span></div>`}}
+    const where=[...new Set(personRoute(p).filter(x=>x.k!=='birth'&&x.k!=='death').map(x=>x.i?I[x.i].L[0].c:x.pl))].slice(0,4).join(' · ');
+    const lin=[p.te.length?`${p.te.length} teacher${p.te.length===1?'':'s'}`:'',p.st_.length?`${p.st_.length} student${p.st_.length===1?'':'s'}`:''].filter(Boolean).join(', ');
+    const now=S.pWhen?whereAt(p,y):null;
+    html+=`<button class="prow" data-p="${p.id}"><span class="nm">${esc(p.n)}</span><span class="ys">${lifeTxt(p)}</span><span class="sub">${(p.fg||[]).slice(0,2).map(g=>`<span class="tag">${esc(g)}</span>`).join('')}<span>${esc(where)}</span></span>${lin?`<span class="sub"><span class="lin">${lin}</span></span>`:''}${now?`<span class="now">In ${y}: ${nowTxt(now,y)}</span>`:''}</button>`;
+  });
+  if(rows.length>500)html+=`<div class="empty">${rows.length-500} more. Narrow the list with search or fields.</div>`;
+  plist.innerHTML=html;
+}
+let pTimer=0; function schedPeople(){if(pTimer)return;pTimer=setTimeout(()=>{pTimer=0;if(!$('#pane-ppl').hidden&&!S.person)buildPeopleList()},250)}
+function fgChips(){const c={};(D.people||[]).forEach(p=>(p.fg||[]).forEach(g=>c[g]=(c[g]||0)+1));
+  $('#fgchips').innerHTML=FGS.filter(g=>c[g]).map(g=>`<button class="chip ${S.pFG.size&&!S.pFG.has(g)?'off':''}" data-g="${esc(g)}" aria-pressed="${S.pFG.has(g)}">${esc(g)} <span class="ct">${c[g]}</span></button>`).join('');
+  const n=S.pFG.size;$('#pfcount').hidden=!n;$('#pfcount').textContent=n;}
+$('#fgchips').addEventListener('click',ev=>{const b=ev.target.closest('[data-g]');if(!b)return;const g=b.dataset.g;S.pFG.has(g)?S.pFG.delete(g):S.pFG.add(g);fgChips();buildPeopleList();renderPeopleDots()});
+$('#pfbtn').onclick=()=>{const f=$('#pfilters');f.hidden=!f.hidden;$('#pfbtn').setAttribute('aria-expanded',String(!f.hidden))};
+$('#pq').addEventListener('input',()=>{buildPeopleList();renderPeopleDots()});
+$('#psort').onchange=e=>{S.pSort=e.target.value;buildPeopleList()};
+$('#psourced').onchange=e=>{S.pSourced=e.target.checked;buildPeopleList();renderPeopleDots()};
+$('#plinked').onchange=e=>{S.pLinked=e.target.checked;buildPeopleList();renderPeopleDots()};
+$('#pmap').onchange=e=>{S.pMap=e.target.checked;$('#pkey').hidden=!S.pMap;renderPeopleDots()};
+$('#pkey').innerHTML=['study','teach','office','research','travel','exile'].map(k=>`<span><i style="background:${kc(k)}"></i>${KIND[k]}</span>`).join('');
+const pwhenSync=()=>document.querySelectorAll('#pwhen button').forEach(b=>b.setAttribute('aria-pressed',String(+b.dataset.v===S.pWhen)));
+$('#pwhen').addEventListener('click',ev=>{const b=ev.target.closest('button');if(!b)return;S.pWhen=+b.dataset.v;pwhenSync();buildPeopleList()});
+pwhenSync(); fgChips();
+plist.addEventListener('click',ev=>{const b=ev.target.closest('[data-p]');if(b)selectPerson(b.dataset.p)});
+// people on the map: where everyone in the list was in the current year
+const pdotsG=$('#pdots');
+function renderPeopleDots(){
+  pdotsG.innerHTML=''; svg.classList.toggle('pdmode',S.pMap&&!S.person);
+  if(!S.pMap||S.person)return;
+  const y=Math.floor(S.year), r=5.2*U, lbls=[], s=norm($('#pq').value.trim()), placed={};
+  (D.people||[]).forEach(p=>{
+    if(S.pSourced&&p.fallback)return; if(S.pLinked&&!p.te.length&&!p.st_.length)return;
+    if(S.pFG.size&&!(p.fg||[]).some(g=>S.pFG.has(g)))return; if(s&&!norm(p.n).includes(s))return;
+    if(!aliveAt(p,y))return; const w=whereAt(p,y); if(!w||w.x==null)return;
+    const key=Math.round(w.x)+','+Math.round(w.y), n=placed[key]=(placed[key]||0)+1, ang=n*2.4, off=n>1?r*1.3*Math.sqrt(n):0;
+    const cx=w.x+Math.cos(ang)*off, cy=w.y+Math.sin(ang)*off;
+    const c=el('circle',{class:'pdot',cx,cy,r,fill:kc(w.k)},pdotsG); lbls.push([cx,cy,p.n]);
+    c.addEventListener('pointerenter',ev=>{tip.innerHTML=`<b>${esc(p.n)}</b><div class="sub">In ${y}: ${nowTxt(w,y)}</div>`;tip.hidden=false;moveTip(ev)});
+    c.addEventListener('pointerleave',hideTip);
+    c.addEventListener('click',ev=>{ev.stopPropagation();hideTip();selectPerson(p.id,{year:false})});
+  });
+  if(lbls.length<=40)lbls.forEach(([x,y2,n])=>{el('text',{class:'pdlbl',x:x+r*1.3,y:y2+r*0.4,'font-size':11*U},pdotsG).textContent=n.split(' ').length>2?n.split(' ').slice(0,2).join(' '):n});
+}
+// ---------- person detail ----------
+function selectPerson(id,opt={}){
+  setPlaying(false);
+  S.person=id||null;
+  if(!id){$('#pdetail').hidden=true;$('#plistwrap').hidden=false;renderPerson();render();drawTimeline();return}
+  if(S.sel){S.sel=null;S.selEv=null;markLog()}
+  try{history.replaceState(null,'','#p-'+id)}catch(e){}
+  const p=PP[id]; tab('ppl'); $('#plistwrap').hidden=true; const box=$('#pdetail'); box.hidden=false;
+  personDetail(p);
+  const st=personRoute(p);
+  if(st.length&&opt.year!==false){const last=st[st.length-1].f; if(S.year<st[0].f||S.year>last+5)S.year=Math.min(T1,Math.max(T0,(p.d??last)))}
+  if(st.length){let x0=Infinity,y0=Infinity,x1=-Infinity,y1=-Infinity;st.forEach(s=>{x0=Math.min(x0,s.x);y0=Math.min(y0,s.y);x1=Math.max(x1,s.x);y1=Math.max(y1,s.y)});
+    const pad=60,r=wrap.getBoundingClientRect(),ar=r.width/Math.max(1,r.height);let w=Math.max(260,x1-x0+pad*2),h=Math.max(200,y1-y0+pad*2);if(w/h<ar)w=h*ar;else h=w/ar;
+    S.view={x:(x0+x1)/2-w/2,y:(y0+y1)/2-h/2,w,h};}
+  applyView(); drawTimeline();
+}
+function lineageSvg(p){
+  const up1=[...new Set(p.te.map(t=>t.id))].filter(x=>PP[x]).slice(0,6);
+  const up2=[...new Set(up1.flatMap(x=>PP[x].te.map(t=>t.id)))].filter(x=>PP[x]&&x!==p.id&&!up1.includes(x)).slice(0,6);
+  const dn1=[...new Set(p.st_.map(t=>t.id))].filter(x=>PP[x]).slice(0,6);
+  const dn2=[...new Set(dn1.flatMap(x=>PP[x].st_.map(t=>t.id)))].filter(x=>PP[x]&&x!==p.id&&!dn1.includes(x)).slice(0,6);
+  if(!up1.length&&!dn1.length)return '<p class="note">No teacher or student links recorded yet.</p>';
+  const rows=[up2,up1,[p.id],dn1,dn2].filter((r,n)=>r.length||n===2);
+  const labels=[];if(up2.length)labels.push('Their teachers');if(up1.length)labels.push('Teachers');labels.push('');if(dn1.length)labels.push('Students');if(dn2.length)labels.push('Their students');
+  const W2=360,RH=46,H2=rows.length*RH+8,pos={};
+  rows.forEach((r,ri)=>{const n=r.length,cw=Math.min(118,(W2-20)/n);r.forEach((id,k)=>{pos[id]={x:W2/2+(k-(n-1)/2)*cw,y:ri*RH+26,w:cw-8}})});
+  let s=`<svg class="lineage" viewBox="0 0 ${W2} ${H2}" role="img" aria-label="Teachers and students">`;
+  const edge=(a,b)=>{if(!pos[a]||!pos[b])return '';const A=pos[a],B=pos[b];return `<path class="edge" d="M${A.x},${A.y+11}C${A.x},${(A.y+B.y)/2} ${B.x},${(A.y+B.y)/2} ${B.x},${B.y-11}"/>`};
+  (D.people||[]).forEach(q=>q.te.forEach(t=>{if(pos[q.id]&&pos[t.id]&&pos[t.id].y<pos[q.id].y)s+=edge(t.id,q.id)}));
+  rows.forEach((r,ri)=>{if(labels[ri])s+=`<text class="rowlbl" x="2" y="${ri*RH+6}">${labels[ri].toUpperCase()}</text>`});
+  Object.entries(pos).forEach(([id,o])=>{const q=PP[id],nm=q.n.length*5.6>o.w?q.n.split(' ').slice(-1)[0]:q.n;
+    s+=`<g class="node${id===p.id?' me':''}" data-p="${id}"><title>${esc(q.n)} ${lifeTxt(q)}</title><rect x="${o.x-o.w/2}" y="${o.y-11}" width="${o.w}" height="22" rx="11"/><text x="${o.x}" y="${o.y}">${esc(nm)}</text></g>`});
+  return s+'</svg>';
+}
+function personDetail(p){
+  const C=Cites(), y=S.year;
+  const relRow=(r,who)=>{const q=PP[r.id];const where=r.i?`<button class="lnk" data-sel="${r.i}">${esc(I[r.i].n)}</button>`:esc(r.pl||'');
+    const yrs=r.f?(r.to&&r.to!==r.f?`${r.f}–${r.to}`:r.f):'';
+    return `<div class="rel"><button class="lnk" data-p="${r.id}">${esc(q.n)}</button> <span class="where">${lifeTxt(q)}</span>${C.ref(r.src)}<br><span class="where">${esc(r.k||who)}${where?' · '+where:''}${yrs?' · '+yrs:''}</span>${r.no?`<br><span class="where"><i>${esc(r.no)}</i></span>`:''}</div>`};
+  const stops=personRoute(p).map((s,n)=>`<div class="stop${s.f>y?' later':''}" data-y="${s.f}"><span class="kdot" style="background:${kc(s.k)}">${n+1}</span><span class="yr ${s.a?'ap':''}">${yfmt(s.f,s.a)}${s.to&&s.to!==s.f?'–'+s.to:''}</span><span><span class="kd" style="color:${kc(s.k)}">${KIND[s.k]||s.k}</span> · <span class="pl">${s.i?`<button class="lnk" data-sel="${s.i}">${esc(I[s.i].n)}</button>`:esc(s.pl)}</span>${C.ref(s.src)}</span>${s.no?`<span class="no">${esc(s.no)}</span>`:''}</div>`).join('');
+  const kinds=[...new Set(personRoute(p).map(s=>s.k))];
+  $('#pdetail').innerHTML=`
+    <div class="dhead"><button class="xbtn" id="pback">← All people</button><button class="xbtn" id="pclose">Close</button></div>
+    <h2>${esc(p.n)}</h2>
+    <div class="alt">${lifeTxt(p)}${(p.fl||[]).length?' · '+p.fl.map(esc).join(', '):''}</div>
+    ${p.bio?`<p style="margin-top:10px">${esc(p.bio)}${C.ref(p.src)}</p>`:''}
+    ${p.fallback?'<p class="note">This route is built from residencies alone. A sourced life path has not been added yet.</p>':''}
+    <h3 class="eyebrow">Teachers and students</h3>
+    ${lineageSvg(p)}
+    <div class="lintog"><label><input type="checkbox" id="linT" ${S.linT?'checked':''}><span class="sw" style="border-color:var(--lin-teacher)"></span>Teachers’ routes</label><label><input type="checkbox" id="linS" ${S.linS?'checked':''}><span class="sw" style="border-color:var(--lin-student)"></span>Students’ routes</label></div>
+    <h3 class="eyebrow">Route · ${personRoute(p).length} stops</h3>
+    <div class="legend-k">${kinds.map(k=>`<span><i style="background:${kc(k)}"></i>${KIND[k]}</span>`).join('')}</div>
+    ${stops||'<p class="note">No stops recorded.</p>'}
+    ${p.te.length?`<h3 class="eyebrow">Studied under</h3>${p.te.map(r=>relRow(r,'teacher')).join('')}`:''}
+    ${p.st_.length?`<h3 class="eyebrow">Students</h3>${p.st_.map(r=>relRow(r,'student')).join('')}`:''}
+    <h3 class="eyebrow">Sources</h3>${C.list()}`;
+  $('#pdetail').scrollTop=0;
+  $('#pback').onclick=()=>{selectPerson(null);tab('ppl')};
+  $('#pclose').onclick=()=>{selectPerson(null);fit()};
+  $('#linT').onchange=e=>{S.linT=e.target.checked;renderPerson()};
+  $('#linS').onchange=e=>{S.linS=e.target.checked;renderPerson()};
+}
+$('#pdetail').addEventListener('click',ev=>{
+  const pn=ev.target.closest('[data-p]'); if(pn){ev.stopPropagation();selectPerson(pn.dataset.p);return}
+  const s=ev.target.closest('[data-sel]'); if(s){ev.stopPropagation();selectPerson(null);goTo(s.dataset.sel);return}
+  const st=ev.target.closest('.stop'); if(st){setPlaying(false);setYear(+st.dataset.y)}
+});
+function verificationSummary(){
+  const c={confirmed:0,corrected:0,unverified:0,doubtful:0,unchecked:0};D.ev.forEach(e=>{c[e.st||'unchecked']=(c[e.st||'unchecked']||0)+1});
+  const n=D.ev.length,seg=(k,v)=>c[k]?`<span style="width:${c[k]/n*100}%;background:${v}" title="${k} ${c[k]}"></span>`:'';
+  $('#vstats').innerHTML=`<div class="vbar">${seg('confirmed','var(--ev-founding)')}${seg('corrected','var(--ev-reform)')}${seg('doubtful','var(--ev-suppression)')}${seg('unverified','var(--faint)')}</div>
+  <p class="vnote">Events: ${c.confirmed} confirmed, ${c.corrected} corrected, ${c.doubtful} disputed, ${c.unverified} unverified${c.unchecked?`, ${c.unchecked} not yet checked`:''}. ${Object.keys(SRC).length} sources.</p>`;
+}
+
+// ---------- boot ----------
+chips(); rebuildLog(); drawTimeline(); fit();
+verificationSummary(); buildPeopleList();
+const h=location.hash.slice(1);
+if(h.startsWith('p-')&&PP[h.slice(2)])selectPerson(h.slice(2));
+else if(h&&I[h]){S.year=Math.max(I[h].s,T0);select(h,{pan:true})} else setYear(1300);
+})();
+</script>

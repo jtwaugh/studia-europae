@@ -1,0 +1,3630 @@
+{
+ "group": "fr",
+ "sources": {
+  "fr-001": {
+   "title": "Universities",
+   "publisher": "Catholic Encyclopedia (1913), New Advent",
+   "url": "https://www.newadvent.org/cathen/15188a.htm",
+   "tier": 2
+  },
+  "fr-002": {
+   "title": "University of Paris",
+   "publisher": "Catholic Encyclopedia (1913), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/university-of-paris",
+   "tier": 2
+  },
+  "fr-003": {
+   "title": "Historical Overview",
+   "publisher": "Faculté de Médecine, Université de Montpellier",
+   "url": "https://facmedecine.umontpellier.fr/en/patrimoine-historique/son-histoire/",
+   "tier": 1
+  },
+  "fr-004": {
+   "title": "The University History",
+   "publisher": "Université Toulouse Capitole",
+   "url": "https://www.ut-capitole.fr/home/the-university/the-university-history",
+   "tier": 1
+  },
+  "fr-005": {
+   "title": "Universities",
+   "publisher": "Encyclopaedia Britannica, 11th ed. (1911), Wikisource",
+   "url": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Universities",
+   "tier": 2
+  },
+  "fr-006": {
+   "title": "Condemnation of 1277",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/condemnation/",
+   "tier": 2
+  },
+  "fr-007": {
+   "title": "History",
+   "publisher": "Sorbonne Université",
+   "url": "https://d-www.dsi.sorbonne-universite.fr/en/university/history-and-heritage/history",
+   "tier": 1
+  },
+  "fr-008": {
+   "title": "Henri Poincaré",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poincare/",
+   "tier": 2
+  },
+  "fr-009": {
+   "title": "Thomas Aquinas",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/aquinas/",
+   "tier": 2
+  },
+  "fr-010": {
+   "title": "Peter Abelard",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/abelard/",
+   "tier": 2
+  },
+  "fr-011": {
+   "title": "Albert the Great",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/albert-great/",
+   "tier": 2
+  },
+  "fr-012": {
+   "title": "Saint Bonaventure",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/bonaventure/",
+   "tier": 2
+  },
+  "fr-013": {
+   "title": "John Duns Scotus",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/duns-scotus/",
+   "tier": 2
+  },
+  "fr-014": {
+   "title": "John Buridan",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/buridan/",
+   "tier": 2
+  },
+  "fr-015": {
+   "title": "Nicole Oresme",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/nicole-oresme/",
+   "tier": 2
+  },
+  "fr-016": {
+   "title": "Desiderius Erasmus",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/erasmus/",
+   "tier": 2
+  },
+  "fr-017": {
+   "title": "Joseph-Louis Lagrange",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Lagrange/",
+   "tier": 2
+  },
+  "fr-018": {
+   "title": "Pierre-Simon Laplace",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Laplace/",
+   "tier": 2
+  },
+  "fr-019": {
+   "title": "Joseph Fourier",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fourier/",
+   "tier": 2
+  },
+  "fr-020": {
+   "title": "Gaspard Monge",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Monge/",
+   "tier": 2
+  },
+  "fr-021": {
+   "title": "Augustin-Louis Cauchy",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Cauchy/",
+   "tier": 2
+  },
+  "fr-022": {
+   "title": "Siméon Denis Poisson",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Poisson/",
+   "tier": 2
+  },
+  "fr-023": {
+   "title": "Charles Coulomb",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Coulomb/",
+   "tier": 2
+  },
+  "fr-024": {
+   "title": "Lazare Carnot",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Carnot/",
+   "tier": 2
+  },
+  "fr-025": {
+   "title": "Gaspard-Gustave de Coriolis",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Coriolis/",
+   "tier": 2
+  },
+  "fr-026": {
+   "title": "Sadi Carnot",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Carnot_Sadi/",
+   "tier": 2
+  },
+  "fr-027": {
+   "title": "Augustin Fresnel",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fresnel/",
+   "tier": 2
+  },
+  "fr-028": {
+   "title": "André-Marie Ampère",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ampere/",
+   "tier": 2
+  },
+  "fr-029": {
+   "title": "Claude-Louis Navier",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Navier/",
+   "tier": 2
+  },
+  "fr-030": {
+   "title": "Évariste Galois",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Galois/",
+   "tier": 2
+  },
+  "fr-031": {
+   "title": "Petrus Ramus",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Ramus/",
+   "tier": 2
+  },
+  "fr-032": {
+   "title": "René Descartes",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Descartes/",
+   "tier": 2
+  },
+  "fr-033": {
+   "title": "Marin Mersenne",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Mersenne/",
+   "tier": 2
+  },
+  "fr-034": {
+   "title": "Pierre Gassendi",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Gassendi/",
+   "tier": 2
+  },
+  "fr-035": {
+   "title": "Nicole Oresme",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Oresme/",
+   "tier": 2
+  },
+  "fr-036": {
+   "title": "Louis Pasteur",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Louis-Pasteur",
+   "tier": 2
+  },
+  "fr-037": {
+   "title": "Jean Jaurès",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Jean-Jaures",
+   "tier": 2
+  },
+  "fr-038": {
+   "title": "Henri Bergson",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/bergson/",
+   "tier": 2
+  },
+  "fr-039": {
+   "title": "Pierre Curie – Biographical",
+   "publisher": "Nobel Prize Outreach (nobelprize.org)",
+   "url": "https://www.nobelprize.org/prizes/physics/1903/pierre-curie/biographical/",
+   "tier": 2
+  },
+  "fr-040": {
+   "title": "Auguste Comte",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/comte/",
+   "tier": 2
+  },
+  "fr-041": {
+   "title": "Petrus Ramus",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/ramus/",
+   "tier": 2
+  },
+  "fr-042": {
+   "title": "Georges Cuvier",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Georges-Cuvier",
+   "tier": 2
+  },
+  "fr-043": {
+   "title": "Antoine-Laurent de Jussieu",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Antoine-Laurent-de-Jussieu",
+   "tier": 2
+  },
+  "fr-044": {
+   "title": "Ernest Renan",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Ernest-Renan",
+   "tier": 2
+  },
+  "fr-045": {
+   "title": "Pierre de Fermat",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Fermat/",
+   "tier": 2
+  },
+  "fr-046": {
+   "title": "Paris, 1875: la liberté de l'enseignement et la naissance des universités catholiques",
+   "publisher": "Institut catholique de Paris",
+   "url": "https://www.icp.fr/a-propos-de-licp/actualites/decennie-1870-n3-paris-1875-la-liberte-de-lenseignement-et-la-naissance-des-universites-catholiques",
+   "tier": 1
+  },
+  "fr-047": {
+   "title": "History and heritage",
+   "publisher": "Université Catholique de Lille",
+   "url": "https://www.univ-catholille.fr/en/history-and-heritage/",
+   "tier": 1
+  },
+  "fr-048": {
+   "title": "Our history",
+   "publisher": "Université Catholique de Lyon (UCLy)",
+   "url": "https://www.ucly.fr/en/ucly/our-institution/our-history/",
+   "tier": 1
+  },
+  "fr-049": {
+   "title": "Communiqué de presse, 16 septembre 2025",
+   "publisher": "Université catholique de l'Ouest",
+   "url": "https://www.uco.fr/sites/default/files/2025-09/CP-UCO-16-09-2025.pdf",
+   "tier": 1
+  },
+  "fr-050": {
+   "title": "Institut catholique de Toulouse (fiche établissement)",
+   "publisher": "Campus France",
+   "url": "https://www.campusfrance.org/system/files/medias/documents/2026-03/institut_cathotoulou_es.pdf",
+   "tier": 3
+  },
+  "fr-051": {
+   "title": "Histoire de l'École, des élèves et des ingénieurs",
+   "publisher": "École des Ponts ParisTech (patrimoine)",
+   "url": "https://heritage.ecoledesponts.fr/enpc/en/content/histoire-de-lecole-des-eleves-et-des-ingenieurs-en",
+   "tier": 1
+  },
+  "fr-052": {
+   "title": "History of the School of Mines and of the Collections",
+   "publisher": "Musée de minéralogie, Mines Paris – PSL",
+   "url": "https://www.musee.minesparis.psl.eu/337",
+   "tier": 1
+  },
+  "fr-053": {
+   "title": "History of the School",
+   "publisher": "CentraleSupélec",
+   "url": "https://www.centralesupelec.fr/en/Story",
+   "tier": 1
+  },
+  "fr-054": {
+   "title": "History and Heritage",
+   "publisher": "ESPCI Paris – PSL",
+   "url": "https://www.espci.psl.eu/en/about/history-and-heritage/",
+   "tier": 1
+  },
+  "fr-055": {
+   "title": "History",
+   "publisher": "École polytechnique",
+   "url": "https://www.polytechnique.edu/en/history",
+   "tier": 1
+  },
+  "fr-056": {
+   "title": "Frise chronologique",
+   "publisher": "École nationale des chartes – PSL",
+   "url": "https://chartes.psl.eu/en/school/history/frise-chronologique",
+   "tier": 1
+  },
+  "fr-057": {
+   "title": "History",
+   "publisher": "VetAgro Sup",
+   "url": "https://www.vetagro-sup.fr/history/",
+   "tier": 1
+  },
+  "fr-058": {
+   "title": "Discover Sciences Po's 150 Years of History Using the Digital Timeline",
+   "publisher": "International Political Science Association",
+   "url": "https://www.ipsa.org/na/news/discover-sciences-pos-150-years-history-using-digital-timeline",
+   "tier": 3
+  },
+  "fr-059": {
+   "title": "The Reformed Academies in the XVIth and XVIIth centuries",
+   "publisher": "Musée protestant (Fondation pasteur Eugène Bersier)",
+   "url": "https://museeprotestant.org/en/notice/the-reformed-academies/",
+   "tier": 2
+  },
+  "fr-060": {
+   "title": "Saumur",
+   "publisher": "Historisches Lexikon der Schweiz / Dictionnaire historique de la Suisse",
+   "url": "https://hls-dhs-dss.ch/fr/articles/006612/2014-10-02/",
+   "tier": 2
+  },
+  "fr-061": {
+   "title": "The Protestant Académie de Die (1604–1684)",
+   "publisher": "Rivisteweb (Il Mulino)",
+   "url": "https://www.rivisteweb.it/doi/10.17396/88309",
+   "tier": 2
+  },
+  "fr-062": {
+   "title": "Pierre Jurieu (1637–1713)",
+   "publisher": "Musée protestant",
+   "url": "https://museeprotestant.org/en/notice/pierre-jurieu-1637-1713-2/",
+   "tier": 2
+  },
+  "fr-063": {
+   "title": "The Institution and Its History: 5 centuries of history",
+   "publisher": "Collège de France",
+   "url": "https://www.college-de-france.fr/en/the-college-and-its-history/5-centuries-of-history",
+   "tier": 1
+  },
+  "fr-064": {
+   "title": "History of the chemistry at the Museum",
+   "publisher": "Muséum national d'histoire naturelle",
+   "url": "https://mcam.mnhn.fr/en/history-chemistry-museum-349",
+   "tier": 1
+  },
+  "fr-065": {
+   "title": "Universities of Lille I, II, and III",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/print/article/341041",
+   "tier": 2
+  },
+  "fr-066": {
+   "title": "From Pont-à-Mousson to Nancy: the University's move to Lorraine after 1768",
+   "publisher": "Rivisteweb (Il Mulino)",
+   "url": "https://rivisteweb.it/doi/10.17396/81672",
+   "tier": 2
+  },
+  "fr-067": {
+   "title": "Scholars and Literati at the Collège de Clermont in Paris (1563–1762)",
+   "publisher": "Revue d'études théologiques et religieuses / UCLouvain",
+   "url": "https://ojs.uclouvain.be/index.php/RETE/article/view/90783",
+   "tier": 2
+  },
+  "fr-068": {
+   "title": "History",
+   "publisher": "Université Clermont Auvergne",
+   "url": "https://www.uca.fr/en/history",
+   "tier": 1
+  },
+  "fr-069": {
+   "title": "L'enseignement supérieur à Lyon (dossier historique)",
+   "publisher": "Millénaire 3, Métropole de Lyon",
+   "url": "https://millenaire3.grandlyon.com/content/download/3189/54149",
+   "tier": 3
+  },
+  "fr-070": {
+   "title": "16 août 1861: la première bachelière",
+   "publisher": "Hérodote.net",
+   "url": "https://www.herodote.net/16_aout_1861-evenement-18610816.php",
+   "tier": 3
+  },
+  "fr-071": {
+   "title": "Peter Lombard",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Peter-Lombard",
+   "tier": 2
+  },
+  "fr-072": {
+   "title": "Siger de Brabant",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Siger-de-Brabant",
+   "tier": 2
+  },
+  "fr-073": {
+   "title": "Jean Bodin",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/bodin/",
+   "tier": 2
+  },
+  "fr-074": {
+   "title": "Hugo Grotius",
+   "publisher": "Stanford Encyclopedia of Philosophy",
+   "url": "https://plato.stanford.edu/entries/grotius/",
+   "tier": 2
+  },
+  "fr-075": {
+   "title": "Jacques Cujas",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Jacques-Cujas",
+   "tier": 2
+  },
+  "fr-076": {
+   "title": "William Allen",
+   "publisher": "Catholic Encyclopedia (1913), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/william-allen",
+   "tier": 2
+  },
+  "fr-077": {
+   "title": "Juan Maldonado",
+   "publisher": "Catholic Encyclopedia (1913), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/juan-maldonado",
+   "tier": 2
+  },
+  "fr-078": {
+   "title": "Georges-Louis Leclerc, Comte de Buffon",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Buffon/",
+   "tier": 2
+  },
+  "fr-079": {
+   "title": "Charles Dupin",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Dupin/",
+   "tier": 2
+  },
+  "fr-080": {
+   "title": "Jean-François Champollion",
+   "publisher": "MacTutor History of Mathematics",
+   "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Champollion/",
+   "tier": 2
+  },
+  "fr-081": {
+   "title": "Jules Michelet",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Jules-Michelet",
+   "tier": 2
+  },
+  "fr-082": {
+   "title": "Frédéric Le Play",
+   "publisher": "Encyclopaedia Britannica",
+   "url": "https://www.britannica.com/biography/Frederic-Le-Play",
+   "tier": 2
+  },
+  "fr-083": {
+   "title": "Décret portant sur l'organisation de l'Université impériale, 17 mars 1808",
+   "publisher": "Fondation Napoléon (napoleon.org)",
+   "url": "https://www.napoleon.org/histoire-des-2-empires/articles/document-decret-portant-organisation-de-luniversite-imperiale-17-mars-1808/",
+   "tier": 1
+  },
+  "fr-084": {
+   "title": "300 years of the University of Burgundy",
+   "publisher": "Université de Bourgogne (LEAD)",
+   "url": "https://lead.ube.fr/?p=2791",
+   "tier": 1
+  },
+  "fr-085": {
+   "title": "History of URCA",
+   "publisher": "Université de Reims Champagne-Ardenne",
+   "url": "https://www.univ-reims.eu/about-the-university/presentation/history/history-of-urca,25749,42410.html",
+   "tier": 1
+  },
+  "fr-086": {
+   "title": "Les facultés catholiques de droit (Revue d'histoire des facultés de droit, 5, 1987)",
+   "publisher": "Société pour l'histoire des facultés de droit",
+   "url": "https://univ-droit.fr/docs/recherche/rhfd/pdf/05-1987/05-1987-p073-099.pdf",
+   "tier": 2
+  },
+  "fr-087": {
+   "title": "John Calvin",
+   "publisher": "Catholic Encyclopedia (1913), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/john-calvin",
+   "tier": 2
+  },
+  "fr-088": {
+   "title": "William Barclay",
+   "publisher": "Catholic Encyclopedia (1913), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/william-barclay",
+   "tier": 2
+  },
+  "fr-089": {
+   "title": "Grandes figures de la médecine (livret des 800 ans)",
+   "publisher": "Faculté de Médecine, Université de Montpellier",
+   "url": "https://facmedecine.umontpellier.fr/wp-content/uploads/2021/12/Livret-800-ans-Grandes-Figures-de-la-Medecine.pdf",
+   "tier": 1
+  },
+  "fr-090": {
+   "title": "Alciat André (1492–1550)",
+   "publisher": "Encyclopædia Universalis",
+   "url": "https://www.universalis.fr/encyclopedie/andre-alciat/",
+   "tier": 2
+  },
+  "fr-091": {
+   "title": "Cujas Jacques (1520–1590)",
+   "publisher": "Encyclopædia Universalis",
+   "url": "https://www.universalis.fr/encyclopedie/jacques-cujas/",
+   "tier": 2
+  },
+  "fr-092": {
+   "title": "The Great Dispersion of the University of Paris and the Rise of European Universities (1229–1231)",
+   "publisher": "CIAN – Revista de Historia de las Universidades (N. Gorochov, 2018)",
+   "url": "https://e-revistas.uc3m.es/index.php/CIAN/en/article/view/4192",
+   "tier": 2
+  },
+  "fr-093": {
+   "title": "University of Angers",
+   "publisher": "Catholic Encyclopedia (1913), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/university-of-angers",
+   "tier": 2
+  },
+  "fr-094": {
+   "title": "600 ans de l'Université de Franche-Comté (fascicule de présentation)",
+   "publisher": "Université de Franche-Comté",
+   "url": "https://600ans.univ-fcomte.fr/wp-content/uploads/2023/12/fascicule-presentation-pdf.pdf",
+   "tier": 1
+  },
+  "fr-095": {
+   "title": "Dole",
+   "publisher": "Dictionnaire historique de la Suisse",
+   "url": "https://hls-dhs-dss.ch/fr/articles/007049/2005-02-08/",
+   "tier": 2
+  },
+  "fr-096": {
+   "title": "Scholars and Literati at the University of Bourges (1464–1793)",
+   "publisher": "Revue d'études théologiques et religieuses / UCLouvain",
+   "url": "https://ojs.uclouvain.be/index.php/RETE/article/view/84613",
+   "tier": 2
+  },
+  "fr-097": {
+   "title": "The French Grandes Écoles, chapter 2",
+   "publisher": "MacTutor History of Mathematics (M. Ayel)",
+   "url": "https://mathshistory.st-andrews.ac.uk/Projects/Ayel/chapter-2",
+   "tier": 2
+  },
+  "fr-098": {
+   "title": "History of the University",
+   "publisher": "Université de Pau et des Pays de l'Adour",
+   "url": "https://organisation.univ-pau.fr/en/discover-uppa/history.html",
+   "tier": 1
+  },
+  "fr-099": {
+   "title": "19th century: thrust into the upheaval of the times",
+   "publisher": "École polytechnique",
+   "url": "https://polytechnique.edu/en/school/history/19th-century-thrust-upheaval-times",
+   "tier": 1
+  },
+  "fr-100": {
+   "title": "John Gerson",
+   "publisher": "New Catholic Encyclopedia, via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/john-gerson",
+   "tier": 2
+  },
+  "fr-101": {
+   "title": "St. Ignatius Loyola (Catholic Encyclopedia, 1913)",
+   "publisher": "EWTN Library",
+   "url": "https://www.ewtn.com/catholicism/library/st-ignatius-loyola-5090",
+   "tier": 2
+  },
+  "fr-102": {
+   "title": "Joseph Louis Gay-Lussac",
+   "publisher": "Store norske leksikon",
+   "url": "https://snl.no/Joseph_Louis_Gay-Lussac",
+   "tier": 2
+  },
+  "fr-103": {
+   "title": "Célébration du 150e anniversaire de la naissance de Marie Curie",
+   "publisher": "Ministère de l'Enseignement supérieur et de la Recherche",
+   "url": "https://www.enseignementsup-recherche.gouv.fr/fr/celebration-du-150e-anniversaire-de-la-naissance-de-marie-curie-49204",
+   "tier": 1
+  },
+  "fr-104": {
+   "title": "Emile Durkheim: His Life and Work (1858–1917)",
+   "publisher": "University of Chicago, Durkheim pages",
+   "url": "https://durkheim.uchicago.edu/Biography.html",
+   "tier": 2
+  },
+  "fr-105": {
+   "title": "Alfred Firmin Loisy",
+   "publisher": "Encyclopedia of World Biography, via Encyclopedia.com",
+   "url": "https://www.encyclopedia.com/people/philosophy-and-religion/roman-catholic-and-orthodox-churches-general-biographies/alfred-firmin-loisy",
+   "tier": 2
+  },
+  "fr-106": {
+   "title": "Edouard Branly Museum",
+   "publisher": "Institut catholique de Paris",
+   "url": "https://en.icp.fr/campus-life/discovering-the-campus/edouard-branly-museum",
+   "tier": 1
+  },
+  "fr-107": {
+   "title": "Molière (1622–1673)",
+   "publisher": "Hérodote.net",
+   "url": "https://www.herodote.net/Quatorze_ans_de_comedies_pour_acceder_a_l_immortalite-synthese-2764-551.php",
+   "tier": 3
+  },
+  "fr-108": {
+   "title": "Voltaire (fiche)",
+   "publisher": "Musées de Lausanne (MUSERIS)",
+   "url": "https://museris.lausanne.ch/SGP/getPDFFiche.aspx?id=6360",
+   "tier": 3
+  },
+  "fr-109": {
+   "title": "A History of Women's Entrance Into Medicine",
+   "publisher": "BIU Santé, Université Paris Cité",
+   "url": "https://www.biusante.parisdescartes.fr/histoire/medica/presentations/entree-femmes-en-medecine-en.php",
+   "tier": 2
+  },
+  "fr-110": {
+   "title": "La Flèche – Prytanée national militaire",
+   "publisher": "Chemins de mémoire, Ministère des Armées",
+   "url": "https://www.cheminsdememoire.gouv.fr/en/taxonomy/term/310",
+   "tier": 1
+  },
+  "fr-111": {
+   "title": "Histoire du Collège de Louis-le-Grand (G. Émond, 1845), excerpt",
+   "publisher": "Università Ca' Foscari Venezia (HiTrade)",
+   "url": "https://open.unive.it/hitrade/books/EmondCollege.pdf",
+   "tier": 2
+  },
+  "fr-112": {
+   "title": "Brochure legs et donations 2025 (historique de l'École)",
+   "publisher": "Fondation de l'École normale supérieure",
+   "url": "https://fondation.ens.psl.eu/wp-content/uploads/2025/09/FENS_BrochureLegs2025V2_A4_WEB.pdf",
+   "tier": 1
+  },
+  "fr-113": {
+   "title": "1794–1804: Revolution and Napoleonic Period",
+   "publisher": "École polytechnique",
+   "url": "https://polytechnique.edu/en/school/history/1794-1804-revolution-and-napoleonic-period",
+   "tier": 1
+  },
+  "fr-114": {
+   "title": "Université de Toulouse (1229–1794)",
+   "publisher": "data.bnf.fr, Bibliothèque nationale de France",
+   "url": "https://data.bnf.fr/12491074/universite_de_toulouse_1229-1794/fr.pdf",
+   "tier": 2
+  },
+  "fr-115": {
+   "title": "Douai",
+   "publisher": "Catholic Encyclopedia (1913), via Catholic Answers",
+   "url": "https://www.catholic.com/encyclopedia/douai",
+   "tier": 2
+  },
+  "fr-116": {
+   "title": "Claude Bernard – Biography",
+   "publisher": "Collège de France",
+   "url": "https://www.college-de-france.fr/en/chair/claude-bernard-medicine-statutory-chair/biography",
+   "tier": 1
+  },
+  "fr-117": {
+   "title": "Beza, Theodore",
+   "publisher": "New Schaff-Herzog Encyclopedia of Religious Knowledge, via CCEL",
+   "url": "https://www.ccel.org/s/schaff/encyc/encyc02/htm/iv.v.lv.htm",
+   "tier": 2
+  },
+  "fr-118": {
+   "title": "St. Edmund Campion (Catholic Encyclopedia, 1913)",
+   "publisher": "EWTN Library",
+   "url": "https://www.ewtn.com/catholicism/library/st-edmund-campion-5059",
+   "tier": 2
+  }
+ },
+ "institutions": {
+  "u-paris": {
+   "src": [
+    "fr-002",
+    "fr-001",
+    "fr-005",
+    "fr-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-montpellier": {
+   "src": [
+    "fr-003",
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-toulouse": {
+   "src": [
+    "fr-004",
+    "fr-005",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-orleans": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-angers": {
+   "src": [
+    "fr-005",
+    "fr-093"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-montpellier": {
+   "src": [
+    "fr-003",
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-avignon": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-cahors": {
+   "src": [
+    "fr-005",
+    "fr-114"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-grenoble": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-orange": {
+   "src": [
+    "fr-005",
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aix": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dole-besancon": {
+   "src": [
+    "fr-094",
+    "fr-095"
+   ],
+   "fix": {
+    "start_approx": false
+   },
+   "note": "Martin V authorised the university on 15 October 1422 at Philip the Good's request, and the duke created it on 22 June 1423. Letters patent of May 1691 moved it to Besançon."
+  },
+  "u-poitiers": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-caen": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bordeaux": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valence": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-nantes": {
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bourges": {
+   "src": [
+    "fr-005",
+    "fr-096"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-paris-college-de-france": {
+   "src": [
+    "fr-063"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-reims": {
+   "src": [
+    "fr-085"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-douai": {
+   "src": [
+    "fr-065",
+    "fr-115"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-nimes": {
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-paris-clermont": {
+   "src": [
+    "fr-067",
+    "fr-111"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-orthez": {
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pont-a-mousson": {
+   "src": [
+    "fr-066"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-montauban": {
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-saumur": {
+   "src": [
+    "fr-059",
+    "fr-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-sedan": {
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-la-fleche": {
+   "src": [
+    "fr-110"
+   ],
+   "fix": {
+    "start": 1603
+   },
+   "note": "Henri IV founded the college in September 1603 and gave his château to the Jesuits. After the Jesuits' expulsion it was reorganised in 1764 as a cadet school, and it is now the Prytanée national militaire."
+  },
+  "a-die": {
+   "src": [
+    "fr-059",
+    "fr-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-paris-jardin-du-roi": {
+   "src": [
+    "fr-064"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pau": {
+   "src": [
+    "fr-098"
+   ],
+   "fix": {
+    "start_approx": false
+   },
+   "note": "The university opened in 1722 with faculties of arts and law; theology was added in 1780. Its own history dates its end to 1792, a year before the Convention's general decree."
+  },
+  "u-dijon": {
+   "src": [
+    "fr-084"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rennes": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-ponts-chaussees": {
+   "src": [
+    "fr-051"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-mezieres": {
+   "src": [
+    "fr-097"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-lyon-veterinaire": {
+   "src": [
+    "fr-057"
+   ],
+   "fix": {
+    "note": "Royal permission was granted on 4 August 1761, and the school opened early in 1762."
+   },
+   "note": ""
+  },
+  "t-alfort": {
+   "src": [
+    "fr-057"
+   ],
+   "fix": {
+    "note": "Authorised in 1764. Classes began in 1766."
+   },
+   "note": ""
+  },
+  "t-mines": {
+   "src": [
+    "fr-052"
+   ],
+   "fix": {
+    "locations": [
+     {
+      "from": 1783,
+      "city": "Paris",
+      "lat": 48.8534,
+      "lon": 2.3488
+     },
+     {
+      "from": 1803,
+      "city": "Peisey",
+      "lat": 45.5422,
+      "lon": 6.7581
+     },
+     {
+      "from": 1816,
+      "city": "Paris",
+      "lat": 48.8534,
+      "lon": 2.3488
+     }
+    ]
+   },
+   "note": "The practical school at Pesey opened in 1803 under a decree of February 1802 and soon moved to Moûtiers. The school was re-established in Paris in 1816."
+  },
+  "t-polytechnique": {
+   "src": [
+    "fr-020",
+    "fr-017",
+    "fr-055",
+    "fr-113"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-ens": {
+   "src": [
+    "fr-019",
+    "fr-018",
+    "fr-112"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-cnam": {
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-lyon": {
+   "src": [
+    "fr-069"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-chartes": {
+   "src": [
+    "fr-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-centrale": {
+   "src": [
+    "fr-053"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-clermont": {
+   "src": [
+    "fr-068"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-paris-sciences-po": {
+   "src": [
+    "fr-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-catholique": {
+   "src": [
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lille-catholique": {
+   "src": [
+    "fr-047",
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lyon-catholique": {
+   "src": [
+    "fr-048",
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-angers-catholique": {
+   "src": [
+    "fr-049",
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-toulouse-catholique": {
+   "src": [
+    "fr-050",
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-espci": {
+   "src": [
+    "fr-054"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "events": {
+  "u-paris-1150-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The masters' corporation is dated c. 1150–1170 in older reference works; nations appear in the later 12th century."
+  },
+  "m-montpellier-1180-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "Sources date the edict to 1181 (January 1180 in old-style reckoning)."
+  },
+  "u-paris-1200-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-002",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-paris-notre-dame-1200-merger": {
+   "status": "confirmed",
+   "src": [
+    "fr-001",
+    "fr-005",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-1215-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The legate's statutes forbade lecturing on Aristotle's Physics and Metaphysics."
+  },
+  "m-montpellier-1220-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-003"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-paris-ste-genevieve-1220-merger": {
+   "status": "unverified",
+   "src": [
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "Sainte-Geneviève is named as one of the schools from which the university grew, but no date for its absorption was found."
+  },
+  "u-toulouse-1229-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-004",
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "The number of masters to be paid is not stated in the sources checked."
+  },
+  "u-orleans-1229-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "Orléans functioned as a studium generale by the first half of the 13th century; the date is approximate."
+  },
+  "u-angers-1229-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-093"
+   ],
+   "fix": {},
+   "note": "The cathedral school was already famous in the 11th century; an episcopal ordinance recognised Angers as a studium generale in 1337."
+  },
+  "u-toulouse-1229-migration": {
+   "status": "confirmed",
+   "src": [
+    "fr-092"
+   ],
+   "fix": {},
+   "note": "Toulouse is named among the young universities that gained from the 1229–31 dispersal. John of Garland's presence was not checked."
+  },
+  "u-orleans-1229-migration": {
+   "status": "confirmed",
+   "src": [
+    "fr-092"
+   ],
+   "fix": {},
+   "note": "Orléans is named as one of the centres that grew from the arrival of Paris scholars in 1229–31."
+  },
+  "u-angers-1229-migration": {
+   "status": "confirmed",
+   "src": [
+    "fr-093"
+   ],
+   "fix": {},
+   "note": "In 1229 many students, a large number of them English, came to Angers from Paris."
+  },
+  "c-orleans-1230-merger": {
+   "status": "unverified",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "c-paris-st-victor-1230-merger": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-1231-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-001",
+    "fr-002",
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-toulouse-1233-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-001",
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "The bull granting the right to teach everywhere is dated 27 April 1233."
+  },
+  "u-paris-1257-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-005",
+    "fr-007"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-1277-confessional": {
+   "status": "confirmed",
+   "src": [
+    "fr-006"
+   ],
+   "fix": {},
+   "note": "Issued 7 March 1277. Tempier named no individuals; the link to Siger of Brabant is traditional but qualified by modern scholarship."
+  },
+  "u-montpellier-1289-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "Quia sapientia is dated 26 October 1289."
+  },
+  "u-montpellier-1289-merger": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-avignon-1303-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-orleans-1306-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "The 1911 Britannica dates Clement V's privileges to 1305; the bulls are usually dated January 1306."
+  },
+  "u-orleans-1312-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-cahors-1332-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-grenoble-1339-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-angers-1364-charter": {
+   "status": "doubtful",
+   "src": [
+    "fr-093"
+   ],
+   "fix": {},
+   "note": "The 1913 Catholic Encyclopedia gives a 1364 royal charter of Charles V granting Orléans' privileges, and dates the addition of theology, medicine and arts to a bull of Eugene IV in 1432."
+  },
+  "u-orange-1365-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aix-1409-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-avignon-1413-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-dole-besancon-1422-founding": {
+   "status": "corrected",
+   "src": [
+    "fr-094",
+    "fr-095"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Martin V's authorisation is dated 15 October 1422; Philip the Good's foundation followed on 22 June 1423."
+  },
+  "u-poitiers-1431-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-caen-1432-founding": {
+   "status": "unverified",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "The university's foundation under English rule is confirmed, but the year 1432 was not found in the sources checked; the papal charter dates from 1437."
+  },
+  "u-poitiers-1432-charter": {
+   "status": "unverified",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "Charles VII's grant of the privileges of Paris and other universities is confirmed, but its year is not given in the source checked."
+  },
+  "u-caen-1437-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "The papal charter was issued in May 1437."
+  },
+  "u-bordeaux-1441-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valence-1452-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-caen-1452-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-1452-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valence-1459-charter": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-nantes-1460-founding": {
+   "status": "unverified",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "The 1911 Britannica dates Pius II's charter to 1463; most accounts give 1460."
+  },
+  "u-bourges-1464-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-096"
+   ],
+   "fix": {},
+   "note": "The 1911 Britannica gives 1465, but the modern scholarly database dates the foundation to 1464."
+  },
+  "u-grenoble-1542-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": "Reorganised in 1542 by Francis of Bourbon, governor of Dauphiné."
+  },
+  "u-grenoble-1565-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-valence-1565-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-005"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-montpellier-1593-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-089",
+    "fr-003"
+   ],
+   "fix": {},
+   "note": "Richer de Belleval obtained the garden from Henri IV in 1593 and was named professor of anatomy and botany that year."
+  },
+  "u-paris-1600-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-002"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-002",
+    "fr-007"
+   ],
+   "fix": {},
+   "note": "Decree of 15 September 1793, effective 1 November."
+  },
+  "u-montpellier-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003"
+   ],
+   "fix": {},
+   "note": "The Convention created the Montpellier École de santé on 4 December 1794."
+  },
+  "u-paris-1808-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007"
+   ],
+   "fix": {},
+   "note": "The Sorbonne dates the re-creation of the faculties of letters and sciences to 1806."
+  },
+  "u-paris-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-polytechnique-1794-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-020",
+    "fr-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-ens-1794-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-ens-1795-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-polytechnique-1816-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dole-besancon-1479-destruction": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-1521-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "m-paris-college-de-france-1530-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-063"
+   ],
+   "fix": {},
+   "note": "Six royal readers were appointed in 1530: three in Hebrew, two in Greek and one in mathematics."
+  },
+  "u-reims-1548-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-085"
+   ],
+   "fix": {},
+   "note": "Paul III's bull dates from January 1548, after Archbishop Charles of Lorraine proposed it in 1547. The arts faculty opened in 1550."
+  },
+  "u-douai-1559-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-115",
+    "fr-065"
+   ],
+   "fix": {},
+   "note": "The bull obtained by Philip II is dated 31 July 1559. Paul IV died before promulgating it, and Pius IV confirmed it on 6 January 1560 (hence Britannica's 1560)."
+  },
+  "a-nimes-1561-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-douai-1562-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-115"
+   ],
+   "fix": {},
+   "note": "Formally opened on 5 October 1562, under Philip II's letters patent of January 1561 for five faculties."
+  },
+  "j-paris-clermont-1563-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-orthez-1566-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-douai-1568-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-076"
+   ],
+   "fix": {},
+   "note": "The college opened in a rented house at Douai on Michaelmas Day 1568. Its students moved to Reims in 1578."
+  },
+  "u-pont-a-mousson-1572-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-orthez-1583-charter": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-paris-clermont-1595-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-montauban-1598-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": "Created between 1598 and 1600 on the college of 1579."
+  },
+  "a-saumur-1599-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-059",
+    "fr-060"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-sedan-1602-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": "The college opened in 1579; the national synod of 1601 backed raising it to an academy."
+  },
+  "j-la-fleche-1604-founding": {
+   "status": "corrected",
+   "src": [
+    "fr-110"
+   ],
+   "fix": {
+    "year": 1603
+   },
+   "note": "Henri IV founded the college in September 1603."
+  },
+  "a-die-1604-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-059",
+    "fr-061"
+   ],
+   "fix": {},
+   "note": "Teaching ran continuously from 1607."
+  },
+  "m-paris-college-de-france-1610-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-063"
+   ],
+   "fix": {},
+   "note": "Louis XIII laid the foundation stone on 28 August 1610, after Henri IV's assassination."
+  },
+  "j-paris-clermont-1618-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-orthez-1620-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "m-paris-jardin-du-roi-1635-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-064"
+   ],
+   "fix": {},
+   "note": "The garden was first created in 1626; the first teaching chair dates from 1635."
+  },
+  "a-sedan-1642-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "a-montauban-1659-relocation": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": "Moved after a riot between Catholic and Reformed students."
+  },
+  "a-nimes-1664-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-douai-1667-reform": {
+   "status": "unverified",
+   "src": [
+    "fr-115"
+   ],
+   "fix": {},
+   "note": "The 1913 Catholic Encyclopedia text as retrieved dates Louis XIV's capture of Douai to 1677. The 1667 date usually given was not confirmed here."
+  },
+  "a-sedan-1681-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-059",
+    "fr-062"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-1682-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "j-paris-clermont-1682-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-111"
+   ],
+   "fix": {},
+   "note": "After Louis XIV's visit in 1682, letters patent confirmed the college's privileges under its new name."
+  },
+  "a-die-1684-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-059",
+    "fr-061"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-montauban-1685-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "a-saumur-1685-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-060",
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dole-besancon-1691-relocation": {
+   "status": "confirmed",
+   "src": [
+    "fr-094",
+    "fr-095"
+   ],
+   "fix": {},
+   "note": "Letters patent of May 1691."
+  },
+  "u-pau-1722-founding": {
+   "status": "corrected",
+   "src": [
+    "fr-098"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Founded as Universitas Bearniae with faculties of arts and law. Theology followed in 1780."
+  },
+  "u-dijon-1722-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-084"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rennes-1735-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-nantes-1735-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-ponts-chaussees-1747-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-051"
+   ],
+   "fix": {},
+   "note": "Council decree of 14 February 1747. The Bureau des dessinateurs itself dates from 1744."
+  },
+  "t-mezieres-1748-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-097"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-toulouse-1751-merger": {
+   "status": "confirmed",
+   "src": [
+    "fr-114"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-lyon-veterinaire-1761-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-057"
+   ],
+   "fix": {},
+   "note": "Royal permission came on 4 August 1761, and the school opened early in 1762."
+  },
+  "j-paris-clermont-1762-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-067"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "j-la-fleche-1762-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-110"
+   ],
+   "fix": {},
+   "note": "Reorganised by Louis XV and Choiseul in 1764 as a cadet school."
+  },
+  "t-alfort-1765-founding": {
+   "status": "corrected",
+   "src": [
+    "fr-057"
+   ],
+   "fix": {
+    "year": 1766
+   },
+   "note": "Bourgelat obtained permission in 1764, and classes began in 1766."
+  },
+  "u-pont-a-mousson-1768-relocation": {
+   "status": "confirmed",
+   "src": [
+    "fr-066"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pont-a-mousson-1768-confessional": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-ponts-chaussees-1775-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-mines-1783-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-052"
+   ],
+   "fix": {},
+   "note": "Created on 19 March 1783."
+  },
+  "u-toulouse-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-orleans-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-angers-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-avignon-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-orange-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-aix-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-dole-besancon-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-poitiers-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-caen-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-bordeaux-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-valence-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-nantes-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-bourges-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-reims-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-douai-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-pont-a-mousson-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-pau-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-dijon-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "u-rennes-1793-suppression": {
+   "status": "confirmed",
+   "src": [
+    "fr-003",
+    "fr-002"
+   ],
+   "fix": {},
+   "note": "The Convention's decree of 15 September 1793 dissolved the universities across France."
+  },
+  "m-paris-jardin-du-roi-1793-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-064"
+   ],
+   "fix": {},
+   "note": "Renamed the Muséum national d'histoire naturelle on 10 June 1793."
+  },
+  "t-cnam-1794-founding": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-mezieres-1794-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-mines-1794-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-052"
+   ],
+   "fix": {},
+   "note": "Decree of 12 July 1794."
+  },
+  "t-ponts-chaussees-1795-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-polytechnique-1795-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-113"
+   ],
+   "fix": {},
+   "note": "Renamed École polytechnique on 1 September 1795. It prepared students for the schools of application such as the Mines and the Ponts et chaussées."
+  },
+  "t-mines-1802-relocation": {
+   "status": "corrected",
+   "src": [
+    "fr-052"
+   ],
+   "fix": {
+    "year": 1803,
+    "approx": false
+   },
+   "note": "A decree of February 1802 replaced the Paris school with practical schools. The Pesey school opened in 1803 and soon moved to Moûtiers."
+  },
+  "t-polytechnique-1804-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-099"
+   ],
+   "fix": {},
+   "note": "The school's own history puts both the military status and the move to the former Collège de Navarre in 1804."
+  },
+  "u-grenoble-1806-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-poitiers-1806-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-lyon-1808-founding": {
+   "status": "doubtful",
+   "src": [
+    "fr-069"
+   ],
+   "fix": {},
+   "note": "A local history gives a faculty of letters in 1808, abolished in 1816, with the faculty of sciences created in 1833 and letters re-created in 1838."
+  },
+  "u-montpellier-1808-refoundation": {
+   "status": "unverified",
+   "src": [
+    "fr-083"
+   ],
+   "fix": {},
+   "note": "The decree of 17 March 1808 created faculties of sciences and letters at each académie seat and law and medicine faculties from existing schools. The faculties set up in this city were not individually checked."
+  },
+  "u-toulouse-1808-refoundation": {
+   "status": "unverified",
+   "src": [
+    "fr-083"
+   ],
+   "fix": {},
+   "note": "The decree of 17 March 1808 created faculties of sciences and letters at each académie seat and law and medicine faculties from existing schools. The faculties set up in this city were not individually checked."
+  },
+  "u-aix-1808-refoundation": {
+   "status": "unverified",
+   "src": [
+    "fr-083"
+   ],
+   "fix": {},
+   "note": "The decree of 17 March 1808 created faculties of sciences and letters at each académie seat and law and medicine faculties from existing schools. The faculties set up in this city were not individually checked."
+  },
+  "u-dole-besancon-1808-refoundation": {
+   "status": "corrected",
+   "src": [
+    "fr-094"
+   ],
+   "fix": {
+    "year": 1810,
+    "approx": false
+   },
+   "note": "The university was re-created in 1808, and the faculties of letters and sciences opened on 1 May 1810."
+  },
+  "u-caen-1808-refoundation": {
+   "status": "unverified",
+   "src": [
+    "fr-083"
+   ],
+   "fix": {},
+   "note": "The decree of 17 March 1808 created faculties of sciences and letters at each académie seat and law and medicine faculties from existing schools. The faculties set up in this city were not individually checked."
+  },
+  "u-bordeaux-1808-refoundation": {
+   "status": "unverified",
+   "src": [
+    "fr-083"
+   ],
+   "fix": {},
+   "note": "The decree of 17 March 1808 created faculties of sciences and letters at each académie seat and law and medicine faculties from existing schools. The faculties set up in this city were not individually checked."
+  },
+  "u-dijon-1808-refoundation": {
+   "status": "unverified",
+   "src": [
+    "fr-083"
+   ],
+   "fix": {},
+   "note": "The decree of 17 March 1808 created faculties of sciences and letters at each académie seat and law and medicine faculties from existing schools. The faculties set up in this city were not individually checked."
+  },
+  "u-rennes-1808-refoundation": {
+   "status": "unverified",
+   "src": [
+    "fr-083"
+   ],
+   "fix": {},
+   "note": "The decree of 17 March 1808 created faculties of sciences and letters at each académie seat and law and medicine faculties from existing schools. The faculties set up in this city were not individually checked."
+  },
+  "t-ens-1808-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-083"
+   ],
+   "fix": {},
+   "note": "Article 110 of the decree of 17 March 1808 set up a pensionnat normal in Paris for up to 300 trainee teachers."
+  },
+  "t-mines-1816-relocation": {
+   "status": "confirmed",
+   "src": [
+    "fr-052"
+   ],
+   "fix": {},
+   "note": "Royal decree of December 1816."
+  },
+  "t-polytechnique-1817-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-099"
+   ],
+   "fix": {},
+   "note": "Reorganised by Louis XVIII without military status and placed under the Minister of the Interior."
+  },
+  "t-cnam-1819-reform": {
+   "status": "unverified",
+   "src": [
+    "fr-079"
+   ],
+   "fix": {},
+   "note": "Charles Dupin's appointment as professor at the Conservatoire in 1819 is confirmed. The other two chairs were not checked."
+  },
+  "t-chartes-1821-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-056"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-ens-1822-suppression": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-ens-1826-refoundation": {
+   "status": "unverified",
+   "src": [
+    "fr-112"
+   ],
+   "fix": {},
+   "note": "The ENS foundation confirms an ordinance creating the École préparatoire, the 1830 renaming as École normale, the 1845 title École normale supérieure and the move to the rue d'Ulm in 1847. The year 1826 itself was not stated."
+  },
+  "t-centrale-1829-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-053"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-chartes-1829-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-056"
+   ],
+   "fix": {},
+   "note": "The ordinance of 11 November 1829 set up a three-year course and created the title of archiviste paléographe."
+  },
+  "u-clermont-1854-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-068"
+   ],
+   "fix": {},
+   "note": "The university dates the start of state-recognised university teaching in Clermont to 1854. A first faculty of letters existed from 1808 to 1815."
+  },
+  "u-douai-1854-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-065"
+   ],
+   "fix": {},
+   "note": "Pasteur was dean of the Lille science faculty from 1854 to 1857."
+  },
+  "u-pont-a-mousson-1854-refoundation": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "t-centrale-1857-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-053"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lyon-1861-access": {
+   "status": "confirmed",
+   "src": [
+    "fr-070"
+   ],
+   "fix": {},
+   "note": "Passed at Lyon on 16 August 1861."
+  },
+  "u-paris-1868-access": {
+   "status": "confirmed",
+   "src": [
+    "fr-109"
+   ],
+   "fix": {},
+   "note": "Mary Putnam and Elizabeth Garrett enrolled in 1867–68. Madeleine Brès applied in 1868 and became the first French woman doctor of medicine in 1875."
+  },
+  "m-paris-college-de-france-1870-reform": {
+   "status": "corrected",
+   "src": [
+    "fr-063"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "The name Collège de France dates firmly from 1870, with the Third Republic."
+  },
+  "m-paris-sciences-po-1872-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-058"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pont-a-mousson-1872-migration": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-catholique-1875-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-046"
+   ],
+   "fix": {},
+   "note": "Opened on 6 November 1875 under Maurice d'Hulst, with the backing of Cardinal Guibert and some thirty bishops."
+  },
+  "u-lille-catholique-1875-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-047"
+   ],
+   "fix": {},
+   "note": "The university dates its birth to the law of 12 July 1875. It opened officially in January 1877, with Philibert Vrau and Camille Féron-Vrau as founders."
+  },
+  "u-lyon-catholique-1875-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-048"
+   ],
+   "fix": {},
+   "note": "Founded in July 1875 with the support of the bishops of 25 south-eastern dioceses. The law faculty opened on 25 November 1875."
+  },
+  "u-angers-catholique-1875-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-049",
+    "fr-046"
+   ],
+   "fix": {},
+   "note": "Founded in 1875 by Mgr Charles-Émile Freppel."
+  },
+  "u-toulouse-catholique-1877-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-050",
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lyon-1877-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-catholique-1880-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lille-catholique-1880-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lyon-catholique-1880-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-angers-catholique-1880-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-toulouse-catholique-1880-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-046"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "t-espci-1882-founding": {
+   "status": "confirmed",
+   "src": [
+    "fr-054"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-paris-1885-reform": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "u-douai-1887-relocation": {
+   "status": "confirmed",
+   "src": [
+    "fr-065"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-montpellier-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-toulouse-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-grenoble-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-aix-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dole-besancon-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-poitiers-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-caen-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-bordeaux-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-douai-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-pont-a-mousson-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-dijon-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-rennes-1896-refoundation": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-lyon-1896-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "u-clermont-1896-reform": {
+   "status": "confirmed",
+   "src": [
+    "fr-007",
+    "fr-001"
+   ],
+   "fix": {},
+   "note": ""
+  }
+ },
+ "thinkers": {
+  "th187": {
+   "status": "confirmed",
+   "src": [
+    "fr-010"
+   ],
+   "fix": {},
+   "note": "Came to Paris c. 1100; taught there from c. 1108–13 with interruptions, last at Mont Sainte-Geneviève in the 1130s until the 1140 condemnation."
+  },
+  "th189": {
+   "status": "confirmed",
+   "src": [
+    "fr-011"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th190": {
+   "status": "confirmed",
+   "src": [
+    "fr-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th191": {
+   "status": "confirmed",
+   "src": [
+    "fr-009"
+   ],
+   "fix": {},
+   "note": "Lectured as bachelor 1252–56, then regent master 1256–59."
+  },
+  "th192": {
+   "status": "confirmed",
+   "src": [
+    "fr-009"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th193": {
+   "status": "confirmed",
+   "src": [
+    "fr-012"
+   ],
+   "fix": {},
+   "note": "Studied from 1235; master of theology 1254–57."
+  },
+  "th194": {
+   "status": "confirmed",
+   "src": [
+    "fr-005",
+    "fr-007"
+   ],
+   "fix": {},
+   "note": "Founded the college c. 1257."
+  },
+  "th195": {
+   "status": "corrected",
+   "src": [
+    "fr-072"
+   ],
+   "fix": {
+    "to": 1276
+   },
+   "note": "His name first appears in 1266. He fled Paris in 1276 when summoned by the inquisitor, before the condemnation of 1277."
+  },
+  "th196": {
+   "status": "confirmed",
+   "src": [
+    "fr-013"
+   ],
+   "fix": {},
+   "note": "Lectured from 1302, interrupted by exile in 1303; regent master 1306–07."
+  },
+  "th197": {
+   "status": "confirmed",
+   "src": [
+    "fr-014"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th198": {
+   "status": "confirmed",
+   "src": [
+    "fr-015",
+    "fr-035"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th200": {
+   "status": "confirmed",
+   "src": [
+    "fr-016"
+   ],
+   "fix": {},
+   "note": "Arrived at the Collège de Montaigu in 1495."
+  },
+  "th204": {
+   "status": "confirmed",
+   "src": [
+    "fr-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th205": {
+   "status": "confirmed",
+   "src": [
+    "fr-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th235": {
+   "status": "confirmed",
+   "src": [
+    "fr-034"
+   ],
+   "fix": {},
+   "note": "Dismissed when the Jesuits took over the university in 1623."
+  },
+  "th236": {
+   "status": "confirmed",
+   "src": [
+    "fr-032"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th238": {
+   "status": "confirmed",
+   "src": [
+    "fr-018"
+   ],
+   "fix": {},
+   "note": "Entered Caen at 16 and stayed about two years before going to Paris."
+  },
+  "th244": {
+   "status": "confirmed",
+   "src": [
+    "fr-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th253": {
+   "status": "corrected",
+   "src": [
+    "fr-032"
+   ],
+   "fix": {
+    "to": 1614
+   },
+   "note": "Entered at Easter 1607 (some say earlier) and left in 1614."
+  },
+  "th254": {
+   "status": "confirmed",
+   "src": [
+    "fr-033"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th264": {
+   "status": "confirmed",
+   "src": [
+    "fr-031",
+    "fr-041"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th265": {
+   "status": "confirmed",
+   "src": [
+    "fr-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th267": {
+   "status": "unverified",
+   "src": [
+    "fr-028"
+   ],
+   "fix": {},
+   "note": "MacTutor dates the Collège de France chair to 1826; it is often dated 1824."
+  },
+  "th271": {
+   "status": "confirmed",
+   "src": [
+    "fr-044"
+   ],
+   "fix": {},
+   "note": "Suspended soon after appointment and reinstated in 1870; administrator from 1883."
+  },
+  "th273": {
+   "status": "confirmed",
+   "src": [
+    "fr-043"
+   ],
+   "fix": {},
+   "note": "Demonstrator in botany from 1770; resigned his Muséum chair in 1826."
+  },
+  "th275": {
+   "status": "confirmed",
+   "src": [
+    "fr-042"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th277": {
+   "status": "confirmed",
+   "src": [
+    "fr-027"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th278": {
+   "status": "confirmed",
+   "src": [
+    "fr-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th279": {
+   "status": "confirmed",
+   "src": [
+    "fr-029"
+   ],
+   "fix": {},
+   "note": "Took charge of applied mechanics in 1819, professor from 1830."
+  },
+  "th280": {
+   "status": "confirmed",
+   "src": [
+    "fr-020"
+   ],
+   "fix": {},
+   "note": "Arrived 1765 as draughtsman, professor from 1769, resigned 1784."
+  },
+  "th281": {
+   "status": "confirmed",
+   "src": [
+    "fr-023"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th282": {
+   "status": "confirmed",
+   "src": [
+    "fr-024"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th284": {
+   "status": "confirmed",
+   "src": [
+    "fr-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th285": {
+   "status": "confirmed",
+   "src": [
+    "fr-020"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th286": {
+   "status": "confirmed",
+   "src": [
+    "fr-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th287": {
+   "status": "confirmed",
+   "src": [
+    "fr-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th289": {
+   "status": "confirmed",
+   "src": [
+    "fr-022"
+   ],
+   "fix": {},
+   "note": "Entered 1798, répétiteur 1800, professor 1806."
+  },
+  "th290": {
+   "status": "confirmed",
+   "src": [
+    "fr-028"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th291": {
+   "status": "confirmed",
+   "src": [
+    "fr-027"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th292": {
+   "status": "confirmed",
+   "src": [
+    "fr-021"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th293": {
+   "status": "confirmed",
+   "src": [
+    "fr-025"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th294": {
+   "status": "confirmed",
+   "src": [
+    "fr-026"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th295": {
+   "status": "confirmed",
+   "src": [
+    "fr-040"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th296": {
+   "status": "confirmed",
+   "src": [
+    "fr-008"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th297": {
+   "status": "confirmed",
+   "src": [
+    "fr-017"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th298": {
+   "status": "confirmed",
+   "src": [
+    "fr-018"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th299": {
+   "status": "confirmed",
+   "src": [
+    "fr-019"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th300": {
+   "status": "confirmed",
+   "src": [
+    "fr-030"
+   ],
+   "fix": {},
+   "note": "Expelled in December 1830."
+  },
+  "th301": {
+   "status": "confirmed",
+   "src": [
+    "fr-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th302": {
+   "status": "confirmed",
+   "src": [
+    "fr-036"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th303": {
+   "status": "confirmed",
+   "src": [
+    "fr-037"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th304": {
+   "status": "confirmed",
+   "src": [
+    "fr-038"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th309": {
+   "status": "confirmed",
+   "src": [
+    "fr-039"
+   ],
+   "fix": {},
+   "note": "In charge of practical work from 1882 and professor from 1895; also at the Sorbonne from 1900."
+  },
+  "th224": {
+   "status": "unverified",
+   "src": [
+    "fr-045"
+   ],
+   "fix": {},
+   "note": "MacTutor places his Orléans law degree after a stay in Bordeaux in the later 1620s and before 1631."
+  },
+  "th188": {
+   "status": "confirmed",
+   "src": [
+    "fr-071"
+   ],
+   "fix": {},
+   "note": "Taught theology at the Notre-Dame school from 1136 to 1150, and became bishop of Paris in 1159."
+  },
+  "th199": {
+   "status": "confirmed",
+   "src": [
+    "fr-100"
+   ],
+   "fix": {},
+   "note": "Studied at the Collège de Navarre and succeeded Pierre d'Ailly as chancellor in 1395. After the Council of Constance he did not return to Paris."
+  },
+  "th201": {
+   "status": "confirmed",
+   "src": [
+    "fr-087"
+   ],
+   "fix": {},
+   "note": "Came to Paris around 1523 and studied at the Collège de la Marche. His humanist education was largely complete by about 1527."
+  },
+  "th202": {
+   "status": "confirmed",
+   "src": [
+    "fr-101"
+   ],
+   "fix": {},
+   "note": "Arrived in 1528 and studied at Sainte-Barbe; master of arts 14 March 1535, leaving Paris that month."
+  },
+  "th203": {
+   "status": "confirmed",
+   "src": [
+    "fr-102"
+   ],
+   "fix": {},
+   "note": "Professor of physics at the Sorbonne from 1808. He moved to the chair of chemistry at the Jardin des plantes in 1832."
+  },
+  "th206": {
+   "status": "confirmed",
+   "src": [
+    "fr-103"
+   ],
+   "fix": {},
+   "note": "Came to Paris in 1891; licence in physics 1893 and in mathematics 1894."
+  },
+  "th207": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th208": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th209": {
+   "status": "unverified",
+   "src": [
+    "fr-089"
+   ],
+   "fix": {},
+   "note": "The faculty confirms he studied medicine at Montpellier but gives no dates for his teaching."
+  },
+  "th210": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th211": {
+   "status": "confirmed",
+   "src": [
+    "fr-089"
+   ],
+   "fix": {},
+   "note": "The faculty confirms he studied medicine there. The years are approximate."
+  },
+  "th212": {
+   "status": "confirmed",
+   "src": [
+    "fr-089"
+   ],
+   "fix": {},
+   "note": "Enrolled twice in 1529 and was expelled after the first enrolment."
+  },
+  "th213": {
+   "status": "confirmed",
+   "src": [
+    "fr-089"
+   ],
+   "fix": {},
+   "note": "Enrolled in medicine in 1530."
+  },
+  "th214": {
+   "status": "confirmed",
+   "src": [
+    "fr-089"
+   ],
+   "fix": {},
+   "note": "Received as doctor in 1537."
+  },
+  "th215": {
+   "status": "unverified",
+   "src": [
+    "fr-089"
+   ],
+   "fix": {},
+   "note": "Elected chancellor of the faculty in 1556. The start of his teaching was not confirmed."
+  },
+  "th216": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th217": {
+   "status": "unverified",
+   "src": [
+    "fr-073"
+   ],
+   "fix": {},
+   "note": "He studied law at Toulouse from about 1550. Teaching there is not confirmed by the source checked."
+  },
+  "th218": {
+   "status": "confirmed",
+   "src": [
+    "fr-091"
+   ],
+   "fix": {},
+   "note": "Studied and taught Roman law at Toulouse 1547–1554."
+  },
+  "th219": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th220": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th221": {
+   "status": "confirmed",
+   "src": [
+    "fr-087"
+   ],
+   "fix": {},
+   "note": "Enrolled in law at Orléans in 1528."
+  },
+  "th222": {
+   "status": "corrected",
+   "src": [
+    "fr-117"
+   ],
+   "fix": {
+    "approx": false
+   },
+   "note": "Studied law 1535–39 and took his licentiate on 11 August 1539."
+  },
+  "th223": {
+   "status": "confirmed",
+   "src": [
+    "fr-074"
+   ],
+   "fix": {},
+   "note": "Obtained (or possibly bought) an Orléans law degree during his 1598 visit to France."
+  },
+  "th225": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th226": {
+   "status": "confirmed",
+   "src": [
+    "fr-090"
+   ],
+   "fix": {},
+   "note": "Taught at Avignon 1518–1522 until plague drove him out. He returned to the chair in 1527."
+  },
+  "th227": {
+   "status": "confirmed",
+   "src": [
+    "fr-090"
+   ],
+   "fix": {},
+   "note": "Taught from 1529 until the Duke of Milan recalled him in 1533."
+  },
+  "th228": {
+   "status": "confirmed",
+   "src": [
+    "fr-087"
+   ],
+   "fix": {},
+   "note": "Spent about a year at Bourges, where Melchior Wolmar taught him Greek."
+  },
+  "th229": {
+   "status": "corrected",
+   "src": [
+    "fr-091"
+   ],
+   "fix": {
+    "from": 1556
+   },
+   "note": "Taught at Bourges in several spells: 1556–57, 1560–66, and from 1575 until his death in 1590."
+  },
+  "th230": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th231": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th232": {
+   "status": "confirmed",
+   "src": [
+    "fr-091"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th233": {
+   "status": "confirmed",
+   "src": [
+    "fr-091"
+   ],
+   "fix": {},
+   "note": "Taught at Valence 1557–60 and again 1567–75."
+  },
+  "th234": {
+   "status": "unverified",
+   "src": [
+    "fr-075"
+   ],
+   "fix": {},
+   "note": "Britannica names Scaliger among Cujas's students but gives no dates."
+  },
+  "th237": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th239": {
+   "status": "confirmed",
+   "src": [
+    "fr-104"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th240": {
+   "status": "corrected",
+   "src": [
+    "fr-080"
+   ],
+   "fix": {
+    "to": 1815
+   },
+   "note": "Professor of ancient history at Grenoble from 1810. He lost the post after Waterloo in 1815."
+  },
+  "th241": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th242": {
+   "status": "confirmed",
+   "src": [
+    "fr-076"
+   ],
+   "fix": {},
+   "note": "Founded the English College in 1568. Its students moved to Reims in 1578, and Allen left for Rome around 1585."
+  },
+  "th243": {
+   "status": "confirmed",
+   "src": [
+    "fr-118"
+   ],
+   "fix": {},
+   "note": "Studied theology at Douai and took a lesser degree, then went to Rome and entered the Jesuits in April 1573."
+  },
+  "th245": {
+   "status": "confirmed",
+   "src": [
+    "fr-088"
+   ],
+   "fix": {},
+   "note": "Held the chair of civil law from 1578 until he resigned in 1603."
+  },
+  "th246": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th247": {
+   "status": "confirmed",
+   "src": [
+    "fr-070"
+   ],
+   "fix": {},
+   "note": "Passed the baccalauréat at Lyon on 16 August 1861."
+  },
+  "th248": {
+   "status": "confirmed",
+   "src": [
+    "fr-106"
+   ],
+   "fix": {},
+   "note": "Taught and researched at the Institut catholique from 1875 and made his first wireless experiments in its laboratory in 1890. The end date was not confirmed."
+  },
+  "th249": {
+   "status": "confirmed",
+   "src": [
+    "fr-105"
+   ],
+   "fix": {},
+   "note": "Lecturer in Hebrew and Scripture; dismissed in 1893."
+  },
+  "th250": {
+   "status": "confirmed",
+   "src": [
+    "fr-077"
+   ],
+   "fix": {},
+   "note": "Arrived in autumn 1563 and lectured from February 1564. He taught theology 1565–69 and 1570–76."
+  },
+  "th251": {
+   "status": "confirmed",
+   "src": [
+    "fr-107"
+   ],
+   "fix": {},
+   "note": "Studied at the Jesuit Collège de Clermont after his mother's death. The years are approximate."
+  },
+  "th252": {
+   "status": "confirmed",
+   "src": [
+    "fr-108"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th255": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th256": {
+   "status": "corrected",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {
+    "to": 1622
+   },
+   "note": "Taught theology at Saumur 1618–1622."
+  },
+  "th257": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": "The Musée protestant dates his theology teaching to 1626–1664. He was a pastor at Saumur from 1626 and became professor in 1633."
+  },
+  "th258": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": "Held the Hebrew chair from 1613 to 1657."
+  },
+  "th259": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th260": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th261": {
+   "status": "confirmed",
+   "src": [
+    "fr-059"
+   ],
+   "fix": {},
+   "note": ""
+  },
+  "th262": {
+   "status": "confirmed",
+   "src": [
+    "fr-062",
+    "fr-059"
+   ],
+   "fix": {},
+   "note": "Professor of theology and Hebrew from 1674 (1673 in some accounts) until the academy closed in 1681."
+  },
+  "th263": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th266": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th268": {
+   "status": "confirmed",
+   "src": [
+    "fr-080"
+   ],
+   "fix": {},
+   "note": "Chair created for him in March 1831. He gave only three lectures before his death in March 1832."
+  },
+  "th269": {
+   "status": "confirmed",
+   "src": [
+    "fr-081"
+   ],
+   "fix": {},
+   "note": "Dismissed after the coup of 1851."
+  },
+  "th270": {
+   "status": "confirmed",
+   "src": [
+    "fr-116"
+   ],
+   "fix": {},
+   "note": "Elected to the chair of medicine at the end of 1855 and taught until his death in 1878. Earlier, 1847–52, he had stood in for Magendie."
+  },
+  "th272": {
+   "status": "confirmed",
+   "src": [
+    "fr-078"
+   ],
+   "fix": {},
+   "note": "Appointed keeper of the Jardin du Roi in July 1739. He died in 1788."
+  },
+  "th274": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th276": {
+   "status": "confirmed",
+   "src": [
+    "fr-051"
+   ],
+   "fix": {},
+   "note": "Directed the school from 1747 until 1794."
+  },
+  "th283": {
+   "status": "confirmed",
+   "src": [
+    "fr-082"
+   ],
+   "fix": {},
+   "note": "Professor of metallurgy from 1840 and inspector of the school from 1848. He turned to social science around 1855."
+  },
+  "th288": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th305": {
+   "status": "confirmed",
+   "src": [
+    "fr-104"
+   ],
+   "fix": {},
+   "note": "Admitted at the end of 1879."
+  },
+  "th306": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th307": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th308": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  },
+  "th310": {
+   "status": "unverified",
+   "src": [],
+   "fix": {},
+   "note": ""
+  }
+ }
+}

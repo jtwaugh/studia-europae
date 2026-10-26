@@ -1,0 +1,6660 @@
+{
+ "region": "France, Low Countries, Switzerland",
+ "institutions": [
+  {
+   "id": "u-paris",
+   "name": "University of Paris",
+   "alt": [
+    "Universitas magistrorum et scholarium Parisiensium",
+    "Sorbonne"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1150,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1150,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "The guild of masters and scholars that grew from the Paris schools became the model northern university and Latin Christendom's leading school of arts and theology. It was abolished in 1793, its faculties were revived within Napoleon's Université impériale in 1808, and the university was re-created in 1896.",
+   "notes": "Its founding date is conventional. Masters' corporate organisation is visible c. 1150–1200, before the royal privilege of 1200 and the statutes of 1215. Abelard and Peter Lombard taught in the pre-university Paris schools (Notre-Dame, Sainte-Geneviève, Saint-Victor); those cathedral and monastic schools are Region 7 records."
+  },
+  {
+   "id": "m-montpellier",
+   "name": "Montpellier School of Medicine (before 1289)",
+   "alt": [
+    "Schola medicorum Montispessulani"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1180,
+     "city": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767
+    }
+   ],
+   "modern_country": "France",
+   "start": 1180,
+   "start_approx": true,
+   "end": 1289,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "A medical studium, open to Arabic and Jewish learning, that grew up under the Guilhem lords of Montpellier. With Salerno it was the leading medical school of the 12th–13th centuries, and it was incorporated into the papal university in 1289.",
+   "notes": "The edict of Guilhem VIII granting freedom to teach medicine is dated January 1181 (1180 old style). Medical teaching certainly predates it."
+  },
+  {
+   "id": "u-montpellier",
+   "name": "University of Montpellier",
+   "alt": [
+    "Studium generale Montispessulani"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1289,
+     "city": "Montpellier",
+     "lat": 43.6108,
+     "lon": 3.8767
+    }
+   ],
+   "modern_country": "France",
+   "start": 1289,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Nicholas IV's bull Quia sapientia (26 October 1289) united Montpellier's schools of medicine, law and arts as a studium generale. The faculty of medicine stayed one of Europe's most famous, and it survived the Revolution as an École de santé.",
+   "notes": "The medicine faculty went on in 1794 as an École de santé. The other faculties were abolished in 1793."
+  },
+  {
+   "id": "u-toulouse",
+   "name": "University of Toulouse",
+   "alt": [
+    "Studium Tolosanum"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1229,
+     "city": "Toulouse",
+     "lat": 43.6045,
+     "lon": 1.444
+    }
+   ],
+   "modern_country": "France",
+   "start": 1229,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded under the Treaty of Paris (Meaux) that ended the Albigensian Crusade, to combat heresy in Languedoc, with Count Raymond VII obliged to pay the masters. It later became a major school of Roman law.",
+   "notes": "The founding is mixed: a treaty condition imposed by the papal legate and paid for by the count. It is recorded here as papal."
+  },
+  {
+   "id": "u-orleans",
+   "name": "University of Orléans",
+   "alt": [
+    "Studium Aurelianense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1229,
+     "city": "Orléans",
+     "lat": 47.9029,
+     "lon": 1.9093
+    }
+   ],
+   "modern_country": "France",
+   "start": 1229,
+   "start_approx": true,
+   "end": 1793,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "France's leading medieval school of civil law. It flourished because Honorius III's bull Super speculam (1219) barred Roman law at Paris, and it was confirmed as a studium generale in 1306.",
+   "notes": "Law teaching existed before 1229. The start date follows the conventional link with the Paris dispersal of 1229–31."
+  },
+  {
+   "id": "u-angers",
+   "name": "University of Angers",
+   "alt": [
+    "Studium Andegavense"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1229,
+     "city": "Angers",
+     "lat": 47.4712,
+     "lon": -0.5518
+    }
+   ],
+   "modern_country": "France",
+   "start": 1229,
+   "start_approx": true,
+   "end": 1793,
+   "end_approx": false,
+   "founding_mode": "spontaneous",
+   "summary": "A law studium that grew from the Paris dispersal of 1229 and the cathedral school. It became a full four-faculty university in 1364.",
+   "notes": "Its origins are disputed. It was a studium generale in practice before the 1364 bull."
+  },
+  {
+   "id": "u-avignon",
+   "name": "University of Avignon",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1303,
+     "city": "Avignon",
+     "lat": 43.9493,
+     "lon": 4.8055
+    }
+   ],
+   "modern_country": "France",
+   "start": 1303,
+   "start_approx": false,
+   "end": 1793,
+   "end_approx": true,
+   "founding_mode": "papal",
+   "summary": "Founded by Boniface VIII's bull of 1 July 1303 together with Count Charles II of Provence. It flourished as a law school in the papal city.",
+   "notes": "Avignon was annexed to France in 1791. The university closed during the revolutionary abolitions of 1792–93."
+  },
+  {
+   "id": "u-cahors",
+   "name": "University of Cahors",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1332,
+     "city": "Cahors",
+     "lat": 44.4475,
+     "lon": 1.4419
+    }
+   ],
+   "modern_country": "France",
+   "start": 1332,
+   "start_approx": false,
+   "end": 1751,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by John XXII, a native of Cahors. A small law-centred university until it merged into Toulouse in 1751.",
+   "notes": ""
+  },
+  {
+   "id": "u-grenoble",
+   "name": "University of Grenoble",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1339,
+     "city": "Grenoble",
+     "lat": 45.1885,
+     "lon": 5.7245
+    }
+   ],
+   "modern_country": "France",
+   "start": 1339,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded by Dauphin Humbert II with a bull of Benedict XII. It faded, was revived in 1542, and was united with Valence in 1565. Napoleonic faculties revived it, and it was reconstituted in 1896.",
+   "notes": "It lapsed in the late Middle Ages. It is kept as one institution here because of the shared identity across its revivals."
+  },
+  {
+   "id": "u-orange",
+   "name": "University of Orange",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1365,
+     "city": "Orange",
+     "lat": 44.1381,
+     "lon": 4.8075
+    }
+   ],
+   "modern_country": "France",
+   "start": 1365,
+   "start_approx": false,
+   "end": 1793,
+   "end_approx": true,
+   "founding_mode": "imperial",
+   "summary": "Founded by Emperor Charles IV in the principality of Orange. It was a minor law university, and from 1573 had a Reformed academy attached under the Nassau princes.",
+   "notes": "The closure date is approximate, during the revolutionary abolition."
+  },
+  {
+   "id": "u-aix",
+   "name": "University of Aix",
+   "alt": [
+    "Université d'Aix-Marseille (from 1896)"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1409,
+     "city": "Aix-en-Provence",
+     "lat": 43.5297,
+     "lon": 5.4474
+    }
+   ],
+   "modern_country": "France",
+   "start": 1409,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by Alexander V's bull at the request of Louis II of Anjou, Count of Provence. Napoleonic faculties at Aix and Marseille were united as the University of Aix-Marseille in 1896.",
+   "notes": "The faculty of sciences was at Marseille from 1854."
+  },
+  {
+   "id": "u-dole-besancon",
+   "name": "University of Dole / Besançon",
+   "alt": [
+    "Université de Franche-Comté"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1422,
+     "city": "Dole",
+     "lat": 47.0922,
+     "lon": 5.4897
+    },
+    {
+     "from": 1691,
+     "city": "Besançon",
+     "lat": 47.2378,
+     "lon": 6.0241
+    }
+   ],
+   "modern_country": "France",
+   "start": 1422,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded at Dole by Philip the Good, Duke of Burgundy, with papal confirmation by Martin V. It was the university of Franche-Comté, and Louis XIV moved it to Besançon after the French conquest.",
+   "notes": "Founding is dated 1422/23 depending on the ducal letters and the bull. Teaching was disrupted when Louis XI sacked Dole in 1479."
+  },
+  {
+   "id": "u-poitiers",
+   "name": "University of Poitiers",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1431,
+     "city": "Poitiers",
+     "lat": 46.5802,
+     "lon": 0.3404
+    }
+   ],
+   "modern_country": "France",
+   "start": 1431,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by Eugene IV's bull at Charles VII's request while Paris was under English control. It was a major law university.",
+   "notes": ""
+  },
+  {
+   "id": "u-caen",
+   "name": "University of Caen",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1432,
+     "city": "Caen",
+     "lat": 49.1829,
+     "lon": -0.3707
+    }
+   ],
+   "modern_country": "France",
+   "start": 1432,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by John, Duke of Bedford, in the name of Henry VI of England during the English occupation of Normandy. Charles VII re-confirmed it after the French reconquest.",
+   "notes": ""
+  },
+  {
+   "id": "u-bordeaux",
+   "name": "University of Bordeaux",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1441,
+     "city": "Bordeaux",
+     "lat": 44.8378,
+     "lon": -0.5792
+    }
+   ],
+   "modern_country": "France",
+   "start": 1441,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by Eugene IV's bull at the request of Archbishop Pey Berland, while Gascony was still English.",
+   "notes": ""
+  },
+  {
+   "id": "u-valence",
+   "name": "University of Valence",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1452,
+     "city": "Valence",
+     "lat": 44.9334,
+     "lon": 4.8924
+    }
+   ],
+   "modern_country": "France",
+   "start": 1452,
+   "start_approx": false,
+   "end": 1793,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded by the Dauphin Louis (later Louis XI). Under Cujas in the 16th century it was a centre of humanist law.",
+   "notes": "The papal confirmation by Pius II dates from 1459."
+  },
+  {
+   "id": "u-nantes",
+   "name": "University of Nantes",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1460,
+     "city": "Nantes",
+     "lat": 47.2184,
+     "lon": -1.5536
+    }
+   ],
+   "modern_country": "France",
+   "start": 1460,
+   "start_approx": false,
+   "end": 1793,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded by Pius II's bull at the request of Duke Francis II of Brittany. Its law faculty moved to Rennes in 1735.",
+   "notes": "The modern University of Nantes (1962) is outside the period."
+  },
+  {
+   "id": "u-bourges",
+   "name": "University of Bourges",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1464,
+     "city": "Bourges",
+     "lat": 47.081,
+     "lon": 2.3988
+    }
+   ],
+   "modern_country": "France",
+   "start": 1464,
+   "start_approx": false,
+   "end": 1793,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by Paul II's bull at the request of Louis XI's brother Charles, Duke of Berry. In the 16th century, under Alciato, Cujas and Doneau, it was the centre of the mos gallicus, the humanist school of law.",
+   "notes": ""
+  },
+  {
+   "id": "u-reims",
+   "name": "University of Reims",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1548,
+     "city": "Reims",
+     "lat": 49.2583,
+     "lon": 4.0317
+    }
+   ],
+   "modern_country": "France",
+   "start": 1548,
+   "start_approx": false,
+   "end": 1793,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by Paul III's bull at the request of Charles, Cardinal of Lorraine, archbishop of Reims. It was a Counter-Reformation university.",
+   "notes": ""
+  },
+  {
+   "id": "u-douai",
+   "name": "University of Douai",
+   "alt": [
+    "Université de Lille (from 1896)"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1559,
+     "city": "Douai",
+     "lat": 50.3714,
+     "lon": 3.08
+    },
+    {
+     "from": 1887,
+     "city": "Lille",
+     "lat": 50.6292,
+     "lon": 3.0573
+    }
+   ],
+   "modern_country": "France",
+   "start": 1559,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Philip II with Paul IV's bull as a Catholic bulwark in the Spanish Netherlands, and home of the English College of William Allen. It was French from 1667. Its Napoleonic-era successor faculties moved to Lille and became the University of Lille in 1896.",
+   "notes": "Continuity runs through the académie de Douai, whose faculties moved to Lille in 1887. The Lille faculty of sciences (1854) is counted here."
+  },
+  {
+   "id": "u-pont-a-mousson",
+   "name": "University of Pont-à-Mousson / Nancy",
+   "alt": [
+    "Université de Nancy"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1572,
+     "city": "Pont-à-Mousson",
+     "lat": 48.905,
+     "lon": 6.0546
+    },
+    {
+     "from": 1768,
+     "city": "Nancy",
+     "lat": 48.6921,
+     "lon": 6.1844
+    }
+   ],
+   "modern_country": "France",
+   "start": 1572,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded by Duke Charles III of Lorraine and Cardinal Charles of Lorraine, with Gregory XIII's bull, and entrusted to the Jesuits as the Counter-Reformation university of Lorraine. It was moved to Nancy in 1768 and revived by Napoleonic-system faculties.",
+   "notes": "It had full university privileges and so is counted as a university, not a Jesuit college. Teaching opened in 1574."
+  },
+  {
+   "id": "u-pau",
+   "name": "University of Pau",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1722,
+     "city": "Pau",
+     "lat": 43.2951,
+     "lon": -0.3708
+    }
+   ],
+   "modern_country": "France",
+   "start": 1722,
+   "start_approx": true,
+   "end": 1793,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "A royal university created in the old capital of Béarn, mainly a faculty of law. It succeeded in spirit the Protestant academy of Orthez/Lescar suppressed in 1620.",
+   "notes": "The exact date of the letters patent is c. 1722–24."
+  },
+  {
+   "id": "u-dijon",
+   "name": "University of Dijon",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1722,
+     "city": "Dijon",
+     "lat": 47.322,
+     "lon": 5.0415
+    }
+   ],
+   "modern_country": "France",
+   "start": 1722,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Louis XV created a faculty of law at Dijon, seat of the Parlement of Burgundy, against opposition from Besançon. Napoleonic faculties revived it, and it was reconstituted in 1896.",
+   "notes": ""
+  },
+  {
+   "id": "u-rennes",
+   "name": "University of Rennes",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1735,
+     "city": "Rennes",
+     "lat": 48.1173,
+     "lon": -1.6778
+    }
+   ],
+   "modern_country": "France",
+   "start": 1735,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Began when the law faculty of the University of Nantes was transferred to Rennes, seat of the Parlement of Brittany. It became the University of Rennes in 1896.",
+   "notes": ""
+  },
+  {
+   "id": "u-lyon",
+   "name": "University of Lyon",
+   "alt": [
+    "Facultés de Lyon"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1808,
+     "city": "Lyon",
+     "lat": 45.764,
+     "lon": 4.8357
+    }
+   ],
+   "modern_country": "France",
+   "start": 1808,
+   "start_approx": true,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Napoleonic faculties of theology, letters and sciences were founded in Lyon within the Université impériale, joined by law (1875) and medicine (1877). They were constituted as a university in 1896.",
+   "notes": "Lyon had no ancien-régime university."
+  },
+  {
+   "id": "u-clermont",
+   "name": "University of Clermont",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1854,
+     "city": "Clermont-Ferrand",
+     "lat": 45.7772,
+     "lon": 3.087
+    }
+   ],
+   "modern_country": "France",
+   "start": 1854,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Faculties of sciences and letters were established at Clermont-Ferrand in 1854 and formed the university in 1896.",
+   "notes": "An earlier faculty of letters existed briefly under Napoleon."
+  },
+  {
+   "id": "u-paris-catholique",
+   "name": "Catholic University of Paris (Institut catholique)",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1875,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1875,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A free Catholic university opened by bishops under the law of 12 July 1875 on freedom of higher education. Founded under Mgr d'Hulst by the bishops of the Paris region.",
+   "notes": "From 1880 it could not legally call itself a university and used the name 'institut' or 'facultés libres'."
+  },
+  {
+   "id": "u-lille-catholique",
+   "name": "Catholic University of Lille",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1875,
+     "city": "Lille",
+     "lat": 50.6292,
+     "lon": 3.0573
+    }
+   ],
+   "modern_country": "France",
+   "start": 1875,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A free Catholic university opened by bishops under the law of 12 July 1875 on freedom of higher education. Founded with strong support from northern Catholic industrialists.",
+   "notes": "From 1880 it could not legally call itself a university and used the name 'institut' or 'facultés libres'."
+  },
+  {
+   "id": "u-lyon-catholique",
+   "name": "Catholic University of Lyon",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1875,
+     "city": "Lyon",
+     "lat": 45.764,
+     "lon": 4.8357
+    }
+   ],
+   "modern_country": "France",
+   "start": 1875,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A free Catholic university opened by bishops under the law of 12 July 1875 on freedom of higher education. Founded by the bishops of south-eastern France.",
+   "notes": "From 1880 it could not legally call itself a university and used the name 'institut' or 'facultés libres'."
+  },
+  {
+   "id": "u-angers-catholique",
+   "name": "Catholic University of the West (Angers)",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1875,
+     "city": "Angers",
+     "lat": 47.4712,
+     "lon": -0.5518
+    }
+   ],
+   "modern_country": "France",
+   "start": 1875,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A free Catholic university opened by bishops under the law of 12 July 1875 on freedom of higher education. Founded by Bishop Charles-Émile Freppel.",
+   "notes": "From 1880 it could not legally call itself a university and used the name 'institut' or 'facultés libres'."
+  },
+  {
+   "id": "u-toulouse-catholique",
+   "name": "Catholic University of Toulouse",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1877,
+     "city": "Toulouse",
+     "lat": 43.6045,
+     "lon": 1.444
+    }
+   ],
+   "modern_country": "France",
+   "start": 1877,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A free Catholic university opened by bishops under the law of 12 July 1875 on freedom of higher education. Founded by the bishops of south-western France.",
+   "notes": "From 1880 it could not legally call itself a university and used the name 'institut' or 'facultés libres'."
+  },
+  {
+   "id": "j-paris-clermont",
+   "name": "Collège de Clermont / Louis-le-Grand",
+   "alt": [
+    "Collège Louis-le-Grand"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1563,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1563,
+   "start_approx": false,
+   "end": 1762,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The Jesuit college in Paris, endowed by Bishop Guillaume du Prat of Clermont. It taught philosophy and theology at university level in fierce rivalry with the University of Paris.",
+   "notes": "After the 1762 expulsion it continued as a non-Jesuit collège of the university, Louis-le-Grand."
+  },
+  {
+   "id": "j-la-fleche",
+   "name": "Collège Henri-IV de La Flèche",
+   "alt": [
+    "Collège royal de La Flèche"
+   ],
+   "type": "jesuit",
+   "locations": [
+    {
+     "from": 1604,
+     "city": "La Flèche",
+     "lat": 47.6997,
+     "lon": -0.0756
+    }
+   ],
+   "modern_country": "France",
+   "start": 1604,
+   "start_approx": false,
+   "end": 1762,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The royal Jesuit college founded by Henri IV in his family château. It was one of the most prestigious colleges in France, with a full philosophy course.",
+   "notes": "After 1764 it became a military school (now the Prytanée national militaire)."
+  },
+  {
+   "id": "a-nimes",
+   "name": "Academy of Nîmes",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1561,
+     "city": "Nîmes",
+     "lat": 43.8367,
+     "lon": 4.3601
+    }
+   ],
+   "modern_country": "France",
+   "start": 1561,
+   "start_approx": false,
+   "end": 1664,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "The consistory added theology to the town's college of arts (1539), creating one of the earliest Reformed academies in France. In 1617 the national synod merged the Montpellier theology school into it.",
+   "notes": ""
+  },
+  {
+   "id": "a-orthez",
+   "name": "Academy of Orthez (Royal University of Béarn)",
+   "alt": [
+    "Académie d'Orthez",
+    "Lescar"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1566,
+     "city": "Orthez",
+     "lat": 43.4882,
+     "lon": -0.7713
+    }
+   ],
+   "modern_country": "France",
+   "start": 1566,
+   "start_approx": false,
+   "end": 1620,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded by Queen Jeanne d'Albret of Navarre to train Reformed ministers for Béarn. It took the title Royal University of Béarn in 1583.",
+   "notes": "For a time it was seated at Lescar. The dates of that move are not well established, so only Orthez is recorded."
+  },
+  {
+   "id": "a-montauban",
+   "name": "Academy of Montauban / Puylaurens",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1598,
+     "city": "Montauban",
+     "lat": 44.0176,
+     "lon": 1.355
+    },
+    {
+     "from": 1659,
+     "city": "Puylaurens",
+     "lat": 43.5719,
+     "lon": 2.0122
+    }
+   ],
+   "modern_country": "France",
+   "start": 1598,
+   "start_approx": true,
+   "end": 1685,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A Reformed academy set up by the national synods on the basis of a college opened in 1579. It was a leading Huguenot theological school.",
+   "notes": "Founding is dated 1598–1600."
+  },
+  {
+   "id": "a-saumur",
+   "name": "Academy of Saumur",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1599,
+     "city": "Saumur",
+     "lat": 47.26,
+     "lon": -0.0769
+    }
+   ],
+   "modern_country": "France",
+   "start": 1599,
+   "start_approx": true,
+   "end": 1685,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded by Philippe Duplessis-Mornay, governor of Saumur. It was the most famous Huguenot academy, home of Amyraldian theology and of Cappel's biblical criticism.",
+   "notes": "Dated 1599–1600."
+  },
+  {
+   "id": "a-sedan",
+   "name": "Academy of Sedan",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1602,
+     "city": "Sedan",
+     "lat": 49.7019,
+     "lon": 4.9403
+    }
+   ],
+   "modern_country": "France",
+   "start": 1602,
+   "start_approx": true,
+   "end": 1681,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "A Reformed academy in the sovereign principality of Sedan, developed from the college of 1579 under the dukes of Bouillon. It was a refuge for leading Protestant scholars.",
+   "notes": "The national synod approved the academy in 1601."
+  },
+  {
+   "id": "a-die",
+   "name": "Academy of Die",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1604,
+     "city": "Die",
+     "lat": 44.7536,
+     "lon": 5.3703
+    }
+   ],
+   "modern_country": "France",
+   "start": 1604,
+   "start_approx": false,
+   "end": 1684,
+   "end_approx": false,
+   "founding_mode": "ecclesiastical",
+   "summary": "A Reformed academy in Dauphiné that grew from a college of 1596.",
+   "notes": ""
+  },
+  {
+   "id": "m-paris-college-de-france",
+   "name": "Collège de France",
+   "alt": [
+    "Collège royal",
+    "Lecteurs royaux"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1530,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1530,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Francis I appointed royal readers in Hebrew, Greek and mathematics, independent of the Sorbonne, at Guillaume Budé's urging. It gives free public lectures without degrees.",
+   "notes": "Typed as professional: it was a higher teaching body outside the university that granted no degrees. It fits none of the other categories."
+  },
+  {
+   "id": "m-paris-jardin-du-roi",
+   "name": "Jardin du roi / Muséum national d'histoire naturelle",
+   "alt": [
+    "Jardin royal des plantes médicinales",
+    "Muséum"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1635,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1635,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by Louis XIII's edict as a medicinal garden with public courses in botany, chemistry and anatomy outside the faculty of medicine. In 1793 it became the Muséum, Europe's leading centre of natural history.",
+   "notes": "The garden opened to the public in 1640."
+  },
+  {
+   "id": "t-ponts-chaussees",
+   "name": "École des ponts et chaussées",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1747,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1747,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Trudaine created a drafting office under Jean-Rodolphe Perronet to train engineers of the royal Corps des ponts et chaussées. It is the world's oldest civil-engineering school.",
+   "notes": ""
+  },
+  {
+   "id": "t-mezieres",
+   "name": "École royale du génie de Mézières",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1748,
+     "city": "Mézières",
+     "lat": 49.762,
+     "lon": 4.7201
+    }
+   ],
+   "modern_country": "France",
+   "start": 1748,
+   "start_approx": false,
+   "end": 1794,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The military engineering school for the Corps du génie. Its mathematical training under Bossut and Monge made it the prototype of the École polytechnique.",
+   "notes": ""
+  },
+  {
+   "id": "t-lyon-veterinaire",
+   "name": "École vétérinaire de Lyon",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1761,
+     "city": "Lyon",
+     "lat": 45.764,
+     "lon": 4.8357
+    }
+   ],
+   "modern_country": "France",
+   "start": 1761,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The world's first veterinary school, founded by Claude Bourgelat with royal support.",
+   "notes": ""
+  },
+  {
+   "id": "t-alfort",
+   "name": "École vétérinaire d'Alfort",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1765,
+     "city": "Maisons-Alfort",
+     "lat": 48.8125,
+     "lon": 2.4219
+    }
+   ],
+   "modern_country": "France",
+   "start": 1765,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "The second French veterinary school, founded by Bourgelat near Paris.",
+   "notes": ""
+  },
+  {
+   "id": "t-mines",
+   "name": "École des mines de Paris",
+   "alt": [
+    "École royale des mines"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1783,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    },
+    {
+     "from": 1802,
+     "city": "Peisey",
+     "lat": 45.5422,
+     "lon": 6.7581
+    },
+    {
+     "from": 1816,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1783,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded to train mining engineers for the royal Corps des mines. After the Revolution it became an elite school of application for polytechniciens.",
+   "notes": "The 1802 transfer to a practical school at Pesey (Savoie) and the return to Paris in 1816 are approximate."
+  },
+  {
+   "id": "t-polytechnique",
+   "name": "École polytechnique",
+   "alt": [
+    "École centrale des travaux publics"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1794,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1794,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded by the Convention, with Monge and Carnot, to train engineers for all state services in mathematics and science. Its professors and graduates dominated 19th-century French science.",
+   "notes": ""
+  },
+  {
+   "id": "t-ens",
+   "name": "École normale supérieure",
+   "alt": [
+    "École normale de l'an III"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1794,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1794,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Created by the Convention (Lakanal's decree of 30 October 1794) to train teachers. Its short first session of 1795 had Lagrange, Laplace and Monge as teachers. Re-founded under Napoleon, it became the elite school of French letters and science.",
+   "notes": ""
+  },
+  {
+   "id": "t-cnam",
+   "name": "Conservatoire national des arts et métiers",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1794,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1794,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded on Abbé Grégoire's proposal as a repository of machines and models. It became a centre of public higher technical teaching.",
+   "notes": ""
+  },
+  {
+   "id": "t-chartes",
+   "name": "École des chartes",
+   "alt": [],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1821,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1821,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "A specialist school for archivists and palaeographers, founded by royal ordinance.",
+   "notes": ""
+  },
+  {
+   "id": "t-centrale",
+   "name": "École centrale des arts et manufactures",
+   "alt": [
+    "École centrale Paris"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1829,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1829,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "A private school founded by Alphonse Lavallée, Jean-Baptiste Dumas, Théodore Olivier and Eugène Péclet to train civil and industrial engineers for the private sector.",
+   "notes": ""
+  },
+  {
+   "id": "m-paris-sciences-po",
+   "name": "École libre des sciences politiques",
+   "alt": [
+    "Sciences Po"
+   ],
+   "type": "professional",
+   "locations": [
+    {
+     "from": 1872,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1872,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded by Émile Boutmy after the defeat of 1870 to train a new administrative and political elite.",
+   "notes": ""
+  },
+  {
+   "id": "t-espci",
+   "name": "École de physique et chimie industrielles",
+   "alt": [
+    "ESPCI"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1882,
+     "city": "Paris",
+     "lat": 48.8534,
+     "lon": 2.3488
+    }
+   ],
+   "modern_country": "France",
+   "start": 1882,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "A school of industrial physics and chemistry founded by the City of Paris. Pierre and Marie Curie discovered polonium and radium in its laboratories.",
+   "notes": ""
+  },
+  {
+   "id": "u-leuven",
+   "name": "University of Leuven",
+   "alt": [
+    "Studium generale Lovaniense",
+    "Catholic University of Leuven",
+    "State University of Leuven (1817–35)"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1425,
+     "city": "Leuven",
+     "lat": 50.8798,
+     "lon": 4.7005
+    },
+    {
+     "from": 1834,
+     "city": "Mechelen",
+     "lat": 51.0259,
+     "lon": 4.4776
+    },
+    {
+     "from": 1835,
+     "city": "Leuven",
+     "lat": 50.8798,
+     "lon": 4.7005
+    }
+   ],
+   "modern_country": "Belgium",
+   "start": 1425,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded by Martin V's bull (9 December 1425) at the request of Duke John IV of Brabant and the city. It became the great Catholic university of the Low Countries, a centre of humanism (Collegium Trilingue) and of Counter-Reformation theology. It was abolished by the French in 1797, revived as a Dutch state university in 1817, and re-founded as a Catholic university in 1834–35.",
+   "notes": "Continuity is disputed. The State University (1817–35) and the Catholic University (1834) are distinct foundations, kept as one identity per the dataset rule for suppressed-and-refounded institutions."
+  },
+  {
+   "id": "u-leiden",
+   "name": "Leiden University",
+   "alt": [
+    "Academia Lugduno-Batava"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1575,
+     "city": "Leiden",
+     "lat": 52.1601,
+     "lon": 4.497
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 1575,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded by William of Orange as a reward for Leiden's resistance to the Spanish siege. It was the leading Protestant university of the 17th–18th centuries in philology, medicine (Boerhaave) and science.",
+   "notes": "Formally founded in the name of Philip II by William of Orange and the States of Holland."
+  },
+  {
+   "id": "u-franeker",
+   "name": "University of Franeker",
+   "alt": [
+    "Academia Franekerensis"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1585,
+     "city": "Franeker",
+     "lat": 53.1867,
+     "lon": 5.5414
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 1585,
+   "start_approx": false,
+   "end": 1843,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The second university of the Dutch Republic, founded by the States of Friesland. It was strongly Calvinist and drew many German and Hungarian students.",
+   "notes": "Founding mode 'state' reflects the provincial States of Friesland."
+  },
+  {
+   "id": "u-groningen",
+   "name": "University of Groningen",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1614,
+     "city": "Groningen",
+     "lat": 53.2194,
+     "lon": 6.5665
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 1614,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded by the States of Stad en Lande with Ubbo Emmius as first rector. The first Dutch woman student, Aletta Jacobs, enrolled here.",
+   "notes": "The States of the province are recorded as 'state'."
+  },
+  {
+   "id": "u-utrecht",
+   "name": "Utrecht University",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1636,
+     "city": "Utrecht",
+     "lat": 52.0907,
+     "lon": 5.1214
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 1636,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "The city council raised its Illustrious School (1634) to a university. Under Voetius it was a stronghold of Reformed orthodoxy against Cartesianism.",
+   "notes": ""
+  },
+  {
+   "id": "u-harderwijk",
+   "name": "University of Harderwijk",
+   "alt": [
+    "Academia Gelro-Zutphanica"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1648,
+     "city": "Harderwijk",
+     "lat": 52.3416,
+     "lon": 5.6205
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 1648,
+   "start_approx": false,
+   "end": 1811,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The university of the Duchy of Gelderland. It was known for quick, cheap doctorates taken by foreigners, Linnaeus among them.",
+   "notes": "The provincial States are recorded as 'state'."
+  },
+  {
+   "id": "a-amsterdam",
+   "name": "Athenaeum Illustre of Amsterdam / University of Amsterdam",
+   "alt": [
+    "Athenaeum Illustre",
+    "Universiteit van Amsterdam"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1632,
+     "city": "Amsterdam",
+     "lat": 52.3702,
+     "lon": 4.8952
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 1632,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "A municipal illustrious school opened with orations by Vossius and Barlaeus. It became the municipal University of Amsterdam in 1877.",
+   "notes": "Typed as academy for its long pre-university history. It has been a university since 1877."
+  },
+  {
+   "id": "u-vu-amsterdam",
+   "name": "Vrije Universiteit Amsterdam",
+   "alt": [
+    "Free University"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1880,
+     "city": "Amsterdam",
+     "lat": 52.3702,
+     "lon": 4.8952
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 1880,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded by Abraham Kuyper as a Reformed (Calvinist) university free of state and church control.",
+   "notes": ""
+  },
+  {
+   "id": "t-delft",
+   "name": "Delft Polytechnic",
+   "alt": [
+    "Koninklijke Akademie",
+    "Polytechnische School"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1842,
+     "city": "Delft",
+     "lat": 52.0116,
+     "lon": 4.3571
+    }
+   ],
+   "modern_country": "Netherlands",
+   "start": 1842,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "royal",
+   "summary": "Founded by William II as the Royal Academy for civil engineers and colonial officials. It became the Polytechnic School in 1864.",
+   "notes": "Technical University status came in 1905."
+  },
+  {
+   "id": "u-ghent",
+   "name": "Ghent University",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1817,
+     "city": "Ghent",
+     "lat": 51.0543,
+     "lon": 3.7174
+    }
+   ],
+   "modern_country": "Belgium",
+   "start": 1817,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded by William I of the United Netherlands as a state university, taught in Latin, then French.",
+   "notes": ""
+  },
+  {
+   "id": "u-liege",
+   "name": "University of Liège",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1817,
+     "city": "Liège",
+     "lat": 50.6326,
+     "lon": 5.5797
+    }
+   ],
+   "modern_country": "Belgium",
+   "start": 1817,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded by William I as a state university for the Walloon provinces.",
+   "notes": ""
+  },
+  {
+   "id": "u-brussels",
+   "name": "Free University of Brussels",
+   "alt": [
+    "Université libre de Belgique",
+    "ULB"
+   ],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1834,
+     "city": "Brussels",
+     "lat": 50.8467,
+     "lon": 4.3525
+    }
+   ],
+   "modern_country": "Belgium",
+   "start": 1834,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "private",
+   "summary": "Founded by Théodore Verhaegen and liberal Freemasons on the principle of free inquiry, as a counterweight to the Catholic University.",
+   "notes": ""
+  },
+  {
+   "id": "u-brussels-nouvelle",
+   "name": "Université nouvelle de Bruxelles",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1894,
+     "city": "Brussels",
+     "lat": 50.8467,
+     "lon": 4.3525
+    }
+   ],
+   "modern_country": "Belgium",
+   "start": 1894,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "secession",
+   "summary": "A radical free university formed by secession from the ULB. It survived until 1919.",
+   "notes": "Closed 1919, outside the period."
+  },
+  {
+   "id": "u-basel",
+   "name": "University of Basel",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1460,
+     "city": "Basel",
+     "lat": 47.5596,
+     "lon": 7.5886
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1460,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "papal",
+   "summary": "Founded with Pius II's bull (1459) at the city's request and opened on 4 April 1460, the oldest university in Switzerland. Centre of humanism and printing, later home of the Bernoulli mathematical dynasty.",
+   "notes": ""
+  },
+  {
+   "id": "a-geneva",
+   "name": "Academy of Geneva / University of Geneva",
+   "alt": [
+    "Académie de Genève",
+    "Université de Genève"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1559,
+     "city": "Geneva",
+     "lat": 46.2044,
+     "lon": 6.1432
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1559,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Founded by Calvin with the city council, with Beza as first rector, to train ministers for international Calvinism. It became the University of Geneva in 1873.",
+   "notes": "Typed as academy. It has been a university since 1873."
+  },
+  {
+   "id": "a-lausanne",
+   "name": "Academy of Lausanne / University of Lausanne",
+   "alt": [
+    "Académie de Lausanne"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1537,
+     "city": "Lausanne",
+     "lat": 46.5197,
+     "lon": 6.6323
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1537,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Founded by Bern after the conquest of Vaud to train Reformed pastors. It was the first French-speaking Protestant academy, and became a university in 1890.",
+   "notes": "Founded by the city-republic of Bern (recorded as 'municipal')."
+  },
+  {
+   "id": "a-zurich",
+   "name": "Carolinum (Zurich)",
+   "alt": [
+    "Prophezei",
+    "Schola Tigurina"
+   ],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1525,
+     "city": "Zurich",
+     "lat": 47.3769,
+     "lon": 8.5417
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1525,
+   "start_approx": false,
+   "end": 1833,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "Zwingli's Prophezei, a theological school for exegesis of scripture. It developed into the Carolinum, Zurich's higher school.",
+   "notes": ""
+  },
+  {
+   "id": "u-zurich",
+   "name": "University of Zurich",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1833,
+     "city": "Zurich",
+     "lat": 47.3769,
+     "lon": 8.5417
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1833,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded by the liberal canton of Zurich, the first European university founded by a democratic state. It was a pioneer in admitting women.",
+   "notes": ""
+  },
+  {
+   "id": "a-bern",
+   "name": "Hohe Schule / Academy of Bern",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1528,
+     "city": "Bern",
+     "lat": 46.948,
+     "lon": 7.4474
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1528,
+   "start_approx": false,
+   "end": 1834,
+   "end_approx": false,
+   "founding_mode": "municipal",
+   "summary": "The Reformed higher school founded after the Bern Disputation. It became an Academy in 1805.",
+   "notes": ""
+  },
+  {
+   "id": "u-bern",
+   "name": "University of Bern",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1834,
+     "city": "Bern",
+     "lat": 46.948,
+     "lon": 7.4474
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1834,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "Founded by the liberal canton of Bern on the basis of the Academy.",
+   "notes": ""
+  },
+  {
+   "id": "t-eth",
+   "name": "Federal Polytechnic School (ETH Zurich)",
+   "alt": [
+    "Eidgenössisches Polytechnikum"
+   ],
+   "type": "technical",
+   "locations": [
+    {
+     "from": 1855,
+     "city": "Zurich",
+     "lat": 47.3769,
+     "lon": 8.5417
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1855,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "The federal polytechnic of the new Swiss state, set up by the federal law of 1854. It was a leading centre of engineering, physics and mathematics.",
+   "notes": ""
+  },
+  {
+   "id": "u-fribourg",
+   "name": "University of Fribourg",
+   "alt": [],
+   "type": "university",
+   "locations": [
+    {
+     "from": 1889,
+     "city": "Fribourg",
+     "lat": 46.8065,
+     "lon": 7.162
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1889,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "state",
+   "summary": "A Catholic, bilingual university founded by the canton under Georges Python.",
+   "notes": ""
+  },
+  {
+   "id": "a-neuchatel",
+   "name": "Academy of Neuchâtel",
+   "alt": [],
+   "type": "protestant",
+   "locations": [
+    {
+     "from": 1838,
+     "city": "Neuchâtel",
+     "lat": 46.99,
+     "lon": 6.9293
+    }
+   ],
+   "modern_country": "Switzerland",
+   "start": 1838,
+   "start_approx": false,
+   "end": null,
+   "end_approx": false,
+   "founding_mode": "princely",
+   "summary": "Founded under the Prussian king, then sovereign prince of Neuchâtel. It was revived by the republican canton in 1866 and became a university in 1909.",
+   "notes": ""
+  }
+ ],
+ "events": [
+  {
+   "id": "u-paris-1150-founding",
+   "inst": "u-paris",
+   "year": 1150,
+   "approx": true,
+   "type": "founding",
+   "title": "Masters' guild emerges",
+   "desc": "Teaching masters in the Paris schools on the Île de la Cité and the Left Bank begin to act as a corporation (approximate date).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1200-charter",
+   "inst": "u-paris",
+   "year": 1200,
+   "approx": false,
+   "type": "charter",
+   "title": "Privilege of Philip Augustus",
+   "desc": "After a town-gown riot, Philip II exempted scholars from royal and municipal jurisdiction and placed them under ecclesiastical courts.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1215-charter",
+   "inst": "u-paris",
+   "year": 1215,
+   "approx": false,
+   "type": "charter",
+   "title": "Statutes of Robert of Courçon",
+   "desc": "The papal legate Robert of Courçon issued the first statutes regulating the arts and theology curricula. They banned lecturing on Aristotle's natural philosophy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1231-charter",
+   "inst": "u-paris",
+   "year": 1231,
+   "approx": false,
+   "type": "charter",
+   "title": "Parens scientiarum",
+   "desc": "Gregory IX's bull ended the strike and dispersal of 1229–31, which had sent masters to Angers, Orléans, Toulouse and Oxford. It recognised the university's right to suspend lectures and to make statutes, and it is called the university's Magna Carta.",
+   "from_inst": null,
+   "related": [
+    "u-angers",
+    "u-orleans",
+    "u-toulouse",
+    "u-oxford"
+   ]
+  },
+  {
+   "id": "u-paris-1257-reform",
+   "inst": "u-paris",
+   "year": 1257,
+   "approx": false,
+   "type": "reform",
+   "title": "Foundation of the Sorbonne college",
+   "desc": "Robert de Sorbon, chaplain to Louis IX, founded a college for poor secular masters of theology. It later gave its name to the faculty of theology and to the whole university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1277-confessional",
+   "inst": "u-paris",
+   "year": 1277,
+   "approx": false,
+   "type": "confessional",
+   "title": "Condemnation of 219 propositions",
+   "desc": "Bishop Étienne Tempier condemned 219 philosophical and theological theses taught in the arts faculty, aimed at radical Aristotelians such as Siger of Brabant.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1452-reform",
+   "inst": "u-paris",
+   "year": 1452,
+   "approx": false,
+   "type": "reform",
+   "title": "Reform of Cardinal d'Estouteville",
+   "desc": "The papal legate Guillaume d'Estouteville issued new statutes for all four faculties, acting with Charles VII's support.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1521-confessional",
+   "inst": "u-paris",
+   "year": 1521,
+   "approx": false,
+   "type": "confessional",
+   "title": "Determinatio against Luther",
+   "desc": "The theology faculty formally condemned Luther's teachings and became a bastion of Catholic orthodoxy and of the censorship of books.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1600-reform",
+   "inst": "u-paris",
+   "year": 1600,
+   "approx": false,
+   "type": "reform",
+   "title": "Statutes of Henri IV",
+   "desc": "New royal statutes reorganised the university under crown control after the Wars of Religion.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1682-confessional",
+   "inst": "u-paris",
+   "year": 1682,
+   "approx": false,
+   "type": "confessional",
+   "title": "Gallican Four Articles imposed",
+   "desc": "Louis XIV required the theology faculty to teach the Declaration of the Clergy of France limiting papal authority, and Gallicanism became official doctrine.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1793-suppression",
+   "inst": "u-paris",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1808-refoundation",
+   "inst": "u-paris",
+   "year": 1808,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Faculties within the Université impériale",
+   "desc": "Under the law of 10 May 1806 and the decree of 17 March 1808, faculties of theology, law, medicine, sciences and letters were set up in the Académie de Paris as part of Napoleon's state monopoly on teaching. The Sorbonne housed letters, sciences and theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1868-access",
+   "inst": "u-paris",
+   "year": 1868,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted to the Faculty of Medicine",
+   "desc": "Madeleine Brès was authorised to enrol in medicine, alongside foreign women such as Mary Putnam and Elizabeth Garrett Anderson. Women had access to French degrees from this point.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1885-reform",
+   "inst": "u-paris",
+   "year": 1885,
+   "approx": false,
+   "type": "reform",
+   "title": "Faculties regain corporate personality",
+   "desc": "Decrees of 1885 gave the faculties civil personality and created a general council of faculties, a step toward re-forming universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-1896-refoundation",
+   "inst": "u-paris",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again. The University of Paris was formally reconstituted.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-montpellier-1180-founding",
+   "inst": "m-montpellier",
+   "year": 1180,
+   "approx": true,
+   "type": "founding",
+   "title": "Edict of Guilhem VIII",
+   "desc": "Guilhem VIII's edict allowed any qualified physician to teach medicine in Montpellier.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-montpellier-1220-charter",
+   "inst": "m-montpellier",
+   "year": 1220,
+   "approx": false,
+   "type": "charter",
+   "title": "Statutes of Cardinal Conrad",
+   "desc": "The papal legate Conrad of Urach gave the medical universitas its first statutes and placed licensing under the bishop of Maguelone.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-montpellier-1289-founding",
+   "inst": "u-montpellier",
+   "year": 1289,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull Quia sapientia of Nicholas IV erected the studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-montpellier-1289-merger",
+   "inst": "u-montpellier",
+   "year": 1289,
+   "approx": false,
+   "type": "merger",
+   "title": "Medical school incorporated",
+   "desc": "The existing medical universitas became the faculty of medicine of the new university.",
+   "from_inst": null,
+   "related": [
+    "m-montpellier"
+   ]
+  },
+  {
+   "id": "u-montpellier-1593-reform",
+   "inst": "u-montpellier",
+   "year": 1593,
+   "approx": false,
+   "type": "reform",
+   "title": "Jardin des plantes",
+   "desc": "Henri IV founded France's first botanical garden for teaching medicine, under Pierre Richer de Belleval.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-montpellier-1793-suppression",
+   "inst": "u-montpellier",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university. Medical teaching resumed in 1794 as the École de santé.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-montpellier-1808-refoundation",
+   "inst": "u-montpellier",
+   "year": 1808,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "Faculties of medicine, sciences and letters were organised within the Université impériale. A law faculty followed in 1880.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-montpellier-1896-refoundation",
+   "inst": "u-montpellier",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toulouse-1229-founding",
+   "inst": "u-toulouse",
+   "year": 1229,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Treaty of Paris (April 1229) required Raymond VII to fund 14 masters in Toulouse.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toulouse-1229-migration",
+   "inst": "u-toulouse",
+   "year": 1229,
+   "approx": false,
+   "type": "migration",
+   "title": "Paris masters arrive",
+   "desc": "Masters who left Paris during the 1229 strike, including John of Garland, came to teach in the new studium.",
+   "from_inst": "u-paris",
+   "related": []
+  },
+  {
+   "id": "u-toulouse-1233-charter",
+   "inst": "u-toulouse",
+   "year": 1233,
+   "approx": false,
+   "type": "charter",
+   "title": "Ius ubique docendi",
+   "desc": "Gregory IX confirmed the studium and granted its graduates the right to teach everywhere.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toulouse-1751-merger",
+   "inst": "u-toulouse",
+   "year": 1751,
+   "approx": false,
+   "type": "merger",
+   "title": "Absorbs the University of Cahors",
+   "desc": "Royal letters united the declining University of Cahors with Toulouse.",
+   "from_inst": null,
+   "related": [
+    "u-cahors"
+   ]
+  },
+  {
+   "id": "u-toulouse-1793-suppression",
+   "inst": "u-toulouse",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toulouse-1808-refoundation",
+   "inst": "u-toulouse",
+   "year": 1808,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "Faculties of law, sciences, letters and theology were set up in the Académie de Toulouse.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toulouse-1896-refoundation",
+   "inst": "u-toulouse",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orleans-1229-founding",
+   "inst": "u-orleans",
+   "year": 1229,
+   "approx": true,
+   "type": "founding",
+   "title": "Law studium emerges",
+   "desc": "Law schools in Orléans grew, swelled by masters leaving Paris.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orleans-1229-migration",
+   "inst": "u-orleans",
+   "year": 1229,
+   "approx": true,
+   "type": "migration",
+   "title": "Paris dispersal",
+   "desc": "Masters and students leaving Paris during the 1229–31 strike settled in Orléans.",
+   "from_inst": "u-paris",
+   "related": []
+  },
+  {
+   "id": "u-orleans-1306-charter",
+   "inst": "u-orleans",
+   "year": 1306,
+   "approx": false,
+   "type": "charter",
+   "title": "Bulls of Clement V",
+   "desc": "Clement V, an Orléans law graduate, granted the privileges of a studium generale on the model of Toulouse.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orleans-1312-charter",
+   "inst": "u-orleans",
+   "year": 1312,
+   "approx": false,
+   "type": "charter",
+   "title": "Confirmation by Philip IV",
+   "desc": "After resisting the papal bulls, Philip IV confirmed the university by royal letters.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orleans-1793-suppression",
+   "inst": "u-orleans",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-angers-1229-founding",
+   "inst": "u-angers",
+   "year": 1229,
+   "approx": true,
+   "type": "founding",
+   "title": "Law studium emerges",
+   "desc": "Masters dispersing from Paris reinforced the law schools of Angers.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-angers-1229-migration",
+   "inst": "u-angers",
+   "year": 1229,
+   "approx": true,
+   "type": "migration",
+   "title": "Paris dispersal",
+   "desc": "Masters and students leaving Paris during the 1229–31 strike settled in Angers.",
+   "from_inst": "u-paris",
+   "related": []
+  },
+  {
+   "id": "u-angers-1364-charter",
+   "inst": "u-angers",
+   "year": 1364,
+   "approx": false,
+   "type": "charter",
+   "title": "Full university status",
+   "desc": "Urban V's bull, backed by Charles V and Louis I of Anjou, added theology and medicine and confirmed Angers as a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-angers-1793-suppression",
+   "inst": "u-angers",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-avignon-1303-founding",
+   "inst": "u-avignon",
+   "year": 1303,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of Boniface VIII established a studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-avignon-1413-charter",
+   "inst": "u-avignon",
+   "year": 1413,
+   "approx": false,
+   "type": "charter",
+   "title": "Faculty of theology",
+   "desc": "Antipope John XXIII added a faculty of theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-avignon-1793-suppression",
+   "inst": "u-avignon",
+   "year": 1793,
+   "approx": true,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-cahors-1332-founding",
+   "inst": "u-cahors",
+   "year": 1332,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of John XXII (1332) founded the studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-grenoble-1339-founding",
+   "inst": "u-grenoble",
+   "year": 1339,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Humbert II founded the studium with Benedict XII's bull.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-grenoble-1542-refoundation",
+   "inst": "u-grenoble",
+   "year": 1542,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Revived by Francis I's governor",
+   "desc": "Teaching of law restarted after a long lapse.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-grenoble-1565-suppression",
+   "inst": "u-grenoble",
+   "year": 1565,
+   "approx": false,
+   "type": "suppression",
+   "title": "United to Valence",
+   "desc": "Charles IX united the university with that of Valence, and teaching at Grenoble ended.",
+   "from_inst": null,
+   "related": [
+    "u-valence"
+   ]
+  },
+  {
+   "id": "u-grenoble-1806-refoundation",
+   "inst": "u-grenoble",
+   "year": 1806,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "A law school opened in 1806, followed by faculties of letters and sciences in 1808 within the Université impériale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-grenoble-1896-refoundation",
+   "inst": "u-grenoble",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orange-1365-founding",
+   "inst": "u-orange",
+   "year": 1365,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Charter of Emperor Charles IV founded the studium.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-orange-1793-suppression",
+   "inst": "u-orange",
+   "year": 1793,
+   "approx": true,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aix-1409-founding",
+   "inst": "u-aix",
+   "year": 1409,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of Alexander V founded the studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aix-1793-suppression",
+   "inst": "u-aix",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aix-1808-refoundation",
+   "inst": "u-aix",
+   "year": 1808,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "Faculties of law and theology were restored at Aix (letters 1846, sciences at Marseille 1854).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-aix-1896-refoundation",
+   "inst": "u-aix",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again. It became the University of Aix-Marseille.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dole-besancon-1422-founding",
+   "inst": "u-dole-besancon",
+   "year": 1422,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Philip the Good founded the university at Dole, confirmed by Martin V.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dole-besancon-1479-destruction",
+   "inst": "u-dole-besancon",
+   "year": 1479,
+   "approx": false,
+   "type": "destruction",
+   "title": "Sack of Dole",
+   "desc": "Louis XI's troops sacked Dole, disrupting the university until Habsburg rule restored it.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dole-besancon-1691-relocation",
+   "inst": "u-dole-besancon",
+   "year": 1691,
+   "approx": false,
+   "type": "relocation",
+   "title": "Transferred to Besançon",
+   "desc": "Louis XIV moved the university to Besançon, the new capital of the conquered province.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dole-besancon-1793-suppression",
+   "inst": "u-dole-besancon",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dole-besancon-1808-refoundation",
+   "inst": "u-dole-besancon",
+   "year": 1808,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "Faculties of letters and sciences (from 1809) and a medical school were set up at Besançon.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dole-besancon-1896-refoundation",
+   "inst": "u-dole-besancon",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-poitiers-1431-founding",
+   "inst": "u-poitiers",
+   "year": 1431,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of Eugene IV founded the studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-poitiers-1432-charter",
+   "inst": "u-poitiers",
+   "year": 1432,
+   "approx": false,
+   "type": "charter",
+   "title": "Letters patent of Charles VII",
+   "desc": "Charles VII granted royal privileges equal to those of Paris.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-poitiers-1793-suppression",
+   "inst": "u-poitiers",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-poitiers-1806-refoundation",
+   "inst": "u-poitiers",
+   "year": 1806,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "A law school opened in 1806, becoming a faculty in 1808, followed by letters and sciences.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-poitiers-1896-refoundation",
+   "inst": "u-poitiers",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-caen-1432-founding",
+   "inst": "u-caen",
+   "year": 1432,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Henry VI of England's foundation (law faculties first).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-caen-1437-charter",
+   "inst": "u-caen",
+   "year": 1437,
+   "approx": false,
+   "type": "charter",
+   "title": "Papal bull of Eugene IV",
+   "desc": "The pope confirmed the university with all faculties.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-caen-1452-charter",
+   "inst": "u-caen",
+   "year": 1452,
+   "approx": false,
+   "type": "charter",
+   "title": "Confirmed by Charles VII",
+   "desc": "After the reconquest of Normandy, Charles VII re-founded and confirmed the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-caen-1793-suppression",
+   "inst": "u-caen",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-caen-1808-refoundation",
+   "inst": "u-caen",
+   "year": 1808,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "Faculties of law, sciences and letters were set up within the Université impériale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-caen-1896-refoundation",
+   "inst": "u-caen",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bordeaux-1441-founding",
+   "inst": "u-bordeaux",
+   "year": 1441,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of Eugene IV founded the studium generale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bordeaux-1793-suppression",
+   "inst": "u-bordeaux",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bordeaux-1808-refoundation",
+   "inst": "u-bordeaux",
+   "year": 1808,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "A faculty of theology was set up. Letters and sciences followed in 1838, and law and medicine in the 1870s.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bordeaux-1896-refoundation",
+   "inst": "u-bordeaux",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valence-1452-founding",
+   "inst": "u-valence",
+   "year": 1452,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The Dauphin Louis founded the university by letters.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valence-1459-charter",
+   "inst": "u-valence",
+   "year": 1459,
+   "approx": false,
+   "type": "charter",
+   "title": "Papal confirmation",
+   "desc": "Pius II confirmed the foundation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-valence-1565-reform",
+   "inst": "u-valence",
+   "year": 1565,
+   "approx": false,
+   "type": "reform",
+   "title": "Union with Grenoble",
+   "desc": "Charles IX united the University of Grenoble with Valence.",
+   "from_inst": null,
+   "related": [
+    "u-grenoble"
+   ]
+  },
+  {
+   "id": "u-valence-1793-suppression",
+   "inst": "u-valence",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-nantes-1460-founding",
+   "inst": "u-nantes",
+   "year": 1460,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of Pius II founded the university for the Duchy of Brittany.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-nantes-1735-reform",
+   "inst": "u-nantes",
+   "year": 1735,
+   "approx": false,
+   "type": "reform",
+   "title": "Law faculty transferred to Rennes",
+   "desc": "The faculty of law was moved to Rennes, seat of the Parlement of Brittany.",
+   "from_inst": null,
+   "related": [
+    "u-rennes"
+   ]
+  },
+  {
+   "id": "u-nantes-1793-suppression",
+   "inst": "u-nantes",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bourges-1464-founding",
+   "inst": "u-bourges",
+   "year": 1464,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of Paul II founded the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bourges-1793-suppression",
+   "inst": "u-bourges",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-reims-1548-founding",
+   "inst": "u-reims",
+   "year": 1548,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of Paul III founded the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-reims-1793-suppression",
+   "inst": "u-reims",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-douai-1559-founding",
+   "inst": "u-douai",
+   "year": 1559,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bull of Paul IV (1559) at Philip II's request. Teaching opened in 1562.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-douai-1562-charter",
+   "inst": "u-douai",
+   "year": 1562,
+   "approx": false,
+   "type": "charter",
+   "title": "Inauguration",
+   "desc": "Formal opening of the university with faculties of theology, law, medicine and arts.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-douai-1568-reform",
+   "inst": "u-douai",
+   "year": 1568,
+   "approx": false,
+   "type": "reform",
+   "title": "English College founded",
+   "desc": "William Allen founded the English College for exiled Catholics. It trained seminary priests for the English mission and produced the Douai Bible.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-douai-1667-reform",
+   "inst": "u-douai",
+   "year": 1667,
+   "approx": true,
+   "type": "reform",
+   "title": "French conquest",
+   "desc": "Louis XIV took Douai, and the university passed under French royal control.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-douai-1793-suppression",
+   "inst": "u-douai",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-douai-1854-refoundation",
+   "inst": "u-douai",
+   "year": 1854,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Faculties of Douai and Lille",
+   "desc": "The decree of 22 August 1854 created a faculty of letters at Douai and a faculty of sciences at Lille, with Pasteur as first dean. A law faculty followed at Douai in 1865.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-douai-1887-relocation",
+   "inst": "u-douai",
+   "year": 1887,
+   "approx": false,
+   "type": "relocation",
+   "title": "Faculties move to Lille",
+   "desc": "The faculties of law and letters were transferred from Douai to Lille.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-douai-1896-refoundation",
+   "inst": "u-douai",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again. It became the University of Lille.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pont-a-mousson-1572-founding",
+   "inst": "u-pont-a-mousson",
+   "year": 1572,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Gregory XIII's bull (December 1572) founded the university at the duke's request.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pont-a-mousson-1768-relocation",
+   "inst": "u-pont-a-mousson",
+   "year": 1768,
+   "approx": false,
+   "type": "relocation",
+   "title": "Transferred to Nancy",
+   "desc": "After the expulsion of the Jesuits and Lorraine's annexation to France (1766), Louis XV moved the university to Nancy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pont-a-mousson-1768-confessional",
+   "inst": "u-pont-a-mousson",
+   "year": 1768,
+   "approx": true,
+   "type": "confessional",
+   "title": "End of Jesuit direction",
+   "desc": "The Jesuits, expelled from France and Lorraine, lost control of the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pont-a-mousson-1793-suppression",
+   "inst": "u-pont-a-mousson",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pont-a-mousson-1854-refoundation",
+   "inst": "u-pont-a-mousson",
+   "year": 1854,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Faculties at Nancy",
+   "desc": "Faculties of sciences and letters were created at Nancy (law 1864).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pont-a-mousson-1872-migration",
+   "inst": "u-pont-a-mousson",
+   "year": 1872,
+   "approx": false,
+   "type": "migration",
+   "title": "Strasbourg faculty of medicine moves to Nancy",
+   "desc": "After the German annexation of Alsace, the French medical faculty of Strasbourg was transferred to Nancy.",
+   "from_inst": "u-strasbourg",
+   "related": []
+  },
+  {
+   "id": "u-pont-a-mousson-1896-refoundation",
+   "inst": "u-pont-a-mousson",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again. It became the University of Nancy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pau-1722-founding",
+   "inst": "u-pau",
+   "year": 1722,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Letters patent of Louis XV established a university, mainly law, at Pau.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-pau-1793-suppression",
+   "inst": "u-pau",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dijon-1722-founding",
+   "inst": "u-dijon",
+   "year": 1722,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Royal letters created a faculty of law.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dijon-1793-suppression",
+   "inst": "u-dijon",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dijon-1808-refoundation",
+   "inst": "u-dijon",
+   "year": 1808,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "Faculties of law, letters and sciences were set up within the Université impériale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-dijon-1896-refoundation",
+   "inst": "u-dijon",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rennes-1735-founding",
+   "inst": "u-rennes",
+   "year": 1735,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The Nantes law faculty moved to Rennes by royal decision.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rennes-1793-suppression",
+   "inst": "u-rennes",
+   "year": 1793,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the Convention",
+   "desc": "The National Convention's decree of 15 September 1793 abolished the faculties and collèges of the Republic, ending the ancien-régime university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rennes-1808-refoundation",
+   "inst": "u-rennes",
+   "year": 1808,
+   "approx": true,
+   "type": "refoundation",
+   "title": "Napoleonic faculties",
+   "desc": "Faculties of law and letters were set up (sciences 1840).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-rennes-1896-refoundation",
+   "inst": "u-rennes",
+   "year": 1896,
+   "approx": false,
+   "type": "refoundation",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lyon-1808-founding",
+   "inst": "u-lyon",
+   "year": 1808,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Faculties of theology, letters and sciences set up (1808–09).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lyon-1861-access",
+   "inst": "u-lyon",
+   "year": 1861,
+   "approx": false,
+   "type": "access",
+   "title": "First woman baccalauréat",
+   "desc": "Julie-Victoire Daubié passed the baccalauréat before the Lyon faculty of letters, the first woman in France to do so.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lyon-1877-reform",
+   "inst": "u-lyon",
+   "year": 1877,
+   "approx": false,
+   "type": "reform",
+   "title": "Faculty of medicine",
+   "desc": "A full faculty of medicine and pharmacy was created.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lyon-1896-reform",
+   "inst": "u-lyon",
+   "year": 1896,
+   "approx": false,
+   "type": "reform",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-clermont-1854-founding",
+   "inst": "u-clermont",
+   "year": 1854,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The decree of 22 August 1854 created faculties of sciences and letters.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-clermont-1896-reform",
+   "inst": "u-clermont",
+   "year": 1896,
+   "approx": false,
+   "type": "reform",
+   "title": "University re-created (law of 10 July 1896)",
+   "desc": "The law of 10 July 1896 grouped the state faculties of each académie into a university again.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-catholique-1875-founding",
+   "inst": "u-paris-catholique",
+   "year": 1875,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened by the bishops under the law of 12 July 1875.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-paris-catholique-1880-reform",
+   "inst": "u-paris-catholique",
+   "year": 1880,
+   "approx": false,
+   "type": "reform",
+   "title": "Loss of the title 'université'",
+   "desc": "The law of 18 March 1880 reserved degree-granting and the name 'université' to the state.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lille-catholique-1875-founding",
+   "inst": "u-lille-catholique",
+   "year": 1875,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened by the bishops under the law of 12 July 1875.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lille-catholique-1880-reform",
+   "inst": "u-lille-catholique",
+   "year": 1880,
+   "approx": false,
+   "type": "reform",
+   "title": "Loss of the title 'université'",
+   "desc": "The law of 18 March 1880 reserved degree-granting and the name 'université' to the state.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lyon-catholique-1875-founding",
+   "inst": "u-lyon-catholique",
+   "year": 1875,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened by the bishops under the law of 12 July 1875.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-lyon-catholique-1880-reform",
+   "inst": "u-lyon-catholique",
+   "year": 1880,
+   "approx": false,
+   "type": "reform",
+   "title": "Loss of the title 'université'",
+   "desc": "The law of 18 March 1880 reserved degree-granting and the name 'université' to the state.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-angers-catholique-1875-founding",
+   "inst": "u-angers-catholique",
+   "year": 1875,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened by the bishops under the law of 12 July 1875.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-angers-catholique-1880-reform",
+   "inst": "u-angers-catholique",
+   "year": 1880,
+   "approx": false,
+   "type": "reform",
+   "title": "Loss of the title 'université'",
+   "desc": "The law of 18 March 1880 reserved degree-granting and the name 'université' to the state.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toulouse-catholique-1877-founding",
+   "inst": "u-toulouse-catholique",
+   "year": 1877,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened by the bishops under the law of 12 July 1875.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-toulouse-catholique-1880-reform",
+   "inst": "u-toulouse-catholique",
+   "year": 1880,
+   "approx": false,
+   "type": "reform",
+   "title": "Loss of the title 'université'",
+   "desc": "The law of 18 March 1880 reserved degree-granting and the name 'université' to the state.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-paris-clermont-1563-founding",
+   "inst": "j-paris-clermont",
+   "year": 1563,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The Jesuit college opened in the Rue Saint-Jacques.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-paris-clermont-1595-suppression",
+   "inst": "j-paris-clermont",
+   "year": 1595,
+   "approx": false,
+   "type": "suppression",
+   "title": "Jesuits expelled",
+   "desc": "After Jean Châtel's attempt on Henri IV, and following the university's long lawsuit, the Parlement of Paris expelled the Jesuits and the college closed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-paris-clermont-1618-refoundation",
+   "inst": "j-paris-clermont",
+   "year": 1618,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Teaching resumes",
+   "desc": "The Jesuits were allowed to teach again in Paris.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-paris-clermont-1682-reform",
+   "inst": "j-paris-clermont",
+   "year": 1682,
+   "approx": false,
+   "type": "reform",
+   "title": "Renamed Louis-le-Grand",
+   "desc": "The college took the name Louis-le-Grand under the king's patronage.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-paris-clermont-1762-suppression",
+   "inst": "j-paris-clermont",
+   "year": 1762,
+   "approx": false,
+   "type": "suppression",
+   "title": "Expulsion of the Jesuits",
+   "desc": "The Parlement of Paris suppressed the Society in its jurisdiction. The college passed to the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-la-fleche-1604-founding",
+   "inst": "j-la-fleche",
+   "year": 1604,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Henri IV's edict founded the college and gave it to the Jesuits.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "j-la-fleche-1762-suppression",
+   "inst": "j-la-fleche",
+   "year": 1762,
+   "approx": false,
+   "type": "suppression",
+   "title": "Expulsion of the Jesuits",
+   "desc": "The Jesuits were expelled. The college became a military preparatory school in 1764.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-nimes-1561-founding",
+   "inst": "a-nimes",
+   "year": 1561,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The consistory added a theological faculty to the college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-nimes-1664-suppression",
+   "inst": "a-nimes",
+   "year": 1664,
+   "approx": false,
+   "type": "suppression",
+   "title": "Academy banned",
+   "desc": "Royal decision ended the academy. The college was handed to the Jesuits.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-orthez-1566-founding",
+   "inst": "a-orthez",
+   "year": 1566,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Jeanne d'Albret founded a college with an academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-orthez-1583-charter",
+   "inst": "a-orthez",
+   "year": 1583,
+   "approx": false,
+   "type": "charter",
+   "title": "Royal University of Béarn",
+   "desc": "It was raised to the title of a royal university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-orthez-1620-suppression",
+   "inst": "a-orthez",
+   "year": 1620,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed after Béarn's annexation",
+   "desc": "Louis XIII annexed Béarn to the crown and restored Catholicism, and the academy was closed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-montauban-1598-founding",
+   "inst": "a-montauban",
+   "year": 1598,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The academy was set up on the premises of the Protestant college.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-montauban-1659-relocation",
+   "inst": "a-montauban",
+   "year": 1659,
+   "approx": false,
+   "type": "relocation",
+   "title": "Transferred to Puylaurens",
+   "desc": "A decree of the King's Council removed the academy from Montauban to Puylaurens.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-montauban-1685-suppression",
+   "inst": "a-montauban",
+   "year": 1685,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed before the Revocation",
+   "desc": "The academy of Puylaurens was closed in the run-up to the Edict of Fontainebleau.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-saumur-1599-founding",
+   "inst": "a-saumur",
+   "year": 1599,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Duplessis-Mornay founded the academy with synodal support.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-saumur-1685-suppression",
+   "inst": "a-saumur",
+   "year": 1685,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed by royal decree",
+   "desc": "The academy was closed in January 1685, months before the Revocation of the Edict of Nantes.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-sedan-1602-founding",
+   "inst": "a-sedan",
+   "year": 1602,
+   "approx": true,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The college of 1579 was raised to an academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-sedan-1642-reform",
+   "inst": "a-sedan",
+   "year": 1642,
+   "approx": false,
+   "type": "reform",
+   "title": "Sedan passes to France",
+   "desc": "The principality was ceded to France. The academy survived under royal sovereignty.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-sedan-1681-suppression",
+   "inst": "a-sedan",
+   "year": 1681,
+   "approx": false,
+   "type": "suppression",
+   "title": "Academy closed",
+   "desc": "Louis XIV closed the academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-die-1604-founding",
+   "inst": "a-die",
+   "year": 1604,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The academy was established on the college of 1596.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-die-1684-suppression",
+   "inst": "a-die",
+   "year": 1684,
+   "approx": false,
+   "type": "suppression",
+   "title": "Academy closed",
+   "desc": "The academy was closed by royal order.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-paris-college-de-france-1530-founding",
+   "inst": "m-paris-college-de-france",
+   "year": 1530,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Francis I appointed the first lecteurs royaux.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-paris-college-de-france-1610-reform",
+   "inst": "m-paris-college-de-france",
+   "year": 1610,
+   "approx": false,
+   "type": "reform",
+   "title": "Building of the Collège royal",
+   "desc": "Louis XIII laid the foundation stone of a dedicated building.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-paris-college-de-france-1870-reform",
+   "inst": "m-paris-college-de-france",
+   "year": 1870,
+   "approx": true,
+   "type": "reform",
+   "title": "Name Collège de France",
+   "desc": "The institution definitively took the name Collège de France.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-paris-jardin-du-roi-1635-founding",
+   "inst": "m-paris-jardin-du-roi",
+   "year": 1635,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The royal edict created the garden and its teaching posts.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-paris-jardin-du-roi-1793-reform",
+   "inst": "m-paris-jardin-du-roi",
+   "year": 1793,
+   "approx": false,
+   "type": "reform",
+   "title": "Muséum national d'histoire naturelle",
+   "desc": "The Convention reorganised it as the Muséum with twelve professorial chairs.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-ponts-chaussees-1747-founding",
+   "inst": "t-ponts-chaussees",
+   "year": 1747,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Trudaine's arrêt created the Bureau des dessinateurs under Perronet.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-ponts-chaussees-1775-reform",
+   "inst": "t-ponts-chaussees",
+   "year": 1775,
+   "approx": false,
+   "type": "reform",
+   "title": "Named École des ponts et chaussées",
+   "desc": "The school received its definitive name and organisation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-ponts-chaussees-1795-reform",
+   "inst": "t-ponts-chaussees",
+   "year": 1795,
+   "approx": false,
+   "type": "reform",
+   "title": "School of application of Polytechnique",
+   "desc": "It became an école d'application recruiting from the École polytechnique.",
+   "from_inst": null,
+   "related": [
+    "t-polytechnique"
+   ]
+  },
+  {
+   "id": "t-mezieres-1748-founding",
+   "inst": "t-mezieres",
+   "year": 1748,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Royal ordinance established the engineering school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-mezieres-1794-suppression",
+   "inst": "t-mezieres",
+   "year": 1794,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed and transferred",
+   "desc": "The school was closed. Engineer training was moved to Metz and to the new École polytechnique.",
+   "from_inst": null,
+   "related": [
+    "t-polytechnique"
+   ]
+  },
+  {
+   "id": "t-lyon-veterinaire-1761-founding",
+   "inst": "t-lyon-veterinaire",
+   "year": 1761,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bourgelat opened the veterinary school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-alfort-1765-founding",
+   "inst": "t-alfort",
+   "year": 1765,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bourgelat opened the school at Alfort.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-mines-1783-founding",
+   "inst": "t-mines",
+   "year": 1783,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "An arrêt of the King's Council created the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-mines-1794-reform",
+   "inst": "t-mines",
+   "year": 1794,
+   "approx": false,
+   "type": "reform",
+   "title": "Re-established under the Agence des mines",
+   "desc": "The Convention re-established the school as part of the Agence des mines.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-mines-1802-relocation",
+   "inst": "t-mines",
+   "year": 1802,
+   "approx": true,
+   "type": "relocation",
+   "title": "Practical school at Pesey",
+   "desc": "Teaching moved to a practical mining school at the Pesey lead mines in Savoie.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-mines-1816-relocation",
+   "inst": "t-mines",
+   "year": 1816,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Paris",
+   "desc": "After the loss of Savoie the school was re-established in Paris in the Hôtel de Vendôme.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-polytechnique-1794-founding",
+   "inst": "t-polytechnique",
+   "year": 1794,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Founded as the École centrale des travaux publics (law of 28 September 1794). Teaching began in December.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-polytechnique-1795-reform",
+   "inst": "t-polytechnique",
+   "year": 1795,
+   "approx": false,
+   "type": "reform",
+   "title": "Renamed École polytechnique",
+   "desc": "It received its name and became the preparatory school for the écoles d'application.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-polytechnique-1804-reform",
+   "inst": "t-polytechnique",
+   "year": 1804,
+   "approx": false,
+   "type": "reform",
+   "title": "Militarised by Napoleon",
+   "desc": "Napoleon gave the school military status and moved it to the Collège de Navarre on the Montagne Sainte-Geneviève (1805).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-polytechnique-1816-suppression",
+   "inst": "t-polytechnique",
+   "year": 1816,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed by Louis XVIII",
+   "desc": "After student Bonapartist agitation the school was dissolved.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-polytechnique-1817-refoundation",
+   "inst": "t-polytechnique",
+   "year": 1817,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Reopened",
+   "desc": "The school was reopened under new regulations.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-ens-1794-founding",
+   "inst": "t-ens",
+   "year": 1794,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The Convention decreed the École normale. Its course opened in January 1795.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-ens-1795-suppression",
+   "inst": "t-ens",
+   "year": 1795,
+   "approx": false,
+   "type": "suppression",
+   "title": "First École normale closed",
+   "desc": "The year-III school closed after four months.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-ens-1808-refoundation",
+   "inst": "t-ens",
+   "year": 1808,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Pensionnat normal",
+   "desc": "Re-founded as the normal boarding school of the Université impériale.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-ens-1822-suppression",
+   "inst": "t-ens",
+   "year": 1822,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed under the Restoration",
+   "desc": "Suppressed as a seat of liberalism.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-ens-1826-refoundation",
+   "inst": "t-ens",
+   "year": 1826,
+   "approx": false,
+   "type": "refoundation",
+   "title": "École préparatoire",
+   "desc": "Restored as the École préparatoire, renamed École normale (1830) and École normale supérieure (1845, Rue d'Ulm).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-cnam-1794-founding",
+   "inst": "t-cnam",
+   "year": 1794,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Decree of the Convention of 10 October 1794.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-cnam-1819-reform",
+   "inst": "t-cnam",
+   "year": 1819,
+   "approx": false,
+   "type": "reform",
+   "title": "Public higher courses",
+   "desc": "Chairs of mechanics (Dupin), chemistry (Clément) and industrial economy (Say) were created.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-chartes-1821-founding",
+   "inst": "t-chartes",
+   "year": 1821,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Ordinance of 22 February 1821.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-chartes-1829-refoundation",
+   "inst": "t-chartes",
+   "year": 1829,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Reorganised",
+   "desc": "The school was reconstituted after its first cohort lapsed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-centrale-1829-founding",
+   "inst": "t-centrale",
+   "year": 1829,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The private founders opened the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-centrale-1857-reform",
+   "inst": "t-centrale",
+   "year": 1857,
+   "approx": false,
+   "type": "reform",
+   "title": "Ceded to the state",
+   "desc": "Lavallée handed the school over to the state.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "m-paris-sciences-po-1872-founding",
+   "inst": "m-paris-sciences-po",
+   "year": 1872,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Boutmy opened the private school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-espci-1882-founding",
+   "inst": "t-espci",
+   "year": 1882,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The City of Paris founded the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1425-founding",
+   "inst": "u-leuven",
+   "year": 1425,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Martin V's bull founded the studium (no theology).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1432-charter",
+   "inst": "u-leuven",
+   "year": 1432,
+   "approx": false,
+   "type": "charter",
+   "title": "Faculty of theology",
+   "desc": "Eugene IV added a faculty of theology.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1517-reform",
+   "inst": "u-leuven",
+   "year": 1517,
+   "approx": false,
+   "type": "reform",
+   "title": "Collegium Trilingue",
+   "desc": "Founded under Jérôme de Busleyden's bequest, with Erasmus's backing, for Latin, Greek and Hebrew.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1519-confessional",
+   "inst": "u-leuven",
+   "year": 1519,
+   "approx": false,
+   "type": "confessional",
+   "title": "Condemnation of Luther",
+   "desc": "The theology faculty condemned Luther's writings, an early official Catholic censure.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1788-reform",
+   "inst": "u-leuven",
+   "year": 1788,
+   "approx": false,
+   "type": "reform",
+   "title": "Joseph II transfers faculties to Brussels",
+   "desc": "Joseph II moved most faculties to Brussels and imposed a General Seminary. The measures were reversed in 1790.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1797-suppression",
+   "inst": "u-leuven",
+   "year": 1797,
+   "approx": false,
+   "type": "suppression",
+   "title": "Abolished by the French Republic",
+   "desc": "After the annexation of the Austrian Netherlands the university was closed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1817-refoundation",
+   "inst": "u-leuven",
+   "year": 1817,
+   "approx": false,
+   "type": "refoundation",
+   "title": "State University of Leuven",
+   "desc": "William I of the United Netherlands founded a secular State University in Leuven.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1834-refoundation",
+   "inst": "u-leuven",
+   "year": 1834,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Catholic University at Mechelen",
+   "desc": "The Belgian bishops founded a Catholic university at Mechelen.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leuven-1835-relocation",
+   "inst": "u-leuven",
+   "year": 1835,
+   "approx": false,
+   "type": "relocation",
+   "title": "Return to Leuven",
+   "desc": "The Catholic University moved to Leuven, taking over the buildings of the State University, which closed that year.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leiden-1575-founding",
+   "inst": "u-leiden",
+   "year": 1575,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "William of Orange's charter of 8 February 1575.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leiden-1590-reform",
+   "inst": "u-leiden",
+   "year": 1590,
+   "approx": false,
+   "type": "reform",
+   "title": "Hortus botanicus",
+   "desc": "A botanical teaching garden was laid out (Clusius from 1593).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leiden-1619-confessional",
+   "inst": "u-leiden",
+   "year": 1619,
+   "approx": false,
+   "type": "confessional",
+   "title": "Purge after the Synod of Dort",
+   "desc": "Remonstrant (Arminian) professors were dismissed and Counter-Remonstrant orthodoxy enforced.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-leiden-1815-reform",
+   "inst": "u-leiden",
+   "year": 1815,
+   "approx": false,
+   "type": "reform",
+   "title": "Organic decree on higher education",
+   "desc": "The new Kingdom of the Netherlands regulated its three universities, Leiden, Utrecht and Groningen.",
+   "from_inst": null,
+   "related": [
+    "u-utrecht",
+    "u-groningen"
+   ]
+  },
+  {
+   "id": "u-leiden-1876-reform",
+   "inst": "u-leiden",
+   "year": 1876,
+   "approx": false,
+   "type": "reform",
+   "title": "Higher Education Act",
+   "desc": "The 1876 Act modernised the universities, introduced Dutch as a teaching language and replaced theology by state-neutral religious studies.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-franeker-1585-founding",
+   "inst": "u-franeker",
+   "year": 1585,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The States of Friesland founded the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-franeker-1811-suppression",
+   "inst": "u-franeker",
+   "year": 1811,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed by Napoleon",
+   "desc": "Napoleon closed the university after the annexation of Holland.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-franeker-1815-refoundation",
+   "inst": "u-franeker",
+   "year": 1815,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Athenaeum",
+   "desc": "Revived as a non-degree Athenaeum (Rijksathenaeum).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-franeker-1843-suppression",
+   "inst": "u-franeker",
+   "year": 1843,
+   "approx": false,
+   "type": "suppression",
+   "title": "Athenaeum closed",
+   "desc": "The Athenaeum was finally closed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-groningen-1614-founding",
+   "inst": "u-groningen",
+   "year": 1614,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The provincial States founded the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-groningen-1815-reform",
+   "inst": "u-groningen",
+   "year": 1815,
+   "approx": false,
+   "type": "reform",
+   "title": "Organic decree",
+   "desc": "Recognised as one of three state universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-groningen-1871-access",
+   "inst": "u-groningen",
+   "year": 1871,
+   "approx": false,
+   "type": "access",
+   "title": "First woman student in the Netherlands",
+   "desc": "Aletta Jacobs was admitted with special permission from Prime Minister Thorbecke.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-groningen-1876-reform",
+   "inst": "u-groningen",
+   "year": 1876,
+   "approx": false,
+   "type": "reform",
+   "title": "Higher Education Act",
+   "desc": "Reorganised under the 1876 Act.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-utrecht-1636-founding",
+   "inst": "u-utrecht",
+   "year": 1636,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The Illustrious School of 1634 was raised to a university (26 March 1636).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-utrecht-1636-access",
+   "inst": "u-utrecht",
+   "year": 1636,
+   "approx": false,
+   "type": "access",
+   "title": "Anna Maria van Schurman attends lectures",
+   "desc": "Van Schurman attended lectures from behind a screen. She is often called the first woman at a Dutch university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-utrecht-1815-reform",
+   "inst": "u-utrecht",
+   "year": 1815,
+   "approx": false,
+   "type": "reform",
+   "title": "Organic decree",
+   "desc": "Recognised as one of three state universities.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-harderwijk-1648-founding",
+   "inst": "u-harderwijk",
+   "year": 1648,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "The States of Gelderland founded the university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-harderwijk-1811-suppression",
+   "inst": "u-harderwijk",
+   "year": 1811,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed by Napoleon",
+   "desc": "The university was closed under the French annexation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-amsterdam-1632-founding",
+   "inst": "a-amsterdam",
+   "year": 1632,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opening orations of Vossius and Barlaeus (January 1632).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-amsterdam-1877-reform",
+   "inst": "a-amsterdam",
+   "year": 1877,
+   "approx": false,
+   "type": "reform",
+   "title": "Raised to a university",
+   "desc": "The Athenaeum became the municipal University of Amsterdam with degree rights.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-vu-amsterdam-1880-founding",
+   "inst": "u-vu-amsterdam",
+   "year": 1880,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Kuyper's inaugural address 'Souvereiniteit in eigen kring' (20 October 1880).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-delft-1842-founding",
+   "inst": "t-delft",
+   "year": 1842,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Royal decree of 8 January 1842.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-delft-1864-reform",
+   "inst": "t-delft",
+   "year": 1864,
+   "approx": false,
+   "type": "reform",
+   "title": "Polytechnische School",
+   "desc": "Reorganised as a polytechnic under the 1863 secondary education law.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-ghent-1817-founding",
+   "inst": "u-ghent",
+   "year": 1817,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened October 1817.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-ghent-1835-reform",
+   "inst": "u-ghent",
+   "year": 1835,
+   "approx": false,
+   "type": "reform",
+   "title": "Belgian law on higher education",
+   "desc": "The Belgian state reorganised its two state universities, Ghent and Liège.",
+   "from_inst": null,
+   "related": [
+    "u-liege"
+   ]
+  },
+  {
+   "id": "u-liege-1817-founding",
+   "inst": "u-liege",
+   "year": 1817,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened 1817.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-liege-1835-reform",
+   "inst": "u-liege",
+   "year": 1835,
+   "approx": false,
+   "type": "reform",
+   "title": "Belgian law on higher education",
+   "desc": "Reorganised as a Belgian state university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-brussels-1834-founding",
+   "inst": "u-brussels",
+   "year": 1834,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened 20 November 1834.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-brussels-1842-reform",
+   "inst": "u-brussels",
+   "year": 1842,
+   "approx": false,
+   "type": "reform",
+   "title": "Renamed Université libre de Bruxelles",
+   "desc": "It took its current name.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-brussels-1880-access",
+   "inst": "u-brussels",
+   "year": 1880,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "The university admitted its first women students.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-brussels-1894-split",
+   "inst": "u-brussels",
+   "year": 1894,
+   "approx": false,
+   "type": "split",
+   "title": "Reclus affair",
+   "desc": "The cancelled lectures of the geographer Élisée Reclus led dissident professors and students to found the Université nouvelle.",
+   "from_inst": null,
+   "related": [
+    "u-brussels-nouvelle"
+   ]
+  },
+  {
+   "id": "u-brussels-nouvelle-1894-founding",
+   "inst": "u-brussels-nouvelle",
+   "year": 1894,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Dissident professors and students founded the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-brussels-nouvelle-1894-migration",
+   "inst": "u-brussels-nouvelle",
+   "year": 1894,
+   "approx": false,
+   "type": "migration",
+   "title": "Secession from ULB",
+   "desc": "Professors and students left the ULB after the Reclus affair.",
+   "from_inst": "u-brussels",
+   "related": []
+  },
+  {
+   "id": "u-basel-1460-founding",
+   "inst": "u-basel",
+   "year": 1460,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened 4 April 1460 under the bull of Pius II.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-basel-1529-confessional",
+   "inst": "u-basel",
+   "year": 1529,
+   "approx": false,
+   "type": "confessional",
+   "title": "Reformation",
+   "desc": "The city adopted the Reformation. The university was closed and its professors dispersed.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-basel-1532-refoundation",
+   "inst": "u-basel",
+   "year": 1532,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Reopened as a Reformed university",
+   "desc": "The city reopened the university (new statutes 1539).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-basel-1818-reform",
+   "inst": "u-basel",
+   "year": 1818,
+   "approx": false,
+   "type": "reform",
+   "title": "University law of 1818",
+   "desc": "The cantonal government reorganised the declining university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-basel-1890-access",
+   "inst": "u-basel",
+   "year": 1890,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Emilie Frey became the first woman to matriculate.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-geneva-1559-founding",
+   "inst": "a-geneva",
+   "year": 1559,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Inauguration and leges academiae, 5 June 1559.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-geneva-1559-migration",
+   "inst": "a-geneva",
+   "year": 1559,
+   "approx": false,
+   "type": "migration",
+   "title": "Lausanne professors arrive",
+   "desc": "Beza and other Lausanne teachers came to Geneva after conflict with the Bernese authorities.",
+   "from_inst": "a-lausanne",
+   "related": []
+  },
+  {
+   "id": "a-geneva-1872-access",
+   "inst": "a-geneva",
+   "year": 1872,
+   "approx": true,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Women were admitted as students.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-geneva-1873-reform",
+   "inst": "a-geneva",
+   "year": 1873,
+   "approx": false,
+   "type": "reform",
+   "title": "Raised to a university",
+   "desc": "The Academy became the University of Geneva (medicine 1876).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-lausanne-1537-founding",
+   "inst": "a-lausanne",
+   "year": 1537,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Bern set up the school.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-lausanne-1890-reform",
+   "inst": "a-lausanne",
+   "year": 1890,
+   "approx": false,
+   "type": "reform",
+   "title": "Raised to a university",
+   "desc": "The cantonal law turned the Academy into a university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-zurich-1525-founding",
+   "inst": "a-zurich",
+   "year": 1525,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Zwingli opened the Prophezei (19 June 1525).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zurich-1833-founding",
+   "inst": "u-zurich",
+   "year": 1833,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened 29 April 1833.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zurich-1833-merger",
+   "inst": "u-zurich",
+   "year": 1833,
+   "approx": false,
+   "type": "merger",
+   "title": "Carolinum and institutes merged",
+   "desc": "The Carolinum, the medical-surgical institute and the law school were combined in the new university.",
+   "from_inst": null,
+   "related": [
+    "a-zurich"
+   ]
+  },
+  {
+   "id": "u-zurich-1864-access",
+   "inst": "u-zurich",
+   "year": 1864,
+   "approx": false,
+   "type": "access",
+   "title": "First women attend",
+   "desc": "Women were allowed to attend lectures (Nadezhda Suslova).",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-zurich-1867-access",
+   "inst": "u-zurich",
+   "year": 1867,
+   "approx": false,
+   "type": "access",
+   "title": "First woman doctorate",
+   "desc": "Nadezhda Suslova received a doctorate in medicine, the first doctorate awarded to a woman by a German-language university.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-bern-1528-founding",
+   "inst": "a-bern",
+   "year": 1528,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Founded after the Bern Reformation.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-bern-1805-reform",
+   "inst": "a-bern",
+   "year": 1805,
+   "approx": false,
+   "type": "reform",
+   "title": "Academy",
+   "desc": "Reorganised as an Academy with law and medicine.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bern-1834-founding",
+   "inst": "u-bern",
+   "year": 1834,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened 15 November 1834.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-bern-1834-merger",
+   "inst": "u-bern",
+   "year": 1834,
+   "approx": false,
+   "type": "merger",
+   "title": "Academy merged",
+   "desc": "The Academy was absorbed into the university.",
+   "from_inst": null,
+   "related": [
+    "a-bern"
+   ]
+  },
+  {
+   "id": "u-bern-1874-access",
+   "inst": "u-bern",
+   "year": 1874,
+   "approx": false,
+   "type": "access",
+   "title": "Women admitted",
+   "desc": "Cantonal regulation admitted women without restriction.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "t-eth-1855-founding",
+   "inst": "t-eth",
+   "year": 1855,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Opened October 1855.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "u-fribourg-1889-founding",
+   "inst": "u-fribourg",
+   "year": 1889,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Founded by the cantonal government.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-neuchatel-1838-founding",
+   "inst": "a-neuchatel",
+   "year": 1838,
+   "approx": false,
+   "type": "founding",
+   "title": "Foundation",
+   "desc": "Founded by Frederick William III.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-neuchatel-1848-suppression",
+   "inst": "a-neuchatel",
+   "year": 1848,
+   "approx": false,
+   "type": "suppression",
+   "title": "Closed after revolution",
+   "desc": "The republican government closed the Academy.",
+   "from_inst": null,
+   "related": []
+  },
+  {
+   "id": "a-neuchatel-1866-refoundation",
+   "inst": "a-neuchatel",
+   "year": 1866,
+   "approx": false,
+   "type": "refoundation",
+   "title": "Second Academy",
+   "desc": "The canton reopened the Academy.",
+   "from_inst": null,
+   "related": []
+  }
+ ],
+ "thinkers": [
+  {
+   "name": "Peter Abelard",
+   "inst": "u-paris",
+   "from": 1100,
+   "to": 1140,
+   "approx": true,
+   "role": "taught logic and theology",
+   "note": "Taught in pre-university Paris schools."
+  },
+  {
+   "name": "Peter Lombard",
+   "inst": "u-paris",
+   "from": 1136,
+   "to": 1159,
+   "approx": true,
+   "role": "taught theology",
+   "note": "Author of the Sentences; taught at the cathedral school."
+  },
+  {
+   "name": "Albertus Magnus",
+   "inst": "u-paris",
+   "from": 1245,
+   "to": 1248,
+   "approx": false,
+   "role": "taught theology",
+   "note": ""
+  },
+  {
+   "name": "Thomas Aquinas",
+   "inst": "u-paris",
+   "from": 1245,
+   "to": 1248,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Thomas Aquinas",
+   "inst": "u-paris",
+   "from": 1252,
+   "to": 1259,
+   "approx": false,
+   "role": "taught theology",
+   "note": ""
+  },
+  {
+   "name": "Thomas Aquinas",
+   "inst": "u-paris",
+   "from": 1268,
+   "to": 1272,
+   "approx": false,
+   "role": "taught theology",
+   "note": ""
+  },
+  {
+   "name": "Bonaventure",
+   "inst": "u-paris",
+   "from": 1235,
+   "to": 1257,
+   "approx": true,
+   "role": "studied, taught",
+   "note": ""
+  },
+  {
+   "name": "Robert de Sorbon",
+   "inst": "u-paris",
+   "from": 1257,
+   "to": 1274,
+   "approx": false,
+   "role": "founded the Sorbonne college",
+   "note": ""
+  },
+  {
+   "name": "Siger of Brabant",
+   "inst": "u-paris",
+   "from": 1260,
+   "to": 1277,
+   "approx": true,
+   "role": "taught arts",
+   "note": ""
+  },
+  {
+   "name": "John Duns Scotus",
+   "inst": "u-paris",
+   "from": 1302,
+   "to": 1307,
+   "approx": true,
+   "role": "taught theology",
+   "note": ""
+  },
+  {
+   "name": "Jean Buridan",
+   "inst": "u-paris",
+   "from": 1320,
+   "to": 1360,
+   "approx": true,
+   "role": "taught arts",
+   "note": "Twice rector."
+  },
+  {
+   "name": "Nicole Oresme",
+   "inst": "u-paris",
+   "from": 1340,
+   "to": 1362,
+   "approx": true,
+   "role": "studied, taught",
+   "note": "Grand master of the College of Navarre."
+  },
+  {
+   "name": "Jean Gerson",
+   "inst": "u-paris",
+   "from": 1377,
+   "to": 1415,
+   "approx": true,
+   "role": "chancellor",
+   "note": ""
+  },
+  {
+   "name": "Erasmus",
+   "inst": "u-paris",
+   "from": 1495,
+   "to": 1499,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "John Calvin",
+   "inst": "u-paris",
+   "from": 1523,
+   "to": 1528,
+   "approx": true,
+   "role": "studied arts",
+   "note": ""
+  },
+  {
+   "name": "Ignatius of Loyola",
+   "inst": "u-paris",
+   "from": 1528,
+   "to": 1535,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Joseph Louis Gay-Lussac",
+   "inst": "u-paris",
+   "from": 1808,
+   "to": 1832,
+   "approx": false,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Louis Pasteur",
+   "inst": "u-paris",
+   "from": 1867,
+   "to": 1874,
+   "approx": false,
+   "role": "taught chemistry",
+   "note": ""
+  },
+  {
+   "name": "Henri Poincaré",
+   "inst": "u-paris",
+   "from": 1881,
+   "to": 1912,
+   "approx": false,
+   "role": "taught science",
+   "note": ""
+  },
+  {
+   "name": "Marie Curie",
+   "inst": "u-paris",
+   "from": 1891,
+   "to": 1894,
+   "approx": false,
+   "role": "studied",
+   "note": "Licences in physics (1893) and mathematics (1894)."
+  },
+  {
+   "name": "Bernard de Gordon",
+   "inst": "m-montpellier",
+   "from": 1283,
+   "to": 1289,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Bernard de Gordon",
+   "inst": "u-montpellier",
+   "from": 1289,
+   "to": 1308,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Arnau de Vilanova",
+   "inst": "u-montpellier",
+   "from": 1289,
+   "to": 1301,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "Petrarch",
+   "inst": "u-montpellier",
+   "from": 1316,
+   "to": 1320,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Guy de Chauliac",
+   "inst": "u-montpellier",
+   "from": 1315,
+   "to": 1325,
+   "approx": true,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "Nostradamus",
+   "inst": "u-montpellier",
+   "from": 1529,
+   "to": 1529,
+   "approx": false,
+   "role": "studied medicine",
+   "note": "Enrolled 1529; reportedly expelled."
+  },
+  {
+   "name": "François Rabelais",
+   "inst": "u-montpellier",
+   "from": 1530,
+   "to": 1532,
+   "approx": false,
+   "role": "studied medicine",
+   "note": ""
+  },
+  {
+   "name": "François Rabelais",
+   "inst": "u-montpellier",
+   "from": 1537,
+   "to": 1538,
+   "approx": false,
+   "role": "doctorate, lectured",
+   "note": ""
+  },
+  {
+   "name": "Guillaume Rondelet",
+   "inst": "u-montpellier",
+   "from": 1545,
+   "to": 1566,
+   "approx": true,
+   "role": "taught medicine",
+   "note": ""
+  },
+  {
+   "name": "John of Garland",
+   "inst": "u-toulouse",
+   "from": 1229,
+   "to": 1232,
+   "approx": true,
+   "role": "taught grammar",
+   "note": ""
+  },
+  {
+   "name": "Jean Bodin",
+   "inst": "u-toulouse",
+   "from": 1547,
+   "to": 1561,
+   "approx": true,
+   "role": "studied, taught law",
+   "note": ""
+  },
+  {
+   "name": "Jacques Cujas",
+   "inst": "u-toulouse",
+   "from": 1547,
+   "to": 1554,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Jacques de Révigny",
+   "inst": "u-orleans",
+   "from": 1260,
+   "to": 1280,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Pierre de Belleperche",
+   "inst": "u-orleans",
+   "from": 1270,
+   "to": 1296,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "John Calvin",
+   "inst": "u-orleans",
+   "from": 1528,
+   "to": 1529,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Theodore Beza",
+   "inst": "u-orleans",
+   "from": 1535,
+   "to": 1539,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Hugo Grotius",
+   "inst": "u-orleans",
+   "from": 1598,
+   "to": 1598,
+   "approx": false,
+   "role": "doctorate in law",
+   "note": ""
+  },
+  {
+   "name": "Pierre de Fermat",
+   "inst": "u-orleans",
+   "from": 1623,
+   "to": 1626,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Robert-Joseph Pothier",
+   "inst": "u-orleans",
+   "from": 1750,
+   "to": 1772,
+   "approx": false,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Andrea Alciato",
+   "inst": "u-avignon",
+   "from": 1518,
+   "to": 1522,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Andrea Alciato",
+   "inst": "u-bourges",
+   "from": 1529,
+   "to": 1533,
+   "approx": false,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "John Calvin",
+   "inst": "u-bourges",
+   "from": 1529,
+   "to": 1531,
+   "approx": true,
+   "role": "studied law and Greek",
+   "note": ""
+  },
+  {
+   "name": "Jacques Cujas",
+   "inst": "u-bourges",
+   "from": 1555,
+   "to": 1590,
+   "approx": true,
+   "role": "taught law",
+   "note": "Several periods."
+  },
+  {
+   "name": "Hugues Doneau",
+   "inst": "u-bourges",
+   "from": 1551,
+   "to": 1572,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "François Hotman",
+   "inst": "u-bourges",
+   "from": 1567,
+   "to": 1572,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Jacques Cujas",
+   "inst": "u-cahors",
+   "from": 1554,
+   "to": 1554,
+   "approx": false,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Jacques Cujas",
+   "inst": "u-valence",
+   "from": 1557,
+   "to": 1575,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Joseph Scaliger",
+   "inst": "u-valence",
+   "from": 1570,
+   "to": 1572,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Pierre Gassendi",
+   "inst": "u-aix",
+   "from": 1617,
+   "to": 1623,
+   "approx": false,
+   "role": "taught philosophy",
+   "note": ""
+  },
+  {
+   "name": "René Descartes",
+   "inst": "u-poitiers",
+   "from": 1615,
+   "to": 1616,
+   "approx": false,
+   "role": "law licence",
+   "note": ""
+  },
+  {
+   "name": "Joachim du Bellay",
+   "inst": "u-poitiers",
+   "from": 1545,
+   "to": 1547,
+   "approx": true,
+   "role": "studied law",
+   "note": ""
+  },
+  {
+   "name": "Pierre-Simon Laplace",
+   "inst": "u-caen",
+   "from": 1766,
+   "to": 1768,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Émile Durkheim",
+   "inst": "u-bordeaux",
+   "from": 1887,
+   "to": 1902,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jean-François Champollion",
+   "inst": "u-grenoble",
+   "from": 1810,
+   "to": 1816,
+   "approx": true,
+   "role": "taught history",
+   "note": ""
+  },
+  {
+   "name": "Jean-Baptiste de La Salle",
+   "inst": "u-reims",
+   "from": 1678,
+   "to": 1680,
+   "approx": true,
+   "role": "doctorate in theology",
+   "note": ""
+  },
+  {
+   "name": "William Allen",
+   "inst": "u-douai",
+   "from": 1561,
+   "to": 1585,
+   "approx": true,
+   "role": "taught",
+   "note": "Founded the English College."
+  },
+  {
+   "name": "Edmund Campion",
+   "inst": "u-douai",
+   "from": 1571,
+   "to": 1573,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Louis Pasteur",
+   "inst": "u-douai",
+   "from": 1854,
+   "to": 1857,
+   "approx": false,
+   "role": "dean of sciences",
+   "note": "Lille faculty of sciences."
+  },
+  {
+   "name": "William Barclay",
+   "inst": "u-pont-a-mousson",
+   "from": 1578,
+   "to": 1603,
+   "approx": true,
+   "role": "taught law",
+   "note": ""
+  },
+  {
+   "name": "Pierre Fourier",
+   "inst": "u-pont-a-mousson",
+   "from": 1585,
+   "to": 1589,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Julie-Victoire Daubié",
+   "inst": "u-lyon",
+   "from": 1861,
+   "to": 1861,
+   "approx": false,
+   "role": "baccalauréat",
+   "note": ""
+  },
+  {
+   "name": "Édouard Branly",
+   "inst": "u-paris-catholique",
+   "from": 1875,
+   "to": 1900,
+   "approx": false,
+   "role": "taught physics",
+   "note": ""
+  },
+  {
+   "name": "Alfred Loisy",
+   "inst": "u-paris-catholique",
+   "from": 1881,
+   "to": 1893,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Juan Maldonado",
+   "inst": "j-paris-clermont",
+   "from": 1564,
+   "to": 1576,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Molière",
+   "inst": "j-paris-clermont",
+   "from": 1635,
+   "to": 1640,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Voltaire",
+   "inst": "j-paris-clermont",
+   "from": 1704,
+   "to": 1711,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "René Descartes",
+   "inst": "j-la-fleche",
+   "from": 1607,
+   "to": 1615,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Marin Mersenne",
+   "inst": "j-la-fleche",
+   "from": 1604,
+   "to": 1609,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Daniel Chamier",
+   "inst": "a-montauban",
+   "from": 1612,
+   "to": 1621,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "John Cameron",
+   "inst": "a-saumur",
+   "from": 1618,
+   "to": 1621,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Moïse Amyraut",
+   "inst": "a-saumur",
+   "from": 1633,
+   "to": 1664,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Louis Cappel",
+   "inst": "a-saumur",
+   "from": 1613,
+   "to": 1658,
+   "approx": true,
+   "role": "taught Hebrew",
+   "note": ""
+  },
+  {
+   "name": "Andrew Melville",
+   "inst": "a-sedan",
+   "from": 1611,
+   "to": 1622,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Pierre Du Moulin",
+   "inst": "a-sedan",
+   "from": 1621,
+   "to": 1658,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Pierre Bayle",
+   "inst": "a-sedan",
+   "from": 1675,
+   "to": 1681,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Pierre Jurieu",
+   "inst": "a-sedan",
+   "from": 1674,
+   "to": 1681,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Guillaume Postel",
+   "inst": "m-paris-college-de-france",
+   "from": 1538,
+   "to": 1543,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Petrus Ramus",
+   "inst": "m-paris-college-de-france",
+   "from": 1551,
+   "to": 1572,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Georges Cuvier",
+   "inst": "m-paris-college-de-france",
+   "from": 1800,
+   "to": 1832,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "René Laennec",
+   "inst": "m-paris-college-de-france",
+   "from": 1822,
+   "to": 1826,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "André-Marie Ampère",
+   "inst": "m-paris-college-de-france",
+   "from": 1824,
+   "to": 1836,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jean-François Champollion",
+   "inst": "m-paris-college-de-france",
+   "from": 1831,
+   "to": 1832,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jules Michelet",
+   "inst": "m-paris-college-de-france",
+   "from": 1838,
+   "to": 1852,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Claude Bernard",
+   "inst": "m-paris-college-de-france",
+   "from": 1855,
+   "to": 1878,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Ernest Renan",
+   "inst": "m-paris-college-de-france",
+   "from": 1862,
+   "to": 1892,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Buffon",
+   "inst": "m-paris-jardin-du-roi",
+   "from": 1739,
+   "to": 1788,
+   "approx": false,
+   "role": "intendant",
+   "note": ""
+  },
+  {
+   "name": "Antoine-Laurent de Jussieu",
+   "inst": "m-paris-jardin-du-roi",
+   "from": 1770,
+   "to": 1826,
+   "approx": true,
+   "role": "taught botany",
+   "note": ""
+  },
+  {
+   "name": "Lamarck",
+   "inst": "m-paris-jardin-du-roi",
+   "from": 1793,
+   "to": 1829,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Georges Cuvier",
+   "inst": "m-paris-jardin-du-roi",
+   "from": 1795,
+   "to": 1832,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jean-Rodolphe Perronet",
+   "inst": "t-ponts-chaussees",
+   "from": 1747,
+   "to": 1794,
+   "approx": false,
+   "role": "founded",
+   "note": ""
+  },
+  {
+   "name": "Augustin Fresnel",
+   "inst": "t-ponts-chaussees",
+   "from": 1806,
+   "to": 1809,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Augustin-Louis Cauchy",
+   "inst": "t-ponts-chaussees",
+   "from": 1807,
+   "to": 1810,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Claude-Louis Navier",
+   "inst": "t-ponts-chaussees",
+   "from": 1819,
+   "to": 1836,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Gaspard Monge",
+   "inst": "t-mezieres",
+   "from": 1765,
+   "to": 1784,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Charles-Augustin de Coulomb",
+   "inst": "t-mezieres",
+   "from": 1760,
+   "to": 1761,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Lazare Carnot",
+   "inst": "t-mezieres",
+   "from": 1771,
+   "to": 1773,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Frédéric Le Play",
+   "inst": "t-mines",
+   "from": 1840,
+   "to": 1856,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Henri Poincaré",
+   "inst": "t-mines",
+   "from": 1875,
+   "to": 1879,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Gaspard Monge",
+   "inst": "t-polytechnique",
+   "from": 1794,
+   "to": 1809,
+   "approx": true,
+   "role": "founded",
+   "note": ""
+  },
+  {
+   "name": "Joseph-Louis Lagrange",
+   "inst": "t-polytechnique",
+   "from": 1794,
+   "to": 1799,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Joseph Fourier",
+   "inst": "t-polytechnique",
+   "from": 1795,
+   "to": 1798,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Joseph Louis Gay-Lussac",
+   "inst": "t-polytechnique",
+   "from": 1797,
+   "to": 1800,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Siméon Denis Poisson",
+   "inst": "t-polytechnique",
+   "from": 1798,
+   "to": 1815,
+   "approx": true,
+   "role": "studied, taught",
+   "note": ""
+  },
+  {
+   "name": "André-Marie Ampère",
+   "inst": "t-polytechnique",
+   "from": 1804,
+   "to": 1828,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Augustin Fresnel",
+   "inst": "t-polytechnique",
+   "from": 1804,
+   "to": 1806,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Augustin-Louis Cauchy",
+   "inst": "t-polytechnique",
+   "from": 1805,
+   "to": 1807,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Gaspard-Gustave Coriolis",
+   "inst": "t-polytechnique",
+   "from": 1808,
+   "to": 1810,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Sadi Carnot",
+   "inst": "t-polytechnique",
+   "from": 1812,
+   "to": 1814,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Auguste Comte",
+   "inst": "t-polytechnique",
+   "from": 1814,
+   "to": 1816,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Henri Poincaré",
+   "inst": "t-polytechnique",
+   "from": 1873,
+   "to": 1875,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Joseph-Louis Lagrange",
+   "inst": "t-ens",
+   "from": 1795,
+   "to": 1795,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Pierre-Simon Laplace",
+   "inst": "t-ens",
+   "from": 1795,
+   "to": 1795,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Joseph Fourier",
+   "inst": "t-ens",
+   "from": 1795,
+   "to": 1795,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Évariste Galois",
+   "inst": "t-ens",
+   "from": 1829,
+   "to": 1830,
+   "approx": false,
+   "role": "studied",
+   "note": "Expelled 1830."
+  },
+  {
+   "name": "Louis Pasteur",
+   "inst": "t-ens",
+   "from": 1843,
+   "to": 1846,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Louis Pasteur",
+   "inst": "t-ens",
+   "from": 1857,
+   "to": 1867,
+   "approx": false,
+   "role": "administrator",
+   "note": ""
+  },
+  {
+   "name": "Jean Jaurès",
+   "inst": "t-ens",
+   "from": 1878,
+   "to": 1881,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Henri Bergson",
+   "inst": "t-ens",
+   "from": 1878,
+   "to": 1881,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Émile Durkheim",
+   "inst": "t-ens",
+   "from": 1879,
+   "to": 1882,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Jean-Baptiste Say",
+   "inst": "t-cnam",
+   "from": 1819,
+   "to": 1830,
+   "approx": false,
+   "role": "taught economics",
+   "note": ""
+  },
+  {
+   "name": "Jean-Baptiste Dumas",
+   "inst": "t-centrale",
+   "from": 1829,
+   "to": 1852,
+   "approx": true,
+   "role": "founded, taught",
+   "note": ""
+  },
+  {
+   "name": "Gustave Eiffel",
+   "inst": "t-centrale",
+   "from": 1852,
+   "to": 1855,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Pierre Curie",
+   "inst": "t-espci",
+   "from": 1882,
+   "to": 1904,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Marie Curie",
+   "inst": "t-espci",
+   "from": 1897,
+   "to": 1904,
+   "approx": true,
+   "role": "research",
+   "note": ""
+  },
+  {
+   "name": "Erasmus",
+   "inst": "u-leuven",
+   "from": 1517,
+   "to": 1521,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Adrian of Utrecht",
+   "inst": "u-leuven",
+   "from": 1491,
+   "to": 1515,
+   "approx": true,
+   "role": "taught, rector",
+   "note": "Later Pope Adrian VI."
+  },
+  {
+   "name": "Juan Luis Vives",
+   "inst": "u-leuven",
+   "from": 1519,
+   "to": 1523,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Andreas Vesalius",
+   "inst": "u-leuven",
+   "from": 1528,
+   "to": 1533,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Gerardus Mercator",
+   "inst": "u-leuven",
+   "from": 1530,
+   "to": 1532,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Gemma Frisius",
+   "inst": "u-leuven",
+   "from": 1537,
+   "to": 1555,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Michael Baius",
+   "inst": "u-leuven",
+   "from": 1550,
+   "to": 1589,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Robert Bellarmine",
+   "inst": "u-leuven",
+   "from": 1570,
+   "to": 1576,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Justus Lipsius",
+   "inst": "u-leuven",
+   "from": 1592,
+   "to": 1606,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Cornelius Jansen",
+   "inst": "u-leuven",
+   "from": 1617,
+   "to": 1636,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Theodor Schwann",
+   "inst": "u-leuven",
+   "from": 1839,
+   "to": 1848,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Justus Lipsius",
+   "inst": "u-leiden",
+   "from": 1578,
+   "to": 1591,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Joseph Scaliger",
+   "inst": "u-leiden",
+   "from": 1593,
+   "to": 1609,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Carolus Clusius",
+   "inst": "u-leiden",
+   "from": 1593,
+   "to": 1609,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Franciscus Gomarus",
+   "inst": "u-leiden",
+   "from": 1594,
+   "to": 1611,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jacobus Arminius",
+   "inst": "u-leiden",
+   "from": 1603,
+   "to": 1609,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Hugo Grotius",
+   "inst": "u-leiden",
+   "from": 1594,
+   "to": 1597,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Willebrord Snellius",
+   "inst": "u-leiden",
+   "from": 1613,
+   "to": 1626,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "René Descartes",
+   "inst": "u-leiden",
+   "from": 1630,
+   "to": 1630,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Christiaan Huygens",
+   "inst": "u-leiden",
+   "from": 1645,
+   "to": 1647,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Herman Boerhaave",
+   "inst": "u-leiden",
+   "from": 1684,
+   "to": 1690,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Herman Boerhaave",
+   "inst": "u-leiden",
+   "from": 1701,
+   "to": 1738,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Willem 's Gravesande",
+   "inst": "u-leiden",
+   "from": 1717,
+   "to": 1742,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Pieter van Musschenbroek",
+   "inst": "u-leiden",
+   "from": 1740,
+   "to": 1761,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Hendrik Lorentz",
+   "inst": "u-leiden",
+   "from": 1878,
+   "to": 1912,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "René Descartes",
+   "inst": "u-franeker",
+   "from": 1629,
+   "to": 1629,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "William Ames",
+   "inst": "u-franeker",
+   "from": 1622,
+   "to": 1633,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Tiberius Hemsterhuis",
+   "inst": "u-franeker",
+   "from": 1704,
+   "to": 1740,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Petrus Camper",
+   "inst": "u-franeker",
+   "from": 1749,
+   "to": 1755,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Ubbo Emmius",
+   "inst": "u-groningen",
+   "from": 1614,
+   "to": 1625,
+   "approx": false,
+   "role": "rector",
+   "note": ""
+  },
+  {
+   "name": "Franciscus Gomarus",
+   "inst": "u-groningen",
+   "from": 1618,
+   "to": 1641,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Johann Bernoulli",
+   "inst": "u-groningen",
+   "from": 1695,
+   "to": 1705,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Petrus Camper",
+   "inst": "u-groningen",
+   "from": 1763,
+   "to": 1773,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Aletta Jacobs",
+   "inst": "u-groningen",
+   "from": 1871,
+   "to": 1879,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Gisbertus Voetius",
+   "inst": "u-utrecht",
+   "from": 1636,
+   "to": 1676,
+   "approx": false,
+   "role": "taught",
+   "note": "Taught at the Illustrious School from 1634."
+  },
+  {
+   "name": "Anna Maria van Schurman",
+   "inst": "u-utrecht",
+   "from": 1636,
+   "to": 1636,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Henricus Regius",
+   "inst": "u-utrecht",
+   "from": 1638,
+   "to": 1679,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Buys Ballot",
+   "inst": "u-utrecht",
+   "from": 1847,
+   "to": 1888,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Franciscus Donders",
+   "inst": "u-utrecht",
+   "from": 1847,
+   "to": 1889,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Herman Boerhaave",
+   "inst": "u-harderwijk",
+   "from": 1693,
+   "to": 1693,
+   "approx": false,
+   "role": "doctorate",
+   "note": ""
+  },
+  {
+   "name": "Carl Linnaeus",
+   "inst": "u-harderwijk",
+   "from": 1735,
+   "to": 1735,
+   "approx": false,
+   "role": "doctorate",
+   "note": ""
+  },
+  {
+   "name": "Gerardus Vossius",
+   "inst": "a-amsterdam",
+   "from": 1632,
+   "to": 1649,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Caspar Barlaeus",
+   "inst": "a-amsterdam",
+   "from": 1632,
+   "to": 1648,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Johannes van der Waals",
+   "inst": "a-amsterdam",
+   "from": 1877,
+   "to": 1908,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jacobus van 't Hoff",
+   "inst": "a-amsterdam",
+   "from": 1878,
+   "to": 1896,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Hugo de Vries",
+   "inst": "a-amsterdam",
+   "from": 1878,
+   "to": 1918,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Abraham Kuyper",
+   "inst": "u-vu-amsterdam",
+   "from": 1880,
+   "to": 1901,
+   "approx": false,
+   "role": "founded, taught",
+   "note": ""
+  },
+  {
+   "name": "Jacobus van 't Hoff",
+   "inst": "t-delft",
+   "from": 1869,
+   "to": 1871,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Adolphe Quetelet",
+   "inst": "u-ghent",
+   "from": 1819,
+   "to": 1819,
+   "approx": false,
+   "role": "doctorate",
+   "note": ""
+  },
+  {
+   "name": "Joseph Plateau",
+   "inst": "u-ghent",
+   "from": 1835,
+   "to": 1872,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "August Kekulé",
+   "inst": "u-ghent",
+   "from": 1858,
+   "to": 1867,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Leo Baekeland",
+   "inst": "u-ghent",
+   "from": 1880,
+   "to": 1889,
+   "approx": false,
+   "role": "studied, taught",
+   "note": ""
+  },
+  {
+   "name": "Theodor Schwann",
+   "inst": "u-liege",
+   "from": 1848,
+   "to": 1880,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Théodore Verhaegen",
+   "inst": "u-brussels",
+   "from": 1834,
+   "to": 1862,
+   "approx": false,
+   "role": "founded",
+   "note": ""
+  },
+  {
+   "name": "Élisée Reclus",
+   "inst": "u-brussels-nouvelle",
+   "from": 1894,
+   "to": 1905,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Johannes Oecolampadius",
+   "inst": "u-basel",
+   "from": 1523,
+   "to": 1531,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Erasmus",
+   "inst": "u-basel",
+   "from": 1521,
+   "to": 1529,
+   "approx": false,
+   "role": "lived in Basel",
+   "note": "Not a professor."
+  },
+  {
+   "name": "Paracelsus",
+   "inst": "u-basel",
+   "from": 1527,
+   "to": 1528,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Sebastian Castellio",
+   "inst": "u-basel",
+   "from": 1553,
+   "to": 1563,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Felix Platter",
+   "inst": "u-basel",
+   "from": 1571,
+   "to": 1614,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Johannes Buxtorf",
+   "inst": "u-basel",
+   "from": 1591,
+   "to": 1629,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jakob Bernoulli",
+   "inst": "u-basel",
+   "from": 1687,
+   "to": 1705,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Johann Bernoulli",
+   "inst": "u-basel",
+   "from": 1705,
+   "to": 1748,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Leonhard Euler",
+   "inst": "u-basel",
+   "from": 1720,
+   "to": 1727,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Daniel Bernoulli",
+   "inst": "u-basel",
+   "from": 1733,
+   "to": 1782,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jacob Burckhardt",
+   "inst": "u-basel",
+   "from": 1858,
+   "to": 1893,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Friedrich Nietzsche",
+   "inst": "u-basel",
+   "from": 1869,
+   "to": 1879,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "John Calvin",
+   "inst": "a-geneva",
+   "from": 1559,
+   "to": 1564,
+   "approx": false,
+   "role": "founded, taught",
+   "note": ""
+  },
+  {
+   "name": "Theodore Beza",
+   "inst": "a-geneva",
+   "from": 1559,
+   "to": 1599,
+   "approx": false,
+   "role": "rector",
+   "note": ""
+  },
+  {
+   "name": "Andrew Melville",
+   "inst": "a-geneva",
+   "from": 1569,
+   "to": 1574,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Isaac Casaubon",
+   "inst": "a-geneva",
+   "from": 1582,
+   "to": 1596,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jacobus Arminius",
+   "inst": "a-geneva",
+   "from": 1582,
+   "to": 1586,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Giovanni Diodati",
+   "inst": "a-geneva",
+   "from": 1597,
+   "to": 1645,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Francis Turretin",
+   "inst": "a-geneva",
+   "from": 1653,
+   "to": 1687,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Horace-Bénédict de Saussure",
+   "inst": "a-geneva",
+   "from": 1762,
+   "to": 1786,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Ferdinand de Saussure",
+   "inst": "a-geneva",
+   "from": 1891,
+   "to": 1913,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Pierre Viret",
+   "inst": "a-lausanne",
+   "from": 1537,
+   "to": 1559,
+   "approx": false,
+   "role": "founded",
+   "note": ""
+  },
+  {
+   "name": "Conrad Gessner",
+   "inst": "a-lausanne",
+   "from": 1537,
+   "to": 1540,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Mathurin Cordier",
+   "inst": "a-lausanne",
+   "from": 1545,
+   "to": 1557,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Theodore Beza",
+   "inst": "a-lausanne",
+   "from": 1549,
+   "to": 1558,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Léon Walras",
+   "inst": "a-lausanne",
+   "from": 1870,
+   "to": 1892,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Vilfredo Pareto",
+   "inst": "a-lausanne",
+   "from": 1893,
+   "to": 1911,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Huldrych Zwingli",
+   "inst": "a-zurich",
+   "from": 1525,
+   "to": 1531,
+   "approx": false,
+   "role": "founded",
+   "note": ""
+  },
+  {
+   "name": "Heinrich Bullinger",
+   "inst": "a-zurich",
+   "from": 1531,
+   "to": 1575,
+   "approx": false,
+   "role": "led",
+   "note": ""
+  },
+  {
+   "name": "Conrad Gessner",
+   "inst": "a-zurich",
+   "from": 1541,
+   "to": 1565,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Lorenz Oken",
+   "inst": "u-zurich",
+   "from": 1833,
+   "to": 1851,
+   "approx": false,
+   "role": "rector",
+   "note": ""
+  },
+  {
+   "name": "Theodor Mommsen",
+   "inst": "u-zurich",
+   "from": 1852,
+   "to": 1854,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Nadezhda Suslova",
+   "inst": "u-zurich",
+   "from": 1864,
+   "to": 1867,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Richard Avenarius",
+   "inst": "u-zurich",
+   "from": 1877,
+   "to": 1896,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Rosa Luxemburg",
+   "inst": "u-zurich",
+   "from": 1889,
+   "to": 1897,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Jeremias Gotthelf",
+   "inst": "a-bern",
+   "from": 1814,
+   "to": 1820,
+   "approx": true,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Theodor Kocher",
+   "inst": "u-bern",
+   "from": 1872,
+   "to": 1917,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Anna Tumarkin",
+   "inst": "u-bern",
+   "from": 1892,
+   "to": 1895,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Gottfried Semper",
+   "inst": "t-eth",
+   "from": 1855,
+   "to": 1871,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Rudolf Clausius",
+   "inst": "t-eth",
+   "from": 1855,
+   "to": 1867,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Jacob Burckhardt",
+   "inst": "t-eth",
+   "from": 1855,
+   "to": 1858,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Francesco De Sanctis",
+   "inst": "t-eth",
+   "from": 1856,
+   "to": 1860,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Richard Dedekind",
+   "inst": "t-eth",
+   "from": 1858,
+   "to": 1862,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Elwin Christoffel",
+   "inst": "t-eth",
+   "from": 1862,
+   "to": 1869,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Wilhelm Röntgen",
+   "inst": "t-eth",
+   "from": 1865,
+   "to": 1868,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Hermann Minkowski",
+   "inst": "t-eth",
+   "from": 1896,
+   "to": 1902,
+   "approx": false,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Albert Einstein",
+   "inst": "t-eth",
+   "from": 1896,
+   "to": 1900,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Mileva Marić",
+   "inst": "t-eth",
+   "from": 1896,
+   "to": 1900,
+   "approx": false,
+   "role": "studied",
+   "note": ""
+  },
+  {
+   "name": "Louis Agassiz",
+   "inst": "a-neuchatel",
+   "from": 1838,
+   "to": 1846,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  },
+  {
+   "name": "Arnold Guyot",
+   "inst": "a-neuchatel",
+   "from": 1839,
+   "to": 1848,
+   "approx": true,
+   "role": "taught",
+   "note": ""
+  }
+ ]
+}

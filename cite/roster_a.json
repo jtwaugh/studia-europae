@@ -1,0 +1,1579 @@
+[
+{
+"id": "alcuin-of-york",
+"name": "Alcuin of York",
+"first": 750,
+"stints": [
+{
+"k": "th990",
+"inst": "c-york",
+"inst_name": "Cathedral School of York",
+"city": "York",
+"from": 750,
+"to": 781,
+"role": "studied; master"
+},
+{
+"k": "th991",
+"inst": "p-aachen",
+"inst_name": "Palace School of Charlemagne",
+"city": "Aachen",
+"from": 782,
+"to": 796,
+"role": "head of palace school"
+},
+{
+"k": "th992",
+"inst": "c-tours",
+"inst_name": "Abbey School of Saint-Martin, Tours",
+"city": "Tours",
+"from": 796,
+"to": 804,
+"role": "abbot; taught"
+}
+],
+"era": "a"
+},
+{
+"id": "peter-of-pisa",
+"name": "Peter of Pisa",
+"first": 776,
+"stints": [
+{
+"k": "th994",
+"inst": "p-aachen",
+"inst_name": "Palace School of Charlemagne",
+"city": "Aachen",
+"from": 776,
+"to": 799,
+"role": "taught grammar"
+}
+],
+"era": "a"
+},
+{
+"id": "paul-the-deacon",
+"name": "Paul the Deacon",
+"first": 782,
+"stints": [
+{
+"k": "th995",
+"inst": "p-aachen",
+"inst_name": "Palace School of Charlemagne",
+"city": "Aachen",
+"from": 782,
+"to": 787,
+"role": "taught"
+},
+{
+"k": "th996",
+"inst": "c-monte-cassino",
+"inst_name": "Abbey School of Monte Cassino",
+"city": "Cassino",
+"from": 787,
+"to": 799,
+"role": "monk; wrote"
+}
+],
+"era": "a"
+},
+{
+"id": "einhard",
+"name": "Einhard",
+"first": 791,
+"stints": [
+{
+"k": "th993",
+"inst": "p-aachen",
+"inst_name": "Palace School of Charlemagne",
+"city": "Aachen",
+"from": 791,
+"to": 830,
+"role": "studied; courtier"
+}
+],
+"era": "a"
+},
+{
+"id": "theodulf-of-orleans",
+"name": "Theodulf of Orléans",
+"first": 798,
+"stints": [
+{
+"k": "th997",
+"inst": "c-orleans",
+"inst_name": "Cathedral School of Orléans",
+"city": "Orléans",
+"from": 798,
+"to": 818,
+"role": "bishop; founded schools"
+}
+],
+"era": "a"
+},
+{
+"id": "hrabanus-maurus",
+"name": "Hrabanus Maurus",
+"first": 801,
+"stints": [
+{
+"k": "th998",
+"inst": "c-tours",
+"inst_name": "Abbey School of Saint-Martin, Tours",
+"city": "Tours",
+"from": 801,
+"to": 803,
+"role": "studied under Alcuin"
+},
+{
+"k": "th999",
+"inst": "c-fulda",
+"inst_name": "Abbey School of Fulda",
+"city": "Fulda",
+"from": 804,
+"to": 842,
+"role": "master; abbot"
+}
+],
+"era": "a"
+},
+{
+"id": "gottschalk-of-orbais",
+"name": "Gottschalk of Orbais",
+"first": 815,
+"stints": [
+{
+"k": "th1002",
+"inst": "c-fulda",
+"inst_name": "Abbey School of Fulda",
+"city": "Fulda",
+"from": 815,
+"to": 829,
+"role": "oblate"
+}
+],
+"era": "a"
+},
+{
+"id": "dungal",
+"name": "Dungal",
+"first": 825,
+"stints": [
+{
+"k": "th1033",
+"inst": "c-pavia",
+"inst_name": "School of Pavia (Capitulary of Olona)",
+"city": "Pavia",
+"from": 825,
+"to": 827,
+"role": "master"
+}
+],
+"era": "a"
+},
+{
+"id": "walafrid-strabo",
+"name": "Walafrid Strabo",
+"first": 827,
+"stints": [
+{
+"k": "th1000",
+"inst": "c-fulda",
+"inst_name": "Abbey School of Fulda",
+"city": "Fulda",
+"from": 827,
+"to": 829,
+"role": "studied"
+},
+{
+"k": "th1001",
+"inst": "c-reichenau",
+"inst_name": "Abbey School of Reichenau",
+"city": "Reichenau",
+"from": 838,
+"to": 849,
+"role": "abbot"
+}
+],
+"era": "a"
+},
+{
+"id": "lupus-of-ferrieres",
+"name": "Lupus of Ferrières",
+"first": 840,
+"stints": [
+{
+"k": "th1003",
+"inst": "c-ferrieres",
+"inst_name": "Abbey School of Ferrières",
+"city": "Ferrières-en-Gâtinais",
+"from": 840,
+"to": 862,
+"role": "abbot"
+}
+],
+"era": "a"
+},
+{
+"id": "constantine-cyril-the-philosopher",
+"name": "Constantine-Cyril the Philosopher",
+"first": 843,
+"stints": [
+{
+"k": "th943",
+"inst": "b-magnaura",
+"inst_name": "Magnaura School",
+"city": "Constantinople",
+"from": 843,
+"to": 851,
+"role": "studied; taught philosophy"
+}
+],
+"era": "a"
+},
+{
+"id": "john-scottus-eriugena",
+"name": "John Scottus Eriugena",
+"first": 845,
+"stints": [
+{
+"k": "th1004",
+"inst": "p-compiegne",
+"inst_name": "Palace School of Charles the Bald",
+"city": "Compiègne",
+"from": 845,
+"to": 877,
+"role": "head of palace school"
+}
+],
+"era": "a"
+},
+{
+"id": "leo-the-mathematician",
+"name": "Leo the Mathematician",
+"first": 849,
+"stints": [
+{
+"k": "th942",
+"inst": "b-magnaura",
+"inst_name": "Magnaura School",
+"city": "Constantinople",
+"from": 849,
+"to": 869,
+"role": "head of school"
+}
+],
+"era": "a"
+},
+{
+"id": "photios",
+"name": "Photios",
+"first": 850,
+"stints": [
+{
+"k": "th944",
+"inst": "b-magnaura",
+"inst_name": "Magnaura School",
+"city": "Constantinople",
+"from": 850,
+"to": 858,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "notker-balbulus",
+"name": "Notker Balbulus",
+"first": 860,
+"stints": [
+{
+"k": "th1007",
+"inst": "c-st-gall",
+"inst_name": "Abbey School of St Gall",
+"city": "St. Gallen",
+"from": 860,
+"to": 912,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "heiric-of-auxerre",
+"name": "Heiric of Auxerre",
+"first": 865,
+"stints": [
+{
+"k": "th1005",
+"inst": "c-auxerre",
+"inst_name": "School of Saint-Germain d'Auxerre",
+"city": "Auxerre",
+"from": 865,
+"to": 876,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "asser",
+"name": "Asser",
+"first": 885,
+"stints": [
+{
+"k": "th1009",
+"inst": "p-winchester",
+"inst_name": "Court School of Alfred the Great",
+"city": "Winchester",
+"from": 885,
+"to": 899,
+"role": "scholar at court"
+}
+],
+"era": "a"
+},
+{
+"id": "remigius-of-auxerre",
+"name": "Remigius of Auxerre",
+"first": 893,
+"stints": [
+{
+"k": "th1006",
+"inst": "c-reims",
+"inst_name": "Cathedral School of Reims",
+"city": "Reims",
+"from": 893,
+"to": 900,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "bruno-of-cologne",
+"name": "Bruno of Cologne",
+"first": 940,
+"stints": [
+{
+"k": "th1010",
+"inst": "p-aachen-ottonian",
+"inst_name": "Ottonian Court School",
+"city": "Aachen",
+"from": 940,
+"to": 953,
+"role": "head of court school"
+}
+],
+"era": "a"
+},
+{
+"id": "gerbert-of-aurillac",
+"name": "Gerbert of Aurillac",
+"first": 967,
+"stints": [
+{
+"k": "th1011",
+"inst": "c-vic",
+"inst_name": "Cathedral School of Vic",
+"city": "Vic",
+"from": 967,
+"to": 970,
+"role": "studied"
+},
+{
+"k": "th1012",
+"inst": "c-reims",
+"inst_name": "Cathedral School of Reims",
+"city": "Reims",
+"from": 972,
+"to": 982,
+"role": "scholasticus"
+}
+],
+"era": "a"
+},
+{
+"id": "abbo-of-fleury",
+"name": "Abbo of Fleury",
+"first": 985,
+"stints": [
+{
+"k": "th1013",
+"inst": "c-fleury",
+"inst_name": "Abbey School of Fleury",
+"city": "Saint-Benoît-sur-Loire",
+"from": 988,
+"to": 1004,
+"role": "abbot"
+},
+{
+"k": "th1014",
+"inst": "c-ramsey",
+"inst_name": "Abbey School of Ramsey",
+"city": "Ramsey",
+"from": 985,
+"to": 987,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "notker-labeo",
+"name": "Notker Labeo",
+"first": 990,
+"stints": [
+{
+"k": "th1008",
+"inst": "c-st-gall",
+"inst_name": "Abbey School of St Gall",
+"city": "St. Gallen",
+"from": 990,
+"to": 1022,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "fulbert-of-chartres",
+"name": "Fulbert of Chartres",
+"first": 990,
+"stints": [
+{
+"k": "th1015",
+"inst": "c-chartres",
+"inst_name": "Cathedral School of Chartres",
+"city": "Chartres",
+"from": 990,
+"to": 1028,
+"role": "master; bishop"
+}
+],
+"era": "a"
+},
+{
+"id": "lanfranc",
+"name": "Lanfranc",
+"first": 1020,
+"stints": [
+{
+"k": "th1016",
+"inst": "m-pavia-law",
+"inst_name": "Law School of Pavia",
+"city": "Pavia",
+"from": 1020,
+"to": 1035,
+"role": "studied"
+},
+{
+"k": "th1017",
+"inst": "c-bec",
+"inst_name": "Abbey School of Bec",
+"city": "Le Bec-Hellouin",
+"from": 1045,
+"to": 1063,
+"role": "master; prior"
+},
+{
+"k": "th1018",
+"inst": "c-canterbury",
+"inst_name": "Cathedral School of Canterbury",
+"city": "Canterbury",
+"from": 1070,
+"to": 1089,
+"role": "archbishop"
+}
+],
+"era": "a"
+},
+{
+"id": "michael-psellos",
+"name": "Michael Psellos",
+"first": 1046,
+"stints": [
+{
+"k": "th945",
+"inst": "b-pandidakterion",
+"inst_name": "Pandidakterion (Imperial School of Philosophy, Constantinople)",
+"city": "Constantinople",
+"from": 1046,
+"to": 1054,
+"role": "consul of the philosophers"
+}
+],
+"era": "a"
+},
+{
+"id": "john-xiphilinos",
+"name": "John Xiphilinos",
+"first": 1047,
+"stints": [
+{
+"k": "th949",
+"inst": "b-constantinople-law",
+"inst_name": "Law School of Constantinople (Didaskaleion ton nomon)",
+"city": "Constantinople",
+"from": 1047,
+"to": 1054,
+"role": "nomophylax (head of law school)"
+}
+],
+"era": "a"
+},
+{
+"id": "john-italos",
+"name": "John Italos",
+"first": 1055,
+"stints": [
+{
+"k": "th946",
+"inst": "b-pandidakterion",
+"inst_name": "Pandidakterion (Imperial School of Philosophy, Constantinople)",
+"city": "Constantinople",
+"from": 1055,
+"to": 1082,
+"role": "consul of the philosophers"
+}
+],
+"era": "a"
+},
+{
+"id": "isleifur-gissurarson",
+"name": "Ísleifur Gissurarson",
+"first": 1056,
+"stints": [
+{
+"k": "th1032",
+"inst": "c-skalholt",
+"inst_name": "Cathedral School of Skálholt",
+"city": "Skálholt",
+"from": 1056,
+"to": 1080,
+"role": "founded; taught"
+}
+],
+"era": "a"
+},
+{
+"id": "anselm-of-canterbury",
+"name": "Anselm of Canterbury",
+"first": 1060,
+"stints": [
+{
+"k": "th1019",
+"inst": "c-bec",
+"inst_name": "Abbey School of Bec",
+"city": "Le Bec-Hellouin",
+"from": 1060,
+"to": 1093,
+"role": "monk; prior; abbot"
+}
+],
+"era": "a"
+},
+{
+"id": "constantine-the-african",
+"name": "Constantine the African",
+"first": 1077,
+"stints": [
+{
+"k": "th39",
+"inst": "m-salerno",
+"inst_name": "Schola Medica Salernitana",
+"city": "Salerno",
+"from": 1077,
+"to": 1080,
+"role": "worked as physician-translator"
+},
+{
+"k": "th1031",
+"inst": "c-monte-cassino",
+"inst_name": "Abbey School of Monte Cassino",
+"city": "Cassino",
+"from": 1077,
+"to": 1087,
+"role": "translated"
+}
+],
+"era": "a"
+},
+{
+"id": "anselm-of-laon",
+"name": "Anselm of Laon",
+"first": 1080,
+"stints": [
+{
+"k": "th1020",
+"inst": "c-laon",
+"inst_name": "Cathedral School of Laon",
+"city": "Laon",
+"from": 1080,
+"to": 1117,
+"role": "master"
+}
+],
+"era": "a"
+},
+{
+"id": "irnerius",
+"name": "Irnerius",
+"first": 1088,
+"stints": [
+{
+"k": "th0",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1088,
+"to": 1125,
+"role": "taught Roman law"
+}
+],
+"era": "a"
+},
+{
+"id": "trota-of-salerno",
+"name": "Trota of Salerno",
+"first": 1100,
+"stints": [
+{
+"k": "th40",
+"inst": "m-salerno",
+"inst_name": "Schola Medica Salernitana",
+"city": "Salerno",
+"from": 1100,
+"to": 1150,
+"role": "practised and taught medicine"
+}
+],
+"era": "a"
+},
+{
+"id": "peter-abelard",
+"name": "Peter Abelard",
+"first": 1100,
+"stints": [
+{
+"k": "th187",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1100,
+"to": 1140,
+"role": "taught logic and theology"
+},
+{
+"k": "th1021",
+"inst": "c-laon",
+"inst_name": "Cathedral School of Laon",
+"city": "Laon",
+"from": 1113,
+"to": 1113,
+"role": "studied"
+},
+{
+"k": "th1022",
+"inst": "c-paris-notre-dame",
+"inst_name": "Cathedral School of Notre-Dame, Paris",
+"city": "Paris",
+"from": 1114,
+"to": 1117,
+"role": "taught"
+},
+{
+"k": "th1023",
+"inst": "c-paris-ste-genevieve",
+"inst_name": "Schools of Sainte-Geneviève",
+"city": "Paris",
+"from": 1110,
+"to": 1136,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "bernard-of-chartres",
+"name": "Bernard of Chartres",
+"first": 1114,
+"stints": [
+{
+"k": "th1025",
+"inst": "c-chartres",
+"inst_name": "Cathedral School of Chartres",
+"city": "Chartres",
+"from": 1114,
+"to": 1124,
+"role": "master"
+}
+],
+"era": "a"
+},
+{
+"id": "hugh-of-st-victor",
+"name": "Hugh of St Victor",
+"first": 1120,
+"stints": [
+{
+"k": "th1024",
+"inst": "c-paris-st-victor",
+"inst_name": "School of Saint-Victor",
+"city": "Paris",
+"from": 1120,
+"to": 1141,
+"role": "master"
+}
+],
+"era": "a"
+},
+{
+"id": "william-of-conches",
+"name": "William of Conches",
+"first": 1120,
+"stints": [
+{
+"k": "th1027",
+"inst": "c-chartres",
+"inst_name": "Cathedral School of Chartres",
+"city": "Chartres",
+"from": 1120,
+"to": 1154,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "thierry-of-chartres",
+"name": "Thierry of Chartres",
+"first": 1121,
+"stints": [
+{
+"k": "th1026",
+"inst": "c-chartres",
+"inst_name": "Cathedral School of Chartres",
+"city": "Chartres",
+"from": 1121,
+"to": 1150,
+"role": "chancellor"
+}
+],
+"era": "a"
+},
+{
+"id": "gratian",
+"name": "Gratian",
+"first": 1130,
+"stints": [
+{
+"k": "th1",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1130,
+"to": 1150,
+"role": "taught canon law"
+}
+],
+"era": "a"
+},
+{
+"id": "peter-lombard",
+"name": "Peter Lombard",
+"first": 1135,
+"stints": [
+{
+"k": "th188",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1136,
+"to": 1159,
+"role": "taught theology"
+},
+{
+"k": "th1029",
+"inst": "c-paris-notre-dame",
+"inst_name": "Cathedral School of Notre-Dame, Paris",
+"city": "Paris",
+"from": 1135,
+"to": 1159,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "gerard-of-cremona",
+"name": "Gerard of Cremona",
+"first": 1144,
+"stints": [
+{
+"k": "th1030",
+"inst": "c-toledo",
+"inst_name": "Cathedral School of Toledo",
+"city": "Toledo",
+"from": 1144,
+"to": 1187,
+"role": "translator"
+}
+],
+"era": "a"
+},
+{
+"id": "eustathios-of-thessalonica",
+"name": "Eustathios of Thessalonica",
+"first": 1166,
+"stints": [
+{
+"k": "th950",
+"inst": "b-patriarchal-academy",
+"inst_name": "Patriarchal Academy of Constantinople",
+"city": "Constantinople",
+"from": 1166,
+"to": 1175,
+"role": "master of the rhetors"
+}
+],
+"era": "a"
+},
+{
+"id": "roger-frugardi",
+"name": "Roger Frugardi",
+"first": 1170,
+"stints": [
+{
+"k": "th41",
+"inst": "m-salerno",
+"inst_name": "Schola Medica Salernitana",
+"city": "Salerno",
+"from": 1170,
+"to": 1180,
+"role": "taught surgery"
+}
+],
+"era": "a"
+},
+{
+"id": "john-of-salisbury",
+"name": "John of Salisbury",
+"first": 1176,
+"stints": [
+{
+"k": "th1028",
+"inst": "c-chartres",
+"inst_name": "Cathedral School of Chartres",
+"city": "Chartres",
+"from": 1176,
+"to": 1180,
+"role": "bishop"
+}
+],
+"era": "a"
+},
+{
+"id": "azo",
+"name": "Azo",
+"first": 1190,
+"stints": [
+{
+"k": "th2",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1190,
+"to": 1220,
+"role": "taught Roman law"
+}
+],
+"era": "a"
+},
+{
+"id": "accursius",
+"name": "Accursius",
+"first": 1220,
+"stints": [
+{
+"k": "th3",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1220,
+"to": 1263,
+"role": "taught Roman law"
+}
+],
+"era": "a"
+},
+{
+"id": "robert-grosseteste",
+"name": "Robert Grosseteste",
+"first": 1225,
+"stints": [
+{
+"k": "th670",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1225,
+"to": 1235,
+"role": "taught; first head of the schools"
+}
+],
+"era": "a"
+},
+{
+"id": "odofredus",
+"name": "Odofredus",
+"first": 1228,
+"stints": [
+{
+"k": "th4",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1228,
+"to": 1265,
+"role": "taught Roman law"
+}
+],
+"era": "a"
+},
+{
+"id": "john-of-garland",
+"name": "John of Garland",
+"first": 1229,
+"stints": [
+{
+"k": "th216",
+"inst": "u-toulouse",
+"inst_name": "University of Toulouse",
+"city": "Toulouse",
+"from": 1229,
+"to": 1232,
+"role": "taught grammar"
+}
+],
+"era": "a"
+},
+{
+"id": "roger-bacon",
+"name": "Roger Bacon",
+"first": 1230,
+"stints": [
+{
+"k": "th671",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1230,
+"to": 1257,
+"role": "studied and taught"
+}
+],
+"era": "a"
+},
+{
+"id": "nikephoros-blemmydes",
+"name": "Nikephoros Blemmydes",
+"first": 1230,
+"stints": [
+{
+"k": "th957",
+"inst": "b-nicaea",
+"inst_name": "Imperial court schools of Nicaea",
+"city": "Nicaea",
+"from": 1230,
+"to": 1258,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "bonaventure",
+"name": "Bonaventure",
+"first": 1235,
+"stints": [
+{
+"k": "th193",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1235,
+"to": 1257,
+"role": "studied, taught"
+}
+],
+"era": "a"
+},
+{
+"id": "thomas-aquinas",
+"name": "Thomas Aquinas",
+"first": 1239,
+"stints": [
+{
+"k": "th32",
+"inst": "u-naples",
+"inst_name": "University of Naples",
+"city": "Naples",
+"from": 1239,
+"to": 1244,
+"role": "studied arts"
+},
+{
+"k": "th33",
+"inst": "u-naples",
+"inst_name": "University of Naples",
+"city": "Naples",
+"from": 1272,
+"to": 1274,
+"role": "taught theology"
+},
+{
+"k": "th190",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1245,
+"to": 1248,
+"role": "studied"
+},
+{
+"k": "th191",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1252,
+"to": 1259,
+"role": "taught theology"
+},
+{
+"k": "th192",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1268,
+"to": 1272,
+"role": "taught theology"
+},
+{
+"k": "th439",
+"inst": "m-cologne",
+"inst_name": "Dominican Studium Generale of Cologne",
+"city": "Cologne",
+"from": 1248,
+"to": 1252,
+"role": "studied under Albertus Magnus"
+}
+],
+"era": "a"
+},
+{
+"id": "albertus-magnus",
+"name": "Albertus Magnus",
+"first": 1245,
+"stints": [
+{
+"k": "th189",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1245,
+"to": 1248,
+"role": "taught theology"
+},
+{
+"k": "th438",
+"inst": "m-cologne",
+"inst_name": "Dominican Studium Generale of Cologne",
+"city": "Cologne",
+"from": 1248,
+"to": 1254,
+"role": "founded and taught theology"
+}
+],
+"era": "a"
+},
+{
+"id": "robert-de-sorbon",
+"name": "Robert de Sorbon",
+"first": 1257,
+"stints": [
+{
+"k": "th194",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1257,
+"to": 1274,
+"role": "founded the Sorbonne college"
+}
+],
+"era": "a"
+},
+{
+"id": "siger-of-brabant",
+"name": "Siger of Brabant",
+"first": 1260,
+"stints": [
+{
+"k": "th195",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1260,
+"to": 1277,
+"role": "taught arts"
+}
+],
+"era": "a"
+},
+{
+"id": "jacques-de-revigny",
+"name": "Jacques de Révigny",
+"first": 1260,
+"stints": [
+{
+"k": "th219",
+"inst": "u-orleans",
+"inst_name": "University of Orléans",
+"city": "Orléans",
+"from": 1260,
+"to": 1280,
+"role": "taught law"
+}
+],
+"era": "a"
+},
+{
+"id": "george-akropolites",
+"name": "George Akropolites",
+"first": 1261,
+"stints": [
+{
+"k": "th947",
+"inst": "b-pandidakterion",
+"inst_name": "Pandidakterion (Imperial School of Philosophy, Constantinople)",
+"city": "Constantinople",
+"from": 1261,
+"to": 1273,
+"role": "taught philosophy and mathematics"
+}
+],
+"era": "a"
+},
+{
+"id": "george-pachymeres",
+"name": "George Pachymeres",
+"first": 1261,
+"stints": [
+{
+"k": "th948",
+"inst": "b-pandidakterion",
+"inst_name": "Pandidakterion (Imperial School of Philosophy, Constantinople)",
+"city": "Constantinople",
+"from": 1261,
+"to": 1267,
+"role": "studied"
+}
+],
+"era": "a"
+},
+{
+"id": "pierre-de-belleperche",
+"name": "Pierre de Belleperche",
+"first": 1270,
+"stints": [
+{
+"k": "th220",
+"inst": "u-orleans",
+"inst_name": "University of Orléans",
+"city": "Orléans",
+"from": 1270,
+"to": 1296,
+"role": "taught law"
+}
+],
+"era": "a"
+},
+{
+"id": "bernard-de-gordon",
+"name": "Bernard de Gordon",
+"first": 1283,
+"stints": [
+{
+"k": "th207",
+"inst": "m-montpellier",
+"inst_name": "Montpellier School of Medicine (before 1289)",
+"city": "Montpellier",
+"from": 1283,
+"to": 1289,
+"role": "taught medicine"
+},
+{
+"k": "th208",
+"inst": "u-montpellier",
+"inst_name": "University of Montpellier",
+"city": "Montpellier",
+"from": 1289,
+"to": 1308,
+"role": "taught medicine"
+}
+],
+"era": "a"
+},
+{
+"id": "john-duns-scotus",
+"name": "John Duns Scotus",
+"first": 1288,
+"stints": [
+{
+"k": "th196",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1302,
+"to": 1307,
+"role": "taught theology"
+},
+{
+"k": "th440",
+"inst": "m-cologne",
+"inst_name": "Dominican Studium Generale of Cologne",
+"city": "Cologne",
+"from": 1307,
+"to": 1308,
+"role": "taught theology (Franciscan studium)"
+},
+{
+"k": "th672",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1288,
+"to": 1301,
+"role": "studied and lectured on the Sentences"
+}
+],
+"era": "a"
+},
+{
+"id": "arnau-de-vilanova",
+"name": "Arnau de Vilanova",
+"first": 1289,
+"stints": [
+{
+"k": "th209",
+"inst": "u-montpellier",
+"inst_name": "University of Montpellier",
+"city": "Montpellier",
+"from": 1289,
+"to": 1301,
+"role": "taught medicine"
+}
+],
+"era": "a"
+},
+{
+"id": "johannes-andreae",
+"name": "Johannes Andreae",
+"first": 1301,
+"stints": [
+{
+"k": "th6",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1301,
+"to": 1348,
+"role": "taught canon law"
+}
+],
+"era": "a"
+},
+{
+"id": "mondino-de-liuzzi",
+"name": "Mondino de' Liuzzi",
+"first": 1306,
+"stints": [
+{
+"k": "th5",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1306,
+"to": 1326,
+"role": "taught medicine"
+}
+],
+"era": "a"
+},
+{
+"id": "pietro-d-abano",
+"name": "Pietro d'Abano",
+"first": 1306,
+"stints": [
+{
+"k": "th16",
+"inst": "u-padua",
+"inst_name": "University of Padua",
+"city": "Padua",
+"from": 1306,
+"to": 1315,
+"role": "taught medicine and philosophy"
+}
+],
+"era": "a"
+},
+{
+"id": "william-of-ockham",
+"name": "William of Ockham",
+"first": 1310,
+"stints": [
+{
+"k": "th673",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1310,
+"to": 1324,
+"role": "studied and lectured"
+}
+],
+"era": "a"
+},
+{
+"id": "guy-de-chauliac",
+"name": "Guy de Chauliac",
+"first": 1315,
+"stints": [
+{
+"k": "th211",
+"inst": "u-montpellier",
+"inst_name": "University of Montpellier",
+"city": "Montpellier",
+"from": 1315,
+"to": 1325,
+"role": "studied medicine"
+}
+],
+"era": "a"
+},
+{
+"id": "petrarch",
+"name": "Petrarch",
+"first": 1316,
+"stints": [
+{
+"k": "th210",
+"inst": "u-montpellier",
+"inst_name": "University of Montpellier",
+"city": "Montpellier",
+"from": 1316,
+"to": 1320,
+"role": "studied law"
+}
+],
+"era": "a"
+},
+{
+"id": "theodore-metochites",
+"name": "Theodore Metochites",
+"first": 1316,
+"stints": [
+{
+"k": "th958",
+"inst": "b-chora",
+"inst_name": "Chora Monastery school and library",
+"city": "Constantinople",
+"from": 1316,
+"to": 1332,
+"role": "founded; taught astronomy"
+}
+],
+"era": "a"
+},
+{
+"id": "francesco-petrarca",
+"name": "Francesco Petrarca",
+"first": 1320,
+"stints": [
+{
+"k": "th7",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1320,
+"to": 1326,
+"role": "studied law"
+}
+],
+"era": "a"
+},
+{
+"id": "jean-buridan",
+"name": "Jean Buridan",
+"first": 1320,
+"stints": [
+{
+"k": "th197",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1320,
+"to": 1360,
+"role": "taught arts"
+}
+],
+"era": "a"
+},
+{
+"id": "cino-da-pistoia",
+"name": "Cino da Pistoia",
+"first": 1321,
+"stints": [
+{
+"k": "th29",
+"inst": "u-siena",
+"inst_name": "University of Siena",
+"city": "Siena",
+"from": 1321,
+"to": 1323,
+"role": "taught law"
+},
+{
+"k": "th34",
+"inst": "u-naples",
+"inst_name": "University of Naples",
+"city": "Naples",
+"from": 1330,
+"to": 1331,
+"role": "taught law"
+},
+{
+"k": "th53",
+"inst": "u-perugia",
+"inst_name": "University of Perugia",
+"city": "Perugia",
+"from": 1326,
+"to": 1330,
+"role": "taught law"
+}
+],
+"era": "a"
+},
+{
+"id": "nikephoros-gregoras",
+"name": "Nikephoros Gregoras",
+"first": 1321,
+"stints": [
+{
+"k": "th959",
+"inst": "b-chora",
+"inst_name": "Chora Monastery school and library",
+"city": "Constantinople",
+"from": 1321,
+"to": 1351,
+"role": "taught"
+}
+],
+"era": "a"
+},
+{
+"id": "gentile-da-foligno",
+"name": "Gentile da Foligno",
+"first": 1322,
+"stints": [
+{
+"k": "th54",
+"inst": "u-perugia",
+"inst_name": "University of Perugia",
+"city": "Perugia",
+"from": 1322,
+"to": 1337,
+"role": "taught medicine"
+}
+],
+"era": "a"
+},
+{
+"id": "meister-eckhart",
+"name": "Meister Eckhart",
+"first": 1323,
+"stints": [
+{
+"k": "th441",
+"inst": "m-cologne",
+"inst_name": "Dominican Studium Generale of Cologne",
+"city": "Cologne",
+"from": 1323,
+"to": 1327,
+"role": "taught theology"
+}
+],
+"era": "a"
+},
+{
+"id": "bartolus-de-saxoferrato",
+"name": "Bartolus de Saxoferrato",
+"first": 1339,
+"stints": [
+{
+"k": "th55",
+"inst": "u-perugia",
+"inst_name": "University of Perugia",
+"city": "Perugia",
+"from": 1343,
+"to": 1357,
+"role": "taught Roman law"
+},
+{
+"k": "th57",
+"inst": "u-pisa",
+"inst_name": "University of Pisa",
+"city": "Pisa",
+"from": 1339,
+"to": 1343,
+"role": "taught Roman law"
+}
+],
+"era": "a"
+},
+{
+"id": "nicole-oresme",
+"name": "Nicole Oresme",
+"first": 1340,
+"stints": [
+{
+"k": "th198",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1340,
+"to": 1362,
+"role": "studied, taught"
+}
+],
+"era": "a"
+},
+{
+"id": "john-wyclif",
+"name": "John Wyclif",
+"first": 1345,
+"stints": [
+{
+"k": "th674",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1345,
+"to": 1381,
+"role": "studied, master of Balliol, taught theology"
+}
+],
+"era": "a"
+}
+]

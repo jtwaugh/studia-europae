@@ -1,0 +1,2337 @@
+[
+{
+"id": "baldus-de-ubaldis",
+"name": "Baldus de Ubaldis",
+"first": 1351,
+"stints": [
+{
+"k": "th56",
+"inst": "u-perugia",
+"inst_name": "University of Perugia",
+"city": "Perugia",
+"from": 1351,
+"to": 1390,
+"role": "studied and taught law"
+},
+{
+"k": "th72",
+"inst": "u-pavia",
+"inst_name": "University of Pavia",
+"city": "Pavia",
+"from": 1390,
+"to": 1400,
+"role": "taught law"
+}
+],
+"era": "b"
+},
+{
+"id": "vincent-ferrer",
+"name": "Vincent Ferrer",
+"first": 1370,
+"stints": [
+{
+"k": "th106",
+"inst": "u-lleida",
+"inst_name": "University of Lleida",
+"city": "Lleida",
+"from": 1370,
+"to": 1388,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "giovanni-boccaccio",
+"name": "Giovanni Boccaccio",
+"first": 1373,
+"stints": [
+{
+"k": "th64",
+"inst": "u-florence",
+"inst_name": "Studio Fiorentino",
+"city": "Florence",
+"from": 1373,
+"to": 1374,
+"role": "lectured on Dante"
+}
+],
+"era": "b"
+},
+{
+"id": "jean-gerson",
+"name": "Jean Gerson",
+"first": 1377,
+"stints": [
+{
+"k": "th199",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1377,
+"to": 1415,
+"role": "chancellor"
+}
+],
+"era": "b"
+},
+{
+"id": "marsilius-of-inghen",
+"name": "Marsilius of Inghen",
+"first": 1386,
+"stints": [
+{
+"k": "th428",
+"inst": "u-heidelberg",
+"inst_name": "University of Heidelberg",
+"city": "Heidelberg",
+"from": 1386,
+"to": 1396,
+"role": "founding rector, taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "alfonso-de-borja-pope-callixtus-iii",
+"name": "Alfonso de Borja (Pope Callixtus III)",
+"first": 1390,
+"stints": [
+{
+"k": "th105",
+"inst": "u-lleida",
+"inst_name": "University of Lleida",
+"city": "Lleida",
+"from": 1390,
+"to": 1416,
+"role": "studied and taught law"
+}
+],
+"era": "b"
+},
+{
+"id": "jan-hus",
+"name": "Jan Hus",
+"first": 1390,
+"stints": [
+{
+"k": "th894",
+"inst": "u-prague",
+"inst_name": "University of Prague (Charles University)",
+"city": "Prague",
+"from": 1390,
+"to": 1412,
+"role": "studied, taught, rector"
+}
+],
+"era": "b"
+},
+{
+"id": "manuel-chrysoloras",
+"name": "Manuel Chrysoloras",
+"first": 1397,
+"stints": [
+{
+"k": "th65",
+"inst": "u-florence",
+"inst_name": "Studio Fiorentino",
+"city": "Florence",
+"from": 1397,
+"to": 1400,
+"role": "taught Greek"
+}
+],
+"era": "b"
+},
+{
+"id": "jakoubek-of-stribro",
+"name": "Jakoubek of Stříbro",
+"first": 1397,
+"stints": [
+{
+"k": "th896",
+"inst": "u-prague",
+"inst_name": "University of Prague (Charles University)",
+"city": "Prague",
+"from": 1397,
+"to": 1429,
+"role": "studied, taught"
+}
+],
+"era": "b"
+},
+{
+"id": "jerome-of-prague",
+"name": "Jerome of Prague",
+"first": 1398,
+"stints": [
+{
+"k": "th895",
+"inst": "u-prague",
+"inst_name": "University of Prague (Charles University)",
+"city": "Prague",
+"from": 1398,
+"to": 1415,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "george-gemistos-plethon",
+"name": "George Gemistos Plethon",
+"first": 1409,
+"stints": [
+{
+"k": "th960",
+"inst": "b-mistra",
+"inst_name": "School of Plethon at Mistra",
+"city": "Mistra",
+"from": 1409,
+"to": 1452,
+"role": "taught philosophy"
+}
+],
+"era": "b"
+},
+{
+"id": "pawe-wodkowic",
+"name": "Paweł Włodkowic",
+"first": 1411,
+"stints": [
+{
+"k": "th910",
+"inst": "u-krakow",
+"inst_name": "University of Kraków (Jagiellonian University)",
+"city": "Kraków",
+"from": 1411,
+"to": 1435,
+"role": "taught law"
+}
+],
+"era": "b"
+},
+{
+"id": "nicholas-of-cusa",
+"name": "Nicholas of Cusa",
+"first": 1416,
+"stints": [
+{
+"k": "th17",
+"inst": "u-padua",
+"inst_name": "University of Padua",
+"city": "Padua",
+"from": 1417,
+"to": 1423,
+"role": "studied canon law"
+},
+{
+"k": "th429",
+"inst": "u-heidelberg",
+"inst_name": "University of Heidelberg",
+"city": "Heidelberg",
+"from": 1416,
+"to": 1417,
+"role": "studied arts"
+},
+{
+"k": "th442",
+"inst": "u-cologne",
+"inst_name": "University of Cologne (old)",
+"city": "Cologne",
+"from": 1425,
+"to": 1426,
+"role": "studied and taught canon law"
+}
+],
+"era": "b"
+},
+{
+"id": "alfonso-fernandez-de-madrigal-el-tostado",
+"name": "Alfonso Fernández de Madrigal 'El Tostado'",
+"first": 1420,
+"stints": [
+{
+"k": "th131",
+"inst": "u-salamanca",
+"inst_name": "University of Salamanca",
+"city": "Salamanca",
+"from": 1420,
+"to": 1445,
+"role": "studied and taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "enea-silvio-piccolomini-pius-ii",
+"name": "Enea Silvio Piccolomini (Pius II)",
+"first": 1423,
+"stints": [
+{
+"k": "th30",
+"inst": "u-siena",
+"inst_name": "University of Siena",
+"city": "Siena",
+"from": 1423,
+"to": 1431,
+"role": "studied law and letters"
+}
+],
+"era": "b"
+},
+{
+"id": "jan-dugosz",
+"name": "Jan Długosz",
+"first": 1428,
+"stints": [
+{
+"k": "th911",
+"inst": "u-krakow",
+"inst_name": "University of Kraków (Jagiellonian University)",
+"city": "Kraków",
+"from": 1428,
+"to": 1431,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "francesco-filelfo",
+"name": "Francesco Filelfo",
+"first": 1429,
+"stints": [
+{
+"k": "th66",
+"inst": "u-florence",
+"inst_name": "Studio Fiorentino",
+"city": "Florence",
+"from": 1429,
+"to": 1434,
+"role": "taught Greek and rhetoric"
+}
+],
+"era": "b"
+},
+{
+"id": "lorenzo-valla",
+"name": "Lorenzo Valla",
+"first": 1431,
+"stints": [
+{
+"k": "th73",
+"inst": "u-pavia",
+"inst_name": "University of Pavia",
+"city": "Pavia",
+"from": 1431,
+"to": 1433,
+"role": "taught rhetoric"
+}
+],
+"era": "b"
+},
+{
+"id": "bessarion",
+"name": "Bessarion",
+"first": 1431,
+"stints": [
+{
+"k": "th961",
+"inst": "b-mistra",
+"inst_name": "School of Plethon at Mistra",
+"city": "Mistra",
+"from": 1431,
+"to": 1436,
+"role": "studied under Plethon"
+}
+],
+"era": "b"
+},
+{
+"id": "guarino-da-verona",
+"name": "Guarino da Verona",
+"first": 1436,
+"stints": [
+{
+"k": "th84",
+"inst": "u-ferrara",
+"inst_name": "University of Ferrara",
+"city": "Ferrara",
+"from": 1436,
+"to": 1460,
+"role": "taught rhetoric and Greek"
+}
+],
+"era": "b"
+},
+{
+"id": "mariano-sozzini",
+"name": "Mariano Sozzini",
+"first": 1441,
+"stints": [
+{
+"k": "th31",
+"inst": "u-siena",
+"inst_name": "University of Siena",
+"city": "Siena",
+"from": 1441,
+"to": 1467,
+"role": "taught canon law"
+}
+],
+"era": "b"
+},
+{
+"id": "regiomontanus",
+"name": "Regiomontanus",
+"first": 1450,
+"stints": [
+{
+"k": "th417",
+"inst": "u-vienna",
+"inst_name": "University of Vienna",
+"city": "Vienna",
+"from": 1450,
+"to": 1461,
+"role": "studied and taught"
+},
+{
+"k": "th872",
+"inst": "u-pozsony",
+"inst_name": "Academia Istropolitana",
+"city": "Bratislava",
+"from": 1467,
+"to": 1471,
+"role": "taught astronomy"
+}
+],
+"era": "b"
+},
+{
+"id": "georg-von-peuerbach",
+"name": "Georg von Peuerbach",
+"first": 1453,
+"stints": [
+{
+"k": "th416",
+"inst": "u-vienna",
+"inst_name": "University of Vienna",
+"city": "Vienna",
+"from": 1453,
+"to": 1461,
+"role": "taught astronomy and mathematics"
+}
+],
+"era": "b"
+},
+{
+"id": "matthaios-kamariotis",
+"name": "Matthaios Kamariotis",
+"first": 1454,
+"stints": [
+{
+"k": "th951",
+"inst": "b-patriarchal-academy",
+"inst_name": "Patriarchal Academy of Constantinople",
+"city": "Constantinople",
+"from": 1454,
+"to": 1490,
+"role": "head of school"
+}
+],
+"era": "b"
+},
+{
+"id": "john-argyropoulos",
+"name": "John Argyropoulos",
+"first": 1456,
+"stints": [
+{
+"k": "th67",
+"inst": "u-florence",
+"inst_name": "Studio Fiorentino",
+"city": "Florence",
+"from": 1456,
+"to": 1471,
+"role": "taught Greek and philosophy"
+}
+],
+"era": "b"
+},
+{
+"id": "niccolo-leoniceno",
+"name": "Niccolò Leoniceno",
+"first": 1464,
+"stints": [
+{
+"k": "th85",
+"inst": "u-ferrara",
+"inst_name": "University of Ferrara",
+"city": "Ferrara",
+"from": 1464,
+"to": 1524,
+"role": "taught medicine"
+}
+],
+"era": "b"
+},
+{
+"id": "pomponio-leto",
+"name": "Pomponio Leto",
+"first": 1465,
+"stints": [
+{
+"k": "th42",
+"inst": "u-rome",
+"inst_name": "Studium Urbis (La Sapienza)",
+"city": "Rome",
+"from": 1465,
+"to": 1497,
+"role": "taught rhetoric"
+}
+],
+"era": "b"
+},
+{
+"id": "marcin-bylica-of-olkusz",
+"name": "Marcin Bylica of Olkusz",
+"first": 1467,
+"stints": [
+{
+"k": "th873",
+"inst": "u-pozsony",
+"inst_name": "Academia Istropolitana",
+"city": "Bratislava",
+"from": 1467,
+"to": 1471,
+"role": "taught astronomy"
+}
+],
+"era": "b"
+},
+{
+"id": "albert-brudzewski",
+"name": "Albert Brudzewski",
+"first": 1470,
+"stints": [
+{
+"k": "th909",
+"inst": "u-krakow",
+"inst_name": "University of Kraków (Jagiellonian University)",
+"city": "Kraków",
+"from": 1470,
+"to": 1495,
+"role": "taught astronomy"
+}
+],
+"era": "b"
+},
+{
+"id": "antonio-de-nebrija",
+"name": "Antonio de Nebrija",
+"first": 1475,
+"stints": [
+{
+"k": "th132",
+"inst": "u-salamanca",
+"inst_name": "University of Salamanca",
+"city": "Salamanca",
+"from": 1475,
+"to": 1513,
+"role": "taught grammar and rhetoric"
+},
+{
+"k": "th148",
+"inst": "u-alcala-madrid",
+"inst_name": "University of Alcalá / Central University of Madrid",
+"city": "Alcalá de Henares",
+"from": 1513,
+"to": 1522,
+"role": "taught rhetoric"
+}
+],
+"era": "b"
+},
+{
+"id": "giovanni-pico-della-mirandola",
+"name": "Giovanni Pico della Mirandola",
+"first": 1477,
+"stints": [
+{
+"k": "th8",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1477,
+"to": 1478,
+"role": "studied canon law"
+},
+{
+"k": "th18",
+"inst": "u-padua",
+"inst_name": "University of Padua",
+"city": "Padua",
+"from": 1480,
+"to": 1482,
+"role": "studied philosophy"
+},
+{
+"k": "th86",
+"inst": "u-ferrara",
+"inst_name": "University of Ferrara",
+"city": "Ferrara",
+"from": 1479,
+"to": 1480,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "gabriel-biel",
+"name": "Gabriel Biel",
+"first": 1484,
+"stints": [
+{
+"k": "th486",
+"inst": "u-tubingen",
+"inst_name": "University of Tübingen",
+"city": "Tübingen",
+"from": 1484,
+"to": 1495,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "pietro-pomponazzi",
+"name": "Pietro Pomponazzi",
+"first": 1488,
+"stints": [
+{
+"k": "th10",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1512,
+"to": 1525,
+"role": "taught philosophy"
+},
+{
+"k": "th19",
+"inst": "u-padua",
+"inst_name": "University of Padua",
+"city": "Padua",
+"from": 1488,
+"to": 1509,
+"role": "taught philosophy"
+}
+],
+"era": "b"
+},
+{
+"id": "martin-waldseemuller",
+"name": "Martin Waldseemüller",
+"first": 1490,
+"stints": [
+{
+"k": "th468",
+"inst": "u-freiburg",
+"inst_name": "University of Freiburg",
+"city": "Freiburg im Breisgau",
+"from": 1490,
+"to": 1490,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "nicolaus-copernicus",
+"name": "Nicolaus Copernicus",
+"first": 1491,
+"stints": [
+{
+"k": "th9",
+"inst": "u-bologna",
+"inst_name": "University of Bologna",
+"city": "Bologna",
+"from": 1496,
+"to": 1500,
+"role": "studied canon law"
+},
+{
+"k": "th20",
+"inst": "u-padua",
+"inst_name": "University of Padua",
+"city": "Padua",
+"from": 1501,
+"to": 1503,
+"role": "studied medicine"
+},
+{
+"k": "th87",
+"inst": "u-ferrara",
+"inst_name": "University of Ferrara",
+"city": "Ferrara",
+"from": 1503,
+"to": 1503,
+"role": "doctorate in canon law"
+},
+{
+"k": "th908",
+"inst": "u-krakow",
+"inst_name": "University of Kraków (Jagiellonian University)",
+"city": "Kraków",
+"from": 1491,
+"to": 1495,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "adrian-of-utrecht",
+"name": "Adrian of Utrecht",
+"first": 1491,
+"stints": [
+{
+"k": "th312",
+"inst": "u-leuven",
+"inst_name": "University of Leuven",
+"city": "Leuven",
+"from": 1491,
+"to": 1515,
+"role": "taught, rector"
+}
+],
+"era": "b"
+},
+{
+"id": "conrad-celtis",
+"name": "Conrad Celtis",
+"first": 1491,
+"stints": [
+{
+"k": "th418",
+"inst": "u-vienna",
+"inst_name": "University of Vienna",
+"city": "Vienna",
+"from": 1497,
+"to": 1508,
+"role": "taught poetics and rhetoric"
+},
+{
+"k": "th474",
+"inst": "u-ingolstadt-munich",
+"inst_name": "Ludwig Maximilian University (Ingolstadt–Landshut–Munich)",
+"city": "Ingolstadt",
+"from": 1491,
+"to": 1497,
+"role": "taught poetics"
+}
+],
+"era": "b"
+},
+{
+"id": "thomas-more",
+"name": "Thomas More",
+"first": 1492,
+"stints": [
+{
+"k": "th676",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1492,
+"to": 1494,
+"role": "studied"
+},
+{
+"k": "th695",
+"inst": "m-london-inns",
+"inst_name": "Inns of Court",
+"city": "London",
+"from": 1496,
+"to": 1501,
+"role": "studied law at Lincoln's Inn"
+}
+],
+"era": "b"
+},
+{
+"id": "erasmus",
+"name": "Erasmus",
+"first": 1495,
+"stints": [
+{
+"k": "th200",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1495,
+"to": 1499,
+"role": "studied"
+},
+{
+"k": "th311",
+"inst": "u-leuven",
+"inst_name": "University of Leuven",
+"city": "Leuven",
+"from": 1517,
+"to": 1521,
+"role": "taught"
+},
+{
+"k": "th367",
+"inst": "u-basel",
+"inst_name": "University of Basel",
+"city": "Basel",
+"from": 1521,
+"to": 1529,
+"role": "lived in Basel"
+}
+],
+"era": "b"
+},
+{
+"id": "huldrych-zwingli",
+"name": "Huldrych Zwingli",
+"first": 1498,
+"stints": [
+{
+"k": "th393",
+"inst": "a-zurich",
+"inst_name": "Carolinum (Zurich)",
+"city": "Zurich",
+"from": 1525,
+"to": 1531,
+"role": "founded"
+},
+{
+"k": "th419",
+"inst": "u-vienna",
+"inst_name": "University of Vienna",
+"city": "Vienna",
+"from": 1498,
+"to": 1502,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "francisco-jimenez-de-cisneros",
+"name": "Francisco Jiménez de Cisneros",
+"first": 1499,
+"stints": [
+{
+"k": "th147",
+"inst": "u-alcala-madrid",
+"inst_name": "University of Alcalá / Central University of Madrid",
+"city": "Alcalá de Henares",
+"from": 1499,
+"to": 1517,
+"role": "founded"
+}
+],
+"era": "b"
+},
+{
+"id": "heinrich-cornelius-agrippa",
+"name": "Heinrich Cornelius Agrippa",
+"first": 1499,
+"stints": [
+{
+"k": "th443",
+"inst": "u-cologne",
+"inst_name": "University of Cologne (old)",
+"city": "Cologne",
+"from": 1499,
+"to": 1502,
+"role": "studied arts"
+}
+],
+"era": "b"
+},
+{
+"id": "desiderius-erasmus",
+"name": "Desiderius Erasmus",
+"first": 1499,
+"stints": [
+{
+"k": "th675",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1499,
+"to": 1500,
+"role": "visited"
+},
+{
+"k": "th685",
+"inst": "u-cambridge",
+"inst_name": "University of Cambridge",
+"city": "Cambridge",
+"from": 1511,
+"to": 1514,
+"role": "taught Greek at Queens'"
+}
+],
+"era": "b"
+},
+{
+"id": "hector-boece",
+"name": "Hector Boece",
+"first": 1500,
+"stints": [
+{
+"k": "th740",
+"inst": "u-aberdeen-kings",
+"inst_name": "King's College, Aberdeen",
+"city": "Old Aberdeen",
+"from": 1500,
+"to": 1536,
+"role": "first principal"
+}
+],
+"era": "b"
+},
+{
+"id": "martin-luther",
+"name": "Martin Luther",
+"first": 1501,
+"stints": [
+{
+"k": "th445",
+"inst": "u-erfurt",
+"inst_name": "University of Erfurt (old)",
+"city": "Erfurt",
+"from": 1501,
+"to": 1505,
+"role": "studied arts (MA 1505)"
+},
+{
+"k": "th498",
+"inst": "u-wittenberg",
+"inst_name": "University of Wittenberg",
+"city": "Wittenberg",
+"from": 1508,
+"to": 1546,
+"role": "studied and taught biblical theology"
+}
+],
+"era": "b"
+},
+{
+"id": "johann-eck",
+"name": "Johann Eck",
+"first": 1502,
+"stints": [
+{
+"k": "th469",
+"inst": "u-freiburg",
+"inst_name": "University of Freiburg",
+"city": "Freiburg im Breisgau",
+"from": 1502,
+"to": 1510,
+"role": "studied and taught theology"
+},
+{
+"k": "th475",
+"inst": "u-ingolstadt-munich",
+"inst_name": "Ludwig Maximilian University (Ingolstadt–Landshut–Munich)",
+"city": "Ingolstadt",
+"from": 1510,
+"to": 1543,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "balthasar-hubmaier",
+"name": "Balthasar Hubmaier",
+"first": 1503,
+"stints": [
+{
+"k": "th471",
+"inst": "u-freiburg",
+"inst_name": "University of Freiburg",
+"city": "Freiburg im Breisgau",
+"from": 1503,
+"to": 1512,
+"role": "studied theology"
+}
+],
+"era": "b"
+},
+{
+"id": "thomas-cranmer",
+"name": "Thomas Cranmer",
+"first": 1503,
+"stints": [
+{
+"k": "th687",
+"inst": "u-cambridge",
+"inst_name": "University of Cambridge",
+"city": "Cambridge",
+"from": 1503,
+"to": 1529,
+"role": "studied; fellow of Jesus"
+}
+],
+"era": "b"
+},
+{
+"id": "helius-eobanus-hessus",
+"name": "Helius Eobanus Hessus",
+"first": 1504,
+"stints": [
+{
+"k": "th447",
+"inst": "u-erfurt",
+"inst_name": "University of Erfurt (old)",
+"city": "Erfurt",
+"from": 1504,
+"to": 1526,
+"role": "studied and taught Latin poetry"
+}
+],
+"era": "b"
+},
+{
+"id": "jacob-van-hoogstraten",
+"name": "Jacob van Hoogstraten",
+"first": 1505,
+"stints": [
+{
+"k": "th444",
+"inst": "u-cologne",
+"inst_name": "University of Cologne (old)",
+"city": "Cologne",
+"from": 1505,
+"to": 1527,
+"role": "taught theology, inquisitor"
+}
+],
+"era": "b"
+},
+{
+"id": "andreas-karlstadt",
+"name": "Andreas Karlstadt",
+"first": 1505,
+"stints": [
+{
+"k": "th497",
+"inst": "u-wittenberg",
+"inst_name": "University of Wittenberg",
+"city": "Wittenberg",
+"from": 1505,
+"to": 1523,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "erasmus-of-rotterdam",
+"name": "Erasmus of Rotterdam",
+"first": 1506,
+"stints": [
+{
+"k": "th89",
+"inst": "u-turin",
+"inst_name": "University of Turin",
+"city": "Turin",
+"from": 1506,
+"to": 1506,
+"role": "doctorate in theology"
+}
+],
+"era": "b"
+},
+{
+"id": "ulrich-von-hutten",
+"name": "Ulrich von Hutten",
+"first": 1506,
+"stints": [
+{
+"k": "th446",
+"inst": "u-erfurt",
+"inst_name": "University of Erfurt (old)",
+"city": "Erfurt",
+"from": 1506,
+"to": 1506,
+"role": "studied"
+},
+{
+"k": "th462",
+"inst": "u-rostock",
+"inst_name": "University of Rostock",
+"city": "Rostock",
+"from": 1509,
+"to": 1510,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "ulrich-zasius",
+"name": "Ulrich Zasius",
+"first": 1506,
+"stints": [
+{
+"k": "th470",
+"inst": "u-freiburg",
+"inst_name": "University of Freiburg",
+"city": "Freiburg im Breisgau",
+"from": 1506,
+"to": 1535,
+"role": "taught law"
+}
+],
+"era": "b"
+},
+{
+"id": "william-tyndale",
+"name": "William Tyndale",
+"first": 1506,
+"stints": [
+{
+"k": "th677",
+"inst": "u-oxford",
+"inst_name": "University of Oxford",
+"city": "Oxford",
+"from": 1506,
+"to": 1515,
+"role": "studied at Magdalen Hall"
+},
+{
+"k": "th686",
+"inst": "u-cambridge",
+"inst_name": "University of Cambridge",
+"city": "Cambridge",
+"from": 1517,
+"to": 1521,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "juan-luis-vives",
+"name": "Juan Luis Vives",
+"first": 1507,
+"stints": [
+{
+"k": "th122",
+"inst": "u-valencia",
+"inst_name": "University of Valencia",
+"city": "Valencia",
+"from": 1507,
+"to": 1509,
+"role": "studied"
+},
+{
+"k": "th313",
+"inst": "u-leuven",
+"inst_name": "University of Leuven",
+"city": "Leuven",
+"from": 1519,
+"to": 1523,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "philip-melanchthon",
+"name": "Philip Melanchthon",
+"first": 1509,
+"stints": [
+{
+"k": "th430",
+"inst": "u-heidelberg",
+"inst_name": "University of Heidelberg",
+"city": "Heidelberg",
+"from": 1509,
+"to": 1512,
+"role": "studied (BA 1511)"
+},
+{
+"k": "th487",
+"inst": "u-tubingen",
+"inst_name": "University of Tübingen",
+"city": "Tübingen",
+"from": 1512,
+"to": 1518,
+"role": "studied and taught"
+},
+{
+"k": "th499",
+"inst": "u-wittenberg",
+"inst_name": "University of Wittenberg",
+"city": "Wittenberg",
+"from": 1518,
+"to": 1560,
+"role": "taught Greek and theology"
+}
+],
+"era": "b"
+},
+{
+"id": "thomas-muntzer",
+"name": "Thomas Müntzer",
+"first": 1512,
+"stints": [
+{
+"k": "th506",
+"inst": "u-frankfurt-oder",
+"inst_name": "University of Frankfurt (Oder)",
+"city": "Frankfurt (Oder)",
+"from": 1512,
+"to": 1512,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "georgius-agricola",
+"name": "Georgius Agricola",
+"first": 1514,
+"stints": [
+{
+"k": "th453",
+"inst": "u-leipzig",
+"inst_name": "University of Leipzig",
+"city": "Leipzig",
+"from": 1514,
+"to": 1518,
+"role": "studied and taught classics"
+}
+],
+"era": "b"
+},
+{
+"id": "paracelsus",
+"name": "Paracelsus",
+"first": 1515,
+"stints": [
+{
+"k": "th88",
+"inst": "u-ferrara",
+"inst_name": "University of Ferrara",
+"city": "Ferrara",
+"from": 1515,
+"to": 1516,
+"role": "claimed medical doctorate"
+},
+{
+"k": "th368",
+"inst": "u-basel",
+"inst_name": "University of Basel",
+"city": "Basel",
+"from": 1527,
+"to": 1528,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "domingo-de-soto",
+"name": "Domingo de Soto",
+"first": 1516,
+"stints": [
+{
+"k": "th135",
+"inst": "u-salamanca",
+"inst_name": "University of Salamanca",
+"city": "Salamanca",
+"from": 1532,
+"to": 1560,
+"role": "taught theology"
+},
+{
+"k": "th149",
+"inst": "u-alcala-madrid",
+"inst_name": "University of Alcalá / Central University of Madrid",
+"city": "Alcalá de Henares",
+"from": 1516,
+"to": 1524,
+"role": "studied and taught"
+}
+],
+"era": "b"
+},
+{
+"id": "andrea-alciato",
+"name": "Andrea Alciato",
+"first": 1518,
+"stints": [
+{
+"k": "th75",
+"inst": "u-pavia",
+"inst_name": "University of Pavia",
+"city": "Pavia",
+"from": 1533,
+"to": 1537,
+"role": "taught law"
+},
+{
+"k": "th226",
+"inst": "u-avignon",
+"inst_name": "University of Avignon",
+"city": "Avignon",
+"from": 1518,
+"to": 1522,
+"role": "taught law"
+},
+{
+"k": "th227",
+"inst": "u-bourges",
+"inst_name": "University of Bourges",
+"city": "Bourges",
+"from": 1529,
+"to": 1533,
+"role": "taught law"
+}
+],
+"era": "b"
+},
+{
+"id": "johann-reuchlin",
+"name": "Johann Reuchlin",
+"first": 1520,
+"stints": [
+{
+"k": "th476",
+"inst": "u-ingolstadt-munich",
+"inst_name": "Ludwig Maximilian University (Ingolstadt–Landshut–Munich)",
+"city": "Ingolstadt",
+"from": 1520,
+"to": 1521,
+"role": "taught Greek and Hebrew"
+},
+{
+"k": "th488",
+"inst": "u-tubingen",
+"inst_name": "University of Tübingen",
+"city": "Tübingen",
+"from": 1521,
+"to": 1522,
+"role": "taught Greek and Hebrew"
+}
+],
+"era": "b"
+},
+{
+"id": "johannes-bugenhagen",
+"name": "Johannes Bugenhagen",
+"first": 1521,
+"stints": [
+{
+"k": "th500",
+"inst": "u-wittenberg",
+"inst_name": "University of Wittenberg",
+"city": "Wittenberg",
+"from": 1521,
+"to": 1558,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "john-calvin",
+"name": "John Calvin",
+"first": 1523,
+"stints": [
+{
+"k": "th201",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1523,
+"to": 1528,
+"role": "studied arts"
+},
+{
+"k": "th221",
+"inst": "u-orleans",
+"inst_name": "University of Orléans",
+"city": "Orléans",
+"from": 1528,
+"to": 1529,
+"role": "studied law"
+},
+{
+"k": "th228",
+"inst": "u-bourges",
+"inst_name": "University of Bourges",
+"city": "Bourges",
+"from": 1529,
+"to": 1531,
+"role": "studied law and Greek"
+},
+{
+"k": "th378",
+"inst": "a-geneva",
+"inst_name": "Academy of Geneva / University of Geneva",
+"city": "Geneva",
+"from": 1559,
+"to": 1564,
+"role": "founded, taught"
+},
+{
+"k": "th566",
+"inst": "a-strasbourg",
+"inst_name": "Strasbourg Gymnasium and Academy",
+"city": "Strasbourg",
+"from": 1538,
+"to": 1541,
+"role": "taught biblical exegesis"
+}
+],
+"era": "b"
+},
+{
+"id": "johannes-oecolampadius",
+"name": "Johannes Oecolampadius",
+"first": 1523,
+"stints": [
+{
+"k": "th366",
+"inst": "u-basel",
+"inst_name": "University of Basel",
+"city": "Basel",
+"from": 1523,
+"to": 1531,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "patrick-hamilton",
+"name": "Patrick Hamilton",
+"first": 1523,
+"stints": [
+{
+"k": "th511",
+"inst": "u-marburg",
+"inst_name": "University of Marburg",
+"city": "Marburg",
+"from": 1527,
+"to": 1527,
+"role": "studied"
+},
+{
+"k": "th727",
+"inst": "u-st-andrews",
+"inst_name": "University of St Andrews",
+"city": "St Andrews",
+"from": 1523,
+"to": 1528,
+"role": "studied and taught"
+}
+],
+"era": "b"
+},
+{
+"id": "martin-de-azpilcueta",
+"name": "Martín de Azpilcueta",
+"first": 1524,
+"stints": [
+{
+"k": "th133",
+"inst": "u-salamanca",
+"inst_name": "University of Salamanca",
+"city": "Salamanca",
+"from": 1524,
+"to": 1538,
+"role": "taught canon law"
+},
+{
+"k": "th165",
+"inst": "u-lisbon-coimbra",
+"inst_name": "University of Coimbra",
+"city": "Lisbon",
+"from": 1538,
+"to": 1555,
+"role": "taught canon law"
+}
+],
+"era": "b"
+},
+{
+"id": "george-buchanan",
+"name": "George Buchanan",
+"first": 1525,
+"stints": [
+{
+"k": "th728",
+"inst": "u-st-andrews",
+"inst_name": "University of St Andrews",
+"city": "St Andrews",
+"from": 1525,
+"to": 1570,
+"role": "studied; principal of St Leonard's 1566-70"
+}
+],
+"era": "b"
+},
+{
+"id": "francisco-de-vitoria",
+"name": "Francisco de Vitoria",
+"first": 1526,
+"stints": [
+{
+"k": "th134",
+"inst": "u-salamanca",
+"inst_name": "University of Salamanca",
+"city": "Salamanca",
+"from": 1526,
+"to": 1546,
+"role": "taught theology (prima chair)"
+}
+],
+"era": "b"
+},
+{
+"id": "ignatius-of-loyola",
+"name": "Ignatius of Loyola",
+"first": 1526,
+"stints": [
+{
+"k": "th150",
+"inst": "u-alcala-madrid",
+"inst_name": "University of Alcalá / Central University of Madrid",
+"city": "Alcalá de Henares",
+"from": 1526,
+"to": 1527,
+"role": "studied"
+},
+{
+"k": "th202",
+"inst": "u-paris",
+"inst_name": "University of Paris",
+"city": "Paris",
+"from": 1528,
+"to": 1535,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "andreas-vesalius",
+"name": "Andreas Vesalius",
+"first": 1528,
+"stints": [
+{
+"k": "th21",
+"inst": "u-padua",
+"inst_name": "University of Padua",
+"city": "Padua",
+"from": 1537,
+"to": 1543,
+"role": "taught anatomy and surgery"
+},
+{
+"k": "th314",
+"inst": "u-leuven",
+"inst_name": "University of Leuven",
+"city": "Leuven",
+"from": 1528,
+"to": 1533,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "pedro-nunes",
+"name": "Pedro Nunes",
+"first": 1529,
+"stints": [
+{
+"k": "th164",
+"inst": "u-lisbon-coimbra",
+"inst_name": "University of Coimbra",
+"city": "Lisbon",
+"from": 1529,
+"to": 1562,
+"role": "taught; mathematics chair from 1544"
+}
+],
+"era": "b"
+},
+{
+"id": "nostradamus",
+"name": "Nostradamus",
+"first": 1529,
+"stints": [
+{
+"k": "th212",
+"inst": "u-montpellier",
+"inst_name": "University of Montpellier",
+"city": "Montpellier",
+"from": 1529,
+"to": 1529,
+"role": "studied medicine"
+}
+],
+"era": "b"
+},
+{
+"id": "francois-rabelais",
+"name": "François Rabelais",
+"first": 1530,
+"stints": [
+{
+"k": "th213",
+"inst": "u-montpellier",
+"inst_name": "University of Montpellier",
+"city": "Montpellier",
+"from": 1530,
+"to": 1532,
+"role": "studied medicine"
+},
+{
+"k": "th214",
+"inst": "u-montpellier",
+"inst_name": "University of Montpellier",
+"city": "Montpellier",
+"from": 1537,
+"to": 1538,
+"role": "doctorate, lectured"
+}
+],
+"era": "b"
+},
+{
+"id": "gerardus-mercator",
+"name": "Gerardus Mercator",
+"first": 1530,
+"stints": [
+{
+"k": "th315",
+"inst": "u-leuven",
+"inst_name": "University of Leuven",
+"city": "Leuven",
+"from": 1530,
+"to": 1532,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "heinrich-bullinger",
+"name": "Heinrich Bullinger",
+"first": 1531,
+"stints": [
+{
+"k": "th394",
+"inst": "a-zurich",
+"inst_name": "Carolinum (Zurich)",
+"city": "Zurich",
+"from": 1531,
+"to": 1575,
+"role": "led"
+}
+],
+"era": "b"
+},
+{
+"id": "john-mair",
+"name": "John Mair",
+"first": 1531,
+"stints": [
+{
+"k": "th726",
+"inst": "u-st-andrews",
+"inst_name": "University of St Andrews",
+"city": "St Andrews",
+"from": 1531,
+"to": 1550,
+"role": "taught; provost of St Salvator's"
+}
+],
+"era": "b"
+},
+{
+"id": "theodore-beza",
+"name": "Theodore Beza",
+"first": 1535,
+"stints": [
+{
+"k": "th222",
+"inst": "u-orleans",
+"inst_name": "University of Orléans",
+"city": "Orléans",
+"from": 1535,
+"to": 1539,
+"role": "studied law"
+},
+{
+"k": "th379",
+"inst": "a-geneva",
+"inst_name": "Academy of Geneva / University of Geneva",
+"city": "Geneva",
+"from": 1559,
+"to": 1599,
+"role": "rector"
+},
+{
+"k": "th390",
+"inst": "a-lausanne",
+"inst_name": "Academy of Lausanne / University of Lausanne",
+"city": "Lausanne",
+"from": 1549,
+"to": 1558,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "georg-joachim-rheticus",
+"name": "Georg Joachim Rheticus",
+"first": 1536,
+"stints": [
+{
+"k": "th501",
+"inst": "u-wittenberg",
+"inst_name": "University of Wittenberg",
+"city": "Wittenberg",
+"from": 1536,
+"to": 1542,
+"role": "taught mathematics"
+}
+],
+"era": "b"
+},
+{
+"id": "erasmus-reinhold",
+"name": "Erasmus Reinhold",
+"first": 1536,
+"stints": [
+{
+"k": "th502",
+"inst": "u-wittenberg",
+"inst_name": "University of Wittenberg",
+"city": "Wittenberg",
+"from": 1536,
+"to": 1553,
+"role": "taught astronomy"
+}
+],
+"era": "b"
+},
+{
+"id": "gemma-frisius",
+"name": "Gemma Frisius",
+"first": 1537,
+"stints": [
+{
+"k": "th316",
+"inst": "u-leuven",
+"inst_name": "University of Leuven",
+"city": "Leuven",
+"from": 1537,
+"to": 1555,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "pierre-viret",
+"name": "Pierre Viret",
+"first": 1537,
+"stints": [
+{
+"k": "th387",
+"inst": "a-lausanne",
+"inst_name": "Academy of Lausanne / University of Lausanne",
+"city": "Lausanne",
+"from": 1537,
+"to": 1559,
+"role": "founded"
+}
+],
+"era": "b"
+},
+{
+"id": "conrad-gessner",
+"name": "Conrad Gessner",
+"first": 1537,
+"stints": [
+{
+"k": "th388",
+"inst": "a-lausanne",
+"inst_name": "Academy of Lausanne / University of Lausanne",
+"city": "Lausanne",
+"from": 1537,
+"to": 1540,
+"role": "taught"
+},
+{
+"k": "th395",
+"inst": "a-zurich",
+"inst_name": "Carolinum (Zurich)",
+"city": "Zurich",
+"from": 1541,
+"to": 1565,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "john-of-avila",
+"name": "John of Ávila",
+"first": 1538,
+"stints": [
+{
+"k": "th114",
+"inst": "u-baeza",
+"inst_name": "University of Baeza",
+"city": "Baeza",
+"from": 1538,
+"to": 1569,
+"role": "founded and directed"
+}
+],
+"era": "b"
+},
+{
+"id": "guillaume-postel",
+"name": "Guillaume Postel",
+"first": 1538,
+"stints": [
+{
+"k": "th263",
+"inst": "m-paris-college-de-france",
+"inst_name": "Collège de France",
+"city": "Paris",
+"from": 1538,
+"to": 1543,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "johannes-sturm",
+"name": "Johannes Sturm",
+"first": 1538,
+"stints": [
+{
+"k": "th564",
+"inst": "a-strasbourg",
+"inst_name": "Strasbourg Gymnasium and Academy",
+"city": "Strasbourg",
+"from": 1538,
+"to": 1581,
+"role": "founded; rector"
+}
+],
+"era": "b"
+},
+{
+"id": "martin-bucer",
+"name": "Martin Bucer",
+"first": 1538,
+"stints": [
+{
+"k": "th565",
+"inst": "a-strasbourg",
+"inst_name": "Strasbourg Gymnasium and Academy",
+"city": "Strasbourg",
+"from": 1538,
+"to": 1549,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "peter-martyr-vermigli",
+"name": "Peter Martyr Vermigli",
+"first": 1542,
+"stints": [
+{
+"k": "th567",
+"inst": "a-strasbourg",
+"inst_name": "Strasbourg Gymnasium and Academy",
+"city": "Strasbourg",
+"from": 1542,
+"to": 1547,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "girolamo-cardano",
+"name": "Girolamo Cardano",
+"first": 1543,
+"stints": [
+{
+"k": "th74",
+"inst": "u-pavia",
+"inst_name": "University of Pavia",
+"city": "Pavia",
+"from": 1543,
+"to": 1560,
+"role": "taught medicine"
+}
+],
+"era": "b"
+},
+{
+"id": "luca-ghini",
+"name": "Luca Ghini",
+"first": 1544,
+"stints": [
+{
+"k": "th58",
+"inst": "u-pisa",
+"inst_name": "University of Pisa",
+"city": "Pisa",
+"from": 1544,
+"to": 1555,
+"role": "taught botany"
+}
+],
+"era": "b"
+},
+{
+"id": "jan-kochanowski",
+"name": "Jan Kochanowski",
+"first": 1544,
+"stints": [
+{
+"k": "th912",
+"inst": "u-krakow",
+"inst_name": "University of Kraków (Jagiellonian University)",
+"city": "Kraków",
+"from": 1544,
+"to": 1547,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "guillaume-rondelet",
+"name": "Guillaume Rondelet",
+"first": 1545,
+"stints": [
+{
+"k": "th215",
+"inst": "u-montpellier",
+"inst_name": "University of Montpellier",
+"city": "Montpellier",
+"from": 1545,
+"to": 1566,
+"role": "taught medicine"
+}
+],
+"era": "b"
+},
+{
+"id": "joachim-du-bellay",
+"name": "Joachim du Bellay",
+"first": 1545,
+"stints": [
+{
+"k": "th237",
+"inst": "u-poitiers",
+"inst_name": "University of Poitiers",
+"city": "Poitiers",
+"from": 1545,
+"to": 1547,
+"role": "studied law"
+}
+],
+"era": "b"
+},
+{
+"id": "mathurin-cordier",
+"name": "Mathurin Cordier",
+"first": 1545,
+"stints": [
+{
+"k": "th389",
+"inst": "a-lausanne",
+"inst_name": "Academy of Lausanne / University of Lausanne",
+"city": "Lausanne",
+"from": 1545,
+"to": 1557,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "melchor-cano",
+"name": "Melchor Cano",
+"first": 1546,
+"stints": [
+{
+"k": "th136",
+"inst": "u-salamanca",
+"inst_name": "University of Salamanca",
+"city": "Salamanca",
+"from": 1546,
+"to": 1552,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "francis-borgia",
+"name": "Francis Borgia",
+"first": 1547,
+"stints": [
+{
+"k": "th115",
+"inst": "u-gandia",
+"inst_name": "University of Gandia",
+"city": "Gandia",
+"from": 1547,
+"to": 1550,
+"role": "founded"
+}
+],
+"era": "b"
+},
+{
+"id": "jean-bodin",
+"name": "Jean Bodin",
+"first": 1547,
+"stints": [
+{
+"k": "th217",
+"inst": "u-toulouse",
+"inst_name": "University of Toulouse",
+"city": "Toulouse",
+"from": 1547,
+"to": 1561,
+"role": "studied, taught law"
+}
+],
+"era": "b"
+},
+{
+"id": "jacques-cujas",
+"name": "Jacques Cujas",
+"first": 1547,
+"stints": [
+{
+"k": "th218",
+"inst": "u-toulouse",
+"inst_name": "University of Toulouse",
+"city": "Toulouse",
+"from": 1547,
+"to": 1554,
+"role": "studied law"
+},
+{
+"k": "th229",
+"inst": "u-bourges",
+"inst_name": "University of Bourges",
+"city": "Bourges",
+"from": 1555,
+"to": 1590,
+"role": "taught law"
+},
+{
+"k": "th232",
+"inst": "u-cahors",
+"inst_name": "University of Cahors",
+"city": "Cahors",
+"from": 1554,
+"to": 1554,
+"role": "taught law"
+},
+{
+"k": "th233",
+"inst": "u-valence",
+"inst_name": "University of Valence",
+"city": "Valence",
+"from": 1557,
+"to": 1575,
+"role": "taught law"
+}
+],
+"era": "b"
+},
+{
+"id": "benito-arias-montano",
+"name": "Benito Arias Montano",
+"first": 1548,
+"stints": [
+{
+"k": "th151",
+"inst": "u-alcala-madrid",
+"inst_name": "University of Alcalá / Central University of Madrid",
+"city": "Alcalá de Henares",
+"from": 1548,
+"to": 1552,
+"role": "studied"
+}
+],
+"era": "b"
+},
+{
+"id": "bartolomeo-eustachi",
+"name": "Bartolomeo Eustachi",
+"first": 1549,
+"stints": [
+{
+"k": "th43",
+"inst": "u-rome",
+"inst_name": "Studium Urbis (La Sapienza)",
+"city": "Rome",
+"from": 1549,
+"to": 1574,
+"role": "taught anatomy"
+}
+],
+"era": "b"
+},
+{
+"id": "peter-canisius",
+"name": "Peter Canisius",
+"first": 1549,
+"stints": [
+{
+"k": "th477",
+"inst": "u-ingolstadt-munich",
+"inst_name": "Ludwig Maximilian University (Ingolstadt–Landshut–Munich)",
+"city": "Ingolstadt",
+"from": 1549,
+"to": 1552,
+"role": "taught theology; rector"
+}
+],
+"era": "b"
+},
+{
+"id": "andreas-osiander",
+"name": "Andreas Osiander",
+"first": 1549,
+"stints": [
+{
+"k": "th519",
+"inst": "u-konigsberg",
+"inst_name": "University of Königsberg",
+"city": "Königsberg",
+"from": 1549,
+"to": 1552,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "michael-baius",
+"name": "Michael Baius",
+"first": 1550,
+"stints": [
+{
+"k": "th317",
+"inst": "u-leuven",
+"inst_name": "University of Leuven",
+"city": "Leuven",
+"from": 1550,
+"to": 1589,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "gabriele-falloppio",
+"name": "Gabriele Falloppio",
+"first": 1551,
+"stints": [
+{
+"k": "th22",
+"inst": "u-padua",
+"inst_name": "University of Padua",
+"city": "Padua",
+"from": 1551,
+"to": 1562,
+"role": "taught anatomy"
+}
+],
+"era": "b"
+},
+{
+"id": "hugues-doneau",
+"name": "Hugues Doneau",
+"first": 1551,
+"stints": [
+{
+"k": "th230",
+"inst": "u-bourges",
+"inst_name": "University of Bourges",
+"city": "Bourges",
+"from": 1551,
+"to": 1572,
+"role": "taught law"
+}
+],
+"era": "b"
+},
+{
+"id": "petrus-ramus",
+"name": "Petrus Ramus",
+"first": 1551,
+"stints": [
+{
+"k": "th264",
+"inst": "m-paris-college-de-france",
+"inst_name": "Collège de France",
+"city": "Paris",
+"from": 1551,
+"to": 1572,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "david-chytraeus",
+"name": "David Chytraeus",
+"first": 1551,
+"stints": [
+{
+"k": "th463",
+"inst": "u-rostock",
+"inst_name": "University of Rostock",
+"city": "Rostock",
+"from": 1551,
+"to": 1600,
+"role": "taught theology"
+}
+],
+"era": "b"
+},
+{
+"id": "sebastian-castellio",
+"name": "Sebastian Castellio",
+"first": 1553,
+"stints": [
+{
+"k": "th369",
+"inst": "u-basel",
+"inst_name": "University of Basel",
+"city": "Basel",
+"from": 1553,
+"to": 1563,
+"role": "taught"
+}
+],
+"era": "b"
+},
+{
+"id": "francisco-sanchez-de-las-brozas-el-brocense",
+"name": "Francisco Sánchez de las Brozas 'El Brocense'",
+"first": 1554,
+"stints": [
+{
+"k": "th137",
+"inst": "u-salamanca",
+"inst_name": "University of Salamanca",
+"city": "Salamanca",
+"from": 1554,
+"to": 1600,
+"role": "taught rhetoric and grammar"
+}
+],
+"era": "b"
+},
+{
+"id": "andrea-cesalpino",
+"name": "Andrea Cesalpino",
+"first": 1555,
+"stints": [
+{
+"k": "th44",
+"inst": "u-rome",
+"inst_name": "Studium Urbis (La Sapienza)",
+"city": "Rome",
+"from": 1592,
+"to": 1603,
+"role": "taught medicine"
+},
+{
+"k": "th59",
+"inst": "u-pisa",
+"inst_name": "University of Pisa",
+"city": "Pisa",
+"from": 1555,
+"to": 1592,
+"role": "taught medicine and botany"
+}
+],
+"era": "b"
+},
+{
+"id": "pedro-da-fonseca",
+"name": "Pedro da Fonseca",
+"first": 1555,
+"stints": [
+{
+"k": "th166",
+"inst": "u-lisbon-coimbra",
+"inst_name": "University of Coimbra",
+"city": "Lisbon",
+"from": 1555,
+"to": 1561,
+"role": "taught philosophy"
+}
+],
+"era": "b"
+},
+{
+"id": "tycho-brahe",
+"name": "Tycho Brahe",
+"first": 1559,
+"stints": [
+{
+"k": "th464",
+"inst": "u-rostock",
+"inst_name": "University of Rostock",
+"city": "Rostock",
+"from": 1566,
+"to": 1568,
+"role": "studied"
+},
+{
+"k": "th791",
+"inst": "u-copenhagen",
+"inst_name": "University of Copenhagen",
+"city": "Copenhagen",
+"from": 1559,
+"to": 1562,
+"role": "studied"
+}
+],
+"era": "b"
+}
+]

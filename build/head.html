@@ -1,0 +1,432 @@
+<meta charset="utf-8">
+<title>Studia Europae</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=Source+Sans+3:ital,wght@0,400;0,500;0,600;1,400&display=swap">
+<style>
+/* Layout: one-screen atlas. Map is the stage (year stamp lower left, legend upper left, zoom upper right); timeline band under it; log and institution panel in a right-hand column. Stacks on phones. */
+:root{
+  --paper:#eef0ee; --panel:#fbfbfa; --ink:#1d2326; --muted:#5b6669; --faint:#8a9496; --line:#d6dbd8; --accent:#2b4f86; --accent-soft:#e1e7f1;
+  --sea:#c6d3d7; --land:#ebe9e0; --river:#6a92a6; --lake:#b9cdd4; --relief-op:1; --coast:#9aa9a8;
+  --mk:#2a3236; --mk-ghost:#98a2a3; --halo:#fbfbfa;
+  --ev-founding:#2c9a58; --ev-charter:#2b7fc2; --ev-migration:#9259cb; --ev-relocation:#4f5cc4; --ev-merger:#139b9b;
+  --ev-suppression:#d4382f; --ev-destruction:#7a1c1c; --ev-refoundation:#86b032; --ev-confessional:#b5762a;
+  --ev-reform:#e09b16; --ev-split:#cc4699; --ev-access:#e985b0;
+  --k-birth:#7d8a8e; --k-study:#2b7fc2; --k-teach:#2c9a58; --k-office:#b5762a; --k-travel:#9259cb; --k-exile:#d4382f; --k-research:#139b9b; --k-death:#3b4448;
+  --lin-teacher:#b5762a; --lin-student:#9259cb; --path:#1d2326;
+  --f-display:"Source Serif 4", "Iowan Old Style", Georgia, serif;
+  --f-body:"Source Sans 3", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --paper:#0f1416; --panel:#151b1e; --ink:#e2e6e3; --muted:#97a3a3; --faint:#667273; --line:#2a3437; --accent:#8db0e6; --accent-soft:#1e2b3e;
+  --sea:#16212a; --land:#2a302f; --river:#4d7a90; --lake:#1c2b33; --relief-op:.42; --coast:#3d4a4b;
+  --mk:#e3e7e4; --mk-ghost:#56625f; --halo:#151b1e; --ev-destruction:#e2675b; --k-death:#c9d0cc; --path:#e2e6e3; --lin-teacher:#d9a25a; --lin-student:#b58ae6; color-scheme:dark }}
+:root[data-theme="dark"]{
+  --paper:#0f1416; --panel:#151b1e; --ink:#e2e6e3; --muted:#97a3a3; --faint:#667273; --line:#2a3437; --accent:#8db0e6; --accent-soft:#1e2b3e;
+  --sea:#16212a; --land:#2a302f; --river:#4d7a90; --lake:#1c2b33; --relief-op:.42; --coast:#3d4a4b;
+  --mk:#e3e7e4; --mk-ghost:#56625f; --halo:#151b1e; --ev-destruction:#e2675b; --k-death:#c9d0cc; --path:#e2e6e3; --lin-teacher:#d9a25a; --lin-student:#b58ae6; color-scheme:dark }
+html,body{height:100%}
+[hidden]{display:none!important}
+body{background:var(--paper);color:var(--ink);font-family:var(--f-body);font-size:15px;line-height:1.4;overflow:hidden;font-variant-numeric:tabular-nums}
+*{box-sizing:border-box}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.eyebrow{font-size:11px;letter-spacing:.09em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.app{height:100%;display:grid;grid-template-columns:minmax(0,1fr) 392px;grid-template-rows:auto minmax(0,1fr) auto;
+  grid-template-areas:"head head" "map side" "time side"}
+
+/* header */
+header{grid-area:head;display:flex;align-items:center;gap:20px;padding-block:9px;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));border-bottom:1px solid var(--line);background:var(--panel)}
+.brand{display:flex;align-items:baseline;gap:14px;min-width:0}
+.brand h1{font-family:var(--f-display);font-weight:600;font-size:22px;margin:0;letter-spacing:.005em;white-space:nowrap}
+.brand span{color:var(--muted);font-size:14px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.search{position:relative;margin-left:auto;flex:0 1 300px;min-width:0}
+.search input{width:100%;padding:7px 11px;border:1px solid var(--line);border-radius:7px;background:var(--paper)}
+.search input:focus{border-color:var(--accent);outline:none;box-shadow:0 0 0 3px var(--accent-soft)}
+.sres{position:absolute;top:calc(100% + 4px);right:0;width:340px;max-width:92vw;max-height:380px;overflow:auto;background:var(--panel);border:1px solid var(--line);border-radius:9px;box-shadow:0 10px 30px rgb(0 0 0/.18);z-index:30;padding:4px}
+.sres button{display:grid;grid-template-columns:54px minmax(0,1fr);gap:8px;align-items:baseline;width:100%;text-align:left;background:none;border:0;padding:7px 8px;border-radius:6px}
+.sres button:hover{background:var(--accent-soft)}
+.sres .k{font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);font-weight:600}
+.sres .sub{color:var(--muted);font-size:13px}
+
+/* map */
+.mapwrap{grid-area:map;position:relative;overflow:hidden;background:var(--sea);touch-action:none}
+#map{width:100%;height:100%;display:block;cursor:grab;user-select:none;-webkit-user-select:none}
+#map.drag{cursor:grabbing}
+.land{fill:var(--land);stroke:var(--coast);stroke-width:.6;vector-effect:non-scaling-stroke}
+.relief{opacity:var(--relief-op);mix-blend-mode:soft-light;pointer-events:none}
+.lakes{fill:var(--lake);stroke:var(--river);stroke-width:.4;vector-effect:non-scaling-stroke}
+.riv{fill:none;stroke:var(--river);stroke-linecap:round;stroke-linejoin:round;vector-effect:non-scaling-stroke}
+.riv1{stroke-width:1.3}.riv2{stroke-width:.8}.riv3{stroke-width:.45;opacity:.8}
+.geo{font-family:var(--f-display);font-style:italic;fill:var(--muted);text-anchor:middle;pointer-events:none;letter-spacing:.18em;opacity:.7}
+.sealbl{font-family:var(--f-display);font-style:italic;fill:var(--river);text-anchor:middle;pointer-events:none;letter-spacing:.24em;opacity:.85}
+.mk{cursor:pointer}
+.mk .shape{stroke:var(--halo);stroke-width:1.2;vector-effect:non-scaling-stroke}
+.mk.ghost .shape{fill:none!important;stroke:var(--mk-ghost);stroke-width:1}
+.mk.ghost{opacity:.7}
+.mk .hit{fill:transparent}
+.selring{fill:none;stroke:var(--accent);stroke-width:2;vector-effect:non-scaling-stroke;pointer-events:none}
+.selring.outer{stroke-width:6;opacity:.22}
+.ring{fill:none;pointer-events:none;vector-effect:non-scaling-stroke}
+.arc{fill:none;pointer-events:none;vector-effect:non-scaling-stroke;stroke-width:2}
+.mlbl{font-family:var(--f-body);font-weight:600;fill:var(--ink);paint-order:stroke;stroke:var(--halo);stroke-width:3px;stroke-linejoin:round;pointer-events:none}
+.mlbl.ghost{fill:var(--muted);font-weight:400;font-style:italic}
+.mlbl.sel{fill:var(--accent)}
+.tip{position:absolute;pointer-events:none;background:var(--panel);border:1px solid var(--line);border-radius:7px;padding:7px 10px;font-size:13.5px;box-shadow:0 4px 16px rgb(0 0 0/.16);max-width:280px;z-index:5}
+.tip b{font-weight:600}.tip .sub{color:var(--muted);font-size:12.5px}
+.mapctl{position:absolute;right:calc(12px + env(safe-area-inset-right,0px));top:12px;display:flex;flex-direction:column;border:1px solid var(--line);border-radius:8px;overflow:hidden;background:var(--panel)}
+.mapctl button{width:34px;height:34px;border:0;background:none;font-size:18px;line-height:1;color:var(--ink)}
+.mapctl button+button{border-top:1px solid var(--line)}
+.mapctl button:hover{background:var(--accent-soft)}
+.stamp{position:absolute;left:calc(16px + env(safe-area-inset-left,0px));bottom:14px;pointer-events:none;text-shadow:0 0 8px var(--sea),0 0 3px var(--sea)}
+.stamp .yr{font-family:var(--f-display);font-weight:600;font-size:64px;line-height:.9;letter-spacing:-.01em;color:var(--ink)}
+.stamp .yr small{font-size:16px;font-weight:400;color:var(--muted);margin-left:6px;letter-spacing:.06em}
+.stamp .sub{margin-top:6px;font-size:13.5px;color:var(--muted)}
+.stamp .era{color:var(--ink);font-style:italic;font-family:var(--f-display)}
+.legendbtn{position:absolute;left:calc(12px + env(safe-area-inset-left,0px));top:12px;border:1px solid var(--line);background:var(--panel);border-radius:8px;padding:6px 11px;font-size:13.5px}
+.legendbtn[aria-expanded="true"]{background:var(--accent-soft);border-color:var(--accent)}
+.legend{position:absolute;left:calc(12px + env(safe-area-inset-left,0px));top:52px;background:var(--panel);border:1px solid var(--line);border-radius:10px;padding:12px 14px;font-size:13px;width:min(420px,calc(100% - 80px));box-shadow:0 8px 24px rgb(0 0 0/.12);display:grid;gap:10px}
+.legend .row{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:4px 14px;margin-top:5px}
+.legend .it{display:flex;align-items:center;gap:7px;min-width:0}
+.legend p{margin:0;color:var(--muted);font-size:12.5px}
+
+/* timeline */
+.timeline{grid-area:time;border-top:1px solid var(--line);background:var(--panel);padding-block:10px 10px;padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:16px;display:grid;grid-template-columns:48px minmax(0,1fr);gap:4px 14px;align-items:center}
+.play{width:46px;height:46px;border-radius:50%;border:0;background:var(--accent);color:var(--panel);display:grid;place-items:center;grid-row:1}
+.play:hover{filter:brightness(1.1)}
+.play svg{width:18px;height:18px;fill:currentColor}
+#tl{width:100%;height:96px;display:block;cursor:pointer;touch-action:none;grid-row:1;grid-column:2}
+.tset{grid-column:2;display:flex;flex-wrap:wrap;align-items:center;gap:6px 18px;font-size:13px;color:var(--muted)}
+.seg{display:inline-flex;align-items:center;gap:6px}
+.seg .opts{display:inline-flex;border:1px solid var(--line);border-radius:6px;overflow:hidden}
+.seg button{border:0;background:var(--paper);padding:2px 8px;font-size:12.5px;color:var(--muted)}
+.seg button+button{border-left:1px solid var(--line)}
+.seg button[aria-pressed="true"]{background:var(--accent);color:var(--panel)}
+.tset label{display:inline-flex;align-items:center;gap:6px}
+.tset .keys{margin-left:auto;color:var(--faint);font-size:12px}
+.tl-axis text{font-family:var(--f-body);font-size:11px;fill:var(--muted)}
+.tl-axis line{stroke:var(--line)}
+.era rect{fill:var(--accent-soft)}
+.era text{font-size:10.5px;fill:var(--muted);font-family:var(--f-body)}
+.tl-active{fill:none;stroke:var(--ink);stroke-width:1.2;opacity:.5}
+.tl-note{font-size:10.5px;fill:var(--faint);font-family:var(--f-body)}
+.tl-handle line{stroke:var(--accent);stroke-width:2}
+.tl-handle rect{fill:var(--accent)}
+.tl-handle text{fill:var(--panel);font-family:var(--f-body);font-weight:600;font-size:11.5px;text-anchor:middle}
+
+/* sidebar */
+aside{grid-area:side;border-left:1px solid var(--line);background:var(--panel);display:flex;flex-direction:column;min-height:0;padding-right:env(safe-area-inset-right,0px)}
+.tabs{display:flex;border-bottom:1px solid var(--line);padding:0 8px}
+.tabs button{background:none;border:0;padding:11px 10px 9px;font-size:14.5px;color:var(--muted);border-bottom:2px solid transparent;margin-bottom:-1px}
+.tabs button.on{color:var(--ink);border-color:var(--accent);font-weight:600}
+.tabs .count{font-size:12px;color:var(--faint);font-weight:400;margin-left:2px}
+.pane{flex:1;min-height:0;display:flex;flex-direction:column}
+.logbar{display:flex;align-items:center;gap:10px;padding:8px 14px;border-bottom:1px solid var(--line);font-size:13px;color:var(--muted)}
+.fbtn{border:1px solid var(--line);background:var(--paper);border-radius:6px;padding:4px 10px;font-size:13px;display:inline-flex;gap:6px;align-items:center}
+.fbtn[aria-expanded="true"]{border-color:var(--accent);background:var(--accent-soft);color:var(--ink)}
+.fbtn .n{background:var(--accent);color:var(--panel);border-radius:999px;padding:0 6px;font-size:11px;font-weight:600}
+.logbar label{display:inline-flex;gap:6px;align-items:center;margin-left:auto}
+.filters{padding:10px 14px 12px;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:10px;background:var(--paper)}
+.fgroup .hd{display:flex;justify-content:space-between;align-items:baseline;margin-bottom:6px}
+.fgroup .hd button{background:none;border:0;color:var(--accent);font-size:12px;padding:0}
+.chips{display:flex;flex-wrap:wrap;gap:4px}
+.chip{display:inline-flex;align-items:center;gap:6px;border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:2px 9px 2px 7px;font-size:12.5px}
+.chip .ct{font-size:11px;color:var(--faint)}
+.chip.off{opacity:.45;background:none;text-decoration:line-through;text-decoration-color:var(--faint)}
+.chip.off .dot,.chip.off svg{filter:grayscale(1)}
+.dot{width:10px;height:10px;border-radius:50%;flex:none}
+.qnote{padding:6px 14px;font-size:12.5px;color:var(--muted);border-bottom:1px solid var(--line);display:flex;justify-content:space-between}
+.qnote button{background:none;border:0;color:var(--accent);padding:0;font-size:12.5px}
+.log{flex:1;min-height:0;overflow:auto;padding:0 0 12px}
+.ev{display:grid;grid-template-columns:42px 10px minmax(0,1fr);gap:1px 10px;padding:8px 14px;border:0;background:none;width:100%;text-align:left;border-bottom:1px solid color-mix(in srgb,var(--line) 60%,transparent)}
+.ev:hover{background:var(--accent-soft)}
+.ev .yr{font-size:13.5px;font-weight:600;color:var(--ink);padding-top:0}
+.ev .yr.ap{font-weight:400;color:var(--muted)}
+.ev .yr.ap::before{content:"c.";font-size:11px;margin-right:1px}
+.ev .dot{margin-top:5px}
+.ev .tt{font-weight:500;min-width:0}
+.ev .wh{grid-column:3;color:var(--muted);font-size:13px}
+.ev .kind{font-weight:600}
+.ev.recent .yr{color:var(--accent)}
+.ev.on{background:var(--accent-soft);box-shadow:inset 3px 0 0 var(--accent)}
+.empty{padding:28px 18px;color:var(--muted);text-align:center;font-size:14px}
+
+/* detail */
+.detail{flex:1;overflow:auto;padding:16px 18px 28px}
+.dhead{display:flex;justify-content:space-between;align-items:center;gap:8px}
+.kicker{display:flex;align-items:center;gap:7px}
+.xbtn{border:1px solid var(--line);background:var(--paper);border-radius:6px;padding:3px 9px;font-size:12.5px;color:var(--muted)}
+.xbtn:hover{color:var(--ink);border-color:var(--faint)}
+.detail h2{font-family:var(--f-display);font-weight:600;font-size:28px;line-height:1.12;margin:8px 0 4px;text-wrap:balance}
+.detail .alt{color:var(--muted);font-style:italic;font-size:14px}
+.facts{display:grid;grid-template-columns:88px minmax(0,1fr);gap:5px 12px;margin:16px 0;font-size:14px;padding:12px 0;border-block:1px solid var(--line)}
+.facts dt{color:var(--muted)}
+.facts dd{margin:0}
+.seats{display:flex;flex-wrap:wrap;gap:2px 6px;align-items:baseline}
+.seats .y{font-size:12.5px;color:var(--muted)}
+.detail p{margin:0 0 10px;max-width:62ch;line-height:1.5}
+.detail .note{font-size:13.5px;color:var(--muted);border-left:2px solid var(--line);padding-left:10px}
+.detail h3{margin:24px 0 8px}
+.life{width:100%;height:auto;display:block}
+.life text{font-family:var(--f-body);font-size:9.5px;fill:var(--muted)}
+.dev{cursor:pointer;display:grid;grid-template-columns:42px 10px minmax(0,1fr);gap:2px 10px;padding:8px 6px;margin:0 -6px;border-radius:6px;border-bottom:1px solid color-mix(in srgb,var(--line) 60%,transparent)}
+.dev:hover{background:var(--accent-soft)}
+.dev.on{background:var(--accent-soft);box-shadow:inset 3px 0 0 var(--accent)}
+.dev .yr{font-size:13.5px;font-weight:600}
+.dev .yr.ap{font-weight:400;color:var(--muted)}
+.dev .dot{margin-top:5px}
+.dev .tt{font-weight:500}
+.dev .ds{grid-column:3;font-size:13.5px;color:var(--ink);opacity:.85;line-height:1.45}
+.dev .lk{grid-column:3;font-size:12.5px;color:var(--muted)}
+.lnk{display:inline;text-align:left;background:none;border:0;padding:0;color:var(--accent);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:2px;font-size:inherit}
+.thk{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:1px 10px;padding:8px 0;border-bottom:1px solid color-mix(in srgb,var(--line) 60%,transparent)}
+.thk .nm{font-weight:600}
+.thk .yrs{font-size:13px;color:var(--muted);white-space:nowrap}
+.thk .rl{grid-column:1/-1;font-size:13.5px;color:var(--muted)}
+
+
+/* people mode */
+.pmode #marks{opacity:.22}
+.pmode #rings,.pmode #arcs{opacity:.08}
+.ppath{fill:none;stroke:var(--path);stroke-width:2.2;vector-effect:non-scaling-stroke;stroke-linecap:round}
+.ppath.later{stroke-dasharray:4 4;opacity:.35}
+.lpath{fill:none;stroke-width:1.4;vector-effect:non-scaling-stroke;stroke-dasharray:5 3;opacity:.75}
+.lpath.t{stroke:var(--lin-teacher)}.lpath.s{stroke:var(--lin-student)}
+.ldot{stroke:var(--halo);vector-effect:non-scaling-stroke;stroke-width:1}
+.ldot.t{fill:var(--lin-teacher)}.ldot.s{fill:var(--lin-student)}
+.pstop{stroke:var(--halo);stroke-width:1.5;vector-effect:non-scaling-stroke;cursor:pointer}
+.pstop.later{opacity:.35}
+.pnum{fill:#fff;font-family:var(--f-body);font-weight:600;text-anchor:middle;pointer-events:none}
+.plbl{font-family:var(--f-body);font-weight:600;fill:var(--ink);paint-order:stroke;stroke:var(--halo);stroke-width:3px;stroke-linejoin:round;pointer-events:none}
+.plbl.later{opacity:.45}
+.llbl{font-family:var(--f-body);font-style:italic;paint-order:stroke;stroke:var(--halo);stroke-width:3px;pointer-events:none}
+.llbl.t{fill:var(--lin-teacher)}.llbl.s{fill:var(--lin-student)}
+.plist{flex:1;min-height:0;overflow:auto}
+.pfind{padding:8px 14px;border-bottom:1px solid var(--line);display:flex;gap:8px;align-items:center}
+.pfind input{flex:1;min-width:0;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--paper)}
+.pfind label{font-size:12.5px;color:var(--muted);display:inline-flex;gap:5px;align-items:center;white-space:nowrap}
+.prow{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:0 10px;width:100%;text-align:left;border:0;background:none;padding:8px 14px;border-bottom:1px solid color-mix(in srgb,var(--line) 60%,transparent)}
+.prow:hover{background:var(--accent-soft)}
+.prow .nm{font-weight:600}
+.prow .ys{font-size:13px;color:var(--muted)}
+.prow .sub{grid-column:1/-1;font-size:13px;color:var(--muted)}
+.prow .lin{color:var(--accent)}
+.kdot{width:18px;height:18px;border-radius:50%;display:inline-grid;place-items:center;color:#fff;font-size:11px;font-weight:600;flex:none}
+.stop{display:grid;grid-template-columns:22px 82px minmax(0,1fr);gap:1px 8px;padding:8px 0;border-bottom:1px solid color-mix(in srgb,var(--line) 60%,transparent);cursor:pointer}
+.stop:hover .pl{color:var(--accent)}
+.stop .yr{font-weight:600;font-size:13.5px}
+.stop .yr.ap{font-weight:400;color:var(--muted)}
+.stop .kd{font-size:11px;letter-spacing:.07em;text-transform:uppercase;font-weight:600}
+.stop .pl{font-weight:500}
+.stop .no{grid-column:3;font-size:13.5px;color:var(--muted)}
+.stop.later{opacity:.55}
+.lineage{width:100%;height:auto;display:block;margin:4px 0 6px}
+.lineage .node rect{fill:var(--paper);stroke:var(--line)}
+.lineage .node.me rect{fill:var(--accent);stroke:var(--accent)}
+.lineage .node.me text{fill:var(--panel);font-weight:600}
+.lineage .node{cursor:pointer}
+.lineage .node:not(.me):hover rect{stroke:var(--accent)}
+.lineage text{font-family:var(--f-body);font-size:11px;fill:var(--ink);text-anchor:middle;dominant-baseline:central}
+.lineage .edge{stroke:var(--faint);fill:none}
+.lineage .rowlbl{font-size:9.5px;fill:var(--muted);text-anchor:start;letter-spacing:.08em}
+.rel{padding:7px 0;border-bottom:1px solid color-mix(in srgb,var(--line) 60%,transparent);font-size:14px}
+.rel .where{color:var(--muted);font-size:13px}
+.legend-k{display:flex;flex-wrap:wrap;gap:4px 12px;font-size:12.5px;color:var(--muted);margin:6px 0 2px}
+.legend-k span{display:inline-flex;align-items:center;gap:5px}
+.legend-k i{width:9px;height:9px;border-radius:50%;display:inline-block}
+.lintog{display:flex;gap:14px;font-size:13px;color:var(--muted);margin:4px 0}
+.lintog label{display:inline-flex;gap:5px;align-items:center}
+.lintog .sw{width:16px;height:0;border-top:2px dashed}
+sup.c{font-size:10.5px;line-height:0;margin-left:2px}
+sup.c a{color:var(--accent);text-decoration:none}
+sup.c a:hover{text-decoration:underline}
+.st{display:inline-block;font-size:10.5px;letter-spacing:.06em;text-transform:uppercase;font-weight:600;border-radius:4px;padding:0 5px;margin-left:6px;vertical-align:1px}
+.st.corrected{background:color-mix(in srgb,var(--ev-reform) 22%,transparent);color:var(--ink)}
+.st.unverified{background:var(--paper);color:var(--muted);border:1px solid var(--line)}
+.st.doubtful{background:color-mix(in srgb,var(--ev-suppression) 20%,transparent);color:var(--ink)}
+.cn{grid-column:3;font-size:12.5px;color:var(--muted);font-style:italic}
+.srcs{margin:0;padding-left:22px;font-size:13px;color:var(--muted)}
+.srcs li{margin:0 0 6px}
+.srcs li:target{background:var(--accent-soft)}
+.srcs a{color:var(--accent);word-break:break-word}
+.vbar{display:flex;height:6px;border-radius:3px;overflow:hidden;margin:6px 0 2px;background:var(--line)}
+.vnote{font-size:12.5px;color:var(--muted)}
+
+/* toolbars (events and people) */
+.toolbar{padding:10px 14px;border-bottom:1px solid var(--line);display:flex;flex-direction:column;gap:8px}
+.presets{display:flex;gap:4px;overflow-x:auto;scrollbar-width:none}
+.presets button{border:1px solid var(--line);background:var(--panel);border-radius:999px;padding:3px 11px;font-size:13px;color:var(--muted);white-space:nowrap}
+.presets button[aria-pressed="true"]{background:var(--ink);border-color:var(--ink);color:var(--panel)}
+.trow{display:flex;align-items:center;gap:8px;justify-content:space-between;font-size:13px;color:var(--muted)}
+.toolbar .seg button{padding:3px 10px;font-size:12.5px}
+.frow2{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.fld{display:flex;flex-direction:column;gap:4px;min-width:0}
+.fld select{padding:4px 6px;border:1px solid var(--line);border-radius:6px;background:var(--panel);font-size:13px;min-width:0}
+.fhint{margin:0;font-size:12px;color:var(--muted);display:flex;align-items:center;gap:6px}
+.dot.hollow{background:none!important;box-shadow:inset 0 0 0 1.5px currentColor}
+.active{display:flex;flex-wrap:wrap;gap:4px;padding:6px 14px;border-bottom:1px solid var(--line);font-size:12.5px}
+.active button{display:inline-flex;align-items:center;gap:5px;border:1px solid var(--accent);background:var(--accent-soft);color:var(--ink);border-radius:999px;padding:1px 6px 1px 9px;font-size:12px}
+.active button::after{content:"×";font-size:14px;line-height:1;color:var(--muted)}
+.active .clr{border:0;background:none;color:var(--accent);padding:1px 4px}
+.active .clr::after{content:none}
+.dec{position:sticky;top:0;z-index:1;display:flex;justify-content:space-between;align-items:baseline;padding:5px 14px 4px;background:color-mix(in srgb,var(--panel) 94%,transparent);backdrop-filter:blur(4px);border-bottom:1px solid var(--line);font-family:var(--f-display);font-weight:600;font-size:14px}
+.dec .n{font-family:var(--f-body);font-weight:400;font-size:12px;color:var(--faint)}
+.ev{grid-template-columns:38px 10px minmax(0,1fr);padding:7px 14px}
+.ev .wh .k{color:var(--faint)}
+/* people list */
+.pfind{display:flex;gap:6px}
+.pfind input{flex:1;min-width:0;padding:6px 10px;border:1px solid var(--line);border-radius:6px;background:var(--paper)}
+.pfind select{padding:4px 6px;border:1px solid var(--line);border-radius:6px;background:var(--panel);font-size:13px}
+.pfilters{padding-top:2px}
+.ptogs{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:12.5px;color:var(--muted)}
+.ptogs label{display:inline-flex;gap:5px;align-items:center}
+.pcount{padding:6px 14px;font-size:12.5px;color:var(--muted);border-bottom:1px solid var(--line)}
+.prow{grid-template-columns:minmax(0,1fr) auto;gap:1px 10px;padding:8px 14px}
+.prow .ys{font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums}
+.prow .sub{display:flex;flex-wrap:wrap;gap:2px 8px;align-items:baseline}
+.prow .tag{font-size:11px;letter-spacing:.04em;color:var(--muted);border:1px solid var(--line);border-radius:4px;padding:0 5px}
+.prow .lin{color:var(--accent);font-size:12.5px}
+.prow .now{grid-column:1/-1;font-size:12.5px;color:var(--ink)}
+.prow .now b{font-weight:600}
+.pdmode #marks{opacity:.3}.pdmode #rings,.pdmode #arcs{opacity:.12}
+.pdot{stroke:var(--halo);stroke-width:2;vector-effect:non-scaling-stroke;cursor:pointer}
+.pdlbl{font-family:var(--f-body);font-weight:600;fill:var(--ink);paint-order:stroke;stroke:var(--halo);stroke-width:3px;stroke-linejoin:round;pointer-events:none}
+.pkey{display:flex;flex-wrap:wrap;gap:3px 10px;font-size:12px;color:var(--muted)}
+.pkey span{display:inline-flex;align-items:center;gap:4px}.pkey i{width:9px;height:9px;border-radius:50%}
+
+@media (max-width:860px){
+  body{overflow:auto}
+  .app{height:auto;grid-template-columns:minmax(0,1fr);grid-template-rows:auto 60vh auto auto;grid-template-areas:"head" "map" "time" "side"}
+  aside{border-left:0;border-top:1px solid var(--line);height:85vh;padding-right:0}
+  header{flex-wrap:wrap;gap:8px 14px}
+  .brand span{display:none}
+  .search{flex:1 1 100%;margin-left:0}
+  .stamp .yr{font-size:44px}
+  .timeline{padding-right:max(16px,env(safe-area-inset-right,0px));grid-template-columns:46px minmax(0,1fr)}
+  .tset{grid-column:1/-1}
+  .tset .keys{display:none}
+  .legend{width:calc(100% - 24px)}
+}
+@media (prefers-reduced-motion: reduce){ .ring{display:none} }
+</style>
+
+<div class="app">
+<header>
+  <div class="brand"><h1>Studia Europae</h1><span>Schools and universities of Christian Europe, 800–1900</span></div>
+  <div class="search"><input id="q" type="search" placeholder="Search schools, cities, people" autocomplete="off" aria-label="Search schools, cities and people"><div class="sres" id="sres" hidden></div></div>
+</header>
+
+<div class="mapwrap" id="mapwrap">
+  <svg id="map" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Map of Europe with schools and universities">
+    <defs>
+      <clipPath id="landclip"><path d="__LAND__"/></clipPath>
+      <marker id="parrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto"><path d="M0,1L10,5L0,9z" fill="var(--path)"/></marker>
+      <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse"><path d="M0,0L10,5L0,10z" fill="context-stroke"/></marker>
+    </defs>
+    <rect x="-4000" y="-4000" width="10000" height="10000" fill="var(--sea)"/>
+    <g id="base">
+      <path class="land" d="__LAND__"/>
+      <image class="relief" href="relief.jpg" x="0" y="0" width="__W__" height="__H__" preserveAspectRatio="none" clip-path="url(#landclip)"/>
+      <path class="riv riv3" d="__RIV3__"/>
+      <path class="riv riv2" d="__RIV2__"/>
+      <path class="riv riv1" d="__RIV1__"/>
+      <path class="lakes" d="__LAKES__"/>
+      <g id="geolbl"></g>
+    </g>
+    <g id="arcs"></g>
+    <g id="rings"></g>
+    <g id="marks"></g>
+    <g id="pdots"></g>
+    <g id="ppl"></g>
+    <g id="sel"><circle class="selring outer" r="0"/><circle class="selring" r="0"/></g>
+    <g id="mlbls"></g>
+  </svg>
+  <div class="stamp" aria-live="off"><div class="yr" id="stampyr">1300<small>CE</small></div><div class="sub" id="stampsub"></div></div>
+  <button class="legendbtn" id="legendbtn" aria-expanded="false" aria-controls="legend">Legend</button>
+  <div class="legend" id="legend" hidden></div>
+  <div class="mapctl"><button id="zin" aria-label="Zoom in">+</button><button id="zout" aria-label="Zoom out">−</button><button id="zfit" aria-label="Fit all of Europe" style="font-size:14px">⤢</button></div>
+  <div class="tip" id="tip" hidden></div>
+</div>
+
+<div class="timeline">
+  <button class="play" id="play" aria-label="Play"><svg viewBox="0 0 20 20" id="playicon"><path d="M5 3l12 7-12 7z"/></svg></button>
+  <svg id="tl" aria-label="Timeline, drag to change year"></svg>
+  <div class="tset">
+    <span class="seg">Speed <span class="opts" id="speed"><button data-v="5">5</button><button data-v="12">12</button><button data-v="25">25</button><button data-v="50">50</button></span> yr/s</span>
+    <span class="seg">Trail <span class="opts" id="trail"><button data-v="10">10</button><button data-v="25">25</button><button data-v="50">50</button><button data-v="100">100</button></span> yr</span>
+    <label><input type="checkbox" id="ghost" checked> Show closed schools</label>
+    <span class="keys"><span id="tlnote"></span> · Space plays, ← → step</span>
+  </div>
+</div>
+
+<aside>
+  <div class="tabs" role="tablist"><button id="tab-log" class="on" role="tab">Events<span class="count" id="logcount"></span></button><button id="tab-det" role="tab">School</button><button id="tab-ppl" role="tab">People</button><button id="tab-about" role="tab">About</button></div>
+  <div class="pane" id="pane-log">
+    <div class="toolbar">
+      <div class="presets" id="presets" role="group" aria-label="Event presets">
+        <button data-pre="all">All</button><button data-pre="found">Foundings</button><button data-pre="close">Closures</button><button data-pre="reorg">Reforms</button><button data-pre="move">Moves</button>
+      </div>
+      <div class="trow">
+        <span class="seg"><span class="opts" id="range"><button data-v="0" id="range-now">Up to 1300</button><button data-v="1">All years</button></span></span>
+        <button class="fbtn" id="fbtn" aria-expanded="false" aria-controls="filters">More filters <span class="n" id="fcount" hidden></span></button>
+      </div>
+    </div>
+    <div class="filters" id="filters" hidden>
+      <div class="fgroup"><div class="hd"><span class="eyebrow">Event type</span><button id="evall">Show all</button></div><div class="chips" id="evchips"></div></div>
+      <div class="fgroup"><div class="hd"><span class="eyebrow">Kind of school</span><button id="itall">Show all</button></div><div class="chips" id="itchips"></div></div>
+      <div class="frow2">
+        <label class="fld"><span class="eyebrow">Region today</span><select id="region"><option value="">All of Europe</option></select></label>
+        <label class="fld"><span class="eyebrow">Sources</span><select id="vstat"><option value="">Any</option><option value="src">Sourced</option><option value="fix">Corrected or disputed</option><option value="un">Not yet sourced</option></select></label>
+      </div>
+      <p class="fhint"><span class="dot" style="background:var(--ink)"></span> sourced <span class="dot hollow"></span> not yet sourced</p>
+    </div>
+    <div class="active" id="activef" hidden></div>
+    <div class="qnote" id="qnote" hidden></div>
+    <div class="log" id="log"></div>
+  </div>
+  <div class="pane" id="pane-ppl" hidden>
+    <div id="plistwrap" class="pane">
+      <div class="toolbar">
+        <div class="pfind"><input id="pq" type="search" placeholder="Find a person or field" aria-label="Find a person or field" autocomplete="off">
+          <select id="psort" aria-label="Sort people"><option value="born">By date</option><option value="name">By name</option><option value="links">Most connected</option></select></div>
+        <div class="trow">
+          <span class="seg"><span class="opts" id="pwhen"><button data-v="0">Everyone</button><button data-v="1" id="pwhen-now">Alive in 1300</button></span></span>
+          <button class="fbtn" id="pfbtn" aria-expanded="false" aria-controls="pfilters">Fields <span class="n" id="pfcount" hidden></span></button>
+        </div>
+        <div class="pfilters" id="pfilters" hidden><div class="chips" id="fgchips"></div></div>
+        <div class="ptogs">
+          <label><input type="checkbox" id="psourced" checked> Sourced routes only</label>
+          <label><input type="checkbox" id="plinked"> Has teachers or students</label>
+          <label><input type="checkbox" id="pmap"> Show on map</label>
+        </div>
+        <div class="pkey" id="pkey" hidden></div>
+      </div>
+      <div class="pcount" id="pcount"></div>
+      <div class="plist" id="plist"></div>
+    </div>
+    <div class="detail" id="pdetail" hidden></div>
+  </div>
+  <div class="pane" id="pane-about" hidden><div class="detail">
+    <span class="eyebrow">About</span>
+    <h2>How to read the atlas</h2>
+    <p>Each mark is a school of higher learning. Its shape gives the kind of school; its colour shows the most recent event there within the trail set under the timeline. Rings spread from a school when something happens. Arrows trace secessions of masters and students, relocations and mergers.</p>
+    <p>Before the 12th century there were no universities, so the early centuries show palace, cathedral and monastic schools in the Latin west and the imperial and patriarchal schools of Constantinople. Islamic and Jewish institutions are left out of this version.</p>
+    <h3 class="eyebrow">Dates</h3>
+    <p>Founding dates for the oldest universities are conventions: Bologna’s 1088, Paris around 1150, Oxford around 1096. Dates marked “c.” are approximate, and the notes on each school say where historians disagree.</p>
+    <h3 class="eyebrow">Status of the data</h3>
+    <p>This is a working draft compiled with AI assistance. Each record is being checked against reputable published sources (official institutional histories, national biographical dictionaries, the Stanford Encyclopedia of Philosophy, MacTutor and similar), and its citations are shown where found. The standard general works are Hastings Rashdall, <i>The Universities of Europe in the Middle Ages</i>, and Hilde de Ridder-Symoens and Walter Rüegg (eds.), <i>A History of the University in Europe</i>, vols. 1–3. Treat individual dates and residencies as leads.</p>
+    <h3 class="eyebrow">Controls</h3>
+    <p>Click a school to pause and open its history. Space plays or pauses; the arrow keys step a year, or a decade with Shift. Escape closes the selection. Scroll or pinch to zoom, drag to pan.</p>
+    <h3 class="eyebrow">People</h3>
+    <p>The People tab follows one person across Europe. Numbered stops trace birth, study, teaching posts, travels, exile and death in order; stops after the current year are faded, so pressing play walks the route. Teachers’ and students’ routes can be overlaid to show a lineage spreading from school to school.</p>
+    <h3 class="eyebrow">Citations</h3>
+    <p>Numbers in square brackets lead to the sources listed at the foot of each school or person. Events marked <span class="st corrected">corrected</span> had a date or detail changed to match the sources; <span class="st unverified">unverified</span> means no reputable source was found yet; <span class="st doubtful">disputed</span> means sources disagree.</p>
+    <div id="vstats"></div>
+    <p class="note" id="stats"></p>
+  </div></div>
+  <div class="pane" id="pane-det" hidden><div class="detail" id="detail"><div class="empty">Click a school on the map, or an entry in the event log, to see its history, its seats and the people who studied or taught there.</div></div></div>
+</aside>
+</div>
+
